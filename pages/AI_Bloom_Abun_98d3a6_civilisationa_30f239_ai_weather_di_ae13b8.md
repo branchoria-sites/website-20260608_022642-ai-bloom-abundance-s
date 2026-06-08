@@ -1,0 +1,931 @@
+---
+level: 3
+basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8
+parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239
+child_basenames:
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_ai_storm_ense_d5468a
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_index
+sibling_basenames:
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82
+- AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374
+tags:
+- ai-bloom-abundance-superintelligence-and-humanity
+- resilience
+- climate-twins
+keywords:
+- ai-bloom-abundance-superintelligence-and-humanity
+- resilience
+- climate-twins
+affiliate_category: ai-bloom-abundance-superintelligence-and-humanity
+show_ads: true
+description: AI-powered Earth system simulations could improve storm forecasts and emergency planning at unprecedented speed.
+hero_summary: AI-powered Earth system simulations could improve storm forecasts and emergency planning at unprecedented speed.
+layout: default
+permalink: /climate-twins/
+sidebar_expanded_urls:
+- /ai-bloom-abundance-superintelligence/
+- /resilience/
+nav_short_title: Climate Twins
+title: Could AI Weather Twins Make Climate Disasters Less Deadly?
+title_full: Could AI Weather Twins Make Climate Disasters Less Deadly? | Resilience
+display_title_short: Climate Twins
+display_title: Climate Twins
+heading_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
+page_heading_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
+source_count: 28
+infographic_count: 3
+planned_sections:
+- How Digital Twin Earth Models Work
+- Faster Forecasts for Storms and Floods
+- Limits of Climate Prediction and Local Resilience
+focal_unit_type: mechanism
+topic_lens: implementation
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Can AI Help Civilisation Avoid Catastrophe? | AI Bloom
+parent_permalink: /resilience/
+parent_nav_short_title: Resilience
+parent_heading_title: Can AI Help Civilisation Avoid Catastrophe?
+ancestor_links:
+- basename: AI_Bloom_Abun_98d3a6
+  title: AI Bloom
+  permalink: /ai-bloom-abundance-superintelligence/
+  short_title: AI Bloom
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239
+  title: Resilience | Could AI Help Humanity Truly Bloom?
+  permalink: /resilience/
+  short_title: Resilience
+  heading_title: Can AI Help Civilisation Avoid Catastrophe?
+breadcrumb_links:
+- basename: AI_Bloom_Abun_98d3a6
+  title: AI Bloom
+  permalink: /ai-bloom-abundance-superintelligence/
+  short_title: AI Bloom
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239
+  title: Resilience | Could AI Help Humanity Truly Bloom?
+  permalink: /resilience/
+  short_title: Resilience
+  heading_title: Can AI Help Civilisation Avoid Catastrophe?
+sibling_links:
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1
+  title: Anticipatory Gov | Resilience
+  permalink: /anticipatory-gov/
+  short_title: Anticipatory Gov
+  heading_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82
+  title: Conflict AI | Resilience
+  permalink: /conflict-ai/
+  short_title: Conflict AI
+  heading_title: When Conflict Forecasting Helps And When It Fails
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374
+  title: Pandemic AI | Resilience
+  permalink: /pandemic-ai/
+  short_title: Pandemic AI
+  heading_title: Can AI Really Warn US Before the Next Pandemic?
+child_links:
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25
+  title: Adaptation Twins | Climate Twins
+  permalink: /adaptation-twins/
+  short_title: Adaptation Twins
+  heading_title: Can Climate Twins Prevent Costly Infrastructure Mistakes?
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6
+  title: Destin E Floods | Climate Twins
+  permalink: /destin-e-floods/
+  short_title: Destin E Floods
+  heading_title: Can Europe Simulate Flood Disasters Before They Happen?
+- basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_ai_storm_ense_d5468a
+  title: Storm Ensembles | Climate Twins
+  permalink: /storm-ensembles/
+  short_title: Storm Ensembles
+  heading_title: Why AI Storm Forecasts Now Explore Hundreds of Futures
+up_link:
+  basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239
+  title: Resilience | Could AI Help Humanity Truly Bloom?
+  permalink: /resilience/
+  short_title: Resilience
+  heading_title: Can AI Help Civilisation Avoid Catastrophe?
+prev_link:
+  basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1
+  title: Anticipatory Gov | Resilience
+  permalink: /anticipatory-gov/
+  short_title: Anticipatory Gov
+  heading_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
+next_link:
+  basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82
+  title: Conflict AI | Resilience
+  permalink: /conflict-ai/
+  short_title: Conflict AI
+  heading_title: When Conflict Forecasting Helps And When It Fails
+date: '2026-06-08 01:27:43 '
+header:
+  og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1-social.jpg
+  preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1.webp
+image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1-social.jpg
+---
+
+## Introduction
+
+In the context of civilisational [resilience]({{ 'resilience/' | relative_url }}) against climate shocks, **AI‑enabled weather “digital twins”** are emerging as a powerful tool for anticipating, simulating and planning around extreme weather and climate‑related disasters. These systems go beyond traditional numerical weather prediction by coupling detailed simulations of the Earth with data assimilation, machine learning and high‑performance computing to create **interactive virtual replicas of the planet’s atmosphere, oceans and land‑surface processes**. They aim to improve forecasts of storms, floods, heatwaves and other hazards, helping governments, emergency planners and communities make better preparation and adaptation decisions **before** climate disasters strike. Key initiatives include European Union “Destination Earth” digital twins and advanced AI‑augmented platforms like Nvidia’s Earth‑2 models, which illustrate how digital twins could sharpen our vision of extreme weather and climate change impacts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">Digital Twins and Digital Twin Engine</span><span class="citation-popover-snippet">Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</span></span></span>
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1-dark.svg" | relative_url }}" alt="Climate Twins illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+## How Earth System Digital Twins Work
+
+A **digital twin** in this context is a constantly updated, high‑resolution **computational simulation of the Earth’s climate and weather systems**. It blends three core components:
+
+* **Observations from the physical Earth** — satellite data, ground sensors, balloon soundings and ocean buoys feed real‑time information into the twin.
+* **Physics‑based Earth system models** — traditional models that solve mathematical equations representing atmospheric and oceanic processes form the backbone of the simulation.
+* **AI and machine learning enhancements** — these accelerate data assimilation, fill data gaps, downscale coarse simulations to local resolution, and help emulate complex processes that are computationally costly in purely physics‑based models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">Digital Twins and Digital Twin Engine</span><span class="citation-popover-snippet">Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</span></span></span>
+
+By continuously blending observed data with these models, digital twins generate **forecasts and scenario simulations** that reflect evolving weather and climate conditions. The AI components — often trained on huge historical records — allow much faster simulation runs and the generation of scenario ensembles, enabling planners to explore a range of possible futures and stress‑test responses under different extreme conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950630125000092" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImplementing digital twin technology of the earth system in Destination Earth - ScienceDirectDecember 1, 2025...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qo78lSBYi-U" title="NVIDIA Earth-2: The Future of AI Weather Forecasting Is Open" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qo78lSBYi-U" target="_blank" rel="noopener noreferrer">NVIDIA Earth-2: The Future of AI Weather Forecasting Is Open</a></p><p class="youtube-embed-meta">Channel: NVIDIA &middot; Views: 133.3K &middot; Uploaded: January 2026 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qo78lSBYi-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qo78lSBYi-U">Open on YouTube</a></p></div></div></div>
+
+## Faster Forecasts for Storms and Floods
+
+Traditional weather forecasting relies on computationally expensive numerical weather prediction (NWP) models run on supercomputers, where higher resolution generally means slower turnaround. AI‑augmented digital twins are changing this dynamic:
+
+* **Speed and resolution:** Platforms like Nvidia’s **Earth‑2** use generative AI models such as CorrDiff and FourCastNet3 to accelerate weather simulations by orders of magnitude, producing high‑resolution forecasts far quicker than legacy systems and downscaling global predictions to detailed local insights for storms, rainfall and wind fields. This rapid turnaround is crucial for disaster planning and [early warnings]({{ 'early-warning/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/nvidias-next-gen-full-earth-2-digital-twin-ai-models-will-predict-and-forecast-the-next-big-storm-faster-and-more-accurately" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The Earth-2 model suite includes CorrDiff, FourCastNet3, Nowcasting, Medium Range, Global Data Assimilation, and PhysicsNeMo, each target...</span></span></span>
+* **Probabilistic ensembles:** AI models can generate large ensembles of possible futures at low computational cost, improving the **probabilistic forecasting** of extreme events like tropical cyclones and atmospheric rivers — events that often dominate climate‑related damage but are hard to capture accurately with traditional methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2202.11214" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivFourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural OperatorsFebruary 22, 2022...</span><span class="citation-popover-meta">Published: February 22, 2022</span></span></span>
+* **Regional detail:** The EU’s **DestinE Weather‑Induced Extremes Digital Twin** combines global simulations with an on‑demand regional component, capable of zooming in on specific events (like floods over a river basin) at sub‑kilometre scales, helping planners assess impacts minutes to days ahead with far more spatial detail than before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">Digital Twins and Digital Twin Engine</span><span class="citation-popover-snippet">Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</span></span></span>
+
+These improvements mean that instead of waiting for slow numerical models to crunch data, emergency planners could have **up‑to‑the‑minute digital projections** of evolving storm paths, potential inundation zones, or heatwave propagation — enabling proactive evacuation, resource allocation and infrastructure reinforcement.
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-2-dark.svg" | relative_url }}" alt="Climate Twins illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Digital Twins in Climate Adaptation and Scenario Testing
+
+Beyond near‑term forecasts, digital twins also serve **longer‑term planning and adaptation needs**:
+
+* **Climate adaptation scenarios:** The **Climate Change Adaptation Digital Twin** under Destination Earth provides multi‑decadal simulations of climate evolution under different greenhouse gas pathways, offering unified data on temperature, precipitation shifts, ice cover and other variables at high spatial resolution. These scenario tools help policymakers test adaptation strategies such as coastal defence planning or agricultural water management in a virtual lab before committing to costly real‑world measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/digital-twins" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-title">Destination Earth The Digital Twins | Destination Earth</span><span class="citation-popover-snippet">Destination Earth The Digital Twins | Destination Earth</span></span></span>
+* **“What‑if” analysis:** By adjusting inputs like emissions, land‑use changes or urban heat‑island effects within the twin, users can explore **hypothetical outcomes** to inform resilient infrastructure design, insurance risk models, and long‑range urban planning.
+
+Unlike short‑range forecasts that focus on days ahead, these climate twins help societies think in years and decades — crucial for building **climate resilience into policy and long‑term investment decisions**.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gTiqV3akBIE" title="Visualizing a Twin Earth in NVIDIA Omniverse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gTiqV3akBIE" target="_blank" rel="noopener noreferrer">Visualizing a Twin Earth in NVIDIA Omniverse</a></p><p class="youtube-embed-meta">Channel: NVIDIA Developer &middot; Views: 32.6K &middot; Uploaded: April 2021 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gTiqV3akBIE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gTiqV3akBIE">Open on YouTube</a></p></div></div></div>
+
+## Limits and Uncertainties of Digital Twin Prediction
+
+While digital twins represent a significant evolution in simulation capability, **limitations remain**:
+
+* **Chaotic nature of weather:** The atmosphere is inherently chaotic; tiny measurement errors or missing data can still translate into diverging forecasts beyond certain lead times. AI models cannot eliminate this fundamental unpredictability, though they can manage it much better with probabilistic approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.siam.org/publications/siam-news/articles/digital-twins-of-the-earth-system-via-hybrid-physics-ai-models/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siam.org">[SIAM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siam.org</span><span class="citation-popover-title">Digital Twins of the Earth System via Hybrid Physics-AI Models | SIAM</span><span class="citation-popover-snippet">SIAMDigital Twins of the Earth System via Hybrid Physics-AI Models | SIAM...</span></span></span>
+* **Data quality and coverage:** Digital twins depend on the quantity and quality of observational data. In regions with sparse monitoring, the twin’s outputs may be less reliable, underscoring that better **global observational networks** are still essential companions to AI forecasting.
+* **Model biases and uncertainty quantification:** AI components trained on historical data can carry biases, and quantifying uncertainty remains a key research frontier. Decision‑makers must interpret outputs with clear estimates of confidence and risk.
+
+These constraints mean that digital twins are powerful aids to foresight and planning — but not oracles. Human expertise, [governance]({{ 'power/' | relative_url }}) frameworks and investment in observation infrastructure remain integral to turning forecasts into protective action.
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-3-dark.svg" | relative_url }}" alt="Climate Twins illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Implications for Resilience and Planning
+
+AI weather digital twins could **reshape how societies anticipate and manage climate disasters**:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* **Earlier warnings:** Faster, higher‑resolution forecasts widen the window for preparation, giving authorities critical time to evacuate at‑risk populations and position emergency resources.
+* **Better resource use:** Scenario projections help allocate resources optimally — for example, reinforcing flood defences or retrofitting infrastructure ahead of projected stress.
+* **Policy guidance:** Long‑term climate simulations inform national adaptation plans, national adaptation plans, and international climate negotiations with **quantitative evidence** of impacts and trade‑offs.
+
+</div>
+
+By combining real‑time forecasting with long‑term climate scenarios, digital twins help link **immediate disaster response with strategic resilience planning**, a synthesis central to civilisational resilience in an era of accelerating climate change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">Digital Twins and Digital Twin Engine</span><span class="citation-popover-snippet">Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9vEaImsSCrw" title="NVIDIA CorrDiff: Resolving Extreme Weather Events With Generative AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9vEaImsSCrw" target="_blank" rel="noopener noreferrer">NVIDIA CorrDiff: Resolving Extreme Weather Events With Generative AI</a></p><p class="youtube-embed-meta">Channel: NVIDIA &middot; Views: 44.7K &middot; Uploaded: March 2024 &middot; Length: 1 minute 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9vEaImsSCrw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9vEaImsSCrw">Open on YouTube</a></p></div></div></div>
+
+## The Path Ahead
+
+Digital twin initiatives like **Destination Earth** and industry systems such as **Earth‑2** illustrate the rapid evolution of Earth system modelling, powered by AI and modern computing. As these twins mature and integrate broader data streams — from social vulnerability indicators to economic and infrastructure datasets — they may underpin **more equitable and effective disaster planning** around the world. Widespread open access and international collaboration will be key to ensuring that the benefits of these advanced forecasting tools are shared globally, particularly in regions most threatened by climate extremes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">Digital Twins and Digital Twin Engine</span><span class="citation-popover-snippet">Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</span></span></span>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Could AI Weather Twins Make Climate Disasters Less Deadly?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
+        
+        <p class="fr-book-desc">Relevant to prediction, uncertainty and weather modelling.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Climate+Book+by+Greta+Thunberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Climate Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f7RjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Climate Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Climate+Book+by+Greta+Thunberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Climate Book">The Climate Book</a>
+        </h4>
+        <p class="fr-book-author">By Greta Thunberg</p>
+        
+        <p class="fr-book-desc">Provides context for climate risks and adaptation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Climate+Book+by+Greta+Thunberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
+        </h4>
+        <p class="fr-book-author">By Bill Gates</p>
+        
+        <p class="fr-book-desc">Addresses mitigation and resilience to climate impacts.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
+        </h4>
+        <p class="fr-book-author">By Toby Ord</p>
+        
+        <p class="fr-book-desc">Frames climate shocks within broader civilisational resilience.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Climate+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Climate Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Earth Black And White Planet Symbol Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a0d48fbfff3fa0f73bd6.jpg' | relative_url }}" alt="Listing image for Earth Black And White Planet Symbol Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Earth Black And White Planet Symbol Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for earth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: earth poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print"><img src="{{ '/assets/images/marketplace-covers/12dad9ae097197f16187.jpg' | relative_url }}" alt="Listing image for Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for earth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: earth poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flat Earth Map, Gleason&#x27;s Map Of The World - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e7482e39bec21f989ac.jpg' | relative_url }}" alt="Listing image for Flat Earth Map, Gleason&#x27;s Map Of The World - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flat Earth Map, Gleason&#x27;s Map Of The World - Canvas - Framed or Poster Available</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for earth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: earth poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Vintage Movie Film Poster-MAN WHO FELL TO EARTH-A3,A2,A1,A0"><img src="{{ '/assets/images/marketplace-covers/f6ec56b022b225119b3f.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print-Vintage Movie Film Poster-MAN WHO FELL TO EARTH-A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Vintage Movie Film Poster-MAN WHO FELL TO EARTH-A3,A2,A1,A0</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for earth poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: earth poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=earth+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="earth poster -book -books" data-ebay-reference="climate-twins-could-ai-weather-twins-make-climate-disasters-less-deadly-ai-bloom-abundance-super-earth-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: destine.ecmwf.int  
+   Title: Destination Earth The Digital Twins | Destination Earth  
+   Link: [https://destine.ecmwf.int/digital-twins](https://destine.ecmwf.int/digital-twins)  
+
+2. <a id="endnote-2"></a>
+   Source: destine.ecmwf.int  
+   Title: Destination Earth Destin E | Destination Earth  
+   Link: [https://destine.ecmwf.int/](https://destine.ecmwf.int/)  
+
+3. <a id="endnote-3"></a>
+   Source: siam.org  
+   Title: Digital Twins of the Earth System via Hybrid Physics-AI Models | SIAM  
+   Link: [https://www.siam.org/publications/siam-news/articles/digital-twins-of-the-earth-system-via-hybrid-physics-ai-models/](https://www.siam.org/publications/siam-news/articles/digital-twins-of-the-earth-system-via-hybrid-physics-ai-models/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIAMDigital Twins of the Earth System via Hybrid Physics-AI Models | SIAM...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S2950630125000092](https://www.sciencedirect.com/science/article/pii/S2950630125000092)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImplementing digital twin technology of the earth system in Destination Earth - ScienceDirectDecember 1, 2025...</p></details>
+   Published: December 1, 2025  
+
+5. <a id="endnote-5"></a>
+   Source: techradar.com  
+   Link: [https://www.techradar.com/pro/nvidias-next-gen-full-earth-2-digital-twin-ai-models-will-predict-and-forecast-the-next-big-storm-faster-and-more-accurately](https://www.techradar.com/pro/nvidias-next-gen-full-earth-2-digital-twin-ai-models-will-predict-and-forecast-the-next-big-storm-faster-and-more-accurately)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Earth-2 model suite includes CorrDiff, FourCastNet3, Nowcasting, Medium Range, Global Data Assimilation, and PhysicsNeMo, each target...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2202.11214](https://arxiv.org/abs/2202.11214)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural OperatorsFebruary 22, 2022...</p></details>
+   Published: February 22, 2022  
+
+7. <a id="endnote-7"></a>
+   Source: destine.ecmwf.int  
+   Title: Destination Earth Weather-Induced Extremes Digital Twin | Destination Earth  
+   Link: [https://destine.ecmwf.int/weather-induced-extremes-digital-twin/](https://destine.ecmwf.int/weather-induced-extremes-digital-twin/)  
+
+8. <a id="endnote-8"></a>
+   Source: ecmwf.int  
+   Title: climate change adaptation digital twin climate adaptation dt  
+   Link: [https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt](https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECMWFClimate Change Adaptation Digital Twin (Climate Adaptation DT) | ECMWFMay 8, 2026...</p></details>
+   Published: May 8, 2026  
+
+9. <a id="endnote-9"></a>
+   Source: nature.com  
+   Link: [https://www.nature.com/articles/s41612-025-01125-6](https://www.nature.com/articles/s41612-025-01125-6)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>c ScienceJune 23, 2025 — Community Research Earth Digital [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) Twin: a scalable framework for AI-driven Earth System Modeling Dow...</p></details>
+   Published: June 23, 2025  
+
+10. <a id="endnote-10"></a>
+   Source: ecmwf.int  
+   Title: destination earths digital twins and digital twin engine  
+   Link: [https://www.ecmwf.int/en/newsletter/180/earth-system-science/destination-earths-digital-twins-and-digital-twin-engine](https://www.ecmwf.int/en/newsletter/180/earth-system-science/destination-earths-digital-twins-and-digital-twin-engine)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth’s digital twins and Digital Twin Engine – state of play | ECMWFJuly 17, 2024 — BUILDING DESTINE’S KEY COMPONENTS AND BR...</p></details>
+   Published: July 17, 2024  
+
+11. <a id="endnote-11"></a>
+   Source: ecmwf.int  
+   Title: destination earth digital twin weather induced and geophysical extremes  
+   Link: [https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes](https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth Digital Twin for Weather-induced and Geophysical Extremes | ECMWFApril 4, 2024 — DESTINATION EARTH DIGITAL TWIN FOR WEA...</p></details>
+   Published: April 4, 2024  
+
+12. <a id="endnote-12"></a>
+   Source: destine.ecmwf.int  
+   Title: int A digital twin to sharpen our vision of extreme weather | Destination Earth  
+   Link: [https://destine.ecmwf.int/news/a-digital-twin-to-sharpen-our-vision-of-extreme-weather/](https://destine.ecmwf.int/news/a-digital-twin-to-sharpen-our-vision-of-extreme-weather/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>digital twin to sharpen our vision of extreme weather | Destination EarthMarch 4, 2024 — A DIGITAL TWIN TO SHARPEN OUR VISION OF EXTREME...</p></details>
+   Published: March 4, 2024  
+
+13. <a id="endnote-13"></a>
+   Source: ecmwf.int  
+   Title: daily forecast prototype global extremes digital twin destination earth  
+   Link: [https://www.ecmwf.int/en/newsletter/178/news/daily-forecast-prototype-global-extremes-digital-twin-destination-earth](https://www.ecmwf.int/en/newsletter/178/news/daily-forecast-prototype-global-extremes-digital-twin-destination-earth)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A daily forecast with the prototype global Extremes Digital Twin of Destination Earth | ECMWFJanuary 17, 2024 — Image: ECMWF Newsletter #...</p></details>
+   Published: January 17, 2024  
+
+14. <a id="endnote-14"></a>
+   Source: ecmwf.int  
+   Title: As extreme weather beco  
+   Link: [https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth](https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth | ECMWFJune 14, 2022 — DESTINATION EARTH Destination Earth (DestinE) is an ambitious initiative of the European Union t...</p></details>
+   Published: June 14, 2022  
+
+15. <a id="endnote-15"></a>
+   Source: destine.ecmwf.int  
+   Link: [https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/](https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Adaptation Digital Twin | Destination EarthImage: Climate Change Adaptation Digital Twin CLIMATE CHANGE ADAPTATION DIGITAL TWIN WH...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: destination-earth.eu  
+   Title: Digital Twins and Digital Twin Engine  
+   Link: [https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/](https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthDIGITAL TWINS AND DIGITAL TWIN ENGINE The first two high-priority digital twins (DT) are the Weather-Induced Extremes Di...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Title: Visualizing a Twin Earth in NVIDIA Omniverse  
+   Link: [https://www.youtube.com/watch?v=gTiqV3akBIE](https://www.youtube.com/watch?v=gTiqV3akBIE)  
+
+18. <a id="endnote-18"></a>
+   Source: esto.nasa.gov  
+   Title: earth system digital twin  
+   Link: [https://esto.nasa.gov/earth-system-digital-twin/](https://esto.nasa.gov/earth-system-digital-twin/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>System Digital Twins - NASA Earth Science and Technology OfficeEARTH SYSTEM DIGITAL TWIN TOWARDS UNDERSTANDING THE EVOLUTION AND INTERACT...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: axi.lims.ac.uk  
+   Title: lims.ac.uk Four Cast Net: A Global Data-driven High-r  
+   Link: [https://axi.lims.ac.uk/paper/2202.11214](https://axi.lims.ac.uk/paper/2202.11214)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>lims.ac.ukFourCastNet: A Global Data-driven High-r...February 22, 2022 — FOURCASTNET: A GLOBAL DATA-DRIVEN HIGH-RESOLUTION WEATHER MODEL...</p></details>
+   Published: February 22, 2022  
+
+20. <a id="endnote-20"></a>
+   Source: esa.int  
+   Title: WHAT IS DESTINATION E  
+   Link: [https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth](https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA - Destination EarthDESTINATION EARTH 22982 views 36 likes Learn more about Destination Earth, an initiative of the European Union tha...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: How to Get Started with NVIDIA Earth-2 in Less Than 5 Minutes  
+   Link: [https://www.youtube.com/watch?v=Sog6aCapZeA](https://www.youtube.com/watch?v=Sog6aCapZeA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 NVIDIA CorrDiff: Resolving Extreme Weather Events With Generative AI...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Title: NVIDIA Earth-2: The Future of AI Weather Forecasting Is Open  
+   Link: [https://www.youtube.com/watch?v=qo78lSBYi-U](https://www.youtube.com/watch?v=qo78lSBYi-U)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 How to Get Started with NVIDIA Earth-2 in Less Than 5 Minutes...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Title: NVIDIA Corr Diff: Resolving Extreme Weather Events With Generative AI  
+   Link: [https://www.youtube.com/watch?v=9vEaImsSCrw](https://www.youtube.com/watch?v=9vEaImsSCrw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Earth-2: NVIDIA&#x27;s Planet Digital Twin Launched...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: authors.library.caltech.edu  
+   Title: xcr0w grc83  
+   Link: [https://authors.library.caltech.edu/records/xcr0w-grc83](https://authors.library.caltech.edu/records/xcr0w-grc83)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>caltech.eduFourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural OperatorsFebruary 22, 2022 — Pub...</p></details>
+   Published: February 22, 2022  
+
+25. <a id="endnote-25"></a>
+   Source: sciencestack.ai  
+   Link: [https://www.sciencestack.ai/paper/2202.11214](https://www.sciencestack.ai/paper/2202.11214)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators (arXiv:2202.11214v1) - ScienceSta...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: electronicdesign.com  
+   Title: Cabe Atwel  
+   Link: [https://www.electronicdesign.com/technologies/embedded/machine-learning/article/55134564/electronic-design-how-earth-2-uses-ai-to-make-quick-weather-forecasts](https://www.electronicdesign.com/technologies/embedded/machine-learning/article/55134564/electronic-design-how-earth-2-uses-ai-to-make-quick-weather-forecasts)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Earth-2 Uses AI to Make Quick Weather Forecasts | Electronic DesignSeptember 2, 2024 — HOW EARTH-2 USES AI TO MAKE QUICK WEATHER FORE...</p></details>
+   Published: September 2, 2024  
+
+27. <a id="endnote-27"></a>
+   Source: huggingface.co  
+   Title: Paper page  
+   Link: [https://huggingface.co/papers/2202.11214](https://huggingface.co/papers/2202.11214)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural OperatorsFebruary 22, 2022 — arxiv:2202.112...</p></details>
+   Published: February 22, 2022  
+
+28. <a id="endnote-28"></a>
+   Source: youtube.com  
+   Title: Earth-2: NVIDIA's Planet Digital Twin Launched  
+   Link: [https://www.youtube.com/watch?v=XzFMW1Pdrkc](https://www.youtube.com/watch?v=XzFMW1Pdrkc)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Visualizing a Twin Earth in NVIDIA Omniverse...</p></details>

@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-06-08T01:22:42.894552Z",
+  "summary": {
+    "total_pages_with_permalink": 222,
+    "visible_pages": 171,
+    "hidden_pages": 51,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_ageing_clo_957636",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_alphafold_lim_d2f652",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_grid_connecti_1da48c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_civilisationa_30f239",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_governance_po_43cd85",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_long_future_s_5d53df",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_robotics_dang_c42284",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf_agentic_ai_st_9f08aa",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf_corrigibility_fe4375",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6_superintellig_979bdf_sleeper_agent_e398ea",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_superintellig_979bdf",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_eedi_trial_li_c932e5",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_guided_learnl_bdb7cf",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_human_oversig_3c08c4",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09",
+        "to": "AI_Bloom_Abun_98d3a6_ai_education_8e0228",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea",
+        "type": "parent"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab",
+        "type": "sibling"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_ai_live_exper_70c07e",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_ai_workplace_67542c",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_index",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd",
+        "type": "child"
+      },
+      {
+        "from": "AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480",
+        "to": "AI_Bloom_Abun_98d3a6",
+        "type": "ancestor"
+      }
+    ]
+  }
+}

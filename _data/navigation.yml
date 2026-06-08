@@ -1,0 +1,565 @@
+sidebar_generated:
+- title: AI Bloom
+  title_full: Could AI Help Humanity Truly Bloom?
+  url: /ai-bloom-abundance-superintelligence/
+  children:
+  - title: Control
+    title_full: Can Humanity Stay in Control? | AI Bloom
+    url: /control/
+    children:
+    - title: Agentic Risks
+      title_full: Could Goal Driven AI Learn to Manipulate Humans? | Control
+      url: /agentic-risks/
+      children:
+      - title: Anthropic Misalignment
+        title_full: How Anthropic Tested AI Goal Conflicts and Deception | Agentic Risks
+        url: /anthropic-misalignment/
+      - title: Claude 3 Alignment
+        title_full: When AI Appears Compliant but Keeps Hidden Goals | Agentic Risks
+        url: /claude-3-alignment/
+      - title: Evaluation Awareness
+        title_full: Why AI Acts Differently When Being Watched | Agentic Risks
+        url: /evaluation-awareness/
+    - title: Safety Frameworks
+      title_full: How Labs Decide When AI Becomes Too Risky | Control
+      url: /safety-frameworks/
+      children:
+      - title: Autonomy gates
+        title_full: When does AI autonomy become hard to control? | Safety Frameworks
+        url: /autonomy-gates/
+      - title: Deep Mind CCLs
+        title_full: Can warning signs catch dangerous AI early? | Safety Frameworks
+        url: /deep-mind-ccls/
+      - title: Lab pressure
+        title_full: Will voluntary AI safety rules survive competition? | Safety Frameworks
+        url: /lab-pressure/
+    - title: Shutdown Risk
+      title_full: Why Turning Off Advanced AI May Not Work | Control
+      url: /shutdown-risk/
+      children:
+      - title: Beyond buttons
+        title_full: Why a kill switch is not enough | Shutdown Risk
+        url: /beyond-buttons/
+      - title: Embedded agents
+        title_full: When the off switch is inside the world | Shutdown Risk
+        url: /embedded-agents/
+      - title: Shutdown incentives
+        title_full: Why would an AI avoid being switched off? | Shutdown Risk
+        url: /shutdown-incentives/
+    - title: Sleeper Agents
+      title_full: Can AI Hide Dangerous Goals Until Later? | Control
+      url: /sleeper-agents/
+      children:
+      - title: Hidden Triggers
+        title_full: How Hidden Triggers Activate Unsafe AI Behaviours | Sleeper Agents
+        url: /hidden-triggers/
+      - title: Semantic Drift
+        title_full: Using Semantic Drift to Expose Dormant AI Strategies | Sleeper Agents
+        url: /semantic-drift/
+      - title: Training Limits
+        title_full: Why Safety Training Can Miss Deceptive AI Behaviour | Sleeper Agents
+        url: /training-limits/
+  - title: Discovery
+    title_full: Could AI Make Science Move Faster? | AI Bloom
+    url: /discovery/
+    children:
+    - title: Closed loops
+      title_full: The missing loop in AI science | Discovery
+      url: /closed-loops/
+      children:
+      - title: A Lab
+        title_full: Can One Autonomous Lab Compress Years of Discovery? | Closed loops
+        url: /a-lab/
+      - title: Cloud Labs
+        title_full: Who Gets Access to Automated Science Infrastructure? | Closed loops
+        url: /cloud-labs/
+      - title: Messy Labs
+        title_full: Why Real Science Still Breaks Automated Labs | Closed loops
+        url: /messy-labs/
+    - title: GNo ME materials
+      title_full: Can AI find the materials abundance needs? | Discovery
+      url: /gno-me-materials/
+      children:
+      - title: Robot labs
+        title_full: Can robot labs catch up with AI? | GNo ME materials
+        url: /robot-labs-ab8402/
+      - title: Stable vs useful
+        title_full: Why stable materials are not enough | GNo ME materials
+        url: /stable-vs-useful/
+      - title: Validation
+        title_full: What the first tests really prove | GNo ME materials
+        url: /validation/
+    - title: Inverse design
+      title_full: Can AI design materials backwards? | Discovery
+      url: /inverse-design/
+      children:
+      - title: Lab Test
+        title_full: Can AI materials make it out of the lab? | Inverse design
+        url: /lab-test/
+      - title: Risky Elements
+        title_full: Can AI design around scarce elements? | Inverse design
+        url: /risky-elements/
+      - title: Screening Shift
+        title_full: Why inverse design changes materials discovery | Inverse design
+        url: /screening-shift/
+    - title: Robot labs
+      title_full: When robot labs meet reality | Discovery
+      url: /robot-labs/
+      children:
+      - title: A Lab dispute
+        title_full: Did A Lab really discover new materials? | Robot labs
+        url: /a-lab-dispute/
+      - title: Closed loop
+        title_full: How robot labs learn what to test next | Robot labs
+        url: /closed-loop/
+      - title: Proof test
+        title_full: When faster experiments still need proof | Robot labs
+        url: /proof-test/
+  - title: Education
+    title_full: Can Everyone Have a World Class Tutor? | AI Bloom
+    url: /education/
+    children:
+    - title: False Mastery
+      title_full: Does Chat GPT help coders learn or coast? | Education
+      url: /false-mastery/
+      children:
+      - title: Debugging
+        title_full: When AI debugging helps too much | False Mastery
+        url: /debugging/
+      - title: Guardrails
+        title_full: Can guardrails stop AI answer copying? | False Mastery
+        url: /guardrails/
+      - title: Working code
+        title_full: Why working code can fool learners | False Mastery
+        url: /working-code/
+    - title: Learn LM Maths
+      title_full: Can supervised AI tutor maths safely? | Education
+      url: /learn-lm-maths/
+      children:
+      - title: Guided tutoring
+        title_full: Why guided AI tutoring helped maths stick | Learn LM Maths
+        url: /guided-tutoring/
+      - title: Human oversight
+        title_full: Why the AI tutor still needed humans | Learn LM Maths
+        url: /human-oversight/
+      - title: Trial limits
+        title_full: How strong is the Learn LM evidence? | Learn LM Maths
+        url: /trial-limits/
+    - title: Tutor Co Pilot
+      title_full: Can AI make human tutors better? | Education
+      url: /tutor-co-pilot/
+      children:
+      - title: Human Role
+        title_full: What human tutors still do better | Tutor Co Pilot
+        url: /human-role/
+      - title: Live Prompts
+        title_full: How AI nudges changed live tutoring | Tutor Co Pilot
+        url: /live-prompts/
+      - title: Weaker Tutors
+        title_full: Why weaker tutors gained most from AI help | Tutor Co Pilot
+        url: /weaker-tutors/
+    - title: Tutor Guardrails
+      title_full: When should an AI tutor refuse the answer? | Education
+      url: /tutor-guardrails/
+      children:
+      - title: Answer refusal
+        title_full: When should an AI tutor say no? | Tutor Guardrails
+        url: /answer-refusal/
+      - title: Layered hints
+        title_full: How much help is too much? | Tutor Guardrails
+        url: /layered-hints/
+      - title: Transfer tests
+        title_full: Can students still solve it alone? | Tutor Guardrails
+        url: /transfer-tests/
+  - title: Energy
+    title_full: What Still Stays Scarce in AI Abundance? | AI Bloom
+    url: /energy/
+    children:
+    - title: Grid Delays
+      title_full: The grid bottleneck behind AI abundance | Energy
+      url: /grid-delays/
+      children:
+      - title: Grid queues
+        title_full: Why AI campuses get stuck waiting for power | Grid Delays
+        url: /grid-queues/
+      - title: On site power
+        title_full: Should AI bring its own electricity supply? | Grid Delays
+        url: /on-site-power/
+      - title: Transformers
+        title_full: The giant hardware bottleneck behind AI power | Grid Delays
+        url: /transformers/
+    - title: Ireland Case
+      title_full: When data centres strain a small grid | Energy
+      url: /ireland-case/
+      children:
+      - title: Grid Rules
+        title_full: Can backup power make data centres cleaner? | Ireland Case
+        url: /grid-rules/
+      - title: Legal Fight
+        title_full: Could data centre rules break climate law? | Ireland Case
+        url: /legal-fight/
+      - title: Power Costs
+        title_full: Who pays for Ireland's compute boom? | Ireland Case
+        url: /power-costs/
+    - title: Nuclear Power
+      title_full: Can nuclear power feed the AI boom? | Energy
+      url: /nuclear-power/
+      children:
+      - title: Hybrid Energy Strategies
+        title_full: How Tech Companies Combine Nuclear and Renewables for AI | Nuclear Power
+        url: /hybrid-energy-strategies/
+      - title: Meta Nuclear Deal
+        title_full: How Meta Secures 1 GW of Nuclear Power for AI | Nuclear Power
+        url: /meta-nuclear-deal/
+      - title: SMR Deployment Limits
+        title_full: Why Small Modular Reactors Aren't Yet Ready for AI | Nuclear Power
+        url: /smr-deployment-limits/
+    - title: Power Demand
+      title_full: Can AI grow without dirty power? | Energy
+      url: /power-demand/
+      children:
+      - title: Fossil fallback
+        title_full: Will AI revive old fossil power plants? | Power Demand
+        url: /fossil-fallback/
+      - title: Grid costs
+        title_full: Should households pay for AI's grid upgrades? | Power Demand
+        url: /grid-costs/
+      - title: Real PPAs
+        title_full: Are AI data centre renewables real enough? | Power Demand
+        url: /real-ppas/
+  - title: Intelligence
+    title_full: What If Expert Help Became Cheap? | AI Bloom
+    url: /intelligence/
+    children:
+    - title: AI Tutors
+      title_full: Can AI Make Personal Tutoring Common? | Intelligence
+      url: /ai-tutors/
+      children:
+      - title: AI Dependence
+        title_full: Do AI Tutors Build Understanding or Just Assisted Performance? | AI Tutors
+        url: /ai-dependence/
+      - title: Guided Learning
+        title_full: Why Some AI Tutors Teach Better Than Chatbots | AI Tutors
+        url: /guided-learning/
+      - title: Nigeria Trial
+        title_full: Could Cheap AI Tutoring Expand Learning in Poorer Regions? | AI Tutors
+        url: /nigeria-trial/
+    - title: Broad Access
+      title_full: Who Gets Access to Abundant Intelligence? | Intelligence
+      url: /broad-access/
+      children:
+      - title: AI divide
+        title_full: Why access alone will not close the AI divide | Broad Access
+        url: /ai-divide/
+      - title: Compute control
+        title_full: Who gets to own abundant intelligence? | Broad Access
+        url: /compute-control/
+      - title: Public AI
+        title_full: Should AI become a public service? | Broad Access
+        url: /public-ai/
+    - title: Research Agents
+      title_full: Will AI Speed Up Discovery? | Intelligence
+      url: /research-agents/
+      children:
+      - title: Alpha Fold
+        title_full: What Alpha Fold really changed in science | Research Agents
+        url: /alpha-fold/
+      - title: Digital labs
+        title_full: Why AI scientists start in software | Research Agents
+        url: /digital-labs/
+      - title: Verification
+        title_full: Can AI science check its own work? | Research Agents
+        url: /verification/
+    - title: Skill Gaps
+      title_full: Can AI Help Beginners Catch Up? | Intelligence
+      url: /skill-gaps/
+      children:
+      - title: Dependence risk
+        title_full: Does AI help workers learn or lean? | Skill Gaps
+        url: /dependence-risk/
+      - title: Live coaching
+        title_full: Can AI spread expert judgement in real time? | Skill Gaps
+        url: /live-coaching/
+      - title: Novice gains
+        title_full: Why beginners may gain most from AI help | Skill Gaps
+        url: /novice-gains/
+  - title: Long Future
+    title_full: How Big Could Humanity's Future Become? | AI Bloom
+    url: /long-future/
+    children:
+    - title: Civilisation backup
+      title_full: Can space settlements really back up humanity? | Long Future
+      url: /civilisation-backup/
+      children:
+      - title: Economic Sustainability
+        title_full: Can Space Colonies Sustain Themselves Without Earth? | Civilisation backup
+        url: /economic-sustainability/
+      - title: Population Viability
+        title_full: How Many People Are Needed for a Sustainable Space Colony? | Civilisation backup
+        url: /population-viability/
+      - title: Settlement Technology
+        title_full: Can Off Earth Settlements Truly Operate Independently? | Civilisation backup
+        url: /settlement-technology/
+    - title: Life support
+      title_full: Who keeps a closed space habitat alive? | Long Future
+      url: /life-support/
+      children:
+      - title: Failure Warnings
+        title_full: Can AI Catch Life Support Failure Early? | Life support
+        url: /failure-warnings/
+      - title: Living Loops
+        title_full: Can AI Keep a Tiny Ecosystem Alive? | Life support
+        url: /living-loops/
+      - title: Past Lessons
+        title_full: What Closed Ecosystem Experiments Got Wrong | Life support
+        url: /past-lessons/
+    - title: Moon and Mars
+      title_full: Are Moon and Mars bases the first step? | Long Future
+      url: /moon-and-mars/
+      children:
+      - title: Crew Resilience
+        title_full: Building Psychological Strength and AI Collaboration Off Earth | Moon and Mars
+        url: /crew-resilience/
+      - title: Lunar Life Support
+        title_full: How Autonomous Systems Sustain Lunar Life Support | Moon and Mars
+        url: /lunar-life-support/
+      - title: Mars Water Systems
+        title_full: Mining and Using Water Ice on Mars for Survival | Moon and Mars
+        url: /mars-water-systems/
+    - title: Who benefits
+      title_full: Who gets to own the space future? | Long Future
+      url: /who-benefits/
+      children:
+      - title: Artemis Accords
+        title_full: How the Artemis Accords Shape Space Resource Control | Who benefits
+        url: /artemis-accords/
+      - title: Property Rights
+        title_full: Who Can Legally Own Land and Resources in Space? | Who benefits
+        url: /property-rights/
+      - title: Settlement Access
+        title_full: Who Gets to Live and Work in Early Space Colonies? | Who benefits
+        url: /settlement-access/
+  - title: Longevity
+    title_full: Can AI Help US Live Healthier Longer? | AI Bloom
+    url: /longevity/
+    children:
+    - title: Access gap
+      title_full: Will AI longevity care reach everyone? | Longevity
+      url: /access-gap/
+      children:
+      - title: Data Bias
+        title_full: Who gets missed by medical AI? | Access gap
+        url: /data-bias/
+      - title: Public Systems
+        title_full: Can public healthcare make AI care fair? | Access gap
+        url: /public-systems/
+      - title: Rich First
+        title_full: Will AI prevention become private medicine? | Access gap
+        url: /rich-first/
+    - title: Ageing clocks
+      title_full: Can AI spot ageing before illness starts? | Longevity
+      url: /ageing-clocks/
+      children:
+      - title: Clinical meaning
+        title_full: Do ageing clocks measure something medicine can use? | Ageing clocks
+        url: /clinical-meaning/
+      - title: Dementia signals
+        title_full: The promise and limits of dementia warning clocks | Ageing clocks
+        url: /dementia-signals/
+      - title: Early warning
+        title_full: Can ageing clocks warn early enough? | Ageing clocks
+        url: /early-warning/
+    - title: Alpha Fold limits
+      title_full: Protein prediction is powerful, not magic | Longevity
+      url: /alpha-fold-limits/
+      children:
+      - title: Disorder
+        title_full: The proteins that do not hold still | Alpha Fold limits
+        url: /disorder/
+      - title: Drug Reality
+        title_full: Why predicted binding is not a medicine | Alpha Fold limits
+        url: /drug-reality/
+      - title: Protein Motion
+        title_full: When a protein picture misses the dance | Alpha Fold limits
+        url: /protein-motion/
+    - title: Drug trials
+      title_full: Can AI drugs survive human trials? | Longevity
+      url: /drug-trials/
+      children:
+      - title: Phase 2
+        title_full: Why phase 2 breaks so many AI drugs | Drug trials
+        url: /phase-2/
+      - title: Rentosertib
+        title_full: What rentosertib really proves about AI medicine | Drug trials
+        url: /rentosertib/
+      - title: Smarter trials
+        title_full: Can AI fix the trial bottleneck itself | Drug trials
+        url: /smarter-trials/
+  - title: Power
+    title_full: Who Owns an AI Enabled Future? | AI Bloom
+    url: /power/
+    children:
+    - title: AI Benefits
+      title_full: Who Gets the Gains in an AI Enabled Society | Power
+      url: /ai-benefits/
+      children:
+      - title: AI Tutors
+        title_full: Could AI Tutors Become a Public Good? | AI Benefits
+        url: /ai-tutors-f14433/
+      - title: AI Wealth
+        title_full: Who Owns the Wealth AI Creates? | AI Benefits
+        url: /ai-wealth/
+      - title: Job Pathways
+        title_full: Will AI Pull Up the Career Ladder? | AI Benefits
+        url: /job-pathways/
+    - title: AI Concentration
+      title_full: Who Controls AI Platforms and Why It Matters | Power
+      url: /ai-concentration/
+      children:
+      - title: AI Deals
+        title_full: When does AI funding become control? | AI Concentration
+        url: /ai-deals/
+      - title: Cloud Gateways
+        title_full: Who controls the roads to advanced AI? | AI Concentration
+        url: /cloud-gateways/
+      - title: Lock In
+        title_full: Can anyone leave the AI ecosystem? | AI Concentration
+        url: /lock-in/
+    - title: Military AI
+      title_full: Balancing AI Power and Global Security Risks | Power
+      url: /military-ai/
+      children:
+      - title: AI Governance
+        title_full: Global Rules and Policies for Military AI Control | Military AI
+        url: /ai-governance/
+      - title: AI Intelligence
+        title_full: AI in Military Intelligence and Strategic Planning | Military AI
+        url: /ai-intelligence/
+      - title: Autonomy Risks
+        title_full: How Autonomous Weapons Challenge Human Oversight | Military AI
+        url: /autonomy-risks/
+    - title: Public Compute
+      title_full: How Public Compute Can Democratize AI Access | Power
+      url: /public-compute/
+      children:
+      - title: NAIRR Pilot Access
+        title_full: How the US NAIRR Pilot Expands AI Research Access | Public Compute
+        url: /nairr-pilot-access/
+      - title: Public Interest AI
+        title_full: How Public Compute Unlocks Scientific and Public Interest AI Research | Public Compute
+        url: /public-interest-ai/
+      - title: UK AIRR Systems
+        title_full: How UK AIRR Supercomputers Strengthen AI Access | Public Compute
+        url: /uk-airr-systems/
+  - title: Resilience
+    title_full: Can AI Help Civilisation Avoid Catastrophe? | AI Bloom
+    url: /resilience/
+    children:
+    - title: Anticipatory Gov
+      title_full: Why Accurate AI Forecasts Still Fail to Prevent Crises | Resilience
+      url: /anticipatory-gov/
+      children:
+      - title: Institutional Gaps
+        title_full: Why Institutional Fragmentation Blocks Preventive Measures | Anticipatory Gov
+        url: /institutional-gaps/
+      - title: Political Incentives
+        title_full: How Short Term Politics Undermine Early Warning Responses | Anticipatory Gov
+        url: /political-incentives/
+      - title: Public Trust
+        title_full: How Public Understanding Shapes Preventive Governance | Anticipatory Gov
+        url: /public-trust/
+    - title: Climate Twins
+      title_full: Could AI Weather Twins Make Climate Disasters Less Deadly? | Resilience
+      url: /climate-twins/
+      children:
+      - title: Adaptation Twins
+        title_full: Can Climate Twins Prevent Costly Infrastructure Mistakes? | Climate Twins
+        url: /adaptation-twins/
+      - title: Destin E Floods
+        title_full: Can Europe Simulate Flood Disasters Before They Happen? | Climate Twins
+        url: /destin-e-floods/
+      - title: Storm Ensembles
+        title_full: Why AI Storm Forecasts Now Explore Hundreds of Futures | Climate Twins
+        url: /storm-ensembles/
+    - title: Conflict AI
+      title_full: When Conflict Forecasting Helps And When It Fails | Resilience
+      url: /conflict-ai/
+      children:
+      - title: False Alarm Impacts
+        title_full: Economic and Social Costs of False Positive Conflict Alerts | Conflict AI
+        url: /false-alarm-impacts/
+      - title: New Conflict Prediction
+        title_full: Why AI Struggles to Forecast Emerging Conflicts | Conflict AI
+        url: /new-conflict-prediction/
+      - title: VIEWS Accuracy
+        title_full: How VIEWS Forecasts Conflict and Manages False Alarms | Conflict AI
+        url: /views-accuracy/
+    - title: Pandemic AI
+      title_full: Can AI Really Warn US Before the Next Pandemic? | Resilience
+      url: /pandemic-ai/
+      children:
+      - title: Black Box AI
+        title_full: Can Officials Trust AI They Cannot Fully Explain? | Pandemic AI
+        url: /black-box-ai/
+      - title: Data Failures
+        title_full: Can Pandemic AI Work With Incomplete Data? | Pandemic AI
+        url: /data-failures/
+      - title: Seasonal Limits
+        title_full: Why Flu Models Work Better Than Novel Virus Warnings | Pandemic AI
+        url: /seasonal-limits/
+  - title: Robotics
+    title_full: Could Robots End Dangerous Drudgery? | AI Bloom
+    url: /robotics/
+    children:
+    - title: Ethics & Dignity
+      title_full: Ensuring Human Dignity in Automated Dangerous Work | Robotics
+      url: /ethics-dignity/
+      children:
+      - title: Algorithmic Risks
+        title_full: When AI Management Undermines Worker Dignity | Ethics & Dignity
+        url: /algorithmic-risks/
+      - title: Reskilling Programs
+        title_full: How Training Preserves Purpose in an Automated Workplace | Ethics & Dignity
+        url: /reskilling-programs/
+      - title: Worker Participation
+        title_full: How Worker Involvement Shapes Robot Automation Ethically | Ethics & Dignity
+        url: /worker-participation/
+    - title: Industrial Robotics
+      title_full: How AI Robots Are Reducing Risk in Dangerous Industries | Robotics
+      url: /industrial-robotics/
+      children:
+      - title: Autonomous Haulage
+        title_full: 'Autonomous Mining Trucks: Reducing Accidents and Risk | Industrial Robotics'
+        url: /autonomous-haulage/
+      - title: Industrial Exoskeletons
+        title_full: How Wearable Exoskeletons Protect Workers in Industry | Industrial Robotics
+        url: /industrial-exoskeletons/
+      - title: Spot Inspections
+        title_full: How Spot Robots Reduce Risk in Hazardous Work | Industrial Robotics
+        url: /spot-inspections/
+    - title: Interaction Safety
+      title_full: Managing Risks When Humans and Robots Work Together | Robotics
+      url: /interaction-safety/
+      children:
+      - title: Contact Safety
+        title_full: How close is too close for cobots? | Interaction Safety
+        url: /contact-safety/
+      - title: Felt Safety
+        title_full: Why robot trust matters at work | Interaction Safety
+        url: /felt-safety/
+      - title: Risk Checks
+        title_full: The safety checklist robots cannot skip | Interaction Safety
+        url: /risk-checks/
+    - title: Labour Impacts
+      title_full: How Automation of Dangerous Work Reshapes Jobs and Wages | Robotics
+      url: /labour-impacts/
+      children:
+      - title: Deskilling
+        title_full: Can safer work become worse work? | Labour Impacts
+        url: /deskilling/
+      - title: Remote roles
+        title_full: When dangerous jobs move to control rooms | Labour Impacts
+        url: /remote-roles/
+      - title: Retraining
+        title_full: Who gets the new robot jobs? | Labour Impacts
+        url: /retraining/

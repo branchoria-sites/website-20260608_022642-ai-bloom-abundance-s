@@ -1,0 +1,1040 @@
+---
+level: 3
+basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5
+parent_basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284
+child_basenames:
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_index
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_remote_contro_3ebac4
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_robot_retrain_7cf5e2
+sibling_basenames:
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0
+- AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb
+tags:
+- ai-bloom-abundance-superintelligence-and-humanity
+- robotics
+- labour-impacts
+keywords:
+- ai-bloom-abundance-superintelligence-and-humanity
+- robotics
+- labour-impacts
+affiliate_category: ai-bloom-abundance-superintelligence-and-humanity
+show_ads: true
+description: Examines how automating high-risk work reshapes jobs, wages, and new roles in robot supervision and maintenance.
+hero_summary: Examines how automating high-risk work reshapes jobs, wages, and new roles in robot supervision and maintenance.
+layout: default
+permalink: /labour-impacts/
+sidebar_expanded_urls:
+- /ai-bloom-abundance-superintelligence/
+- /robotics/
+nav_short_title: Labour Impacts
+title: How Automation of Dangerous Work Reshapes Jobs and Wages
+title_full: How Automation of Dangerous Work Reshapes Jobs and Wages | Robotics
+display_title_short: Labour Impacts
+display_title: Labour Impacts
+heading_title: How Automation of Dangerous Work Reshapes Jobs and Wages
+page_heading_title: How Automation of Dangerous Work Reshapes Jobs and Wages
+source_count: 35
+infographic_count: 3
+planned_sections:
+- Task level automation and job redesign
+- Emerging roles in robotics supervision and maintenance
+- Regional and sectoral labour shifts
+focal_unit_type: mechanism
+topic_lens: evidence
+topic_granularity: bounded_topic
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Could Robots End Dangerous Drudgery? | AI Bloom
+parent_permalink: /robotics/
+parent_nav_short_title: Robotics
+parent_heading_title: Could Robots End Dangerous Drudgery?
+ancestor_links:
+- basename: AI_Bloom_Abun_98d3a6
+  title: AI Bloom
+  permalink: /ai-bloom-abundance-superintelligence/
+  short_title: AI Bloom
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284
+  title: Robotics | Could AI Help Humanity Truly Bloom?
+  permalink: /robotics/
+  short_title: Robotics
+  heading_title: Could Robots End Dangerous Drudgery?
+breadcrumb_links:
+- basename: AI_Bloom_Abun_98d3a6
+  title: AI Bloom
+  permalink: /ai-bloom-abundance-superintelligence/
+  short_title: AI Bloom
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284
+  title: Robotics | Could AI Help Humanity Truly Bloom?
+  permalink: /robotics/
+  short_title: Robotics
+  heading_title: Could Robots End Dangerous Drudgery?
+sibling_links:
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e
+  title: Ethics & Dignity | Robotics
+  permalink: /ethics-dignity/
+  short_title: Ethics & Dignity
+  heading_title: Ensuring Human Dignity in Automated Dangerous Work
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb
+  title: Industrial Robotics | Robotics
+  permalink: /industrial-robotics/
+  short_title: Industrial Robotics
+  heading_title: How AI Robots Are Reducing Risk in Dangerous Industries
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0
+  title: Interaction Safety | Robotics
+  permalink: /interaction-safety/
+  short_title: Interaction Safety
+  heading_title: Managing Risks When Humans and Robots Work Together
+child_links:
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a
+  title: Deskilling | Labour Impacts
+  permalink: /deskilling/
+  short_title: Deskilling
+  heading_title: Can safer work become worse work?
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_remote_contro_3ebac4
+  title: Remote roles | Labour Impacts
+  permalink: /remote-roles/
+  short_title: Remote roles
+  heading_title: When dangerous jobs move to control rooms
+- basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_robot_retrain_7cf5e2
+  title: Retraining | Labour Impacts
+  permalink: /retraining/
+  short_title: Retraining
+  heading_title: Who gets the new robot jobs?
+up_link:
+  basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284
+  title: Robotics | Could AI Help Humanity Truly Bloom?
+  permalink: /robotics/
+  short_title: Robotics
+  heading_title: Could Robots End Dangerous Drudgery?
+prev_link:
+  basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0
+  title: Interaction Safety | Robotics
+  permalink: /interaction-safety/
+  short_title: Interaction Safety
+  heading_title: Managing Risks When Humans and Robots Work Together
+date: '2026-06-08 01:34:04 '
+header:
+  og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1-social.jpg
+  preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1.webp
+image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1-social.jpg
+---
+
+## Introduction
+
+Automating dangerous work is often presented as a straightforward win: fewer injuries, fewer deaths, and less time spent in jobs that expose people to toxic chemicals, collapsing structures, explosions, extreme heat, repetitive strain, or chronic physical damage. In many cases, that promise is real. Industrial robots, autonomous vehicles, drones, remote-operated machines and AI-assisted monitoring systems can take over some of the most hazardous tasks in mining, construction, logistics, [energy]({{ 'energy/' | relative_url }}) production and manufacturing. Research increasingly finds that robot adoption can reduce workplace accidents and fatalities by removing workers from high-risk environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifr.org">[IFR International Federation of Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifr.org</span><span class="citation-popover-title">do robots save lives and prevent workplace injuries</span><span class="citation-popover-snippet">IFR International Federation of RoboticsDo robots save lives and prevent workplace injuries?22 Apr 2026 — In many production stages, indu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRobots as guardians: Industrial automation and workplace...by W Luo · 2025 · Cited by 25 — Industrial robots can improve wo...</span></span></span>
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1-dark.svg" | relative_url }}" alt="Labour Impacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+But the labour-market effects are more complicated than “robots replace workers”. Dangerous work is usually embedded inside larger jobs. When hazardous tasks are automated, occupations are often redesigned rather than eliminated. Some workers gain safer conditions and higher-value responsibilities. Others face wage pressure, displacement, [retraining]({{ 'retraining/' | relative_url }}) demands, or a loss of practical skills. The broader significance for the AI bloom vision is that ending dangerous labour is not just a safety story. It is a test case for whether advanced technology can remove human suffering while also expanding opportunity, capability and economic participation.
+
+## Dangerous Tasks Are Often Automated Before Entire Jobs
+
+One of the most important findings in labour-market research is that automation usually targets tasks rather than complete occupations. Early predictions often assumed that whole professions would disappear. More recent work from the OECD and labour economists suggests that jobs are bundles of activities, some easier to automate than others. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://wecglobal.org/uploads/2019/07/2016_OECD_Risk-Automation-Jobs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wecglobal.org">[World Employment Confederation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wecglobal.org</span><span class="citation-popover-title">2016 OECD Risk Automation Jobs</span><span class="citation-popover-snippet">World Employment ConfederationThe Risk of Automation for Jobs in OECD Countriesby M Arntz · Cited by 4409 — This paper was commissioned b...</span></span></span>
+
+This distinction matters in dangerous industries.
+
+A mining technician may spend part of their day inspecting unstable tunnels. An offshore worker may perform hazardous equipment checks. A warehouse employee may repeatedly lift heavy loads that cause long-term injuries. In many cases, robots can take over the dangerous component while humans continue to handle planning, coordination, troubleshooting and judgement.
+
+This creates several common patterns:
+
+* Workers move from direct physical exposure toward monitoring and [control]({{ 'control/' | relative_url }}) roles.
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Dangerous manual tasks become remote operations performed from control rooms.
+* Human effort shifts toward exception handling rather than routine execution.
+* Safety inspections increasingly rely on drones, sensors and AI systems rather than direct physical presence.
+
+</div>
+
+Evidence from robot adoption across manufacturing and industrial sectors suggests that labour demand often changes through task redesign and reallocation rather than simple one-for-one replacement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.23159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI and the Reorganization of Labor Demand</span><span class="citation-popover-snippet">arXivGenerative AI and the Reorganization of Labor DemandMay 22, 2026...</span><span class="citation-popover-meta">Published: May 22, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/news/assessing-the-real-impact-of-automation-on-jobs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">assessing the real impact of automation on jobs</span><span class="citation-popover-snippet">Stanford HAIAssessing the Real Impact of Automation on Jobs | Stanford HAI9 Jun 2025 — In short, Autor found that automation both replace...</span></span></span> For advocates of a long-term AI-enabled abundance economy, this distinction is crucial. The optimistic scenario is not merely fewer workers. It is fewer people spending their lives performing hazardous routines that machines can perform more safely.
+
+## Why Safer Work Does Not Automatically Mean Better Jobs
+
+Reducing physical danger and improving job quality are not always the same thing.
+
+Many automated workplaces become safer while introducing new pressures. Workers may no longer face toxic exposure or heavy lifting, but they may experience increased monitoring, reduced autonomy, repetitive oversight duties or anxiety about job security.
+
+Research on robot-heavy workplaces has found mixed effects. Some studies report improvements in physical safety and reductions in injury rates. Others find lower job satisfaction, increased work intensity or concerns about [deskilling]({{ 'deskilling/' | relative_url }}) and surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ft.com/content/528e3c25-22c7-4c83-b80a-dd07dae92c5d" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ft.com">[Financial Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ft.com</span><span class="citation-popover-snippet">Jessica, an Amazon employee, found robot-assisted warehouse work less physically taxing but also monotonous and mentally draining, prompt...</span></span></span> [3ScienceDirect 3ScienceDirect]
+
+A recurring problem is what researchers sometimes call “hollowing out” of expertise.
+
+Consider a worker who once performed a difficult physical task requiring accumulated experience. After automation, the worker may mainly supervise machines and intervene only when something goes wrong. The job becomes safer but may also provide fewer opportunities to develop mastery. Similar concerns have appeared in discussions of automated logistics systems, robotic surgery support and industrial process control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/robots-wont-take-your-jobbut-they-might-make-it-boring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Robots Might Not Take Your Job-But They Will Probably Make It Boring</span><span class="citation-popover-snippet">Robots can manage risky tasks like shutting down faulty nuclear reactors and inspecting components, but their presence can lead to boredo...</span></span></span>
+
+This creates a tension at the heart of the dangerous-work debate:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Physical wellbeing may improve.
+* Fatalities and injuries may decline.
+* Yet some workers may feel less skilled, less autonomous or less connected to their work.
+
+</div>
+
+The quality of job redesign therefore matters almost as much as the technology itself.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GdQ-uxIhVbI" title="How Automation is Changing the Workplace of the Future | Sunil Ranka | TEDxYouth@LowellHS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GdQ-uxIhVbI" target="_blank" rel="noopener noreferrer">How Automation is Changing the Workplace of the Future | Sunil Ranka | TEDxYouth@LowellHS</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 1.2K &middot; Uploaded: May 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GdQ-uxIhVbI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GdQ-uxIhVbI">Open on YouTube</a></p></div></div></div>
+
+## Wages Depend on Which Tasks Disappear
+
+The effect of automation on wages depends heavily on what kind of work is automated.
+
+Research examining automation and task restructuring suggests that when technology removes simpler or routine tasks, remaining workers can become more specialised and sometimes better paid. But when automation takes over higher-value expert activities, wages may fall because workers are left performing less valuable functions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/ideas-made-to-matter/a-new-look-how-automation-changes-value-labor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">But when</span><span class="citation-popover-snippet">MIT SloanA new look at how automation changes the value of labor18 Aug 2025 — They found that when simpler tasks disappeared, jobs became...</span></span></span>
+
+Dangerous-work automation sits between these two possibilities.
+
+In the best cases:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Workers are relieved of hazardous duties.
+* Productivity rises.
+* Firms can pay more for technical oversight and operational expertise.
+* Human workers move into higher-skill supervisory positions.
+
+</div>
+
+In weaker outcomes:
+
+* Dangerous tasks disappear but few advancement pathways are created.
+* A small number of technicians oversee systems that previously required many workers.
+* Bargaining [power]({{ 'power/' | relative_url }}) shifts from labour toward capital owners.
+* Wage growth fails to keep pace with productivity gains.
+
+Evidence from robot adoption in Europe and elsewhere suggests that employment and wage effects vary substantially by industry, [institutional]({{ 'institutional-gaps/' | relative_url }}) setting, skill level and labour-market structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/understanding-the-impact-of-automation-on-workers-jobs-and-wages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">Workers who can work with machines are more productive than those without them</span><span class="citation-popover-snippet">BrookingsUnderstanding the impact of automation on workers, jobs...19 Jan 2022 — Automation often creates as many jobs as it destroys o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bruegel.org/sites/default/files/wp_attachments/Working-Paper-AB_25042018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bruegel.org">[Bruegel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bruegel.org</span><span class="citation-popover-snippet">European Union countries, that make up 85.5 percent of the EU industrial...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.iza.org/dp15303.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.iza.org">[IZA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.iza.org</span><span class="citation-popover-snippet">IZA DocsThe Impact of Robots on Labour Market Transitions in Europeby R Bachmann · 2022 · Cited by 76 — Our results imply that robot adop...</span></span></span>
+
+This is one reason debates about AI abundance increasingly focus on distribution rather than productivity alone. A world where dangerous work largely disappears could still produce unequal outcomes if ownership of automated systems is highly concentrated.
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-2-dark.svg" | relative_url }}" alt="Labour Impacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Emerging Roles in Robot Supervision and Maintenance
+
+The most visible new jobs created by dangerous-work automation tend to appear around the machines themselves.
+
+As robotic systems spread, demand grows for workers who can:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* Install and maintain robots.
+* Monitor autonomous systems.
+* Analyse operational data.
+* Manage fleets of industrial machines.
+* Handle cybersecurity and system reliability.
+* Coordinate human-robot teams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">related risks and opportunities for industrial human-robot...by E Heinold · 2023 · Cited by 11 — Even though, modern, interactive roboti...</span></span></span>
+* Respond to failures and unexpected conditions.
+
+</div>
+
+These jobs are often safer than the roles they replace and may require a broader mix of technical and interpersonal skills.
+
+The shift is already visible in sectors such as advanced manufacturing, mining operations, warehouse logistics and energy infrastructure. Automated equipment often reduces demand for some forms of manual labour while increasing demand for maintenance engineers, control-room operators, robotics technicians and systems integrators. OECD <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/legal-information-management/article/effects-of-artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human...by C Intahchomphoo · 2024 · Cited by 1...</span></span></span>
+
+The challenge is timing.
+
+A miner cannot automatically become a robotics engineer. A construction labourer does not instantly transition into an autonomous equipment specialist. The benefits of automation therefore depend heavily on training systems, apprenticeships, vocational education and employer investment.
+
+UK government projections suggest substantial growth in AI-related occupations over the coming decade, but whether displaced workers can realistically access those opportunities remains a central policy question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ai-skills-for-life-and-work-labour-market-and-skills-projections/ai-skills-for-life-and-work-labour-market-and-skills-projections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">AI Skills for Life and Work: Labour market and...January 28, 2026 — 28 Jan 2026 — Jobs directly involving AI activities could rise from...</span><span class="citation-popover-meta">Published: January 28, 2026</span></span></span>
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cve24N3IoP4" title="AI is Destroying the Corporate Ladder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cve24N3IoP4" target="_blank" rel="noopener noreferrer">AI is Destroying the Corporate Ladder</a></p><p class="youtube-embed-meta">Channel: Analyzing Finance with Nick &middot; Views: 15.5K &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cve24N3IoP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cve24N3IoP4">Open on YouTube</a></p></div></div></div>
+
+## Regional Winners and Losers
+
+The labour-market effects of dangerous-work automation are rarely evenly distributed.
+
+Regions that depend heavily on mining, heavy manufacturing, oil extraction, shipping or industrial logistics often face the largest disruptions because these sectors contain many tasks that are simultaneously hazardous, repetitive and technically automatable.
+
+Several outcomes can occur at once:
+
+
+<div class="content-enhancement content-enhancement--caution" markdown="1">
+
+* Workplace injuries decline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifr.org">[ifr.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifr.org</span><span class="citation-popover-title">do robots save lives and prevent workplace injuries</span><span class="citation-popover-snippet">IFR International Federation of RoboticsDo robots save lives and prevent workplace injuries?22 Apr 2026 — In many production stages, indu...</span></span></span>
+* Productivity increases.
+* Some traditional jobs disappear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ons.gov.uk">[ons.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ons.gov.uk</span><span class="citation-popover-snippet">Which occupations are at highest risk of being automated?25 Mar 2019 — Around 1.5 million jobs in England are at high risk of some of the...</span></span></span>
+* New technical jobs emerge elsewhere.
+* Local communities experience uneven adjustment.
+
+</div>
+
+Research from Europe and emerging economies suggests that robot adoption can increase employment in some contexts while contributing to displacement in others. Outcomes depend on labour costs, industrial structure, educational attainment and the availability of alternative sectors. IZA Docs <span class="citation-chip-wrap"><a class="citation-chip" href="https://theforum.erf.org.eg/2024/03/04/labour-market-effects-of-robots-evidence-from-turkey/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theforum.erf.org.eg">[2theforum.erf.org.eg]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theforum.erf.org.eg</span><span class="citation-popover-snippet">s of robots on labour displacement and job reallocation...</span></span></span>
+
+Mining provides a useful example.
+
+Autonomous haul trucks, remote drilling systems and AI-assisted monitoring can reduce exposure to accidents and hazardous environments. Yet they can also concentrate employment in urban control centres rather than remote extraction regions. A mine may continue operating while employing fewer workers on-site. The safety gains are real, but the economic geography changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">the risk of automation for jobs in oecd countries 5jlz9h56dvq7 en</span><span class="citation-popover-snippet">OECDThe Risk of Automation for Jobs in OECD Countriesby M Arntz · 2016 · Cited by 4408 — In recent years, there has been a revival of con...</span></span></span>
+
+This raises a broader question for the AI bloom vision: can technological abundance be geographically distributed, or will benefits cluster around a limited number of high-skill regions?
+
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-3-dark.svg" | relative_url }}" alt="Labour Impacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## The Strongest Optimistic Case
+
+The strongest argument for automating dangerous work is not simply economic efficiency. It is the possibility of decoupling prosperity from physical risk.
+
+Historically, many industries depended on workers accepting significant danger in exchange for wages. Coal mining, offshore drilling, hazardous chemical handling, waste processing and heavy industrial production often involved a trade-off between economic survival and personal safety.
+
+Advanced robotics offers a different model:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Hazardous environments remain productive.
+* Human exposure falls sharply.
+* Workers spend more time supervising and designing systems than enduring physical danger.
+* Injury, disability and occupational disease become less common.
+
+</div>
+
+Evidence from manufacturing and industrial settings increasingly supports the claim that robots can reduce accident rates and fatalities when deployed effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001305" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRobots as guardians: Industrial automation and workplace...by W Luo · 2025 · Cited by 25 — Industrial robots can improve wo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifr.org">[IFR International Federation of Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifr.org</span><span class="citation-popover-title">do robots save lives and prevent workplace injuries</span><span class="citation-popover-snippet">IFR International Federation of RoboticsDo robots save lives and prevent workplace injuries?22 Apr 2026 — In many production stages, indu...</span></span></span>
+
+In a broader AI bloom framework, this points toward a civilisation where an increasing share of necessary physical labour is performed by machines rather than human bodies. If combined with abundant energy, advanced manufacturing and effective distribution systems, dangerous work could become an exceptional activity rather than a routine part of earning a living.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/60IvU4-r5jE" title="People B4 Machines: Man vs. machine? The ROI of robotics and human-machine synergy | Ujjwal Kumar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=60IvU4-r5jE" target="_blank" rel="noopener noreferrer">People B4 Machines: Man vs. machine? The ROI of robotics and human-machine synergy | Ujjwal Kumar</a></p><p class="youtube-embed-meta">Channel: Eclipse Automation - Factory Automation Services &middot; Views: 28 &middot; Uploaded: February 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=60IvU4-r5jE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=60IvU4-r5jE">Open on YouTube</a></p></div></div></div>
+
+## The Political Economy Question
+
+Whether this transition produces widespread flourishing depends less on robotics itself than on institutions surrounding it.
+
+Three futures are plausible.
+
+In the first, productivity gains are broadly shared. Workers gain safer jobs, shorter hours, higher wages and access to retraining. Automation becomes a mechanism for expanding human freedom.
+
+In the second, safety improves but economic gains flow primarily to asset owners. Employment becomes more polarised, and displaced workers struggle to access newly created technical roles.
+
+In the third, dangerous work declines in wealthy regions while remaining concentrated among poorer populations and countries that lack access to advanced automation.
+
+Current evidence does not decisively support any single outcome. Labour-market research consistently shows that automation's effects are shaped by education systems, labour institutions, bargaining power, competition policy and public investment as much as by the technology itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.brookings.edu/articles/understanding-the-impact-of-automation-on-workers-jobs-and-wages/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: brookings.edu">[Brookings]</a><span class="citation-popover" role="note"><span class="citation-popover-source">brookings.edu</span><span class="citation-popover-title">Workers who can work with machines are more productive than those without them</span><span class="citation-popover-snippet">BrookingsUnderstanding the impact of automation on workers, jobs...19 Jan 2022 — Automation often creates as many jobs as it destroys o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/automation-and-occupational-wage-trends_596b32ce-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Automation and occupational wage trendsRoutine-biased technological change has emerged as a leading explanation for the differential wage...</span></span></span>
+
+For that reason, the labour-market impact of automating dangerous tasks is one of the clearest examples of a wider question running through debates about AI and humanity's long future. The technical capability to eliminate dangerous drudgery may arrive before societies decide how the resulting gains should be shared. The difference between a safer but more unequal economy and a genuinely flourishing one may depend less on whether robots can perform dangerous work and more on [who benefits]({{ 'who-benefits/' | relative_url }}) when they do.
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How Automation of Dangerous Work Reshapes Jobs and Wages. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+        </h4>
+        <p class="fr-book-author">By Martin Ford</p>
+        
+        <p class="fr-book-desc">Explains how robotics and AI reshape jobs, wages and labour markets.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
+        </h4>
+        <p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
+        
+        <p class="fr-book-desc">Frames automation as a productivity shock that changes work, skills and opportunity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Technology Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xXGODwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Technology Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Technology Trap">The Technology Trap</a>
+        </h4>
+        <p class="fr-book-author">By Carl Benedikt Frey</p>
+        
+        <p class="fr-book-desc">Shows how automation can improve output while disrupting wages, regions and worker bargaining power.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Technology+Trap+by+Carl+Benedikt+Frey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
+        </h4>
+        <p class="fr-book-author">By Aaron Benanav</p>
+        
+        <p class="fr-book-desc">Directly examines whether automation explains job insecurity and what policy responses matter.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Technology+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Technology Trap</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/24a3b5b8515617f18973.jpg' | relative_url }}" alt="Listing image for Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af746335bf5be63e6531.jpg' | relative_url }}" alt="Listing image for Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2e780a32e1d8c26606.jpg' | relative_url }}" alt="Listing image for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/71d1e510f51f2b89794e.jpg' | relative_url }}" alt="Listing image for Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="labour-impacts-how-automation-of-dangerous-work-reshapes-jobs-and-wages-ai-bloom-abundance-super-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: ifr.org  
+   Title: do robots save lives and prevent workplace injuries  
+   Link: [https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries](https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IFR International Federation of RoboticsDo robots save lives and prevent workplace injuries?22 Apr 2026 — In many production stages, indu...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0304387824001305](https://www.sciencedirect.com/science/article/abs/pii/S0304387824001305)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRobots as guardians: Industrial automation and workplace...by W Luo · 2025 · Cited by 25 — Industrial robots can improve wo...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: oecd.org  
+   Title: the risk of automation for jobs in oecd countries 5jlz9h56dvq7 en  
+   Link: [https://www.oecd.org/en/publications/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en.html](https://www.oecd.org/en/publications/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe Risk of Automation for Jobs in OECD Countriesby M Arntz · 2016 · Cited by 4408 — In recent years, there has been a revival of con...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: hai.stanford.edu  
+   Title: assessing the real impact of automation on jobs  
+   Link: [https://hai.stanford.edu/news/assessing-the-real-impact-of-automation-on-jobs](https://hai.stanford.edu/news/assessing-the-real-impact-of-automation-on-jobs)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAIAssessing the Real Impact of Automation on Jobs | Stanford HAI9 Jun 2025 — In short, Autor found that automation both replace...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Title: arXiv Generative AI and the Reorganization of Labor Demand  
+   Link: [https://arxiv.org/abs/2605.23159](https://arxiv.org/abs/2605.23159)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGenerative AI and the Reorganization of Labor DemandMay 22, 2026...</p></details>
+   Published: May 22, 2026  
+
+6. <a id="endnote-6"></a>
+   Source: mitsloan.mit.edu  
+   Title: But when  
+   Link: [https://mitsloan.mit.edu/ideas-made-to-matter/a-new-look-how-automation-changes-value-labor](https://mitsloan.mit.edu/ideas-made-to-matter/a-new-look-how-automation-changes-value-labor)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanA new look at how automation changes the value of labor18 Aug 2025 — They found that when simpler tasks disappeared, jobs became...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S092575352100463X](https://www.sciencedirect.com/science/article/abs/pii/S092575352100463X)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRobot application and occupational injuriesby S Yang · 2022 · Cited by 65 — Recent research argues that robots could replace...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2208.14248](https://arxiv.org/abs/2208.14248)  
+
+9. <a id="endnote-9"></a>
+   Source: wired.com  
+   Title: Robots Might Not Take Your Job-But They Will Probably Make It Boring  
+   Link: [https://www.wired.com/story/robots-wont-take-your-jobbut-they-might-make-it-boring](https://www.wired.com/story/robots-wont-take-your-jobbut-they-might-make-it-boring)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots can manage risky tasks like shutting down faulty nuclear reactors and inspecting components, but their presence can lead to boredo...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: bruegel.org  
+   Link: [https://www.bruegel.org/sites/default/files/wp_attachments/Working-Paper-AB_25042018.pdf](https://www.bruegel.org/sites/default/files/wp_attachments/Working-Paper-AB_25042018.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Union countries, that make up 85.5 percent of the EU industrial...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: docs.iza.org  
+   Link: [https://docs.iza.org/dp15303.pdf](https://docs.iza.org/dp15303.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>IZA DocsThe Impact of Robots on Labour Market Transitions in Europeby R Bachmann · 2022 · Cited by 76 — Our results imply that robot adop...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: oecd.org  
+   Link: [https://www.oecd.org/en/publications/automation-and-occupational-wage-trends_596b32ce-en.html](https://www.oecd.org/en/publications/automation-and-occupational-wage-trends_596b32ce-en.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automation and occupational wage trendsRoutine-biased technological change has emerged as a leading explanation for the differential wage...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: brookings.edu  
+   Title: Workers who can work with machines are more productive than those without them  
+   Link: [https://www.brookings.edu/articles/understanding-the-impact-of-automation-on-workers-jobs-and-wages/](https://www.brookings.edu/articles/understanding-the-impact-of-automation-on-workers-jobs-and-wages/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BrookingsUnderstanding the impact of automation on workers, jobs...19 Jan 2022 — Automation often creates as many jobs as it destroys o...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: oecd.org  
+   Title: 83325127 en  
+   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/job-creation-and-local-economic-development-2024_01a245c1/83325127-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/job-creation-and-local-economic-development-2024_01a245c1/83325127-en.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDJob Creation and Local Economic Development 2024May 10, 2025 — 13 Nov 2024 — improve worker safety by allowing remote monitoring and...</p></details>
+   Published: May 10, 2025  
+
+15. <a id="endnote-15"></a>
+   Source: cambridge.org  
+   Link: [https://www.cambridge.org/core/journals/legal-information-management/article/effects-of-artificial-[intelligence](https://www.cambridge.org/core/journals/legal-information-management/article/effects-of-artificial-[intelligence)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human...by C Intahchomphoo · 2024 · Cited by 1...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: GOV.UK  
+   Link: [https://www.gov.uk/government/publications/ai-skills-for-life-and-work-labour-market-and-skills-projections/ai-skills-for-life-and-work-labour-market-and-skills-projections](https://www.gov.uk/government/publications/ai-skills-for-life-and-work-labour-market-and-skills-projections/ai-skills-for-life-and-work-labour-market-and-skills-projections)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Skills for Life and Work: Labour market and...January 28, 2026 — 28 Jan 2026 — Jobs directly involving AI activities could rise from...</p></details>
+   Published: January 28, 2026  
+
+17. <a id="endnote-17"></a>
+   Source: theforum.erf.org.eg  
+   Link: [https://theforum.erf.org.eg/2024/03/04/labour-market-effects-of-robots-evidence-from-turkey/](https://theforum.erf.org.eg/2024/03/04/labour-market-effects-of-robots-evidence-from-turkey/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>s of robots on labour displacement and job reallocation...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: oecd.org  
+   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/01/labour-saving-technologies-and-employment-levels_c1bb460f/9ce86ca5-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/01/labour-saving-technologies-and-employment-levels_c1bb460f/9ce86ca5-en.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Labour-saving technologies and employment levels (EN)by ARERR MAKING · 2022 · Cited by 22 — beyond traditional repetitive, onerous or eve...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: ons.gov.uk  
+   Link: [https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/whichoccupationsareathighestriskofbeingautomated/2019-03-25)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Which occupations are at highest risk of being automated?25 Mar 2019 — Around 1.5 million jobs in England are at high risk of some of the...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: wecglobal.org  
+   Title: 2016 OECD Risk Automation Jobs  
+   Link: [https://wecglobal.org/uploads/2019/07/2016_OECD_Risk-Automation-Jobs.pdf](https://wecglobal.org/uploads/2019/07/2016_OECD_Risk-Automation-Jobs.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>World Employment ConfederationThe Risk of Automation for Jobs in OECD Countriesby M Arntz · Cited by 4409 — This paper was commissioned b...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: ft.com  
+   Link: [https://www.ft.com/content/528e3c25-22c7-4c83-b80a-dd07dae92c5d](https://www.ft.com/content/528e3c25-22c7-4c83-b80a-dd07dae92c5d)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jessica, an Amazon employee, found robot-assisted warehouse work less physically taxing but also monotonous and mentally draining, prompt...</p></details>
+
+### Additional References
+
+22. <a id="endnote-22"></a>
+   Source: ilo.org  
+   Link: [https://www.ilo.org/publications/workers%E2%80%99-exposure-ai-what-indicators-tell-us-%E2%80%93-and-what-they-don%E2%80%99t](https://www.ilo.org/publications/workers%E2%80%99-exposure-ai-what-indicators-tell-us-%E2%80%93-and-what-they-don%E2%80%99t)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Workers&#x27; exposure to AI: What indicators tell usEarlier computerization and automation measures suggested lower paid-workers in repetitiv...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/375897745_The_impact_of_automation_on_labour_market_outcomes_in_emerging_countries](https://www.researchgate.net/publication/375897745_The_impact_of_automation_on_labour_market_outcomes_in_emerging_countries)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of automation on labour market...This paper estimates the effect of local and foreign robots on labour market outcomes...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: oreilly.com  
+   Link: [https://www.oreilly.com/library/view/smart-manufacturing/9781119846611/b08.xhtml](https://www.oreilly.com/library/view/smart-manufacturing/9781119846611/b08.xhtml)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What constitutes “danger” is the focus of this chapter. Dear. The task is more expensive when performed...Read more...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: ilo.org  
+   Link: [https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40act_emp/documents/publication/wcms_579554.pdf](https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_dialogue/%40act_emp/documents/publication/wcms_579554.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the dirtiest and most dangerous jobs. While the company has.Read more...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: institute.global  
+   Title: the impact of ai on the labour market  
+   Link: [https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market](https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tony Blair InstituteThe Impact of AI on the Labour Market8 Nov 2024 —... for roles that are exposed to danger, such as physical labour...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: ilo.org  
+   Title: Safeday25 Report r8+(2) FULL (1)  
+   Link: [https://www.ilo.org/sites/default/files/2025-04/ILO_Safeday25_Report_r8%2B%282%29%20FULL%20%281%29.pdf](https://www.ilo.org/sites/default/files/2025-04/ILO_Safeday25_Report_r8%2B%282%29%20FULL%20%281%29.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour Organizationrevolutionizing health and safety:24 Apr 2025 — Robots are increasingly used to replace workers in dange...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: voxchina.org  
+   Link: [https://voxchina.org/show-3-444.html](https://voxchina.org/show-3-444.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Automation Has Made Chinese Workplaces Safer3 Feb 2026 — By taking over the most dangerous tasks on factory floors, robots can help s...</p></details>
+
+29. <a id="endnote-29"></a>
+   Source: standardbots.com  
+   Title: robots doing dangerous jobs  
+   Link: [https://standardbots.com/blog/robots-doing-dangerous-jobs](https://standardbots.com/blog/robots-doing-dangerous-jobs)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots have become essential in hazardous industries, reducing workplace injuries and fatalities.Read more...</p></details>
+
+30. <a id="endnote-30"></a>
+   Source: youtube.com  
+   Title: Man vs. machine? The ROI of robotics and human-machine synergy | Ujjwal Kumar  
+   Link: [https://www.youtube.com/watch?v=60IvU4-r5jE](https://www.youtube.com/watch?v=60IvU4-r5jE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How is Automation Really Affecting the Labor Market?...</p></details>
+
+31. <a id="endnote-31"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10642918/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>related risks and opportunities for industrial human-robot...by E Heinold · 2023 · Cited by 11 — Even though, modern, interactive roboti...</p></details>
