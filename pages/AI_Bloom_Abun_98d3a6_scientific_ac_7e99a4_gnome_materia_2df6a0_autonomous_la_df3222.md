@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /gno-me-materials/
 nav_short_title: Robot labs
 title: Can robot labs catch up with AI?
-title_full: Can robot labs catch up with AI? | GNo ME materials
+title_full: Can robot labs catch up with AI?
 display_title_short: Robot labs
 display_title: Robot labs
 heading_title: Can robot labs catch up with AI?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI find the materials abundance needs? | Discovery
+date: '2026-06-08 02:16:49'
+parent_title: Can AI find the materials abundance needs?
 parent_permalink: /gno-me-materials/
 parent_nav_short_title: GNo ME materials
 parent_heading_title: Can AI find the materials abundance needs?
@@ -260,7 +261,6 @@ next_link:
   permalink: /stable-vs-useful/
   short_title: Stable vs useful
   heading_title: Why stable materials are not enough
-date: '2026-06-08 02:16:49 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2d
 ## Introduction
 
 AI systems such as GNoME can now propose enormous numbers of possible new materials. The problem is that prediction has started to move much faster than reality. A computer can generate thousands of promising crystal structures in days, but proving that a material can actually be made in the physical world still requires synthesis, testing, measurement and repeated experimental adjustment. In many areas of materials science, the laboratory has become the bottleneck.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-1-dark.svg" | relative_url }}" alt="Robot labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is why autonomous laboratories have attracted so much attention. The idea is not simply to automate a few pieces of equipment. It is to create a closed-loop system in which AI proposes experiments, robots perform them, instruments analyse the results, and software decides what to try next. Supporters argue that this could compress years of trial-and-error work into weeks or months, helping turn AI-generated predictions into real batteries, catalysts, semiconductors and [energy]({{ 'energy/' | relative_url }}) technologies. Critics argue that the hardest parts of materials science remain stubbornly physical, messy and dependent on human judgement. Both views contain part of the truth.
@@ -282,7 +281,6 @@ The most important lesson from the GNoME project is that finding candidate mater
 For decades, computational materials science was itself a bottleneck. Researchers lacked the computing [power]({{ 'power/' | relative_url }}) and machine-learning systems needed to search vast numbers of possible atomic arrangements. GNoME changed that balance by generating millions of candidate crystal structures and hundreds of thousands of potentially stable materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
 But a predicted crystal is not a finished material. Researchers still need to answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -297,11 +295,11 @@ But a predicted crystal is not a finished material. Researchers still need to an
 
 These questions require physical experiments rather than computation.
 
-The mismatch between prediction speed and experimental speed has become increasingly obvious. Researchers behind Berkeley Lab's A-Lab project explicitly described their goal as closing the gap between rapid computational screening and much slower experimental [validation]({{ 'validation/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span>
+The mismatch between prediction speed and experimental speed has become increasingly obvious. Researchers behind Berkeley Lab's A-Lab project explicitly described their goal as closing the gap between rapid computational screening and much slower experimental [validation]({{ 'validation/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span>
 
 This bottleneck matters far beyond academic curiosity. If AI is supposed to help unlock cleaner energy systems, cheaper batteries, more efficient industrial chemistry or advanced electronics, then the real constraint is not only discovering candidates. It is determining which candidates survive contact with physical reality.
 
-For the broader AI bloom argument, this is an important distinction. [Scientific]({{ 'discovery/' | relative_url }}) abundance depends not only on [intelligence]({{ 'intelligence/' | relative_url }}) generating ideas but on civilisation gaining the ability to test those ideas quickly enough to matter.
+For the broader AI bloom argument, this is an important distinction. Scientific abundance depends not only on [intelligence]({{ 'intelligence/' | relative_url }}) generating ideas but on civilisation gaining the ability to test those ideas quickly enough to matter.
 
 ## What autonomous materials labs can do
 
@@ -309,13 +307,11 @@ The modern autonomous laboratory combines several technologies that were previou
 
 [Robotics]({{ 'robotics/' | relative_url }}) handles repetitive physical operations such as weighing powders, mixing ingredients, heating samples, transporting materials between instruments and preparing measurements. Machine-learning systems help choose promising experiments. Analytical instruments generate data. Software coordinates the entire process and updates experimental plans based on results. Researchers often call these systems self-driving laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">Through the automation of experimental...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The closed-loop approach is a key element to...Read more...</span></span></span>
 
-The key concept is the closed loop.
+The key concept is the [closed loop]({{ 'closed-loop/' | relative_url }}).
 
 Traditional materials research often follows a slow sequence:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CJHu3yDOYGI" title="Did Google DeepMind Just Revolutionize Materials Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer">Did Google DeepMind Just Revolutionize Materials Science?</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 11.0K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CJHu3yDOYGI">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -347,7 +343,6 @@ The significance was not merely that robots mixed chemicals. Laboratories have u
 
 In effect, A-Lab attempted to become a bridge between AI-generated possibilities and experimentally verified materials.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-2-dark.svg" | relative_url }}" alt="Robot labs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why closed-loop experimentation matters
 
@@ -357,16 +352,15 @@ Materials discovery often advances through negative results. A synthesis attempt
 
 Human researchers learn from these outcomes, but autonomous systems can potentially process thousands of such feedback signals systematically and continuously.
 
-Several research groups have demonstrated versions of this idea. Autonomous materials platforms have used Bayesian optimisation, active learning and uncertainty-aware machine learning to explore complex parameter spaces while performing only a fraction of the experiments that exhaustive searches would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">arXivAutonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
+Several research groups have demonstrated versions of this idea. Autonomous materials platforms have used Bayesian optimisation, active learning and uncertainty-aware machine learning to explore complex parameter spaces while performing only a fraction of the experiments that exhaustive searches would require. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">Autonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
 
-One autonomous phase-diagram project reported a roughly six-fold reduction in required experiments by continuously updating theoretical predictions using experimental feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">arXivAutonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
+One autonomous phase-diagram project reported a roughly six-fold reduction in required experiments by continuously updating theoretical predictions using experimental feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">Autonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
 
-Another autonomous thin-film synthesis system explored only a tiny fraction of a large experimental parameter space while still identifying promising growth conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">arXivAutonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
+Another autonomous thin-film synthesis system explored only a tiny fraction of a large experimental parameter space while still identifying promising growth conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Autonomous synthesis of metastable materials</span><span class="citation-popover-snippet">Autonomous synthesis of metastable materialsJanuary 19, 2021...</span><span class="citation-popover-meta">Published: January 19, 2021</span></span></span>
 
 This approach starts to resemble a broader pattern appearing across AI-enabled science: intelligence is used not only to generate hypotheses but to guide scarce experimental resources towards the most informative tests.
 
 In a world where computational proposals become abundant, experiment selection may become more valuable than experiment execution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dRT3tepdMyI" title="Your new lab partner: A mobile robot chemist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dRT3tepdMyI" target="_blank" rel="noopener noreferrer">Your new lab partner: A mobile robot chemist</a></p><p class="youtube-embed-meta">Channel: nature video &middot; Views: 92.0K &middot; Uploaded: July 2020 &middot; Length: 4 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dRT3tepdMyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dRT3tepdMyI">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +368,7 @@ In a world where computational proposals become abundant, experiment selection m
 
 Despite the excitement around self-driving laboratories, it would be misleading to imagine fully autonomous scientific discovery arriving overnight.
 
-The A-Lab project itself became the subject of debate shortly after publication. Some researchers questioned whether several reported materials were genuinely novel or whether the evidence was strong enough to support some of the claims. The dispute highlighted a broader point: interpreting experimental outcomes remains difficult, and scientific validation often requires expert judgement beyond what current autonomous systems provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureRobot chemist sparks row with claim it created new materials12 Dec 2023 — The A-Lab produced five new materials by swapping some of...</span></span></span>
+The A-Lab project itself became the subject of debate shortly after publication. Some researchers questioned whether several reported materials were genuinely novel or whether the evidence was strong enough to support some of the claims. The dispute highlighted a broader point: interpreting experimental outcomes remains difficult, and scientific validation often requires expert judgement beyond what current autonomous systems provide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — The A-Lab produced five new materials by swapping some of...</span></span></span>
 
 There are several reasons human expertise remains central.
 
@@ -386,13 +380,12 @@ Scientists still choose which material properties deserve attention, which indus
 
 A system might efficiently discover materials with unusual properties that turn out to have little practical use.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-3-dark.svg" | relative_url }}" alt="Robot labs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_autonomous_la_df3222-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Handling messy reality
 
 Many materials processes remain difficult to automate.
 
-Some involve multiple reaction stages, delicate handling procedures, extreme temperatures, hazardous chemicals or highly specialised equipment. Reviews of self-driving laboratories repeatedly identify these engineering challenges as major obstacles to wider deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">Through the automation of experimental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAutonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</span></span></span>
+Some involve multiple reaction stages, delicate handling procedures, extreme temperatures, hazardous chemicals or highly specialised equipment. Reviews of self-driving laboratories repeatedly identify these engineering challenges as major obstacles to wider deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">Through the automation of experimental...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</span></span></span>
 
 Laboratories are not as standardised as computer chips or cloud servers. Real-world experiments frequently involve unexpected failures, instrument limitations and tacit knowledge accumulated by experienced researchers.
 
@@ -403,7 +396,6 @@ Some of the most important scientific discoveries emerge when experiments behave
 A machine-learning system can identify statistical anomalies. Understanding whether an anomaly represents a measurement error, a novel phenomenon or a breakthrough insight often requires broader scientific reasoning.
 
 Current autonomous laboratories are becoming increasingly capable at optimisation. They remain much less capable at open-ended scientific interpretation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RLO4sfK37w4" title="Robots and AI hunt for new materials at A-Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RLO4sfK37w4" target="_blank" rel="noopener noreferrer">Robots and AI hunt for new materials at A-Lab</a></p><p class="youtube-embed-meta">Channel: Berkeley Lab &middot; Views: 3.0K &middot; Uploaded: June 2024 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RLO4sfK37w4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RLO4sfK37w4">Open on YouTube</a></p></div></div></div>
 
@@ -834,236 +826,236 @@ GNoME demonstrated that AI can search huge regions of materials space. Autonomou
 1. <a id="endnote-1"></a>
    Source: deepmind.google  
    Title: millions of new materials discovered with deep learning  
-   Link: [https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)  
+   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through the automation of experimental...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X](https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The closed-loop approach is a key element to...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/a/nat/nature/v624y2023i7990d10.1038_s41586-023-06734-w.html](https://ideas.repec.org/a/nat/nature/v624y2023i7990d10.1038_s41586-023-06734-w.html)  
+   Link: <a href="https://ideas.repec.org/a/nat/nature/v624y2023i7990d10.1038_s41586-023-06734-w.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/nat/nature/v624y2023i7990d10.1038_s41586-023-06734-w.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcAn autonomous laboratory for the accelerated synthesis of inby NJ Szymanski · 2023 · Cited by 1133 — Over 17 days of continuou...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Autonomous synthesis of metastable materials  
-   Link: [https://arxiv.org/abs/2101.07385](https://arxiv.org/abs/2101.07385)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutonomous synthesis of metastable materialsJanuary 19, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2101.07385" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.07385</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous synthesis of metastable materialsJanuary 19, 2021...</p></details>
    Published: January 19, 2021  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.17430](https://arxiv.org/abs/2410.17430)  
+   Link: <a href="https://arxiv.org/abs/2410.17430" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.17430</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2308.08700](https://arxiv.org/abs/2308.08700)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutonomous synthesis of thin film materials with pulsed laser deposition enabled by in situ spectroscopy and automationAugust 17, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2308.08700" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.08700</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous synthesis of thin film materials with pulsed laser deposition enabled by in situ spectroscopy and automationAugust 17, 2023...</p></details>
    Published: August 17, 2023  
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-03956-w](https://www.nature.com/articles/d41586-023-03956-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureRobot chemist sparks row with claim it created new materials12 Dec 2023 — The A-Lab produced five new materials by swapping some of...</p></details>
+   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — The A-Lab produced five new materials by swapping some of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAutonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research](https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research)  
+   Link: <a href="https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These labs autonomously conduct experiments in a closed-loop system, learning from outcomes to refine future experimentation. The goal is...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b](https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RSC PublishingToward self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 · Cited by 3 — This review outlines the vision of S...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: google.com  
-   Link: [https://www.google.com/](https://www.google.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleSearch the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
+   Link: <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.google.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: about.google  
-   Link: [https://about.google/](https://about.google/)  
+   Link: <a href="https://about.google/" target="_blank" rel="noopener noreferrer nofollow">https://about.google/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our products, technology and company...Learn more about Google. Explore our innovative AI products and services, and how we&#x27;re using tec...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/](https://deepmind.google/)  
+   Link: <a href="https://deepmind.google/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindGoogle DeepMind robotics lab tour. Hannah interacts with a new set of robots—those that don&#x27;t just see, but think, plan, a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-03745-5](https://www.nature.com/articles/d41586-023-03745-5)  
+   Link: <a href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03745-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400,000 stable substances...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44160-026-01053-0](https://www.nature.com/articles/s44160-026-01053-0)  
+   Link: <a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — By automating repetitive procedures, SDLs allow...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06735-9](https://www.nature.com/articles/s41586-023-06735-9)  
+   Link: <a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1878 — Here we show that graph networks trained at scale can...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/collections/igbhhbedgi](https://www.nature.com/collections/igbhhbedgi)  
+   Link: <a href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/igbhhbedgi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs and automation software for chemistry and...Feb 7, 2024 — This cross-journal collection is dedicated to the developmen...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/collections/eiiadfbbhb](https://www.nature.com/collections/eiiadfbbhb)  
+   Link: <a href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/eiiadfbbhb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratories for Chemistry and Materials...8 Oct 2024 — The integration of self-driving laboratories and advanced automatio...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-025-09992-y](https://www.nature.com/articles/s41586-025-09992-y)  
+   Link: <a href="https://www.nature.com/articles/s41586-025-09992-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-09992-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Author Correction: An autonomous laboratory for the...by NJ Szymanski · 2026 — Author Correction: An autonomous laboratory for the accel...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ceder.berkeley.edu  
    Title: autonomous experimentation for accelerated materials discovery  
-   Link: [https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/](https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/)  
+   Link: <a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>experimentation for accelerated materials...Figure: The closed loop workflow used to discover and synthesize new materials in the A-Lab...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ceder.berkeley.edu  
    Title: [a lab](&#123;&#123; 'a-lab/' | relative_url &#125;&#125;) paper published in nature featured in news story  
-   Link: [https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/](https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/)  
+   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.eduA-Lab paper published in Nature, featured in news stories29 Nov 2023 — Autonomous experimentation for accelerated materials d...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2509.05351v1](https://arxiv.org/html/2509.05351v1)  
+   Link: <a href="https://arxiv.org/html/2509.05351v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.05351v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratory Optimizes the Lower Critical...Sep 2, 2025 — The results indicate that our integrated robotic and machine learni...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.4c00055](https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.4c00055)  
+   Link: <a href="https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.4c00055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acs.orgSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 540 — This review provides an in-depth ana...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: cen.acs.org  
-   Link: [https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01](https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01)  
+   Link: <a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>acs.org&#x27;Nature&#x27; robot chemist paper corrected, but some... - C&amp;EN29 Jan 2026 — The Nature study, published in November 2023, attracted...</p></details>
    Published: November 2023  
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238524003229](https://www.sciencedirect.com/science/article/pii/S2590238524003229)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 70 — Self-driving labs (SDLs) have emerged as effe...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2635098X24000846](https://www.sciencedirect.com/org/science/article/pii/S2635098X24000846)  
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X24000846" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2635098X24000846</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of low-cost self-driving laboratories in chemistry...by S Lo · 2024 · Cited by 95 — This review proposes the concept of a “frugal...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: search.google  
    Title: Google Search  
-   Link: [https://search.google/](https://search.google/)  
+   Link: <a href="https://search.google/" target="_blank" rel="noopener noreferrer nofollow">https://search.google/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A new kind of helpExplore a new kind of help for your everyday with breakthroughs in Search intelligence from Google I/O...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: newscenter.lbl.gov  
    Title: google deepmind new compounds materials project  
-   Link: [https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/](https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/)  
+   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Some of the computations from GNoME were use...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Google](https://en.wikipedia.org/wiki/Google)  
+   Link: <a href="https://en.wikipedia.org/wiki/Google" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Google</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GoogleGoogle is the largest provider of search engines, mapping and navigation applications, email services, office suites, online vid...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/gennarocuofano_google-deepmind-to-build-materials-science-activity-7404827360908197890-FWoI](https://www.linkedin.com/posts/gennarocuofano_google-deepmind-to-build-materials-science-activity-7404827360908197890-FWoI)  
+   Link: <a href="https://www.linkedin.com/posts/gennarocuofano_google-deepmind-to-build-materials-science-activity-7404827360908197890-FWoI" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/gennarocuofano_google-deepmind-to-build-materials-science-activity-7404827360908197890-FWoI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind&#x27;s UK Lab Combines AI with Materials...Google DeepMind&#x27;s new UK-based automated materials-science lab signals a strategic...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: lee-enterprises.com  
    Title: ai is accelerating materials science discovery and synthesis exponentially  
-   Link: [https://lee-enterprises.com/ai-is-accelerating-materials-science-discovery-and-synthesis-exponentially/](https://lee-enterprises.com/ai-is-accelerating-materials-science-discovery-and-synthesis-exponentially/)  
+   Link: <a href="https://lee-enterprises.com/ai-is-accelerating-materials-science-discovery-and-synthesis-exponentially/" target="_blank" rel="noopener noreferrer nofollow">https://lee-enterprises.com/ai-is-accelerating-materials-science-discovery-and-synthesis-exponentially/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is Accelerating Materials Science Discovery and...Apr 10, 2024 — An autonomous laboratory for the accelerated synthesis of novel mate...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: newscenter.lbl.gov  
-   Link: [https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/](https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/)  
+   Link: <a href="https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2026/01/13/accelerating-discovery-how-the-materials-project-is-helping-to-usher-in-the-ai-revolution-for-materials-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery: How the Materials Project Is Helping...Jan 13, 2026 — For example, Google Deepmind — Google&#x27;s artificial intelligence lab — u...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery](https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...Nov 3, 2025 — Next-generation autonomous laboratories that combine machin...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: github.com  
-   Link: [https://github.com/AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)  
+   Link: <a href="https://github.com/AccelerationConsortium/awesome-self-driving-labs" target="_blank" rel="noopener noreferrer nofollow">https://github.com/AccelerationConsortium/awesome-self-driving-labs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AccelerationConsortium/awesome-self-driving-labs...A curated list of resources related to self-driving laboratories (SDLs) which combine...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/](https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/)  
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerated synt...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/GNoME_%28DeepMind%29](https://en.wikipedia.org/wiki/GNoME_%28DeepMind%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/GNoME_%28DeepMind%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/GNoME_%28DeepMind%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoME (DeepMind)GNoME is an artificial intelligence system developed by Google DeepMind for materials discovery. It uses graph neural...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CJHu3yDOYGI](https://www.youtube.com/watch?v=CJHu3yDOYGI)  
+   Link: <a href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CJHu3yDOYGI</a>  
 
 42. <a id="endnote-42"></a>
    Source: thelab.brookesbell.com  
    Title: googles deepmind ai tool makes material science breakthrough 158802  
-   Link: [https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/](https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/)  
+   Link: <a href="https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/" target="_blank" rel="noopener noreferrer nofollow">https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brookesbell.comGoogle&#x27;s DeepMind AI Tool Makes Material Science...14 Dec 2023 — In a further development, the GNoME team has been collab...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/144767196/The_Bright_Future_of_Materials_Science_with_AI_Self_Driving_Laboratories_and_Closed_Loop_Discovery](https://www.academia.edu/144767196/The_Bright_Future_of_Materials_Science_with_AI_Self_Driving_Laboratories_and_Closed_Loop_Discovery)  
+   Link: <a href="https://www.academia.edu/144767196/The_Bright_Future_of_Materials_Science_with_AI_Self_Driving_Laboratories_and_Closed_Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/144767196/The_Bright_Future_of_Materials_Science_with_AI_Self_Driving_Laboratories_and_Closed_Loop_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>precise design of nanostructures with tailored optical, electronic, and mechanical...Read more...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38030721/](https://pubmed.ncbi.nlm.nih.gov/38030721/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAn autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 981 — We introduce the A-Lab, an aut...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 981 — We introduce the A-Lab, an aut...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: commons.wikimedia.org  
    Title: File:Autonomous materials discovery with the A Lab.webp  
-   Link: [https://commons.wikimedia.org/wiki/File%3AAutonomous_materials_discovery_with_the_A-Lab.webp](https://commons.wikimedia.org/wiki/File%3AAutonomous_materials_discovery_with_the_A-Lab.webp)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AAutonomous_materials_discovery_with_the_A-Lab.webp" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AAutonomous_materials_discovery_with_the_A-Lab.webp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Autonomous materials discovery with the A-Lab.webp29 Nov 2023 — These recipes are tested using a robotic laboratory tha...</p></details>

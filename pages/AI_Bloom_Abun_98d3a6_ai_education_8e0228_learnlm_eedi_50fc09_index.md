@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-education/
 description: Focused pages that expand on Learn LM Maths.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_education_8e0228_learnlm_eedi_50fc09
-parent_title: Learn LM Maths | Education
+parent_title: Learn LM Maths
 parent_nav_short_title: Learn LM Maths
 parent_permalink: /learn-lm-maths/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /closed-loops/
 nav_short_title: A Lab
 title: Can One Autonomous Lab Compress Years of Discovery?
-title_full: Can One Autonomous Lab Compress Years of Discovery? | Closed loops
+title_full: Can One Autonomous Lab Compress Years of Discovery?
 display_title_short: A Lab
 display_title: A Lab
 heading_title: Can One Autonomous Lab Compress Years of Discovery?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The missing loop in AI science | Discovery
+date: '2026-06-08 02:15:35'
+parent_title: The missing loop in AI science
 parent_permalink: /closed-loops/
 parent_nav_short_title: Closed loops
 parent_heading_title: The missing loop in AI science
@@ -260,7 +261,6 @@ next_link:
   permalink: /cloud-labs/
   short_title: Cloud Labs
   heading_title: Who Gets Access to Automated Science Infrastructure?
-date: '2026-06-08 02:15:35 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1.webp
@@ -269,11 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 ## Introduction
 
-The A-Lab experiment became one of the most discussed demonstrations of AI-driven [scientific]({{ 'discovery/' | relative_url }}) acceleration because it moved beyond prediction and into physical reality. In late 2023, researchers at Lawrence Berkeley National Laboratory reported that their autonomous materials laboratory operated continuously for 17 days, selecting, running, evaluating and refining experiments with minimal human intervention. During that campaign, the system successfully synthesised dozens of targeted inorganic materials that had never previously been realised in the laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
-
+The A-Lab experiment became one of the most discussed demonstrations of AI-driven scientific acceleration because it moved beyond prediction and into physical reality. In late 2023, researchers at Lawrence Berkeley National Laboratory reported that their autonomous materials laboratory operated continuously for 17 days, selecting, running, evaluating and refining experiments with minimal human intervention. During that campaign, the system successfully synthesised dozens of targeted inorganic materials that had never previously been realised in the laboratory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-dark.svg" | relative_url }}" alt="A Lab illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the broader idea of AI-enabled scientific abundance, the importance was not merely that A-Lab made new compounds. Materials science has long been constrained by slow experimental cycles, where researchers spend weeks or months testing hypotheses. A-Lab suggested that AI, robotics and automated decision-making can compress those cycles into a continuous feedback loop operating day and night. The experiment therefore became a test of a larger claim: whether machine [intelligence]({{ 'intelligence/' | relative_url }}) connected directly to laboratory equipment can accelerate [discovery]({{ 'discovery/' | relative_url }}) itself rather than simply analyse existing data. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAutonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+For the broader idea of AI-enabled scientific abundance, the importance was not merely that A-Lab made new compounds. Materials science has long been constrained by slow experimental cycles, where researchers spend weeks or months testing hypotheses. A-Lab suggested that AI, robotics and automated decision-making can compress those cycles into a continuous feedback loop operating day and night. The experiment therefore became a test of a larger claim: whether machine [intelligence]({{ 'intelligence/' | relative_url }}) connected directly to laboratory equipment can accelerate [discovery]({{ 'discovery/' | relative_url }}) itself rather than simply analyse existing data. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 ## Can One Autonomous Lab Compress Years of Discovery?
 
@@ -296,12 +295,11 @@ Researchers integrated:
 * Automated characterisation systems that evaluated experimental outcomes.
 * Active-learning software that decided what to try next. Nature PubMed The workflow looked more like a scientific team than a traditional robot. <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[royalsocietypublishing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
 
-First, candidate compounds were selected from computational predictions. The system then generated synthesis recipes using knowledge extracted from existing scientific literature. Robotic equipment mixed and processed the materials. Characterisation tools measured the outcome. The resulting data fed back into the decision system, which updated its understanding and proposed new experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span>
+First, candidate compounds were selected from computational predictions. The system then generated synthesis recipes using knowledge extracted from existing scientific literature. Robotic equipment mixed and processed the materials. Characterisation tools measured the outcome. The resulting data fed back into the decision system, which updated its understanding and proposed new experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span>
 
 This feedback loop is what distinguishes autonomous science from ordinary automation.
 
-Laboratories have long used robotic instruments. The novel element was the integration of decision-making and experimentation into a continuous cycle. Instead of simply executing a fixed protocol, A-Lab adjusted its actions based on what happened in previous runs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureRobot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</span></span></span>
-
+Laboratories have long used robotic instruments. The novel element was the integration of decision-making and experimentation into a continuous cycle. Instead of simply executing a fixed protocol, A-Lab adjusted its actions based on what happened in previous runs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Sp2r2ankib0" title="Accelerating Discovery with AI and Automation at Berkeley Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Sp2r2ankib0" target="_blank" rel="noopener noreferrer">Accelerating Discovery with AI and Automation at Berkeley Lab</a></p><p class="youtube-embed-meta">Channel: Berkeley Lab &middot; Views: 2.5K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Sp2r2ankib0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Sp2r2ankib0">Open on YouTube</a></p></div></div></div>
 
@@ -309,16 +307,15 @@ Laboratories have long used robotic instruments. The novel element was the integ
 
 The most important part of the experiment was arguably not the successes but the failures.
 
-Materials synthesis is full of dead ends. Reactions can produce unwanted phases, incomplete products or entirely different compounds from those predicted. Human researchers normally learn from these failures, adjusting temperatures, ingredient ratios or processing steps and then trying again. That iterative process is often slow and heavily dependent on expert judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAutonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+Materials synthesis is full of dead ends. Reactions can produce unwanted phases, incomplete products or entirely different compounds from those predicted. Human researchers normally learn from these failures, adjusting temperatures, ingredient ratios or processing steps and then trying again. That iterative process is often slow and heavily dependent on expert judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 A-Lab attempted to automate that learning process.
 
-When an experiment failed to produce a sufficiently pure target material, the system analysed the result and proposed follow-up recipes designed to improve the outcome. Researchers described the approach as active learning grounded in thermodynamic reasoning rather than simple trial-and-error searching. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
+When an experiment failed to produce a sufficiently pure target material, the system analysed the result and proposed follow-up recipes designed to improve the outcome. Researchers described the approach as active learning grounded in thermodynamic reasoning rather than simple trial-and-error searching. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
 
 Several of the successful syntheses emerged only after these iterative corrections. Reports on the campaign noted that some compounds required repeated refinement before the desired result appeared. In other words, the achievement was not merely that the system executed experiments quickly. It demonstrated the ability to respond to experimental reality and adapt its behaviour during the campaign. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.berkeley.edu">[UC Berkeley Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.berkeley.edu</span><span class="citation-popover-snippet">UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</span></span></span>
 
 This matters because many optimistic forecasts about AI-driven science assume that machine systems will eventually do more than search databases. They will need to confront messy, uncertain physical environments where predictions fail. A-Lab provided evidence that closed-loop systems can begin handling that challenge.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-2-dark.svg" | relative_url }}" alt="A Lab illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Results Mattered Beyond Materials Science
@@ -327,10 +324,9 @@ The broader importance of the 17-day campaign was methodological.
 
 The materials themselves were less significant than the process used to discover them.
 
-Researchers in batteries, semiconductors, catalysts, superconductors, pharmaceuticals and other fields all face versions of the same problem: enormous search spaces combined with expensive experiments. There may be millions or billions of plausible possibilities, but only a tiny fraction can be tested manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAutonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
+Researchers in batteries, semiconductors, catalysts, superconductors, pharmaceuticals and other fields all face versions of the same problem: enormous search spaces combined with expensive experiments. There may be millions or billions of plausible possibilities, but only a tiny fraction can be tested manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</span></span></span>
 
 A-Lab suggested a different model for scientific progress:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -341,10 +337,9 @@ A-Lab suggested a different model for scientific progress:
 
 </div>
 
-The result is not just faster experiments. It is potentially a different scale of experimentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
+The result is not just faster experiments. It is potentially a different scale of experimentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</span></span></span>
 
 For advocates of long-term AI-driven abundance, this is one of the clearest pathways from digital intelligence to physical progress. Economic and civilisational gains ultimately depend on changes in the physical world: better [energy]({{ 'energy/' | relative_url }}) systems, improved medicines, stronger materials, cleaner industrial processes and more efficient manufacturing. Accelerating the discovery cycle for those technologies could have effects far beyond laboratory productivity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoGyefEIbH0" title="Inside the DOE&#x27;s Autonomous Lab for Materials Discovery - David Milsted, Lab Systems Engineer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoGyefEIbH0" target="_blank" rel="noopener noreferrer">Inside the DOE&#x27;s Autonomous Lab for Materials Discovery - David Milsted, Lab Systems Engineer</a></p><p class="youtube-embed-meta">Channel: Discovery Engines – with Nabil &middot; Views: 850 &middot; Uploaded: April 2025 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoGyefEIbH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoGyefEIbH0">Open on YouTube</a></p></div></div></div>
 
@@ -356,14 +351,13 @@ Shortly after publication, some researchers questioned whether A-Lab had truly c
 
 This criticism matters because the most dramatic headlines focused on the number of supposedly novel compounds produced.
 
-Yet even if one adopts a more conservative interpretation, the central result remains substantial. The strongest evidence from A-Lab was not that every compound represented a revolutionary discovery. It was that an autonomous system successfully navigated a difficult synthesis process, adapted after failures and repeatedly converted computational predictions into experimentally realised materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</span></span></span>
+Yet even if one adopts a more conservative interpretation, the central result remains substantial. The strongest evidence from A-Lab was not that every compound represented a revolutionary discovery. It was that an autonomous system successfully navigated a difficult synthesis process, adapted after failures and repeatedly converted computational predictions into experimentally realised materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</span></span></span>
 
 The distinction is important.
 
 A claim that AI can autonomously discover scientifically valuable materials at scale requires years of [validation]({{ 'validation/' | relative_url }}) and downstream usefulness studies. A claim that AI-guided laboratories can dramatically increase experimental throughput already has much stronger evidence.
 
 In that sense, the most durable lesson from A-Lab may be about process rather than novelty.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-3-dark.svg" | relative_url }}" alt="A Lab illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_a_lab_materia_2df5e0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What A-Lab Revealed About the Future of Scientific Throughput
@@ -374,15 +368,13 @@ It did not show that AI can replace scientists, eliminate the need for theory, o
 
 What it did show was narrower and, in some ways, more important.
 
-It demonstrated that closed-loop systems can carry out extended experimental campaigns, learn from failed attempts, update their strategies and continuously push through a large search space without requiring constant human intervention. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAn autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
+It demonstrated that closed-loop systems can carry out extended experimental campaigns, learn from failed attempts, update their strategies and continuously push through a large search space without requiring constant human intervention. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</span></span></span>
 
 For the wider story of AI bloom, that is one of the clearest pieces of evidence that scientific progress itself may become increasingly automatable. The long-term promise is not a single robot laboratory producing a handful of compounds. It is the possibility of thousands of interconnected systems exploring chemical, biological and engineering possibilities simultaneously, each improving from real-world feedback.
 
 The leap from intelligence to abundance depends on whether ideas can be turned into reality faster. A-Lab's 17-day campaign became a landmark because it offered one of the first concrete demonstrations that this transition may already be beginning. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsocietypublishing.org">[Royal Society Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsocietypublishing.org</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/blooHbR5_eM" title="An autonomous laboratory for the accelerated synthesis of novel materials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer">An autonomous laboratory for the accelerated synthesis of novel materials</a></p><p class="youtube-embed-meta">Channel: Arman Simohartono &middot; Views: 443 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=blooHbR5_eM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -780,148 +772,148 @@ The leap from intelligence to abundance depends on whether ideas can be turned i
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Over 17 days of continuous operation, the A-Lab realized...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238521003064](https://www.sciencedirect.com/science/article/pii/S2590238521003064)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAutonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238521003064" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238521003064</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous experimentation systems for materials...by E Stach · 2021 · Cited by 392 — This review discusses the specific ch...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: [https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them)  
+   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: time.com  
-   Link: [https://time.com/6340681/deepmind-gnome-ai-materials/](https://time.com/6340681/deepmind-gnome-ai-materials/)  
+   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ceder.berkeley.edu  
-   Link: [https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/](https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/)  
+   Link: <a href="https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/research-areas/autonomous-experimentation-for-accelerated-materials-discovery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of novel materials. Nature (2023).Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10700133/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1176 — Over 17 days of operation, the A...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-020-19597-w](https://www.nature.com/articles/s41467-020-19597-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 535 — In this work, we focus a closed-loop...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: law.berkeley.edu  
-   Link: [https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf](https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf)  
+   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Google-AI-and-robots-join-forces-to-build-new-materials.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley LawGoogle AI and robots join forces to build new materialsby M Peplow · Cited by 10 — In all, the A-Lab took 17 days to produ...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-03956-w](https://www.nature.com/articles/d41586-023-03956-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureRobot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</p></details>
+   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materialsDec 12, 2023 — Researchers question whether an AI-controlled lab assist...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ceder.berkeley.edu  
    Title: a lab paper published in nature featured in news story  
-   Link: [https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/](https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/)  
+   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>berkeley.eduA-Lab paper published in Nature, featured in news storiesNov 29, 2023 — Nature published a journal article written by Mark Pe...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-024-08173-7](https://www.nature.com/articles/s41586-024-08173-7)  
+   Link: <a href="https://www.nature.com/articles/s41586-024-08173-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-024-08173-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous mobile robots for exploratory synthetic chemistryby T Dai · 2024 · Cited by 245 — Here we show that a synthesis laboratory can...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: royalsocietypublishing.org  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of](https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newscenter.lbl.gov  
    Title: A-Lab and a scientist at Berkeley Lab and UC Berkeley.Read more  
-   Link: [https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/](https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/)  
+   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — Over 17 days of independent operation, A-Lab...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: chemistryworld.com  
-   Link: [https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article](https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article)  
+   Link: <a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New analysis raises doubts over autonomous lab&#x27;s...Jan 16, 2024 — The team reported that, over 17 days of independent operation, A-Lab p...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cen.acs.org  
    Title: Chemical & Engineering News'Nature' robot chemist paper corrected, but some  
-   Link: [https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01](https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01)  
+   Link: <a href="https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/research-integrity/Nature-robot-chemist-paper-corrected/104/web/2026/01</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>C&amp;EN29 Jan 2026 — The original study claimed the robot had discovered 43 new materials in 17 days...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adu7426](https://www.science.org/doi/10.1126/sciadv.adu7426)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 22 — This study demonstrates real-time, autonomou...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: chemistryworld.com  
-   Link: [https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article](https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article)  
+   Link: <a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — Over 17 days of independent operation, A-Lab performed 21 e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nlr.gov  
    Title: autonomous experimentation  
-   Link: [https://www.nlr.gov/materials-science/autonomous-experimentation](https://www.nlr.gov/materials-science/autonomous-experimentation)  
+   Link: <a href="https://www.nlr.gov/materials-science/autonomous-experimentation" target="_blank" rel="noopener noreferrer nofollow">https://www.nlr.gov/materials-science/autonomous-experimentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science | NLR6 Dec 2025 — Our work on autonomous characterization focuses on implementing AI-driven [control](&amp;#123;&amp;#123; &#x27;control/&#x27; | relative_url &amp;#125;&amp;#125;) to accelerate the m...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle](https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-powered-labs-discovering-materials-10x-faster-brightbeam-ai-dfvle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Powered Labs: Discovering Materials 10x FasterIn just 17 days of continuous operation, A-Lab successfully fabricated 41 novel solid-st...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/](https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAutonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerate...</p></details>
+   Link: <a href="https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/slatestarcodex/comments/1923p07/autonomous_lab_did_not_synthesize_any_new/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous lab did not synthesize any new materialsThis is a reanalysis of Nature paper An autonomous laboratory for the accelerate...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mrs.digitellinc.com  
-   Link: [https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295](https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295)  
+   Link: <a href="https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295" target="_blank" rel="noopener noreferrer nofollow">https://mrs.digitellinc.com/p/s/ds010302-a-lab-an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-inorganic-materials-44295</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>digitellinc.comDS01.03.02: A-Lab—An Autonomous Laboratory for the...Over 17 days of continuous operation, the A-Lab successfully develop...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sciencesprings.wordpress.com  
-   Link: [https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/](https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/)  
+   Link: <a href="https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://sciencesprings.wordpress.com/2025/09/04/from-the-does-lawrence-berkeley-national-laboratory-how-ai-and-automation-are-speeding-up-science-and-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DOE&#x27;s Lawrence Berkeley National Laboratory4 Sept 2025 — From smart robots to supercomputers, Berkeley Lab is using AI-driven systems...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/](https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/)  
+   Link: <a href="https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/entanglementandemergence/posts/2052781258402895/</a>  
 
 24. <a id="endnote-24"></a>
    Source: dim-materre.fr  
    Title: an autonomous laboratory for the accelerated synthesis of novel materials  
-   Link: [https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/](https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/)  
+   Link: <a href="https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/" target="_blank" rel="noopener noreferrer nofollow">https://www.dim-materre.fr/en/publications/an-autonomous-laboratory-for-the-accelerated-synthesis-of-novel-materials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — Over 17 days of continuous operation, the A-Lab realized 41 n...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: theaiinsider.tech  
-   Link: [https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/](https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/)  
+   Link: <a href="https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://theaiinsider.tech/2026/05/25/autonomous-ai-lab-takes-aim-at-quantum-materials-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ns, executes and analyzes real-world laboratory experiments using large...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: ifp.org  
    Title: scaling materials discovery with self driving labs  
-   Link: [https://ifp.org/scaling-materials-discovery-with-self-driving-labs/](https://ifp.org/scaling-materials-discovery-with-self-driving-labs/)  
+   Link: <a href="https://ifp.org/scaling-materials-discovery-with-self-driving-labs/" target="_blank" rel="noopener noreferrer nofollow">https://ifp.org/scaling-materials-discovery-with-self-driving-labs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Materials Discovery with Self-Driving LabsAug 11, 2025 — With targeted support for autonomous experimentation, the US can convert...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials](https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials)  
+   Link: <a href="https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/689026037/accelerated-synthesis-of-novel-materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>days of continuous experimentation, representing all...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38030721/](https://pubmed.ncbi.nlm.nih.gov/38030721/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAn autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1080 — Over 17 days of continuous op...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030721/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030721/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...by NJ Szymanski · 2023 · Cited by 1080 — Over 17 days of continuous op...</p></details>

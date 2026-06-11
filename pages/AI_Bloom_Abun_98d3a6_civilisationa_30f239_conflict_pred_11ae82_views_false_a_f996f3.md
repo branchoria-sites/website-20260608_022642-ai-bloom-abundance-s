@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /conflict-ai/
 nav_short_title: VIEWS Accuracy
 title: How VIEWS Forecasts Conflict and Manages False Alarms
-title_full: How VIEWS Forecasts Conflict and Manages False Alarms | Conflict AI
+title_full: How VIEWS Forecasts Conflict and Manages False Alarms
 display_title_short: VIEWS Accuracy
 display_title: VIEWS Accuracy
 heading_title: How VIEWS Forecasts Conflict and Manages False Alarms
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Conflict Forecasting Helps And When It Fails | Resilience
+date: '2026-06-08 01:58:46'
+parent_title: When Conflict Forecasting Helps And When It Fails
 parent_permalink: /conflict-ai/
 parent_nav_short_title: Conflict AI
 parent_heading_title: When Conflict Forecasting Helps And When It Fails
@@ -260,7 +261,6 @@ prev_link:
   permalink: /new-conflict-prediction/
   short_title: New Conflict Prediction
   heading_title: Why AI Struggles to Forecast Emerging Conflicts
-date: '2026-06-08 01:58:46 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-1.webp
@@ -271,9 +271,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11
 
 The Violence & Impacts Early-Warning System (VIEWS) is one of the most influential attempts to use machine learning to forecast armed conflict before violence escalates. It is often presented as a promising example of how advanced data analysis might help governments, humanitarian organisations and researchers act earlier, potentially reducing human suffering and improving civilisational [resilience]({{ 'resilience/' | relative_url }}). But VIEWS faces a problem common to many AI forecasting systems: conflict is rare, unpredictable and heavily shaped by human choices. A model can identify many genuine risks while also generating large numbers of warnings that never become wars.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-1-dark.svg" | relative_url }}" alt="VIEWS Accuracy illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This creates a difficult balance. If a forecasting system only warns when violence is almost certain, it may miss emerging crises. If it warns too often, decision-makers may stop trusting it. Understanding VIEWS therefore requires looking not only at where it succeeds, but also at how it handles [false alarms]({{ 'false-alarm-impacts/' | relative_url }}), uncertainty and the statistical challenge of predicting rare events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
+This creates a difficult balance. If a forecasting system only warns when violence is almost certain, it may miss emerging crises. If it warns too often, decision-makers may stop trusting it. Understanding VIEWS therefore requires looking not only at where it succeeds, but also at how it handles false alarms, uncertainty and the statistical challenge of predicting rare events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
 
 ## How VIEWS Tries to Forecast Rare Events
 
@@ -287,10 +286,9 @@ This means that false alarms are not treated as a side issue. They are built int
 
 Conflict forecasting resembles medical screening more than weather prediction. Imagine a disease that affects only a small fraction of the population. Even a highly capable screening system may generate many positive tests that ultimately turn out to be harmless simply because the condition itself is uncommon.
 
-Political violence creates a similar statistical problem. Most regions that exhibit warning signs do not descend into major armed conflict. Economic stress, political repression, ethnic tensions or environmental shocks may increase risk without producing violence. As a result, a forecasting system can correctly identify a dangerous environment while still appearing to have issued a [false alarm]({{ 'false-alarm-impacts/' | relative_url }}) if conflict never materialises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
+Political violence creates a similar statistical problem. Most regions that exhibit warning signs do not descend into major armed conflict. Economic stress, political repression, ethnic tensions or environmental shocks may increase risk without producing violence. As a result, a forecasting system can correctly identify a dangerous environment while still appearing to have issued a false alarm if conflict never materialises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
 
 There are several reasons why a VIEWS warning may not be followed by observed violence: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">The Violence &amp; Impacts Early-Warning System (VIEWS</span><span class="citation-popover-snippet">Exploring the Societal Potential of the VIEWS Early Warning System – the PoC Project in Review...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -304,7 +302,6 @@ There are several reasons why a VIEWS warning may not be followed by observed vi
 </div>
 
 These possibilities make false alarms difficult to interpret. A warning that appears wrong may sometimes reflect a near miss rather than a meaningless prediction.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dx2P7jvYTsk" title="The Violence &amp; Impacts Early-Warning System (VIEWS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer">The Violence &amp; Impacts Early-Warning System (VIEWS)</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 277 &middot; Uploaded: November 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dx2P7jvYTsk">Open on YouTube</a></p></div></div></div>
 
@@ -338,7 +335,6 @@ If a civil war is already active, historical patterns often provide strong clues
 
 VIEWS is designed partly to detect diffusion effects, where violence spreads across borders or into neighbouring regions. This can improve sensitivity to emerging crises, but it also increases the risk of forecasting violence in places that remain stable despite being geographically exposed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-2-dark.svg" | relative_url }}" alt="VIEWS Accuracy illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Trade-Off Between Missing Wars and Warning Too Often
 
@@ -347,7 +343,6 @@ A central insight from conflict forecasting research is that reducing false alar
 This trade-off is often discussed using precision and recall. Precision measures how many warnings prove correct. Recall measures how many actual conflicts are successfully detected. Increasing one commonly reduces the other. Researchers working on conflict forecasting frequently use precision-recall analysis precisely because conflict events are so rare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bw.bse.eu/wp-content/uploads/2022/06/1355-file.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bw.bse.eu">[Barcelona School of Economics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bw.bse.eu</span><span class="citation-popover-title">1355 file</span><span class="citation-popover-snippet">We therefore focus on presenting precision/recall curves for armed conflict onset.Read more...</span></span></span>
 
 For policymakers, the preferred balance depends on the consequences of error.
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -359,14 +354,13 @@ For policymakers, the preferred balance depends on the consequences of error.
 
 This means there is no single correct threshold for action. VIEWS provides probabilities rather than definitive predictions partly because different users face different costs from false positives and false negatives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c23uLOLpilo" title="Exploring the Societal Potential of the VIEWS Early Warning System – the PoC Project in Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c23uLOLpilo" target="_blank" rel="noopener noreferrer">Exploring the Societal Potential of the VIEWS Early Warning System – the PoC Project in Review</a></p><p class="youtube-embed-meta">Channel: VIEWS – Violence &amp; Impacts Early-Warning System &middot; Views: 132 &middot; Uploaded: February 2024 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c23uLOLpilo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c23uLOLpilo">Open on YouTube</a></p></div></div></div>
 
 ## A Less Obvious Problem: Good Scores Can Reward Conservative Forecasts
 
 One of the more surprising findings in the conflict forecasting literature is that evaluation systems themselves can distort behaviour.
 
-Researchers analysing a VIEWS forecasting challenge found that some scoring approaches rewarded conservative predictions that stayed close to "no major change". Under certain evaluation rules, a simple model predicting little movement could outperform more ambitious forecasts attempting to anticipate major escalations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.12108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Direction Augmentation in the Evaluation of Armed Conflict Predictions</span><span class="citation-popover-snippet">arXivDirection Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</span><span class="citation-popover-meta">Published: April 24, 2023</span></span></span>
+Researchers analysing a VIEWS forecasting challenge found that some scoring approaches rewarded conservative predictions that stayed close to "no major change". Under certain evaluation rules, a simple model predicting little movement could outperform more ambitious forecasts attempting to anticipate major escalations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.12108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Direction Augmentation in the Evaluation of Armed Conflict Predictions</span><span class="citation-popover-snippet">Direction Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</span><span class="citation-popover-meta">Published: April 24, 2023</span></span></span>
 
 This matters because forecasting systems are partly shaped by the metrics used to judge them. If evaluation methods penalise bold predictions too heavily, models may become overly cautious. If they reward sensitivity too strongly, systems may generate excessive false alarms.
 
@@ -376,19 +370,18 @@ The challenge therefore extends beyond machine learning architecture. It also in
 
 Not every false alarm originates in the model itself.
 
-Conflict forecasting depends heavily on event databases such as those maintained by the Uppsala Conflict Data Program and ACLED. These datasets are among the best available, but they face unavoidable reporting delays and information gaps. Recent research has shown that conflict events are often reported weeks after they occur and that reporting speed varies systematically across countries and event types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.12108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Direction Augmentation in the Evaluation of Armed Conflict Predictions</span><span class="citation-popover-snippet">arXivDirection Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</span><span class="citation-popover-meta">Published: April 24, 2023</span></span></span>
+Conflict forecasting depends heavily on event databases such as those maintained by the Uppsala Conflict Data Program and ACLED. These datasets are among the best available, but they face unavoidable reporting delays and information gaps. Recent research has shown that conflict events are often reported weeks after they occur and that reporting speed varies systematically across countries and event types. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.12108" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Direction Augmentation in the Evaluation of Armed Conflict Predictions</span><span class="citation-popover-snippet">Direction Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</span><span class="citation-popover-meta">Published: April 24, 2023</span></span></span>
 
 This creates a subtle problem. A forecast may appear incorrect because the relevant violence has not yet entered the dataset. Alternatively, violence in remote or politically closed regions may be undercounted altogether.
 
 For early-warning systems, data quality therefore becomes part of forecasting performance. Some apparent prediction failures reflect weaknesses in observation rather than weaknesses in inference.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-3-dark.svg" | relative_url }}" alt="VIEWS Accuracy illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_views_false_a_f996f3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Trust Depends on Transparency
 
 One reason VIEWS receives attention within the conflict forecasting field is its emphasis on public evaluation. Forecasts are published, archived and regularly reassessed rather than being hidden inside government systems. Researchers have repeatedly revisited earlier forecasts and compared them with subsequent outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span>
 
-This transparency helps users understand false alarms instead of treating forecasts as mysterious outputs from a [black box]({{ 'black-box-ai/' | relative_url }}).
+This transparency helps users understand false alarms instead of treating forecasts as mysterious outputs from a black box.
 
 Several features support trust:
 
@@ -398,8 +391,7 @@ Several features support trust:
 * Open discussion of failures and revisions.
 * Comparison with benchmark models and forecasting competitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/jpr/article/58/3/599/8365273" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicRevising and evaluating the ViEWS political Violence Early...by H Hegre · 2021 · Cited by 54 — This article presents an upda...</span></span></span>
 
-For conflict prevention, transparency may matter almost as much as raw [predictive]({{ 'failure-warnings/' | relative_url }}) performance. Policymakers are more likely to use uncertain forecasts responsibly when they can inspect assumptions and understand limitations.
-
+For conflict prevention, transparency may matter almost as much as raw predictive performance. Policymakers are more likely to use uncertain forecasts responsibly when they can inspect assumptions and understand limitations.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b5HJtguAEh8" title="Conflict Forecast | Pitch Recording" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b5HJtguAEh8" target="_blank" rel="noopener noreferrer">Conflict Forecast | Pitch Recording</a></p><p class="youtube-embed-meta">Channel: WFP Innovation Accelerator &middot; Views: 79 &middot; Uploaded: February 2026 &middot; Length: 3 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b5HJtguAEh8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b5HJtguAEh8">Open on YouTube</a></p></div></div></div>
 
@@ -407,7 +399,7 @@ For conflict prevention, transparency may matter almost as much as raw [predicti
 
 Within the broader debate about AI's role in humanity's long-term future, VIEWS illustrates both the promise and the limits of predictive systems.
 
-The optimistic case is straightforward. If AI systems can identify escalating violence earlier than human analysts alone, they may help preserve lives, institutions and social stability. Better anticipation of conflict could support humanitarian planning, reduce displacement and strengthen the conditions needed for [scientific]({{ 'discovery/' | relative_url }}) progress, economic development and international cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd-opsi.org">[Observatory of Public Sector Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd-opsi.org</span><span class="citation-popover-title">Observatory of Public Sector Innovation Vi EWS</span><span class="citation-popover-snippet">Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — The Violence Early-Warning System...</span></span></span>
+The optimistic case is straightforward. If AI systems can identify escalating violence earlier than human analysts alone, they may help preserve lives, institutions and social stability. Better anticipation of conflict could support humanitarian planning, reduce displacement and strengthen the conditions needed for scientific progress, economic development and international cooperation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd-opsi.org">[Observatory of Public Sector Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd-opsi.org</span><span class="citation-popover-title">Observatory of Public Sector Innovation Vi EWS</span><span class="citation-popover-snippet">Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — The Violence Early-Warning System...</span></span></span>
 
 The cautionary lesson is equally important. Forecasts are not neutral facts. False alarms can affect diplomatic decisions, resource allocation and public perceptions of entire regions. A system that predicts conflict everywhere becomes unusable; a system that predicts conflict nowhere becomes irrelevant.
 
@@ -809,145 +801,145 @@ VIEWS therefore offers a realistic picture of what high-stakes AI may look like 
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jpr/article/58/3/599/8365273](https://academic.oup.com/jpr/article/58/3/599/8365273)  
+   Link: <a href="https://academic.oup.com/jpr/article/58/3/599/8365273" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jpr/article/58/3/599/8365273</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicRevising and evaluating the ViEWS political Violence Early...by H Hegre · 2021 · Cited by 54 — This article presents an upda...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: prio.org  
-   Link: [https://www.prio.org/projects/1977](https://www.prio.org/projects/1977)  
+   Link: <a href="https://www.prio.org/projects/1977" target="_blank" rel="noopener noreferrer nofollow">https://www.prio.org/projects/1977</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peace Research Institute OsloVIEWS: Violence &amp; Impacts Early-Warning SystemThe Violence Early-Warning System (ViEWS) is a publicly availa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: diva-portal.org  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike accuracy, they give a better evaluation of how the algorithm is performing when dealing with...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: viewsforecasting.org  
    Title: ViEWS Overview 25June2018  
-   Link: [https://viewsforecasting.org/wp-content/uploads/ViEWS-Overview-25June2018.pdf](https://viewsforecasting.org/wp-content/uploads/ViEWS-Overview-25June2018.pdf)  
+   Link: <a href="https://viewsforecasting.org/wp-content/uploads/ViEWS-Overview-25June2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/wp-content/uploads/ViEWS-Overview-25June2018.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ViEWS: A political Violence Early Warning System25 Jun 2018 — The forecasts indicate a very strong persistence of conflict in regions in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: academic.oup.com  
    Title: Academic Can We Predict Armed Conflict?  
-   Link: [https://academic.oup.com/isq/article/65/3/660/6124679](https://academic.oup.com/isq/article/65/3/660/6124679)  
+   Link: <a href="https://academic.oup.com/isq/article/65/3/660/6124679" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/isq/article/65/3/660/6124679</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the First 9 Years of...by H Hegre · 2021 · Cited by 61 — This article sheds light on this question by evaluating 9 years of, at the...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Direction Augmentation in the Evaluation of Armed Conflict Predictions  
-   Link: [https://arxiv.org/abs/2304.12108](https://arxiv.org/abs/2304.12108)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDirection Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2304.12108" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.12108</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Direction Augmentation in the Evaluation of Armed Conflict PredictionsApril 24, 2023...</p></details>
    Published: April 24, 2023  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Assessing Reporting Delays in ACLED Conflict Event Data  
-   Link: [https://arxiv.org/abs/2603.25964](https://arxiv.org/abs/2603.25964)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAssessing Reporting Delays in ACLED Conflict Event DataMarch 26, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.25964" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.25964</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Reporting Delays in ACLED Conflict Event DataMarch 26, 2026...</p></details>
    Published: March 26, 2026  
 
 8. <a id="endnote-8"></a>
    Source: prio.org  
-   Link: [https://www.prio.org/news/3602](https://www.prio.org/news/3602)  
+   Link: <a href="https://www.prio.org/news/3602" target="_blank" rel="noopener noreferrer nofollow">https://www.prio.org/news/3602</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peace Research Institute OsloNew Results from Prediction Challenge That Seeks to...26 Feb 2025 — PRIO launched a conflict prediction cha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2410.14507v1](https://arxiv.org/html/2410.14507v1)  
+   Link: <a href="https://arxiv.org/html/2410.14507v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.14507v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bin-Conditional Conformal Prediction of Fatalities...Oct 18, 2024 — We apply the bin-conditional conformal prediction algorithm to forec...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2506.14817](https://arxiv.org/pdf/2506.14817)  
+   Link: <a href="https://arxiv.org/pdf/2506.14817" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2506.14817</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Next-Generation Conflict Forecastingby SP von der Maase · 2025 — The goal of conflict forecasting is to generate reliable predictions con...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: The Violence & Impacts Early-Warning System (VIEWS)  
-   Link: [https://www.youtube.com/watch?v=dx2P7jvYTsk](https://www.youtube.com/watch?v=dx2P7jvYTsk)  
+   Link: <a href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dx2P7jvYTsk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Societal Potential of the VIEWS Early Warning System – the PoC Project in Review...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/0022343319823860](https://journals.sagepub.com/doi/10.1177/0022343319823860)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/0022343319823860" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0022343319823860</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsViEWS: A political violence early-warning systemby H Hegre · 2019 · Cited by 247 — This article presents ViEWS – a political...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: oecd-opsi.org  
    Title: Observatory of Public Sector Innovation Vi EWS  
-   Link: [https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/](https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/)  
+   Link: <a href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — The Violence Early-Warning System...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bw.bse.eu  
    Title: 1355 file  
-   Link: [https://bw.bse.eu/wp-content/uploads/2022/06/1355-file.pdf](https://bw.bse.eu/wp-content/uploads/2022/06/1355-file.pdf)  
+   Link: <a href="https://bw.bse.eu/wp-content/uploads/2022/06/1355-file.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bw.bse.eu/wp-content/uploads/2022/06/1355-file.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We therefore focus on presenting precision/recall curves for armed conflict onset.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: viewsforecasting.org  
-   Link: [https://viewsforecasting.org/](https://viewsforecasting.org/)  
+   Link: <a href="https://viewsforecasting.org/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWS | Open-source project leveraging AI to predict armed...The article highlights advances in conflict forecasting and examines how re...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: [https://eprints.whiterose.ac.uk/id/eprint/226622/1/hegre-et-al-2025-the-2023-24-views-prediction-challenge-predicting-the-number-of-fatalities-in-armed-conflict-with.pdf](https://eprints.whiterose.ac.uk/id/eprint/226622/1/hegre-et-al-2025-the-2023-24-views-prediction-challenge-predicting-the-number-of-fatalities-in-armed-conflict-with.pdf)  
+   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/226622/1/hegre-et-al-2025-the-2023-24-views-prediction-challenge-predicting-the-number-of-fatalities-in-armed-conflict-with.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/226622/1/hegre-et-al-2025-the-2023-24-views-prediction-challenge-predicting-the-number-of-fatalities-in-armed-conflict-with.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the number of fatalities in armed conflict, with...by H Hegre · 2025 · Cited by 18 — Levels of analysis: forecasts of (logged) armed con...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 370227473 Direction Augmentation in the Evaluation of Armed Conflict Predictions  
-   Link: [https://www.researchgate.net/publication/370227473_Direction_Augmentation_in_the_Evaluation_of_Armed_Conflict_Predictions](https://www.researchgate.net/publication/370227473_Direction_Augmentation_in_the_Evaluation_of_Armed_Conflict_Predictions)  
+   Link: <a href="https://www.researchgate.net/publication/370227473_Direction_Augmentation_in_the_Evaluation_of_Armed_Conflict_Predictions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/370227473_Direction_Augmentation_in_the_Evaluation_of_Armed_Conflict_Predictions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Direction Augmentation in the Evaluation of Armed Conflict...Apr 25, 2023 — Governmental and nongovernmental organizations have increasi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: euridice.eu  
    Title: Beyond Closed Doors An Open Source AI Framework for Forecasting Armed Conflict 1  
-   Link: [https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf](https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf)  
+   Link: <a href="https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An Open-Source AI Framework for Forecasting Armed ConflictSep 8, 2025 — Surges in conflict-related news coverage were shown to act as ear...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gppac.net  
-   Link: [https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf](https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf)  
+   Link: <a href="https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>auses of conflict, predict the outbreak of violence and mitigate the conflict, an early warning system...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010482525005177](https://www.sciencedirect.com/science/article/pii/S0010482525005177)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010482525005177" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010482525005177</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable deep stacking ensemble model for accurate...by R Haque · 2025 · Cited by 71 — For performance evaluation, we focused on metr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: viewsforecasting.org  
    Title: new data release conflict forecasts for may 2026 april 2029  
-   Link: [https://viewsforecasting.org/news/new-data-release-conflict-forecasts-for-may-2026-april-2029/](https://viewsforecasting.org/news/new-data-release-conflict-forecasts-for-may-2026-april-2029/)  
+   Link: <a href="https://viewsforecasting.org/news/new-data-release-conflict-forecasts-for-may-2026-april-2029/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/news/new-data-release-conflict-forecasts-for-may-2026-april-2029/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Data Release: Conflict Forecasts for May 2026–April 20292 days ago — The latest VIEWS forecasts for state-based armed conflict are no...</p></details>
    Published: may 2026  
 
 22. <a id="endnote-22"></a>
    Source: demscore.se  
-   Link: [https://demscore.se/data/static-datasets/ucdp-views-static-datasets/views-prio-grid-month-conflict-predictions-last-input-data-august-2025/](https://demscore.se/data/static-datasets/ucdp-views-static-datasets/views-prio-grid-month-conflict-predictions-last-input-data-august-2025/)  
+   Link: <a href="https://demscore.se/data/static-datasets/ucdp-views-static-datasets/views-prio-grid-month-conflict-predictions-last-input-data-august-2025/" target="_blank" rel="noopener noreferrer nofollow">https://demscore.se/data/static-datasets/ucdp-views-static-datasets/views-prio-grid-month-conflict-predictions-last-input-data-august-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWS PRIO-GRID-Month Conflict Predictions (Last Input...VIEWS PRIO-GRID-Month Conflict Predictions (Last Input Data: August 2025) versi...</p></details>
    Published: August 2025  
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 331132518 ViEWS A political violence early warning system  
-   Link: [https://www.researchgate.net/publication/331132518_ViEWS_A_political_violence_early-warning_system](https://www.researchgate.net/publication/331132518_ViEWS_A_political_violence_early-warning_system)  
+   Link: <a href="https://www.researchgate.net/publication/331132518_ViEWS_A_political_violence_early-warning_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/331132518_ViEWS_A_political_violence_early-warning_system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) ViEWS: A political violence early-warning system2 May 2026 — This article presents ViEWS-a political violence early-warning system...</p></details>
    Published: May 2026  
 
 24. <a id="endnote-24"></a>
    Source: homepages.ucl.ac.uk  
    Title: ucl.ac.ukwe predict conflict better then we thought!  
-   Link: [https://www.homepages.ucl.ac.uk/~uctqnm0/web2_files/isaPaper.pdf](https://www.homepages.ucl.ac.uk/~uctqnm0/web2_files/isaPaper.pdf)  
+   Link: <a href="https://www.homepages.ucl.ac.uk/~uctqnm0/web2_files/isaPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.homepages.ucl.ac.uk/~uctqnm0/web2_files/isaPaper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>taking timeby G CIFLIKLI · Cited by 2 — The prediction of conflict and peace dynamics has become a centerpiece of academic output in the...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: royalsocietypublishing.org  
    Title: Data driven conflict classification exposes weak  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak](https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-driven conflict classification exposes weak predictive...17 Dec 2025 — Even when considering a wider pool of algorithms—such as fro...</p></details>

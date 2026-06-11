@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /public-compute/
 nav_short_title: NAIRR Pilot Access
 title: How the US NAIRR Pilot Expands AI Research Access
-title_full: How the US NAIRR Pilot Expands AI Research Access | Public Compute
+title_full: How the US NAIRR Pilot Expands AI Research Access
 display_title_short: NAIRR Pilot Access
 display_title: NAIRR Pilot Access
 heading_title: How the US NAIRR Pilot Expands AI Research Access
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Public Compute Can Democratize AI Access | Power
+date: '2026-06-08 02:05:48'
+parent_title: How Public Compute Can Democratize AI Access
 parent_permalink: /public-compute/
 parent_nav_short_title: Public Compute
 parent_heading_title: How Public Compute Can Democratize AI Access
@@ -260,7 +261,6 @@ next_link:
   permalink: /public-interest-ai/
   short_title: Public Interest AI
   heading_title: How Public Compute Unlocks Scientific and Public Interest AI Research
-date: '2026-06-08 02:05:48 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-1.webp
@@ -269,18 +269,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e
 
 ## Introduction
 
-The **U.S. National [AI Research]({{ 'research-agents/' | relative_url }}) Resource (NAIRR) Pilot** is an experimental **[public compute]({{ 'public-compute/' | relative_url }}) infrastructure programme** designed to broaden who can do cutting‑edge AI research beyond elite technology firms and well‑resourced laboratories. Launched in early 2024 by the **U.S. National Science Foundation (NSF)** in partnership with multiple federal agencies and private organisations, the NAIRR pilot makes **advanced computing power, datasets, models, software, and training resources** available to the wider research and education community across the United States, including universities, educators, startups and under‑served institutions. By democratising access to these critical resources, the pilot aims to lower traditional barriers to entry and enable a more **diverse and geographically distributed AI research ecosystem**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
-
+The **U.S. National AI Research Resource (NAIRR) Pilot** is an experimental **[public compute]({{ 'public-compute/' | relative_url }}) infrastructure programme** designed to broaden who can do cutting‑edge AI research beyond elite technology firms and well‑resourced laboratories. Launched in early 2024 by the **U.S. National Science Foundation (NSF)** in partnership with multiple federal agencies and private organisations, the NAIRR pilot makes **advanced computing power, datasets, models, software, and training resources** available to the wider research and [education]({{ 'education/' | relative_url }}) community across the United States, including universities, educators, startups and under‑served institutions. By democratising access to these critical resources, the pilot aims to lower traditional barriers to entry and enable a more **diverse and geographically distributed AI research ecosystem**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-1-dark.svg" | relative_url }}" alt="NAIRR Pilot Access illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of *AI Bloom: Abundance, Superintelligence, and Humanity’s [Long Future]({{ 'long-future/' | relative_url }})*, the NAIRR pilot is a concrete case of **public infrastructure expanding AI research access** — a necessary pathway towards ensuring that [intelligence]({{ 'intelligence/' | relative_url }}) infrastructure is not monopolised by a few actors, which could otherwise constrain the benefits of AI‑enabled scientific acceleration and societal progress.
 
 ## How the NAIRR Pilot Expands Research Access
 
-Rather than building a single central supercomputer, the NAIRR pilot uses a **federated model** that brings together resources from government, universities and industry partners into a shared platform researchers can **apply to use**. This includes allocations of advanced high‑performance computing systems, cloud services, large language and foundation models, curated datasets and technical support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
+Rather than building a single central supercomputer, the NAIRR pilot uses a **federated model** that brings together resources from government, universities and industry partners into a shared platform researchers can **apply to use**. This includes allocations of advanced high‑performance computing systems, cloud services, large language and foundation models, curated datasets and technical support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
-In its first two years, the pilot has supported **hundreds of research projects** and **thousands of students** across all 50 U.S. states, demonstrating its early ability to reach diverse communities and research domains that have traditionally lacked direct access to such infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
-
+In its first two years, the pilot has supported **hundreds of research projects** and **thousands of students** across all 50 U.S. states, demonstrating its early ability to reach diverse communities and research domains that have traditionally lacked direct access to such infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_GKbNpl3J2g" title="Creating a National AI Research Resource" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_GKbNpl3J2g" target="_blank" rel="noopener noreferrer">Creating a National AI Research Resource</a></p><p class="youtube-embed-meta">Channel: Stanford HAI &middot; Views: 1.5K &middot; Uploaded: February 2022 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_GKbNpl3J2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_GKbNpl3J2g">Open on YouTube</a></p></div></div></div>
 
@@ -288,17 +286,15 @@ In its first two years, the pilot has supported **hundreds of research projects*
 
 A central aim of the NAIRR pilot is to reduce reliance on **commercial cloud credits or costly local clusters**, which many smaller institutions cannot afford. By providing access through **competitive allocations** and infrastructure contributions from organisations such as AWS, Microsoft, NVIDIA, Hugging Face and others, the pilot creates pathways for researchers and students to use **world‑class AI tools without prohibitive cost barriers**. For example:
 
-* **University‑led projects** have used NAIRR access to train models for [energy]({{ 'energy/' | relative_url }}) storage material [discovery]({{ 'discovery/' | relative_url }}) and biological interaction modelling — tasks that would otherwise require expensive compute time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
-* **Educational initiatives** have enabled AI‑driven accessibility research, such as models to assist deaf and hard‑of‑hearing learners, by securing multi‑thousand hour allocations on national systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
+* **University‑led projects** have used NAIRR access to train models for [energy]({{ 'energy/' | relative_url }}) storage material [discovery]({{ 'discovery/' | relative_url }}) and biological interaction modelling — tasks that would otherwise require expensive compute time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
+* **Educational initiatives** have enabled AI‑driven accessibility research, such as models to assist deaf and hard‑of‑hearing learners, by securing multi‑thousand hour allocations on national systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
 These examples show how expanded access enables **new research directions** in areas like healthcare, environmental science, social equity and AI safety that might otherwise remain under‑explored due to lack of infrastructure.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-2-dark.svg" | relative_url }}" alt="NAIRR Pilot Access illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Building a Broader AI Workforce
 
-Access is not limited to pure compute. The NAIRR pilot also incorporates **training resources, educational support and community outreach**, helping researchers and educators — especially at smaller colleges or in underserved regions — build the skills necessary to use advanced AI systems effectively. This helps **broaden the talent pipeline** and supports participation from groups historically underrepresented in technical AI R&D.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
-
+Access is not limited to pure compute. The NAIRR pilot also incorporates **training resources, educational support and community outreach**, helping researchers and educators — especially at smaller colleges or in underserved regions — build the skills necessary to use advanced AI systems effectively. This helps **broaden the talent pipeline** and supports participation from groups historically underrepresented in technical AI R&D.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vhHBpoUjx5A" title="Exploring the NAIRR Pilot Portal Sandboxes Webinar February 2026" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vhHBpoUjx5A" target="_blank" rel="noopener noreferrer">Exploring the NAIRR Pilot Portal Sandboxes Webinar February 2026</a></p><p class="youtube-embed-meta">Channel: NAIRR Pilot &middot; Views: 59 &middot; Uploaded: February 2026 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vhHBpoUjx5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vhHBpoUjx5A">Open on YouTube</a></p></div></div></div>
 
@@ -313,15 +309,13 @@ This reliance poses mixed implications:
 
 In practice, balancing **public mission goals** with the **strategic interests of contributing companies** will be an ongoing design and policy challenge as NAIRR transitions from pilot to long‑term infrastructure.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n1HqsVB1Azs" title="2024-03-28 CaRCC Special Presentation The National AI Research Resource (NAIRR) with Katie Antypas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n1HqsVB1Azs" target="_blank" rel="noopener noreferrer">2024-03-28 CaRCC Special Presentation The National AI Research Resource (NAIRR) with Katie Antypas</a></p><p class="youtube-embed-meta">Channel: CaRCC &middot; Views: 244 &middot; Uploaded: March 2024 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n1HqsVB1Azs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n1HqsVB1Azs">Open on YouTube</a></p></div></div></div>
 
 ## What Impact Means for the Broader AI Research Landscape
 
-So far, the NAIRR pilot’s early evidence suggests that **public compute infrastructure can diversify who participates in AI innovation**, enabling research beyond large tech firm labs. By opening doors for **under‑resourced universities, educators, students and interdisciplinary teams**, it helps **democratise the ability to explore AI tools and scientific questions**, which is essential if advanced AI is to genuinely benefit broader human flourishing rather than being confined to a narrow elite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
+So far, the NAIRR pilot’s early evidence suggests that **public compute infrastructure can diversify who participates in AI innovation**, enabling research beyond large tech firm labs. By opening doors for **under‑resourced universities, educators, students and interdisciplinary teams**, it helps **democratise the ability to explore AI tools and scientific questions**, which is essential if advanced AI is to genuinely benefit broader human flourishing rather than being confined to a narrow elite.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot &#124; NSF - U.S. National Science Foundation...</span></span></span> - U.S. National Science Foundation
 
 In the long view of *AI bloom*, expanding access to compute and models — a fundamental layer of capability — may be as critical as improving algorithms themselves. When more people with varied backgrounds can experiment, test ideas and build novel applications, the **collective capacity for discovery and innovation grows**, increasing the likelihood that AI contributes to accelerated science, equitable technological integration and solutions to pressing global challenges.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-3-dark.svg" | relative_url }}" alt="NAIRR Pilot Access illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_us_nairr_pilo_391c93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -721,127 +715,127 @@ In the long view of *AI bloom*, expanding access to compute and models — a fun
 
 1. <a id="endnote-1"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/focus-areas/artificial-intelligence/nairr](https://www.nsf.gov/focus-areas/artificial-intelligence/nairr)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</p></details>
+   Link: <a href="https://www.nsf.gov/focus-areas/artificial-intelligence/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/artificial-intelligence/nairr</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. National Science FoundationNational Artificial Intelligence Research Resource Pilot | NSF - U.S. National Science Foundation...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers](https://www.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF - U.S. National Science FoundationU.S. NAIRR pilot brings cutting-edge AI resources to researchers and educators across the nation |...</p></details>
+   Link: <a href="https://www.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/science-matters/us-nairr-pilot-brings-cutting-edge-ai-resources-researchers</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. National Science FoundationU.S. NAIRR pilot brings cutting-edge AI resources to researchers and educators across the nation |...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/focus-areas/ai/nairr](https://www.nsf.gov/focus-areas/ai/nairr)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF - U.S. National Science FoundationNational Artificial Intelligence Research Resource | NSF - U.S. National Science Foundation...</p></details>
+   Link: <a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. National Science FoundationNational Artificial Intelligence Research Resource | NSF - U.S. National Science Foundation...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: microsoft.com  
    Title: National AI Research Resource (NAIRR) Pilot  
-   Link: [https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/](https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MicrosoftNational AI Research Resource (NAIRR) Pilot - Microsoft Research...</p></details>
+   Link: <a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National AI Research Resource (NAIRR) Pilot - Microsoft Research...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/cise/updates/nairr-2-years-advancing-american-artificial-intelligence](https://www.nsf.gov/cise/updates/nairr-2-years-advancing-american-artificial-intelligence)  
+   Link: <a href="https://www.nsf.gov/cise/updates/nairr-2-years-advancing-american-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/cise/updates/nairr-2-years-advancing-american-artificial-intelligence</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationMarch 19, 2026 — NAIRR AT 2 YEARS: ADVANCING AMERICAN ARTIFICIAL INTELLIGENCE INNOVATION AND LEADERSHIP March...</p></details>
    Published: March 19, 2026  
 
 6. <a id="endnote-6"></a>
    Source: energy.gov  
-   Link: [https://www.energy.gov/science/articles/national-ai-research-resource-pilot-awards-first-round-access-35-projects](https://www.energy.gov/science/articles/national-ai-research-resource-pilot-awards-first-round-access-35-projects)  
+   Link: <a href="https://www.energy.gov/science/articles/national-ai-research-resource-pilot-awards-first-round-access-35-projects" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/science/articles/national-ai-research-resource-pilot-awards-first-round-access-35-projects</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2024 — NATIONAL AI RESEARCH RESOURCE PILOT AWARDS FIRST ROUND ACCESS TO 35 PROJECTS IN PARTNERSHIP WITH DOE Time awarded on advanc...</p></details>
    Published: May 6, 2024  
 
 7. <a id="endnote-7"></a>
    Source: nsf.gov  
    Title: National Artificial Intelligence Research Resource (NAIRR) pilot | NSF  
-   Link: [https://www.nsf.gov/geo/updates/national-artificial-intelligence-research-resource-nairr](https://www.nsf.gov/geo/updates/national-artificial-intelligence-research-resource-nairr)  
+   Link: <a href="https://www.nsf.gov/geo/updates/national-artificial-intelligence-research-resource-nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/geo/updates/national-artificial-intelligence-research-resource-nairr</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationMarch 8, 2024 — NSF REORGANIZATION Updates to reflect the new organizational structure of GEO are in progress...</p></details>
    Published: March 8, 2024  
 
 8. <a id="endnote-8"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai-research](https://www.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai-research)  
+   Link: <a href="https://www.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai-research" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/news/democratizing-future-ai-rd-nsf-launch-national-ai-research</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationJanuary 24, 2024 — NSF News DEMOCRATIZING THE FUTURE OF AI R&amp;D: NSF TO LAUNCH NATIONAL AI RESEARCH RESOURCE PI...</p></details>
    Published: January 24, 2024  
 
 9. <a id="endnote-9"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/news/nsf-partners-kick-nairr-pilot-program](https://www.nsf.gov/news/nsf-partners-kick-nairr-pilot-program)  
+   Link: <a href="https://www.nsf.gov/news/nsf-partners-kick-nairr-pilot-program" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/news/nsf-partners-kick-nairr-pilot-program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNovember 9, 2023 — Image: NSF hosted the National Artificial Intelligence Research Resource (NAIRR) Pilot Conv...</p></details>
    Published: November 9, 2023  
 
 10. <a id="endnote-10"></a>
    Source: microsoft.com  
    Title: National AI Research Resource (NAIRR) Pilot  
-   Link: [https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/?lang=ja](https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/?lang=ja)  
+   Link: <a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/?lang=ja" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/?lang=ja</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft ResearchMICROSOFT SUPPORT FOR THE NATIONAL AI RESEARCH RESOURCE PILOT MICROSOFT’S COMMITMENT TO THE NAIRR PILOT Microsoft is de...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: docs.ycrc.yale.edu  
-   Link: [https://docs.ycrc.yale.edu/ai/nairr/](https://docs.ycrc.yale.edu/ai/nairr/)  
+   Link: <a href="https://docs.ycrc.yale.edu/ai/nairr/" target="_blank" rel="noopener noreferrer nofollow">https://docs.ycrc.yale.edu/ai/nairr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>* Accessing NAIRR resources * How to find help NATIONAL ARTIFICIAL INTELLIGENCE RESEARCH...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: regulations.ai  
    Title: National AI Research Resource (NAIRR) pilot (NSF program launched as pilot)  
-   Link: [https://regulations.ai/regulations/united-states-2024-1-national-ai-research-resource-pilot](https://regulations.ai/regulations/united-states-2024-1-national-ai-research-resource-pilot)  
+   Link: <a href="https://regulations.ai/regulations/united-states-2024-1-national-ai-research-resource-pilot" target="_blank" rel="noopener noreferrer nofollow">https://regulations.ai/regulations/united-states-2024-1-national-ai-research-resource-pilot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United States | Regulations.AI - The Site on AI Laws and Regulations | Regulations.aiJanuary 31, 2024 — UNITED STATES - NATIONAL AI RESEA...</p></details>
    Published: January 31, 2024  
 
 13. <a id="endnote-13"></a>
    Source: cuit.columbia.edu  
-   Link: [https://www.cuit.columbia.edu/national-hpc-access/nairr](https://www.cuit.columbia.edu/national-hpc-access/nairr)  
+   Link: <a href="https://www.cuit.columbia.edu/national-hpc-access/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.cuit.columbia.edu/national-hpc-access/nairr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>researchers and educators to free computati...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-nairr](https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-nairr)  
+   Link: <a href="https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-nairr" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-nairr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Artificial Intelligence Research Resource (NAIRR) - OECD.AIMay 6, 2026 — THE OECD.AI POLICY NAVIGATOR Our policy navigator is a...</p></details>
    Published: May 6, 2026  
 
 15. <a id="endnote-15"></a>
    Source: srcc.stanford.edu  
    Title: national artificial intelligence research resource nairr pilot  
-   Link: [https://srcc.stanford.edu/news/national-artificial-intelligence-research-resource-nairr-pilot](https://srcc.stanford.edu/news/national-artificial-intelligence-research-resource-nairr-pilot)  
+   Link: <a href="https://srcc.stanford.edu/news/national-artificial-intelligence-research-resource-nairr-pilot" target="_blank" rel="noopener noreferrer nofollow">https://srcc.stanford.edu/news/national-artificial-intelligence-research-resource-nairr-pilot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Artificial Intelligence Research Resource (NAIRR) Pilot | Stanford Research ComputingTHE NATIONAL ARTIFICIAL INTELLIGENCE RESEAR...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nairratdoe.ornl.gov  
    Title: Department of Energy’s Office of Science is  
-   Link: [https://nairratdoe.ornl.gov/](https://nairratdoe.ornl.gov/)  
+   Link: <a href="https://nairratdoe.ornl.gov/" target="_blank" rel="noopener noreferrer nofollow">https://nairratdoe.ornl.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence Research ResourceNATIONAL ARTIFICIAL INTELLIGENCE RESEARCH RESOURCE (NAIRR) DOE IS ENABLING ARTIFICIAL INTELLIGEN...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Broadening Access to AI Resources through the National AI Research Resource  
-   Link: [https://www.youtube.com/watch?v=61wlct8yTMM](https://www.youtube.com/watch?v=61wlct8yTMM)  
+   Link: <a href="https://www.youtube.com/watch?v=61wlct8yTMM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=61wlct8yTMM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 2024-03-28 CaRCC Special Presentation The National AI Research Resource (NAIRR) with Katie Antypas...</p></details>
    Published: March 28, 2024  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=n1HqsVB1Azs](https://www.youtube.com/watch?v=n1HqsVB1Azs)  
+   Link: <a href="https://www.youtube.com/watch?v=n1HqsVB1Azs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n1HqsVB1Azs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Creating a National AI Research Resource...</p></details>
    Published: March 28, 2024  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: NAIRR Pilot Partner Webinar  
-   Link: [https://www.youtube.com/watch?v=T98l2B9cgOo](https://www.youtube.com/watch?v=T98l2B9cgOo)  
+   Link: <a href="https://www.youtube.com/watch?v=T98l2B9cgOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T98l2B9cgOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Exploring the NAIRR Pilot Portal Sandboxes Webinar February 2026...</p></details>
    Published: May 7, 2026  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Creating a National AI Research Resource  
-   Link: [https://www.youtube.com/watch?v=_GKbNpl3J2g](https://www.youtube.com/watch?v=_GKbNpl3J2g)  
+   Link: <a href="https://www.youtube.com/watch?v=_GKbNpl3J2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_GKbNpl3J2g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4 NAIRR Pilot Partner Webinar - May 7, 2026: Chameleon...</p></details>
    Published: May 7, 2026  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vhHBpoUjx5A](https://www.youtube.com/watch?v=vhHBpoUjx5A)  
-   Published: February 2026  
+   Link: <a href="https://www.youtube.com/watch?v=vhHBpoUjx5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vhHBpoUjx5A</a>  
+   Published: February 2026

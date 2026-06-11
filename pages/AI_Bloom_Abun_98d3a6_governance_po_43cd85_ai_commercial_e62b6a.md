@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /power/
 nav_short_title: AI Concentration
 title: Who Controls AI Platforms and Why It Matters
-title_full: Who Controls AI Platforms and Why It Matters | Power
+title_full: Who Controls AI Platforms and Why It Matters
 display_title_short: AI Concentration
 display_title: AI Concentration
 heading_title: Who Controls AI Platforms and Why It Matters
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Owns an AI Enabled Future? | AI Bloom
+date: '2026-06-08 01:29:54'
+parent_title: Who Owns an AI Enabled Future?
 parent_permalink: /power/
 parent_nav_short_title: Power
 parent_heading_title: Who Owns an AI Enabled Future?
@@ -279,7 +280,6 @@ next_link:
   permalink: /military-ai/
   short_title: Military AI
   heading_title: Balancing AI Power and Global Security Risks
-date: '2026-06-08 01:29:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-1.webp
@@ -290,9 +290,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e6
 
 The promise of an AI-enabled human bloom depends not only on how powerful AI becomes, but on who controls it. If advanced AI helps accelerate medicine, science, [education]({{ 'education/' | relative_url }}), engineering and economic production, then access to AI systems may become as important as access to electricity, communications networks or financial infrastructure. A future of abundant [intelligence]({{ 'intelligence/' | relative_url }}) could expand human flourishing on a vast scale. But if the key platforms remain concentrated in a handful of companies, many of the gains may be shaped by private decisions about pricing, access, standards and acceptable use rather than by democratic institutions.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-1-dark.svg" | relative_url }}" alt="AI Concentration illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This tension is already visible. A small number of firms dominate the cloud infrastructure, specialised chips and foundation model ecosystems on which advanced AI depends. Governments and competition authorities increasingly view this not as a normal software market, but as a strategic infrastructure question. The debate is not simply whether concentration slows competition. It is whether a technology that could influence [scientific]({{ 'discovery/' | relative_url }}) discovery, healthcare, education, [labour markets]({{ 'labour-impacts/' | relative_url }}) and public administration should be governed primarily through a small set of commercial gatekeepers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">OECDAI supply chain: Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cloud services market investigation</span><span class="citation-popover-snippet">services market investigation28 January 2025: The CMA has published its provisional decision in its market investigation into the supply...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+This tension is already visible. A small number of firms dominate the cloud infrastructure, specialised chips and foundation model ecosystems on which advanced AI depends. Governments and competition authorities increasingly view this not as a normal software market, but as a strategic infrastructure question. The debate is not simply whether concentration slows competition. It is whether a technology that could influence scientific [discovery]({{ 'discovery/' | relative_url }}), healthcare, education, labour markets and public administration should be governed primarily through a small set of commercial gatekeepers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">AI supply chain: Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cloud services market investigation</span><span class="citation-popover-snippet">services market investigation28 January 2025: The CMA has published its provisional decision in its market investigation into the supply...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 
 ## Why AI tends towards concentration
 
@@ -302,16 +301,11 @@ The largest frontier models require enormous quantities of computing [power]({{ 
 
 Several reinforcing mechanisms push power towards a relatively small group of actors:
 
-
-<div class="content-enhancement content-enhancement--benefit" markdown="1">
-
 * **Compute concentration:** Training and serving advanced models requires vast data centres and access to scarce AI accelerators.
 * **Capital concentration:** Frontier development often requires funding levels unavailable to most universities, startups or public institutions.
 * **Data advantages:** Large firms often possess extensive proprietary datasets and customer relationships.
-* **Distribution advantages:** Companies that already control operating systems, productivity software, cloud platforms or app ecosystems can rapidly deploy AI products to hundreds of millions of users.
+* **Distribution advantages:** Companies that already [control]({{ 'control/' | relative_url }}) operating systems, productivity software, cloud platforms or app ecosystems can rapidly deploy AI products to hundreds of millions of users.
 * **Feedback loops:** Larger user bases generate more revenue, data and product feedback, which can improve future systems.
-
-</div>
 
 The result is not necessarily a monopoly, but a market structure in which a few firms possess disproportionate influence over the direction of AI development and deployment.
 
@@ -319,10 +313,9 @@ The result is not necessarily a monopoly, but a market structure in which a few 
 
 Cloud computing has become the physical backbone of modern AI. Even organisations building their own models often depend on rented infrastructure from major cloud providers.
 
-OECD analysis notes that cloud markets are highly concentrated, with the largest providers collectively holding the majority of global market share. Multiple studies place Amazon Web Services (AWS), Microsoft Azure and Google Cloud as the dominant providers worldwide, together accounting for more than 60% of global cloud infrastructure spending. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Global share of largest provider reported over 80%. Global share of largest 3 players reported as having over 60% share...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">partnerships involving generative AI companies and cloud providers.Read more</span><span class="citation-popover-snippet">OECDPotential competition policy responses in AI infrastructureNov 14, 2025 — The US Federal Trade Commission in January 2025 published s...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
+OECD analysis notes that cloud markets are highly concentrated, with the largest providers collectively holding the majority of global market share. Multiple studies place Amazon Web Services (AWS), Microsoft Azure and Google Cloud as the dominant providers worldwide, together accounting for more than 60% of global cloud infrastructure spending. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Global share of largest provider reported over 80%. Global share of largest 3 players reported as having over 60% share...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">partnerships involving generative AI companies and cloud providers.Read more</span><span class="citation-popover-snippet">Potential competition policy responses in AI infrastructureNov 14, 2025 — The US Federal Trade Commission in January 2025 published s...</span><span class="citation-popover-meta">Published: January 2025</span></span></span>
 
 This matters because cloud platforms are no longer merely storage and computing businesses. They increasingly function as AI platforms, offering:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -338,7 +331,6 @@ This matters because cloud platforms are no longer merely storage and computing 
 A university, hospital trust, pharmaceutical company or government department may therefore depend on the same providers for both general computing infrastructure and advanced AI services.
 
 Competition authorities worry that this creates bottlenecks. If a small number of firms become unavoidable intermediaries for advanced AI, they gain substantial influence over pricing, technical standards and market access. The UK's Competition and Markets Authority (CMA) has repeatedly highlighted the strategic importance of cloud infrastructure to AI competition and innovation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai foundation models initial report</span><span class="citation-popover-snippet">Foundation Models: Initial report18 Sept 2023 — The CMA started its initial review into AI Foundation Models in May 2023, to help create...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-foundation-models-update-paper" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai foundation models update paper</span><span class="citation-popover-snippet">Foundation Models: Update paper11 Apr 2024 — Update paper as part of the CMA&#x27;s AI Foundation Models: initial review, following initial re...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1JzMSbcInxc" title="Why foundation models are a paradigm shift for AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1JzMSbcInxc" target="_blank" rel="noopener noreferrer">Why foundation models are a paradigm shift for AI</a></p><p class="youtube-embed-meta">Channel: IBM Technology &middot; Views: 102.2K &middot; Uploaded: November 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1JzMSbcInxc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1JzMSbcInxc">Open on YouTube</a></p></div></div></div>
 
@@ -362,7 +354,7 @@ This is one reason regulators have examined partnerships between major cloud pro
 
 Many of the most important AI companies are connected through investment, cloud supply agreements and long-term infrastructure contracts.
 
-Microsoft's relationship with OpenAI became the most prominent example, but similar arrangements have emerged elsewhere, including Amazon's partnership with Anthropic and Google's investments in [frontier AI]({{ 'safety-frameworks/' | relative_url }}) firms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
+Microsoft's relationship with OpenAI became the most prominent example, but similar arrangements have emerged elsewhere, including Amazon's partnership with Anthropic and Google's investments in frontier AI firms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</span></span></span>
 
 Supporters of these partnerships argue that they solve a genuine financing problem. Frontier AI development requires infrastructure that startups could not otherwise afford. Large cloud providers can supply capital, chips and engineering support that accelerate innovation.
 
@@ -372,18 +364,16 @@ In 2025, the US Federal Trade Commission published findings from its inquiry int
 
 The broader governance question is whether frontier AI remains an open field with multiple competing centres of innovation, or whether it gradually consolidates around a few interconnected infrastructure providers.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-2-dark.svg" | relative_url }}" alt="AI Concentration illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What concentration could mean for an AI-enabled future
 
 For advocates of AI abundance, concentration presents a paradox.
 
-On one hand, large firms may be essential for building the infrastructure needed to support transformative AI. Massive investments in chips, data centres, energy systems and global deployment networks are often beyond the reach of governments, universities and smaller companies.
+On one hand, large firms may be essential for building the infrastructure needed to support transformative AI. Massive investments in chips, data centres, [energy]({{ 'energy/' | relative_url }}) systems and global deployment networks are often beyond the reach of governments, universities and smaller companies.
 
 On the other hand, a future in which intelligence becomes abundant may look very different depending on ownership structures.
 
 Consider several possibilities:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -396,7 +386,6 @@ Consider several possibilities:
 </div>
 
 The optimistic AI bloom vision usually assumes broad diffusion of intelligence. Commercial concentration raises the possibility that intelligence becomes abundant in technical terms while remaining institutionally controlled.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BxI_3L40sqY" title="Big Tech&#x27;s AI Oligopoly: Lords Reveal the Power Grab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BxI_3L40sqY" target="_blank" rel="noopener noreferrer">Big Tech&#x27;s AI Oligopoly: Lords Reveal the Power Grab</a></p><p class="youtube-embed-meta">Channel: CXOTalk &middot; Views: 20.6K &middot; Uploaded: November 2025 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BxI_3L40sqY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BxI_3L40sqY">Open on YouTube</a></p></div></div></div>
 
@@ -418,14 +407,12 @@ The policy debate increasingly centres on how to encourage innovation without al
 
 Several approaches have attracted attention.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-3-dark.svg" | relative_url }}" alt="AI Concentration illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Interoperability and portability
 
 One goal is making it easier for organisations to move between providers.
 
 Policies can include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -450,7 +437,6 @@ Some researchers argue that governments should support shared computing infrastr
 
 The logic resembles earlier investments in scientific infrastructure. If access to advanced computing becomes a prerequisite for participation in frontier research, public alternatives may help prevent capability from becoming exclusively commercial.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lm9wWiOQ5Y0" title="Book talk - &#x27;The Means of Prediction: How AI Really Works (and Who Benefits)&#x27; with Maximilian Kasy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lm9wWiOQ5Y0" target="_blank" rel="noopener noreferrer">Book talk - &#x27;The Means of Prediction: How AI Really Works (and Who Benefits)&#x27; with Maximilian Kasy</a></p><p class="youtube-embed-meta">Channel: Oxford Martin School &middot; Views: 739 &middot; Uploaded: March 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lm9wWiOQ5Y0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lm9wWiOQ5Y0">Open on YouTube</a></p></div></div></div>
 
 ### Open models and open standards
@@ -458,7 +444,6 @@ The logic resembles earlier investments in scientific infrastructure. If access 
 Open-source and open-weight AI systems are often presented as a counterbalance to concentration.
 
 The advantages include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -481,7 +466,7 @@ If that happens, control over AI platforms could become a form of structural pow
 
 This does not mean private firms should be excluded from building advanced AI. Many of the breakthroughs that could contribute to a flourishing future may emerge from commercial research laboratories. But the governance challenge becomes more serious as AI capabilities become more central to medicine, science, education and public decision-making.
 
-The central question is therefore not whether successful AI companies should exist. It is whether societies allow the institutions that shape intelligence production to become so concentrated that public choices increasingly depend on private platform governance. A world in which AI helps humanity bloom may require not only more intelligence, but more pluralism in who can access, develop and direct it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: one.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">one.oecd.org</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cloud services market investigation</span><span class="citation-popover-snippet">services market investigation28 January 2025: The CMA has published its provisional decision in its market investigation into the supply...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">OECDAI supply chain: Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</span></span></span>
+The central question is therefore not whether successful AI companies should exist. It is whether societies allow the institutions that shape intelligence production to become so concentrated that public choices increasingly depend on private platform governance. A world in which AI helps humanity bloom may require not only more intelligence, but more pluralism in who can access, develop and direct it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: one.oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">one.oecd.org</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cloud services market investigation</span><span class="citation-popover-snippet">services market investigation28 January 2025: The CMA has published its provisional decision in its market investigation into the supply...</span><span class="citation-popover-meta">Published: January 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 5</span><span class="citation-popover-snippet">AI supply chain: Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -495,16 +480,50 @@ The central question is therefore not whether successful AI companies should exi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prediction Machines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y9LFtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Prediction Machines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prediction Machines">Prediction Machines</a>
         </h4>
-        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+        <p class="fr-book-author">By Ajay Agrawal, Joshua Gans et al.</p>
         
-        <p class="fr-book-desc">Addresses who benefits from technological infrastructure.</p>
+        <p class="fr-book-desc">Explains the economics of AI platforms and adoption.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Prediction+Machines+by+Ajay+Agrawal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas of AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=G2iUzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atlas of AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas of AI">Atlas of AI</a>
+        </h4>
+        <p class="fr-book-author">By Kate Crawford</p>
+        
+        <p class="fr-book-desc">Explores infrastructure, power and ownership in AI systems.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Atlas+of+AI+by+Kate+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
+        </h4>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
+        
+        <p class="fr-book-desc">Directly addresses concentration and control of advanced technologies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -519,7 +538,7 @@ The central question is therefore not whether successful AI companies should exi
         </h4>
         <p class="fr-book-author">By Tim Wu</p>
         
-        <p class="fr-book-desc">Directly relevant to concentration and control of platforms.</p>
+        <p class="fr-book-desc">Provides historical context on concentration in network industries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Master+Switch+by+Tim+Wu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -527,43 +546,9 @@ The central question is therefore not whether successful AI companies should exi
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
-        </h4>
-        <p class="fr-book-author">By Mustafa Suleyman</p>
-        
-        <p class="fr-book-desc">Examines control over frontier technologies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Surveillance Capitalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xbg9jgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of Surveillance Capitalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Surveillance Capitalism">The Age of Surveillance Capitalism</a>
-        </h4>
-        <p class="fr-book-author">By Shoshana Zuboff</p>
-        
-        <p class="fr-book-desc">Explores concentration of digital power and infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Switch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prediction+Machines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prediction Machines</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+of+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas of AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -600,15 +585,15 @@ The central question is therefore not whether successful AI companies should exi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan"><img src="https://i.ebayimg.com/images/g/mREAAOSwEQNn70D6/s-l225.jpg" alt="Listing image for Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Miniature rack for palm-sized network devices Nitto Kogyo Server Rack New Japan</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -616,15 +601,47 @@ The central question is therefore not whether successful AI companies should exi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dell PowerEdge Server Rack-mount Model with 2x 300gb Sas"><img src="https://i.ebayimg.com/images/g/Sm4AAeSwGYJp-ABV/s-l225.jpg" alt="Listing image for Dell PowerEdge Server Rack-mount Model with 2x 300gb Sas" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Dell PowerEdge Server Rack-mount Model with 2x 300gb Sas</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]"><img src="https://i.ebayimg.com/images/g/kRQAAeSweFlqHX4b/s-l225.jpg" alt="Listing image for Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Dell PowerEdge R730xd 16LFF+2SFF Server /IndigoVision NVR-AS 4000/32GB RAM [16D]</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling"><img src="https://i.ebayimg.com/images/g/9y8AAOSwrCZbCsCt/s-l225.jpg" alt="Listing image for Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">Rack Server w/ 4x TESLA K10 GPU ACCELERATOR *12288 Cores* PhotoScan 3D Modelling</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for server rack model">Search <span data-ebay-domain-label>eBay.co.uk</span>: server rack model</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -632,7 +649,7 @@ The central question is therefore not whether successful AI companies should exi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-concentration-who-controls-ai-platforms-and-why-it-matters-ai-bloom-abundance-superintelligen-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=server+rack+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-controls-ai-platforms-and-why-it-matters-server-rack-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="server rack model" data-ebay-reference="who-controls-ai-platforms-and-why-it-matters-server-rack-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -848,186 +865,186 @@ The central question is therefore not whether successful AI companies should exi
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: [https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDAI [supply chain](&amp;#123;&amp;#123; &#x27;risky-elements/&#x27; | relative_url &amp;#125;&amp;#125;): Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI supply chain: Competition in artificial intelligence...14 Nov 2025 — 4 The most recently reported market share estimates for the...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: UKA I Foundation Models  
-   Link: [https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf](https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models - Technical update report16 Apr 2024 — 1.2 We published our initial report in September 2023, in which we proposed prin...</p></details>
    Published: September 2023  
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study](https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-issues-staff-report-ai-partnerships-investments-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Issues Staff Report on AI Partnerships &amp; Investments...The report details key aspects regarding the structur...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Full report  
-   Link: [https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf](https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/65081d3aa41cc300145612c0/Full_report_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models Initial Report18 Sept 2023 — 30 Microsoft Corporate Blogs (2023) Microsoft and OpenAI extend partnership. 31 Anthropic...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: component 6  
-   Link: [https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html)  
+   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global share of largest provider reported over 80%. Global share of largest 3 players reported as having over 60% share...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: GOV.UK  
    Title: cloud services market investigation  
-   Link: [https://www.gov.uk/cma-cases/cloud-services-market-investigation](https://www.gov.uk/cma-cases/cloud-services-market-investigation)  
+   Link: <a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>services market investigation28 January 2025: The CMA has published its provisional decision in its market investigation into the supply...</p></details>
    Published: January 2025  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: ai foundation models initial review  
-   Link: [https://www.gov.uk/cma-cases/ai-foundation-models-initial-review](https://www.gov.uk/cma-cases/ai-foundation-models-initial-review)  
+   Link: <a href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/ai-foundation-models-initial-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models: initial review4 May 2023 — This initial review will help create an early understanding of the market for foundation mo...</p></details>
    Published: May 2023  
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
    Title: launches inquiry generative ai investments partnerships  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships](https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships)  
+   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/01/ftc-launches-inquiry-generative-ai-investments-partnerships</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC Launches Inquiry into Generative AI Investments and...Jan 25, 2024 — The FTC&#x27;s inquiry will help the agency...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
    Title: staff report ai partnerships investments 6b study  
-   Link: [https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study](https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study)  
+   Link: <a href="https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/reports/ftc-staff-report-ai-partnerships-investments-6b-study</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2025. Documents. File. FTC Staff Report on AI Partnerships &amp; Investments 6(b) Study (...Read more...</p></details>
    Published: January 2025  
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf](https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf)  
+   Link: <a href="https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/system/files/ftc_gov/pdf/p246201_aipartnerships6breport_redacted_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionPartnerships Between Cloud Service Providers and AI...4.5.1 - The partnerships offer CSP partners the ability to...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
    Title: behind ftcs 6b report large ai partnerships investments  
-   Link: [https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments)  
+   Link: <a href="https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2025/01/behind-ftcs-6b-report-large-ai-partnerships-investments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionBehind the FTC&#x27;s 6(b) Report on Large AI Partnerships &amp;...Jan 17, 2025 — Today, the FTC released a staff report...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
    Title: partnerships involving generative AI companies and cloud providers.Read more  
-   Link: [https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDPotential competition policy responses in AI infrastructureNov 14, 2025 — The US Federal Trade Commission in January 2025 published s...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-7.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential competition policy responses in AI infrastructureNov 14, 2025 — The US Federal Trade Commission in January 2025 published s...</p></details>
    Published: January 2025  
 
 13. <a id="endnote-13"></a>
    Source: one.oecd.org  
-   Link: [https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf](https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf)  
+   Link: <a href="https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf" target="_blank" rel="noopener noreferrer nofollow">https://one.oecd.org/document/DAF/COMP%282025%298/en/pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: ai foundation models initial report  
-   Link: [https://www.gov.uk/government/publications/ai-foundation-models-initial-report](https://www.gov.uk/government/publications/ai-foundation-models-initial-report)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-foundation-models-initial-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models: Initial report18 Sept 2023 — The CMA started its initial review into AI Foundation Models in May 2023, to help create...</p></details>
    Published: May 2023  
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
    Title: ai foundation models update paper  
-   Link: [https://www.gov.uk/government/publications/ai-foundation-models-update-paper](https://www.gov.uk/government/publications/ai-foundation-models-update-paper)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-foundation-models-update-paper" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-foundation-models-update-paper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models: Update paper11 Apr 2024 — Update paper as part of the CMA&#x27;s AI Foundation Models: initial review, following initial re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/](https://www.gov.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and [Universal](&amp;#123;&amp;#123; &#x27;ai-tutors-f14433/&#x27; | relative_url &amp;#125;&amp;#125;) Credit, births, deaths, marriages a...</p></details>
+   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/661941a6c1d297c6ad1dfeed/Update_Paper__1_.pdf](https://assets.publishing.service.gov.uk/media/661941a6c1d297c6ad1dfeed/Update_Paper__1_.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/661941a6c1d297c6ad1dfeed/Update_Paper__1_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661941a6c1d297c6ad1dfeed/Update_Paper__1_.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models: Update Paper11 Apr 2024 — In September 2023, we published a report as part of our initial review of...</p></details>
    Published: September 2023  
 
 18. <a id="endnote-18"></a>
    Source: blog.promise.legal  
    Title: ftc report on cloud providers and ai partnerships  
-   Link: [https://blog.promise.legal/ftc-report-on-cloud-providers-and-ai-partnerships/](https://blog.promise.legal/ftc-report-on-cloud-providers-and-ai-partnerships/)  
+   Link: <a href="https://blog.promise.legal/ftc-report-on-cloud-providers-and-ai-partnerships/" target="_blank" rel="noopener noreferrer nofollow">https://blog.promise.legal/ftc-report-on-cloud-providers-and-ai-partnerships/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Cloud Providers and AI PartnershipsJan 31, 2025 — Explore the dynamics of partnerships between major cloud providers and AI dev...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ciodive.com  
    Title: regulators, who have taken a sweeping aim at AI startup deals.Read more  
-   Link: [https://www.ciodive.com/news/uk-regulatory-scrutiny-anthropic-amazon-competition-market/723777/](https://www.ciodive.com/news/uk-regulatory-scrutiny-anthropic-amazon-competition-market/723777/)  
+   Link: <a href="https://www.ciodive.com/news/uk-regulatory-scrutiny-anthropic-amazon-competition-market/723777/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciodive.com/news/uk-regulatory-scrutiny-anthropic-amazon-competition-market/723777/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CIO DiveUK regulators add Amazon, Anthropic partnership to...Aug 8, 2024 — The probe into Anthropic and Amazon&#x27;s partnership is the late...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10)  
+   Link: <a href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ciodive.com  
    Title: ftc AI cloud inquiry  
-   Link: [https://www.ciodive.com/news/ftc-AI-cloud-inquiry/705671/](https://www.ciodive.com/news/ftc-AI-cloud-inquiry/705671/)  
+   Link: <a href="https://www.ciodive.com/news/ftc-AI-cloud-inquiry/705671/" target="_blank" rel="noopener noreferrer nofollow">https://www.ciodive.com/news/ftc-AI-cloud-inquiry/705671/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency sent formal requests to Alphabet, Amazon, Anthropic, Microsoft and OpenAI, as part of...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: awards.concurrences.com  
-   Link: [https://awards.concurrences.com/IMG/pdf/bradley_weber_taylor_levesque_cloud_and_competition_policy-_part_viii_-_cloud_service-ai_partnerships-_the_ftc_s_section_6_b_report_and_its_antitrust_implications_in_the_trump_2.0_administration_1_august_2025_concurrences_no_8-2025.pdf?149193%2Fcc0306ddb4ee1f75142844f9ece7723833c7aa2cb5a11f9042244118d9b420e7=](https://awards.concurrences.com/IMG/pdf/bradley_weber_taylor_levesque_cloud_and_competition_policy-_part_viii_-_cloud_service-ai_partnerships-_the_ftc_s_section_6_b_report_and_its_antitrust_implications_in_the_trump_2.0_administration_1_august_2025_concurrences_no_8-2025.pdf?149193%2Fcc0306ddb4ee1f75142844f9ece7723833c7aa2cb5a11f9042244118d9b420e7=)  
+   Link: <a href="https://awards.concurrences.com/IMG/pdf/bradley_weber_taylor_levesque_cloud_and_competition_policy-_part_viii_-_cloud_service-ai_partnerships-_the_ftc_s_section_6_b_report_and_its_antitrust_implications_in_the_trump_2.0_administration_1_august_2025_concurrences_no_8-2025.pdf?149193%2Fcc0306ddb4ee1f75142844f9ece7723833c7aa2cb5a11f9042244118d9b420e7=" target="_blank" rel="noopener noreferrer nofollow">https://awards.concurrences.com/IMG/pdf/bradley_weber_taylor_levesque_cloud_and_competition_policy-_part_viii_-_cloud_service-ai_partnerships-_the_ftc_s_section_6_b_report_and_its_antitrust_implications_in_the_trump_2.0_administration_1_august_2025_concurrences_no_8-2025.pdf?149193%2Fcc0306ddb4ee1f75142844f9ece7723833c7aa2cb5a11f9042244118d9b420e7=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade Commission&#x27;s Section 6(b) Report investigated three partnerships between major cloud service providers (Alphabet/Google, Am...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/oecd-competition-law-and-policy_cloud-cloudcomputing-competition-activity-7331691640044060672-HjNY](https://www.linkedin.com/posts/oecd-competition-law-and-policy_cloud-cloudcomputing-competition-activity-7331691640044060672-HjNY)  
+   Link: <a href="https://www.linkedin.com/posts/oecd-competition-law-and-policy_cloud-cloudcomputing-competition-activity-7331691640044060672-HjNY" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/oecd-competition-law-and-policy_cloud-cloudcomputing-competition-activity-7331691640044060672-HjNY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Competition Law and Policy&#x27;s PostGoogle Cloud leads with 38% of new startup relationships, followed by AWS at 30% and Azure at 8%. M...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: visitbritain.com  
-   Link: [https://www.visitbritain.com/en](https://www.visitbritain.com/en)  
+   Link: <a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainLet VisitBritain provide you with fresh perspectives of the UK&#x27;s diverse cities, modern...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nortonrosefulbright.com  
-   Link: [https://www.nortonrosefulbright.com/en-gb/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report](https://www.nortonrosefulbright.com/en-gb/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report)  
+   Link: <a href="https://www.nortonrosefulbright.com/en-gb/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en-gb/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK CMA&#x27;s review of AI Foundation ModelsThe CMA published its Initial Report (Initial Report) on AI Foundation Models (FM), supplement...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nortonrosefulbright.com  
-   Link: [https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report](https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report)  
+   Link: <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK CMA&#x27;s review of AI Foundation ModelsThe CMA published its Initial Report (Initial Report) on AI Foundation Models (FM), supplement...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aifray.com  
-   Link: [https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/](https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/)  
+   Link: <a href="https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/" target="_blank" rel="noopener noreferrer nofollow">https://aifray.com/ftc-releases-staff-report-on-ai-partnerships-investments-collection-of-information-and-innuendo-with-unclear-contours/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FTC releases Staff Report on AI Partnerships &amp; InvestmentsJan 17, 2025 — What&#x27;s new: Today the FTC released the Staff Report on AI Partne...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/israeldaniel_competition-in-artificial-intelligence-infrastructure-activity-7416848936986128386-goye](https://www.linkedin.com/posts/israeldaniel_competition-in-artificial-intelligence-infrastructure-activity-7416848936986128386-goye)  
+   Link: <a href="https://www.linkedin.com/posts/israeldaniel_competition-in-artificial-intelligence-infrastructure-activity-7416848936986128386-goye" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/israeldaniel_competition-in-artificial-intelligence-infrastructure-activity-7416848936986128386-goye</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Analyzes AI Competition in 2025 Strategic Policy...The OECD&#x27;s 2025 strategic policy paper on competition in artificial intelligence...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: clearygottlieb.com  
-   Link: [https://www.clearygottlieb.com/-/media/files/alert-memos-2023/cma-publishes-initial-report-on-ai-foundation-models-and-guiding-principles-for-firms.pdf](https://www.clearygottlieb.com/-/media/files/alert-memos-2023/cma-publishes-initial-report-on-ai-foundation-models-and-guiding-principles-for-firms.pdf)  
+   Link: <a href="https://www.clearygottlieb.com/-/media/files/alert-memos-2023/cma-publishes-initial-report-on-ai-foundation-models-and-guiding-principles-for-firms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clearygottlieb.com/-/media/files/alert-memos-2023/cma-publishes-initial-report-on-ai-foundation-models-and-guiding-principles-for-firms.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cma-publishes-initial-report-on-ai-foundation-models-and-...20 Sept 2023 — The CMA&#x27;s initial report marks a major development in the bur...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: euronews.com  
    Title: uk regulator says microsoft and amazons cloud dominance hurts competition  
-   Link: [https://www.euronews.com/next/2025/07/31/uk-regulator-says-microsoft-and-amazons-cloud-dominance-hurts-competition](https://www.euronews.com/next/2025/07/31/uk-regulator-says-microsoft-and-amazons-cloud-dominance-hurts-competition)  
+   Link: <a href="https://www.euronews.com/next/2025/07/31/uk-regulator-says-microsoft-and-amazons-cloud-dominance-hurts-competition" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2025/07/31/uk-regulator-says-microsoft-and-amazons-cloud-dominance-hurts-competition</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK regulator says Microsoft, Amazon dominate cloud marketJul 31, 2025 — The UK authority found that Microsoft and Amazon Web Services hav...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: businessatoecd.org  
    Title: Artificial Intelligence, Data, and Competition  
-   Link: [https://www.businessatoecd.org/hubfs/Artificial%20Intelligence%2C%20Data%2C%20and%20Competition.pdf?hsLang=en](https://www.businessatoecd.org/hubfs/Artificial%20Intelligence%2C%20Data%2C%20and%20Competition.pdf?hsLang=en)  
+   Link: <a href="https://www.businessatoecd.org/hubfs/Artificial%20Intelligence%2C%20Data%2C%20and%20Competition.pdf?hsLang=en" target="_blank" rel="noopener noreferrer nofollow">https://www.businessatoecd.org/hubfs/Artificial%20Intelligence%2C%20Data%2C%20and%20Competition.pdf?hsLang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2024 — There are therefore indications that the market is competitive, even though the largest cloud computing services providers...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: inquisitiveminds.bristows.com  
    Title: google anthropic the latest chapter in the cmas scrutiny of generative ai  
-   Link: [https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai](https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai)  
+   Link: <a href="https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://inquisitiveminds.bristows.com/post/102jnrs/google-anthropic-the-latest-chapter-in-the-cmas-scrutiny-of-generative-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bristows.comGoogle/Anthropic: the latest chapter in the CMA&#x27;s scrutiny of...Nov 8, 2024 — The CMA has been tracking partnerships across...</p></details>

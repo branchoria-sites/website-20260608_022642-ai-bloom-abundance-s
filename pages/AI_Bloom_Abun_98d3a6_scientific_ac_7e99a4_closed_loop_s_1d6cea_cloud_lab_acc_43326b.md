@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /closed-loops/
 nav_short_title: Cloud Labs
 title: Who Gets Access to Automated Science Infrastructure?
-title_full: Who Gets Access to Automated Science Infrastructure? | Closed loops
+title_full: Who Gets Access to Automated Science Infrastructure?
 display_title_short: Cloud Labs
 display_title: Cloud Labs
 heading_title: Who Gets Access to Automated Science Infrastructure?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The missing loop in AI science | Discovery
+date: '2026-06-08 02:15:57'
+parent_title: The missing loop in AI science
 parent_permalink: /closed-loops/
 parent_nav_short_title: Closed loops
 parent_heading_title: The missing loop in AI science
@@ -266,7 +267,6 @@ next_link:
   permalink: /messy-labs/
   short_title: Messy Labs
   heading_title: Why Real Science Still Breaks Automated Labs
-date: '2026-06-08 02:15:57 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1.webp
@@ -275,8 +275,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 ## Introduction
 
-If AI dramatically increases the number of [scientific]({{ 'discovery/' | relative_url }}) ideas humanity can generate, then access to experiments may become one of the most important bottlenecks in the future of [discovery]({{ 'discovery/' | relative_url }}). Cloud laboratories are an attempt to solve that problem by turning scientific experimentation into something closer to cloud computing: researchers write protocols through software, automated equipment performs the work remotely, and results are returned over the internet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span>
-
+If AI dramatically increases the number of scientific ideas humanity can generate, then access to experiments may become one of the most important bottlenecks in the future of [discovery]({{ 'discovery/' | relative_url }}). Cloud laboratories are an attempt to solve that problem by turning scientific experimentation into something closer to cloud computing: researchers write protocols through software, automated equipment performs the work remotely, and results are returned over the internet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cloud laboratory</span><span class="citation-popover-snippet">Cloud laboratory</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For advocates of scientific acceleration, the appeal is obvious. A graduate student in Nairobi, a startup in Manchester, or a researcher working from home could theoretically access advanced laboratory equipment without building a multimillion-pound facility. Yet the same model raises a deeper question about the future of AI-enabled science: if automated laboratories become the infrastructure through which discovery increasingly flows, who owns that infrastructure, who gets access to it, and on what terms? The answer could shape whether faster science becomes broadly available or concentrated in a relatively small number of firms, governments, and elite institutions.
@@ -289,7 +288,6 @@ In practice, researchers design experiments through software interfaces or appli
 
 This model matters because it changes the economics of experimentation in several ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Expensive instruments can be shared across many users.
@@ -300,7 +298,7 @@ This model matters because it changes the economics of experimentation in severa
 
 </div>
 
-The comparison with cloud computing is not accidental. Just as software developers gained access to vast computing resources without owning [data centres]({{ 'power-demand/' | relative_url }}), cloud laboratories aim to provide experimental capacity without requiring every research group to own a fully equipped facility.
+The comparison with cloud computing is not accidental. Just as software developers gained access to vast computing resources without owning data centres, cloud laboratories aim to provide experimental capacity without requiring every research group to own a fully equipped facility.
 
 For the broader AI bloom vision, this is important because it potentially converts [intelligence]({{ 'intelligence/' | relative_url }}) into physical scientific progress more efficiently. An AI model that proposes promising drug candidates becomes much more valuable if it can immediately trigger laboratory tests rather than waiting weeks or months for scarce human-run experiments.
 
@@ -322,7 +320,6 @@ Traditional science often faced a shortage of ideas relative to experimental cap
 
 A future closed-loop research system might operate continuously:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. AI proposes experiments.
@@ -333,7 +330,7 @@ A future closed-loop research system might operate continuously:
 
 </div>
 
-If such systems become common, access to experimental throughput could become as strategically important as access to computing power is today.
+If such systems become common, access to experimental throughput could become as strategically important as access to computing [power]({{ 'power/' | relative_url }}) is today.
 
 That creates a potential division between two futures.
 
@@ -342,7 +339,6 @@ In one future, experimental infrastructure becomes widely available. Universitie
 In the other future, a small number of organisations own most high-performance experimental infrastructure. Discovery accelerates, but access to that acceleration becomes highly unequal.
 
 The difference is not merely technical. It is political and economic.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/baYdhUcOtM8" title="Emerald Cloud Labs Showcase" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=baYdhUcOtM8" target="_blank" rel="noopener noreferrer">Emerald Cloud Labs Showcase</a></p><p class="youtube-embed-meta">Channel: Corporate Startup Lab &middot; Views: 858 &middot; Uploaded: December 2023 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=baYdhUcOtM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=baYdhUcOtM8">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +351,6 @@ A sequencing platform, robotic workstation, or analytical instrument may cost hu
 This resembles the logic that drove cloud computing. Instead of every company operating its own servers, many rent computing power from a small number of providers.
 
 The economic advantages are substantial:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,35 +378,28 @@ Platform businesses often benefit from scale effects. More users justify more eq
 
 For science, that concentration could matter far beyond ordinary business competition because access to experimentation directly affects who can discover, invent, and publish.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-2-dark.svg" | relative_url }}" alt="Cloud Labs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could cloud labs widen global scientific participation?
 
 One of the strongest arguments for cloud laboratories is that they may reduce geographical inequalities in research.
 
-Many universities around the world have talented researchers but limited access to expensive instruments. Building advanced facilities requires capital, [supply chains]({{ 'risky-elements/' | relative_url }}), maintenance expertise, and regulatory support that are unevenly distributed across countries.
+Many universities around the world have talented researchers but limited access to expensive instruments. Building advanced facilities requires capital, supply chains, maintenance expertise, and regulatory support that are unevenly distributed across countries.
 
 Remote access changes part of that equation.
 
-A cloud laboratory cannot solve every problem. Researchers still need education, funding, internet access, materials, and scientific communities. Yet it could lower one important barrier: physical proximity to sophisticated equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
+A cloud laboratory cannot solve every problem. Researchers still need [education]({{ 'education/' | relative_url }}), funding, internet access, materials, and scientific communities. Yet it could lower one important barrier: physical proximity to sophisticated equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">cloud labs and remote research arent the future of science theyre here</span><span class="citation-popover-snippet">The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</span></span></span>
 
 This possibility matters for the broader AI bloom thesis because scientific potential is widely distributed while scientific infrastructure is not. If automated laboratories allow more people to contribute to discovery, the effective pool of human and machine intelligence working on major problems could expand significantly.
 
 Areas that might particularly benefit include:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Rare disease research with limited local funding.
 * Agricultural research relevant to developing regions.
-* Materials science and energy research.
+* Materials science and [energy]({{ 'energy/' | relative_url }}) research.
 * Synthetic biology and biotechnology education.
 * Startup ecosystems outside traditional scientific hubs.
 
-</div>
-
 The optimistic case is not that geography disappears, but that access to experimentation becomes less dependent on geography than it is today.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a04EcFyATg8" title="Coscientist: An AI Agent for Autonomous Chemical Research" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a04EcFyATg8" target="_blank" rel="noopener noreferrer">Coscientist: An AI Agent for Autonomous Chemical Research</a></p><p class="youtube-embed-meta">Channel: John Kitchin &middot; Views: 311 &middot; Uploaded: April 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a04EcFyATg8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a04EcFyATg8">Open on YouTube</a></p></div></div></div>
 
@@ -431,7 +419,6 @@ Yet centralisation also creates gatekeepers.
 
 A small number of organisations may gain influence over:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which users receive access.
@@ -444,7 +431,6 @@ A small number of organisations may gain influence over:
 These decisions may be justified on safety grounds. But they can also shape the direction of science itself.
 
 The question becomes particularly sensitive when scientific infrastructure crosses national boundaries. A laboratory physically located in one country may serve researchers in dozens of others, each operating under different legal and political frameworks.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-3-dark.svg" | relative_url }}" alt="Cloud Labs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_cloud_lab_acc_43326b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The risk of experimental inequality
@@ -467,7 +453,6 @@ Cloud laboratories often store protocols, metadata, workflows, and results withi
 
 Researchers may become locked into particular platforms if:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Experimental workflows are difficult to export.
@@ -479,14 +464,13 @@ Researchers may become locked into particular platforms if:
 
 Similar concerns emerged in cloud computing and enterprise software. Scientific infrastructure may face comparable debates over interoperability, portability, and open standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rkQjBRB5_4Y" title="EP 06: DJ Kleinbaum (Co-founder of Emerald Cloud Lab)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rkQjBRB5_4Y" target="_blank" rel="noopener noreferrer">EP 06: DJ Kleinbaum (Co-founder of Emerald Cloud Lab)</a></p><p class="youtube-embed-meta">Channel: Accelerate Science Now &middot; Views: 231 &middot; Uploaded: November 2025 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rkQjBRB5_4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rkQjBRB5_4Y">Open on YouTube</a></p></div></div></div>
 
 ## Why biosecurity concerns shape access debates
 
 Cloud laboratories occupy an unusual position in science policy because access and security are tightly connected.
 
-Traditionally, biological research often assumed physical presence inside a laboratory, local supervision, [institutional]({{ 'institutional-gaps/' | relative_url }}) review, and direct observation of researchers. Remote automated laboratories weaken some of those assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biosecurityhandbook.com">[biosecurityhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biosecurityhandbook.com</span><span class="citation-popover-title">Cloud Labs and Automated Biology</span><span class="citation-popover-snippet">They disrupt every assumption traditional biosecurity relies on: physical presence...</span></span></span>
+Traditionally, biological research often assumed physical presence inside a laboratory, local supervision, institutional review, and direct observation of researchers. Remote automated laboratories weaken some of those assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biosecurityhandbook.com">[biosecurityhandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biosecurityhandbook.com</span><span class="citation-popover-title">Cloud Labs and Automated Biology</span><span class="citation-popover-snippet">They disrupt every assumption traditional biosecurity relies on: physical presence...</span></span></span>
 
 Security researchers have argued that cloud labs create new governance questions because individuals can potentially design experiments remotely while robotic systems perform the physical work elsewhere. RAND researchers have similarly examined how cloud laboratories intersect with automation, AI, and emerging biosecurity concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">RAND PEA3851 1</span><span class="citation-popover-snippet">RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</span></span></span>
 
@@ -505,11 +489,15 @@ The long-term importance of cloud laboratories may depend less on the technology
 
 Several governance models are possible:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * **Commercial infrastructure** owned primarily by private providers.
 * **University consortia** sharing experimental resources across institutions.
 * **Public research utilities** funded similarly to major scientific facilities.
 * **Hybrid systems** combining commercial platforms with public-access mandates.
 * **International networks** that distribute access across multiple regions.
+
+</div>
 
 Each model involves trade-offs between efficiency, openness, security, innovation, and public accountability.
 
@@ -914,110 +902,110 @@ If AI increasingly generates hypotheses while cloud laboratories increasingly te
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Cloud laboratory  
-   Link: [https://en.wikipedia.org/wiki/Cloud_laboratory](https://en.wikipedia.org/wiki/Cloud_laboratory)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cloud_laboratory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cloud_laboratory</a>  
 
 2. <a id="endnote-2"></a>
    Source: emeraldcloudlab.com  
-   Link: [https://www.emeraldcloudlab.com/](https://www.emeraldcloudlab.com/)  
+   Link: <a href="https://www.emeraldcloudlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeraldcloudlab.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Lab: Remote Controlled Life Sciences LabEmerald Cloud Lab is a highly automated remote controlled life science laboratory i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Emerald_Cloud_Lab](https://en.wikipedia.org/wiki/Emerald_Cloud_Lab)  
+   Link: <a href="https://en.wikipedia.org/wiki/Emerald_Cloud_Lab" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Emerald_Cloud_Lab</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud LabECL remotely conducts experiments in a automated ECL facility exactly to the scientist&#x27;s specifications. The platform...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rand.org  
    Title: RAND PEA3851 1  
-   Link: [https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf](https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf)  
+   Link: <a href="https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/perspectives/PEA3800/PEA3851-1/RAND_PEA3851-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationDocumenting Cloud Labs and Examining How Remotely...by G ZILGALVIS · 2025 — Cloud labs, which are facilities that allow...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: biosecurityhandbook.com  
    Title: Cloud Labs and Automated Biology  
-   Link: [https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html](https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html)  
+   Link: <a href="https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html" target="_blank" rel="noopener noreferrer nofollow">https://biosecurityhandbook.com/ai-biosecurity/cloud-labs.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They disrupt every assumption traditional biosecurity relies on: physical presence...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bio-itworld.com  
-   Link: [https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs](https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs)  
+   Link: <a href="https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.bio-itworld.com/news/2021/07/13/strateos-makes-cloud-lab-software-available-to-in-house-labs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bio-IT WorldStrateos Makes Cloud Lab Software Available to In-House Labs13 Jul 2021 — The company provides cloud access to these faciliti...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: go.strateos.com  
    Title: Strateos CompanyFactSheet Oct2021 V2  
-   Link: [https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf](https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf)  
+   Link: <a href="https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://go.strateos.com/hubfs/Website%20URLs/Media%20Kit/Strateos_CompanyFactSheet_Oct2021%20V2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WE ARE OUR PLATFORM AND PRODUCTSStrateos&#x27; smart lab facility design-build services and lab control software enables organizations to cont...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: theguardian.com  
    Title: cloud labs and remote research arent the future of science theyre here  
-   Link: [https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here](https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here)  
+   Link: <a href="https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2022/sep/11/cloud-labs-and-remote-research-arent-the-future-of-science-theyre-here</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianCloud labs and remote research aren&#x27;t the future of science11 Sept 2022 — Cloud labs mean anybody, anywhere can conduct exper...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: egnyte.com  
    Title: cloud labs  
-   Link: [https://www.egnyte.com/guides/life-sciences/cloud-labs](https://www.egnyte.com/guides/life-sciences/cloud-labs)  
+   Link: <a href="https://www.egnyte.com/guides/life-sciences/cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.egnyte.com/guides/life-sciences/cloud-labs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Lab-to-Cloud Technology8 Jul 2024 — By moving to the cloud, laboratories can overcome the limitations of physical infrastru...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: businesswire.com  
-   Link: [https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories](https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories)  
+   Link: <a href="https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.businesswire.com/news/home/20210713005442/en/Strateos-Launches-its-SmartLab-Software-Platform-to-Power-the-Digital-Transformation-of-Life-Science-Research-Laboratories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strateos Launches its SmartLab Software Platform to...13 Jul 2021 — Hybrid cloud solution enables research teams to drive more efficient...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo](https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo)  
+   Link: <a href="https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jrkelly2_proud-to-announce-two-new-usg-programs-in-activity-7408942958445645824--aOo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ginkgo Wins $8.3M in USG Contracts for Cloud Lab ServicesProud to announce two new USG programs in the last week where Ginkgo is supporti...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aws.amazon.com  
-   Link: [https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws](https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws)  
+   Link: <a href="https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/startups/learn/how-emerald-cloud-lab-is-revolutionizing-the-laboratory-using-aws</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services, Inc.How Emerald Cloud Lab is revolutionizing the laboratory...Emerald Cloud Lab (ECL) provides access to a highly a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: universitylabpartners.org  
-   Link: [https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs](https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs)  
+   Link: <a href="https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs" target="_blank" rel="noopener noreferrer nofollow">https://www.universitylabpartners.org/blog/unlocking-innovation-in-life-sciences-navigating-the-benefits-and-risks-of-cloud-labs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the Benefits and Risks of Cloud Labs13 Nov 2024 — A cloud lab is a digital infrastructure that enables scientists to conduct e...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rdworldonline.com  
    Title: self driving cars are hitting the streets is your lab up next for automation  
-   Link: [https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/](https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/)  
+   Link: <a href="https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/" target="_blank" rel="noopener noreferrer nofollow">https://www.rdworldonline.com/self-driving-cars-are-hitting-the-streets-is-your-lab-up-next-for-automation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is your lab up next for automation?21 Jul 2025 — Robotic cloud lab services, such as Strateos and Emerald Cloud Lab, provide remote-contr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=baYdhUcOtM8](https://www.youtube.com/watch?v=baYdhUcOtM8)  
+   Link: <a href="https://www.youtube.com/watch?v=baYdhUcOtM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=baYdhUcOtM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Labs ShowcaseThis is a remotely operated lab that supports research in chemistry the life sciences Material Science and oth...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213](https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311916.2026.2639213</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mariz · 2026 — Use of Cloud Computing: By implementing remote laboratories accessible through cloud platforms, the article addresses the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: the-scientist.com  
    Title: how cloud labs and remote research shape science 71734  
-   Link: [https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734](https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734)  
+   Link: <a href="https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734" target="_blank" rel="noopener noreferrer nofollow">https://www.the-scientist.com/how-cloud-labs-and-remote-research-shape-science-71734</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Cloud Labs and Remote Research Shape Science18 Mar 2024 — Cloud labs are a type of remote lab that enables researchers to conduct the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: wolframconsulting.com  
-   Link: [https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/](https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/)  
+   Link: <a href="https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/" target="_blank" rel="noopener noreferrer nofollow">https://www.wolframconsulting.com/powering-a-life-science-lab-in-the-cloud/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald Cloud Laboratory, a web-based life science lab. Regarding the...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pakistan.cbre.com  
    Title: uncovering the next chapter in scientific workspaces  
-   Link: [https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces](https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces)  
+   Link: <a href="https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces" target="_blank" rel="noopener noreferrer nofollow">https://pakistan.cbre.com/books/the-next-generation-of-the-scientific-workplace/uncovering-the-next-chapter-in-scientific-workspaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emergence of Automation, Cloud Labs and Digital Twin LabsSuch cloud laboratories enable researchers to effectively outsource all aspects...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nonproliferation.eu  
    Title: (AI) agents that provide analytical and assistance capabilities.Read more  
-   Link: [https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf](https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf)  
+   Link: <a href="https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Non-Proliferation ConsortiumCloud Labs and Other New Actors in the Biotechnology...Cloud labs are fully automated, modular laboratori...</p></details>

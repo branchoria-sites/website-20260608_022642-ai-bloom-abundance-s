@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /pandemic-ai/
 nav_short_title: Data Failures
 title: Can Pandemic AI Work With Incomplete Data?
-title_full: Can Pandemic AI Work With Incomplete Data? | Pandemic AI
+title_full: Can Pandemic AI Work With Incomplete Data?
 display_title_short: Data Failures
 display_title: Data Failures
 heading_title: Can Pandemic AI Work With Incomplete Data?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Really Warn US Before the Next Pandemic? | Resilience
+date: '2026-06-08 01:59:35'
+parent_title: Can AI Really Warn US Before the Next Pandemic?
 parent_permalink: /pandemic-ai/
 parent_nav_short_title: Pandemic AI
 parent_heading_title: Can AI Really Warn US Before the Next Pandemic?
@@ -266,7 +267,6 @@ next_link:
   permalink: /seasonal-limits/
   short_title: Seasonal Limits
   heading_title: Why Flu Models Work Better Than Novel Virus Warnings
-date: '2026-06-08 01:59:35 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-1.webp
@@ -275,8 +275,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 
 ## Introduction
 
-Pandemic forecasting AI is often described as a way to see outbreaks coming before hospitals fill, borders close or [supply chains]({{ 'risky-elements/' | relative_url }}) break. In the most optimistic versions of the AI abundance story, increasingly powerful systems could help humanity detect emerging diseases early, coordinate responses faster and reduce one of the major threats to long-term human flourishing. But there is a basic constraint that advanced models cannot escape: they can only forecast what they can observe.
-
+Pandemic forecasting AI is often described as a way to see outbreaks coming before hospitals fill, borders close or supply chains break. In the most optimistic versions of the AI abundance story, increasingly powerful systems could help humanity detect emerging diseases early, coordinate responses faster and reduce one of the major threats to long-term human flourishing. But there is a basic constraint that advanced models cannot escape: they can only forecast what they can observe.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-1-dark.svg" | relative_url }}" alt="Data Failures illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The hardest period of any outbreak is usually the beginning, when information is sparse, delayed, politically contested or simply missing. The same conditions that make [early warning]({{ 'early-warning/' | relative_url }}) valuable also make reliable prediction difficult. During COVID-19 and many previous epidemics, reporting delays, unequal testing access, undercounted populations and fragmented surveillance systems distorted the data flowing into forecasting models. As a result, AI systems often faced a version of the classic problem of “garbage in, garbage out”: sophisticated algorithms operating on incomplete pictures of reality. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article-pdf/3/6/pgae204/58334731/pgae204.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicA widely neglected impact factor in COVID-19 forecastsby L Ma · 2024 · Cited by 10 — In our work, through the analysis of the...</span></span></span>
@@ -285,12 +284,11 @@ For pandemic forecasting to become a serious pillar of civilisational [resilienc
 
 ## Can Pandemic AI Work With Incomplete Data?
 
-In principle, machine learning systems are well suited to finding patterns across large, messy datasets. Modern outbreak forecasting can combine clinical reports, mobility data, environmental information, news reports, internet searches and other signals to estimate where disease may be spreading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCReporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2319417025001039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">They also enhance risk assessment by...Read more...</span></span></span>
+In principle, machine learning systems are well suited to finding patterns across large, messy datasets. Modern outbreak forecasting can combine clinical reports, mobility data, environmental information, news reports, internet searches and other signals to estimate where disease may be spreading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2319417025001039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">They also enhance risk assessment by...Read more...</span></span></span>
 
 The problem is that the first weeks of a new outbreak rarely generate large, reliable datasets.
 
 Several distortions appear simultaneously:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -319,7 +317,6 @@ Researchers analysing the first pandemic wave found substantial delays between i
 For AI systems, delayed data creates a dangerous illusion. The model may appear to be observing real-time conditions when it is actually looking into the past.
 
 Imagine an outbreak doubling every few days. If official case reports lag by a week, a forecasting system may underestimate current spread precisely when intervention decisions are being made. Public-health leaders may conclude that an outbreak remains manageable when transmission has already accelerated beyond that point.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ohs7mnl0tzc" title="Public Health Prediction by Integrating AI, Data, and Scientific Models in Epidemiology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ohs7mnl0tzc" target="_blank" rel="noopener noreferrer">Public Health Prediction by Integrating AI, Data, and Scientific Models in Epidemiology</a></p><p class="youtube-embed-meta">Channel: Dept. Biomedical Informatics Columbia University &middot; Views: 608 &middot; Uploaded: March 2025 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ohs7mnl0tzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ohs7mnl0tzc">Open on YouTube</a></p></div></div></div>
 
@@ -355,13 +352,12 @@ If surveillance systems systematically undercount certain populations, forecasts
 
 For a future in which AI contributes to broad human flourishing rather than concentrating advantages among already well-observed populations, this problem is not peripheral. It is central.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-2-dark.svg" | relative_url }}" alt="Data Failures illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Global blind spots weaken global forecasts
 
 Pandemics do not respect national borders, but disease-data systems remain heavily fragmented.
 
-High-income countries generally produce richer surveillance datasets than low-income countries. Yet outbreaks often emerge or expand in places where laboratory capacity, reporting infrastructure and healthcare coverage are more limited. A forecasting system attempting global prediction may therefore receive its weakest information from regions where early detection is most important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCArtificial intelligence in early warning systems for infectious...by I Villanueva-Miranda · 2025 · Cited by 84 — Using historical dat...</span></span></span>
+High-income countries generally produce richer surveillance datasets than low-income countries. Yet outbreaks often emerge or expand in places where laboratory capacity, reporting infrastructure and healthcare coverage are more limited. A forecasting system attempting global prediction may therefore receive its weakest information from regions where early detection is most important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Artificial intelligence in early warning systems for infectious...by I Villanueva-Miranda · 2025 · Cited by 84 — Using historical dat...</span></span></span>
 
 An AI model cannot reliably infer an outbreak that is largely invisible in its input data.
 
@@ -377,7 +373,6 @@ Search activity may reflect public anxiety rather than actual infections. News c
 
 The result is not necessarily bad forecasting. In some cases these signals improve prediction. But they do not eliminate surveillance bias. They often shift it into different forms.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ELWEYzlg9MY" title="Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ELWEYzlg9MY" target="_blank" rel="noopener noreferrer">Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence</a></p><p class="youtube-embed-meta">Channel: World Health Organization (WHO) &middot; Views: 1.6K &middot; Uploaded: October 2025 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ELWEYzlg9MY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ELWEYzlg9MY">Open on YouTube</a></p></div></div></div>
 
 ## The Wastewater Surveillance Lesson
@@ -388,19 +383,18 @@ For AI forecasting systems, wastewater data offered a valuable independent signa
 
 Yet even this approach has limits.
 
-Recent research suggests that wastewater surveillance can contain its own coverage gaps. Communities lacking sewage infrastructure or comprehensive monitoring may remain underrepresented. Vulnerable populations can therefore continue to disappear from supposedly population-wide datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Study reveals inequities in wastewater-based disease</span><span class="citation-popover-snippet">News-MedicalStudy reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+Recent research suggests that wastewater surveillance can contain its own coverage gaps. Communities lacking sewage infrastructure or comprehensive monitoring may remain underrepresented. Vulnerable populations can therefore continue to disappear from supposedly population-wide datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Study reveals inequities in wastewater-based disease</span><span class="citation-popover-snippet">Study reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
 The lesson is broader than wastewater monitoring itself.
 
 There is no perfectly objective surveillance stream. Every dataset captures some aspects of reality while missing others. Effective forecasting increasingly depends on combining multiple imperfect signals rather than relying on a single source of truth.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-3-dark.svg" | relative_url }}" alt="Data Failures illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_pandemic_data_f456d0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Better AI Alone Cannot Solve The Problem
 
 A common assumption in discussions of advanced AI is that more capable models will eventually overcome data limitations.
 
-To some extent this is true. Modern systems can integrate heterogeneous data sources, identify anomalies, estimate missing values and detect patterns that traditional statistical methods might miss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCInfectious Disease Surveillance in the Era of Big Data and AIby CO Idahor · 2025 · Cited by 13 — This review explores the potential of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in public health surveillance: An overview of novel...by H Rilkoff · 2024 · Cited by 26 — Wastewater surveillance (WWS) has evolved as a...</span></span></span>
+To some extent this is true. Modern systems can integrate heterogeneous data sources, identify anomalies, estimate missing values and detect patterns that traditional statistical methods might miss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Infectious Disease Surveillance in the Era of Big Data and AIby CO Idahor · 2025 · Cited by 13 — This review explores the potential of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">in public health surveillance: An overview of novel...by H Rilkoff · 2024 · Cited by 26 — Wastewater surveillance (WWS) has evolved as a...</span></span></span>
 
 But there are hard limits.
 
@@ -410,8 +404,7 @@ This distinction matters for long-term visions of AI-enabled civilisational resi
 
 Forecasting systems may eventually become far more powerful than today's tools. Yet even highly advanced [intelligence]({{ 'intelligence/' | relative_url }}) requires sensory input. In pandemic forecasting, disease surveillance functions as the sensory layer. Weak surveillance constrains what prediction systems can know.
 
-The bottleneck is therefore partly computational but also [institutional]({{ 'institutional-gaps/' | relative_url }}), logistical and political.
-
+The bottleneck is therefore partly computational but also institutional, logistical and political.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhCTCfW-pdg" title="AI, qualitative data, and the case for statistical rigour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer">AI, qualitative data, and the case for statistical rigour</a></p><p class="youtube-embed-meta">Channel: PEI Innovation Forum &middot; Views: 169 &middot; Uploaded: May 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhCTCfW-pdg">Open on YouTube</a></p></div></div></div>
 
@@ -425,9 +418,9 @@ Several approaches are increasingly important:
 
 **Multi-source surveillance.** Combining clinical reports, laboratory testing, wastewater monitoring, environmental sensing and digital signals reduces dependence on any single flawed dataset. OAE Publishing <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/surveillance.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[2publichealthaihandbook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-snippet">AI in Disease Surveillance and Outbreak DetectionAI transforms outbreak detection by analyzing diverse data streams in real-time, using a...</span></span></span>
 
-**Coverage of underserved populations.** Forecasts become more reliable when surveillance systems deliberately include regions and groups that are traditionally undercounted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Study reveals inequities in wastewater-based disease</span><span class="citation-popover-snippet">News-MedicalStudy reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
+**Coverage of underserved populations.** Forecasts become more reliable when surveillance systems deliberately include regions and groups that are traditionally undercounted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Study reveals inequities in wastewater-based disease</span><span class="citation-popover-snippet">Study reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</span><span class="citation-popover-meta">Published: May 28, 2026</span></span></span>
 
-**International interoperability.** Data standards that allow information sharing across borders can reduce blind spots during rapidly spreading outbreaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCArtificial intelligence in infection surveillance: Data integration...by JH Li · 2025 · Cited by 10 — AI-driven infection surveillanc...</span></span></span>
+**International interoperability.** Data standards that allow information sharing across borders can reduce blind spots during rapidly spreading outbreaks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Artificial intelligence in infection surveillance: Data integration...by JH Li · 2025 · Cited by 10 — AI-driven infection surveillanc...</span></span></span>
 
 **Uncertainty-aware forecasting.** Models should communicate confidence intervals and data limitations rather than presenting precise predictions that imply more certainty than the evidence supports. Researchers increasingly emphasise that outbreak forecasting must account explicitly for missing and delayed information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2006520117" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Here, we detail three regional-scale models for forecasting and assessing the course of...</span></span></span>
 
@@ -437,7 +430,7 @@ These investments are less glamorous than visions of superintelligent disease pr
 
 One of the strongest arguments for advanced AI is that it could help humanity become better at anticipation rather than merely reaction. Pandemic forecasting is an important test case.
 
-The experience of COVID-19 suggests that prediction systems can provide useful warning signals and improve public-health decision-making. But it also shows that intelligence alone is not enough. The quality of civilisation's forecasts depends heavily on the quality of civilisation's observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCReporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2667193X26000827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">reporting, timely outbreak detection, and effective response..Read more...</span></span></span>
+The experience of COVID-19 suggests that prediction systems can provide useful warning signals and improve public-health decision-making. But it also shows that intelligence alone is not enough. The quality of civilisation's forecasts depends heavily on the quality of civilisation's observations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Reporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2667193X26000827" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">reporting, timely outbreak detection, and effective response..Read more...</span></span></span>
 
 For the broader vision of human flourishing and long-term resilience, this carries a wider lesson. Many future AI systems may be limited not primarily by reasoning [power]({{ 'power/' | relative_url }}) but by the quality of the information flowing into them. Better sensors, better reporting networks, better institutions and broader access to data may prove just as important as better algorithms.
 
@@ -529,165 +522,471 @@ If advanced AI is eventually to help protect humanity from biological threats at
   </div>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;John is Not Really Dull&quot; Vintage Style 1936 WPA Public Health Poster - 16x24"><img src="https://i.ebayimg.com/images/g/D2wAAOSwr4hmByHo/s-l225.jpg" alt="Listing image for &quot;John is Not Really Dull&quot; Vintage Style 1936 WPA Public Health Poster - 16x24" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">&quot;John is Not Really Dull&quot; Vintage Style 1936 WPA Public Health Poster - 16x24</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Don&#x27;t Feed Rats Public Health Service poster during WWII 13 x 19&quot; Photo Print"><img src="https://i.ebayimg.com/images/g/8u8AAOSwnohiJicG/s-l225.jpg" alt="Listing image for Don&#x27;t Feed Rats Public Health Service poster during WWII 13 x 19&quot; Photo Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Don&#x27;t Feed Rats Public Health Service poster during WWII 13 x 19&quot; Photo Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1950s public health awareness advert poster"><img src="https://i.ebayimg.com/images/g/uhIAAOSwRwReuYdd/s-l225.jpg" alt="Listing image for Vintage 1950s public health awareness advert poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1950s public health awareness advert poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE Public Health Poster Poison Ivy Poisonous Plants VINTAGE Advertising"><img src="https://i.ebayimg.com/images/g/Z54AAOSw4mRn5CMJ/s-l225.jpg" alt="Listing image for VINTAGE Public Health Poster Poison Ivy Poisonous Plants VINTAGE Advertising" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE Public Health Poster Poison Ivy Poisonous Plants VINTAGE Advertising</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for public health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: public health poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=public+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-pandemic-ai-work-with-incomplete-data-public-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="public health poster" data-ebay-reference="can-pandemic-ai-work-with-incomplete-data-public-health-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCReporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11156234/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reporting delays: A widely neglected impact factor in COVID...by L Ma · 2024 · Cited by 10 — We develop a statistical framework to de...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/pnasnexus/article-pdf/3/6/pgae204/58334731/pgae204.pdf](https://academic.oup.com/pnasnexus/article-pdf/3/6/pgae204/58334731/pgae204.pdf)  
+   Link: <a href="https://academic.oup.com/pnasnexus/article-pdf/3/6/pgae204/58334731/pgae204.pdf" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article-pdf/3/6/pgae204/58334731/pgae204.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicA widely neglected impact factor in COVID-19 forecastsby L Ma · 2024 · Cited by 10 — In our work, through the analysis of the...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2006520117](https://www.pnas.org/doi/10.1073/pnas.2006520117)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2006520117" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2006520117</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here, we detail three regional-scale models for forecasting and assessing the course of...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCArtificial intelligence in early warning systems for infectious...by I Villanueva-Miranda · 2025 · Cited by 84 — Using historical dat...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in early warning systems for infectious...by I Villanueva-Miranda · 2025 · Cited by 84 — Using historical dat...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2319417025001039](https://www.sciencedirect.com/science/article/pii/S2319417025001039)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2319417025001039" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2319417025001039</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>They also enhance risk assessment by...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2410.17290v1](https://arxiv.org/html/2410.17290v1)  
+   Link: <a href="https://arxiv.org/html/2410.17290v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2410.17290v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disease Outbreak Detection and Forecasting: A Review of...Statistical and machine learning techniques have been applied to the predictio...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2010.05079](https://arxiv.org/abs/2010.05079)  
+   Link: <a href="https://arxiv.org/abs/2010.05079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2010.05079</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv COVID-19: The unreasonable effectiveness of simple models  
-   Link: [https://arxiv.org/abs/2005.11085](https://arxiv.org/abs/2005.11085)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivCOVID-19: The unreasonable effectiveness of simple modelsMay 22, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2005.11085" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2005.11085</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19: The unreasonable effectiveness of simple modelsMay 22, 2020...</p></details>
    Published: May 22, 2020  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.10776](https://arxiv.org/abs/2003.10776)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivFinding an Accurate Early Forecasting Model from Small Dataset: A Case of 2019-nCoV Novel Coronavirus OutbreakMarch 24, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2003.10776" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.10776</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding an Accurate Early Forecasting Model from Small Dataset: A Case of 2019-nCoV Novel Coronavirus OutbreakMarch 24, 2020...</p></details>
    Published: March 24, 2020  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2004.04019](https://arxiv.org/abs/2004.04019)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA machine learning methodology for real-time forecasting of the 2019-2020 COVID-19 outbreak using Internet searches, news alerts, an...</p></details>
+   Link: <a href="https://arxiv.org/abs/2004.04019" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2004.04019</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A machine learning methodology for real-time forecasting of the 2019-2020 COVID-19 outbreak using Internet searches, news alerts, an...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: dpe.gospub.com  
-   Link: [https://dpe.gospub.com/dpe/article/view/13](https://dpe.gospub.com/dpe/article/view/13)  
+   Link: <a href="https://dpe.gospub.com/dpe/article/view/13" target="_blank" rel="noopener noreferrer nofollow">https://dpe.gospub.com/dpe/article/view/13</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence for Public Health Surveillanceby GC Ikechukwu · 2026 — Though, actual implementations reveal significant traps: b...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInfectious Disease Surveillance in the Era of Big Data and AIby CO Idahor · 2025 · Cited by 13 — This review explores the potential of...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12587752/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infectious Disease Surveillance in the Era of Big Data and AIby CO Idahor · 2025 · Cited by 13 — This review explores the potential of...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: publichealthaihandbook.com  
-   Link: [https://publichealthaihandbook.com/applications/surveillance.html](https://publichealthaihandbook.com/applications/surveillance.html)  
+   Link: <a href="https://publichealthaihandbook.com/applications/surveillance.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/applications/surveillance.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Disease Surveillance and Outbreak DetectionAI transforms outbreak detection by analyzing diverse data streams in real-time, using a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11075801/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in public health surveillance: An overview of novel...by H Rilkoff · 2024 · Cited by 26 — Wastewater surveillance (WWS) has evolved as a...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news-medical.net  
    Title: Study reveals inequities in wastewater-based disease  
-   Link: [https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx](https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>News-MedicalStudy reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</p></details>
+   Link: <a href="https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20260527/Study-reveals-inequities-in-wastewater-based-disease-outbreak-detection-systems.aspx</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study reveals inequities in wastewater-based disease...May 28, 2026 — 4 days ago — Wastewater surveillance was hailed during...</p></details>
    Published: May 28, 2026  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCArtificial intelligence in infection surveillance: Data integration...by JH Li · 2025 · Cited by 10 — AI-driven infection surveillanc...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13091077/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in infection surveillance: Data integration...by JH Li · 2025 · Cited by 10 — AI-driven infection surveillanc...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667193X26000827](https://www.sciencedirect.com/science/article/pii/S2667193X26000827)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667193X26000827" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667193X26000827</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reporting, timely outbreak detection, and effective response..Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0010482522001342](https://www.sciencedirect.com/science/article/pii/S0010482522001342)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010482522001342" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010482522001342</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting COVID-19 new cases using deep learning...by L Xu · 2022 · Cited by 130 — In this paper, three deep learning models, includin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949924026000066](https://www.sciencedirect.com/science/article/pii/S2949924026000066)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and big data for decoding infectious...by B Michael · 2026 · Cited by 1 — [Universal](&amp;#123;&amp;#123; &#x27;ai-tutors-f14433/&#x27; | relative_url &amp;#125;&amp;#125;) outbreak risk prediction sys...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949924026000066" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949924026000066</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and big data for decoding infectious...by B Michael · 2026 · Cited by 1 — Universal outbreak risk prediction sys...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oaepublish.com  
-   Link: [https://www.oaepublish.com/articles/wecn.2024.80](https://www.oaepublish.com/articles/wecn.2024.80)  
+   Link: <a href="https://www.oaepublish.com/articles/wecn.2024.80" target="_blank" rel="noopener noreferrer nofollow">https://www.oaepublish.com/articles/wecn.2024.80</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OAE PublishingIntegrated environmental surveillance: the role of...by M Oliveira · 2025 · Cited by 3 — Sewage water analysis allows the...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: elib.dlr.de  
-   Link: [https://elib.dlr.de/219883/1/21621819_1_Selection_of_Robust_Features_for_Gaussian_Process_Regression_to_Predict_COVID_19_Case_Rates.pdf](https://elib.dlr.de/219883/1/21621819_1_Selection_of_Robust_Features_for_Gaussian_Process_Regression_to_Predict_COVID_19_Case_Rates.pdf)  
+   Link: <a href="https://elib.dlr.de/219883/1/21621819_1_Selection_of_Robust_Features_for_Gaussian_Process_Regression_to_Predict_COVID_19_Case_Rates.pdf" target="_blank" rel="noopener noreferrer nofollow">https://elib.dlr.de/219883/1/21621819_1_Selection_of_Robust_Features_for_Gaussian_Process_Regression_to_Predict_COVID_19_Case_Rates.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Robust Features for Gaussian Process...28 Aug 2025 — Making reliable and accurate short-term predictions for an infectious disease sp...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/396264159_Infectious_Disease_Surveillance_in_the_Era_of_Big_Data_and_AI_Opportunities_and_Pitfalls](https://www.researchgate.net/publication/396264159_Infectious_Disease_Surveillance_in_the_Era_of_Big_Data_and_AI_Opportunities_and_Pitfalls)  
+   Link: <a href="https://www.researchgate.net/publication/396264159_Infectious_Disease_Surveillance_in_the_Era_of_Big_Data_and_AI_Opportunities_and_Pitfalls" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396264159_Infectious_Disease_Surveillance_in_the_Era_of_Big_Data_and_AI_Opportunities_and_Pitfalls</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Infectious Disease Surveillance in the Era of Big Data and AI4 Jan 2026 — This review explores the potential of AI-enabled tools and big...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400355604_Artificial_Intelligence-Driven_Approaches_to_Disease_Surveillance_and_Outbreak_Prediction](https://www.researchgate.net/publication/400355604_Artificial_Intelligence-Driven_Approaches_to_Disease_Surveillance_and_Outbreak_Prediction)  
+   Link: <a href="https://www.researchgate.net/publication/400355604_Artificial_Intelligence-Driven_Approaches_to_Disease_Surveillance_and_Outbreak_Prediction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400355604_Artificial_Intelligence-Driven_Approaches_to_Disease_Surveillance_and_Outbreak_Prediction</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>January 2026; Open Access Library Journal 13(02):1-16.Read more...</p></details>
    Published: January 2026  
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ECDC.EU/posts/%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9A%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%B9-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B6/1376463817839442/](https://www.facebook.com/ECDC.EU/posts/%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9A%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%B9-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B6/1376463817839442/)  
+   Link: <a href="https://www.facebook.com/ECDC.EU/posts/%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9A%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%B9-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B6/1376463817839442/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ECDC.EU/posts/%F0%9D%97%AA%F0%9D%97%B5%F0%9D%97%AE%F0%9D%98%81-%F0%9D%97%B0%F0%9D%97%AE%F0%9D%97%BB-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80%F0%9D%98%81%F0%9D%97%B2%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B1%F0%9D%97%B6%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%AE%F0%9D%98%80%F0%9D%97%B2%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1-%F0%9D%97%B6%F0%9D%98%80-%F0%9D%97%B6%F0%9D%98%81-%F0%9D%97%BF%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%86-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%9B%F0%9D%97%BC%F0%9D%97%B9%F0%9D%98%86-%F0%9D%97%9A%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%B9-%F0%9D%97%BC%F0%9D%97%B3-%F0%9D%97%B2%F0%9D%97%BD%F0%9D%97%B6/1376463817839442/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>lation - including cases that may never be...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI  
-   Link: [https://www.youtube.com/watch?v=gD0obKGIWVk](https://www.youtube.com/watch?v=gD0obKGIWVk)  
+   Link: <a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD0obKGIWVk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medrxiv.org  
    Title: 2025.06.24.25330210v1.full text  
-   Link: [https://www.medrxiv.org/content/10.1101/2025.06.24.25330210v1.full-text](https://www.medrxiv.org/content/10.1101/2025.06.24.25330210v1.full-text)  
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.06.24.25330210v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.06.24.25330210v1.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning and Probabilistic Approaches for...24 Jun 2025 — Abstract. Forecasting the effective reproductive number (Rt) and COVID...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Ohs7mnl0tzc](https://www.youtube.com/watch?v=Ohs7mnl0tzc)  
+   Link: <a href="https://www.youtube.com/watch?v=Ohs7mnl0tzc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ohs7mnl0tzc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: durableproject.org  
    Title: A I can strengthen pandemic preparedness  
-   Link: [https://durableproject.org/news/ai-can-strengthen-pandemic-preparedness/](https://durableproject.org/news/ai-can-strengthen-pandemic-preparedness/)  
+   Link: <a href="https://durableproject.org/news/ai-can-strengthen-pandemic-preparedness/" target="_blank" rel="noopener noreferrer nofollow">https://durableproject.org/news/ai-can-strengthen-pandemic-preparedness/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence could be a valuable tool for detecting emerging diseases earlier, researchers...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-025-01606-1](https://www.nature.com/articles/s41746-025-01606-1)  
+   Link: <a href="https://www.nature.com/articles/s41746-025-01606-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01606-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fine-grained forecasting of COVID-19 trends at the county...by TH Song · 2025 · Cited by 10 — We introduce FIGI-Net (Fine-Grained Infect...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: AI, qualitative data, and the case for statistical rigour  
-   Link: [https://www.youtube.com/watch?v=IhCTCfW-pdg](https://www.youtube.com/watch?v=IhCTCfW-pdg)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Health Prediction by Integrating AI, Data, and [Scientific](&amp;#123;&amp;#123; &#x27;discovery/&#x27; | relative_url &amp;#125;&amp;#125;) Models in Epidemiology...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhCTCfW-pdg</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Health Prediction by Integrating AI, Data, and Scientific Models in Epidemiology...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /tutor-guardrails/
 nav_short_title: Transfer tests
 title: Can students still solve it alone?
-title_full: Can students still solve it alone? | Tutor Guardrails
+title_full: Can students still solve it alone?
 display_title_short: Transfer tests
 display_title: Transfer tests
 heading_title: Can students still solve it alone?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When should an AI tutor refuse the answer? | Education
+date: '2026-06-08 01:42:10'
+parent_title: When should an AI tutor refuse the answer?
 parent_permalink: /tutor-guardrails/
 parent_nav_short_title: Tutor Guardrails
 parent_heading_title: When should an AI tutor refuse the answer?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /layered-hints/
   short_title: Layered hints
   heading_title: How much help is too much?
-date: '2026-06-08 01:42:10 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-1.webp
@@ -271,9 +271,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28
 
 The most important question about an AI tutor is not whether students can finish today's worksheet. It is whether they can solve a related problem next week without the AI beside them.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-1-dark.svg" | relative_url }}" alt="Transfer tests illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction sits at the centre of the debate over AI tutors and human flourishing. If advanced AI is eventually able to provide personalised [education]({{ 'education/' | relative_url }}) at global scale, the prize is not simply faster homework completion. The larger hope is [cognitive]({{ 'broad-access/' | relative_url }}) empowerment: helping billions of people develop skills, knowledge and judgement that remain useful when technology is unavailable, wrong or absent. The challenge is that AI-assisted performance can look impressive even when genuine learning has not improved.
+That distinction sits at the centre of the debate over AI tutors and human flourishing. If advanced AI is eventually able to provide personalised [education]({{ 'education/' | relative_url }}) at global scale, the prize is not simply faster homework completion. The larger hope is cognitive empowerment: helping billions of people develop skills, knowledge and judgement that remain useful when technology is unavailable, wrong or absent. The challenge is that AI-assisted performance can look impressive even when genuine learning has not improved.
 
 Researchers increasingly distinguish between **performance during AI use** and **transfer of learning**. Transfer means that knowledge gained in one context carries over into new situations: different questions, delayed tests, unfamiliar problems or independent work. An AI tutor that raises scores only while it is present may be functioning more like a calculator for thought than a teacher. The strongest evidence therefore comes from studies that remove the AI and ask a simple question: can the student still do it alone? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</span></span></span>
 
@@ -285,7 +284,6 @@ Traditional education research has long recognised that students can produce cor
 
 This creates what researchers sometimes call a measurement problem. If students practise mathematics with an AI system and their homework accuracy rises dramatically, there are at least two possible explanations:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. They genuinely learned the underlying skill.
@@ -295,7 +293,7 @@ This creates what researchers sometimes call a measurement problem. If students 
 
 Those possibilities can look identical in assignment data.
 
-A large field experiment in Turkish high-school mathematics illustrates the issue. Students using GPT-4 completed substantially more practice problems correctly than students working alone. Yet when the AI was removed and students sat an independent exam, the pattern reversed. Students who had relied on unrestricted GPT-4 performed significantly worse than the [control]({{ 'control/' | relative_url }}) group. The researchers concluded that improved practice performance was not a reliable measure of actual learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">PMC - NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span>
+A large field experiment in Turkish high-school mathematics illustrates the issue. Students using GPT-4 completed substantially more practice problems correctly than students working alone. Yet when the AI was removed and students sat an independent exam, the pattern reversed. Students who had relied on unrestricted GPT-4 performed significantly worse than the [control]({{ 'control/' | relative_url }}) group. The researchers concluded that improved practice performance was not a reliable measure of actual learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span>
 
 This matters because educational technology often markets itself using engagement statistics, completion rates or immediate performance gains. Those metrics are easier to collect than independent learning outcomes. But if AI bloom is partly a story about making [intelligence]({{ 'intelligence/' | relative_url }}) and expertise more widely available, then the relevant measure is whether human capability grows. A system that generates correct homework while weakening independent problem-solving would represent a very different future from one that genuinely expands human competence.
 
@@ -305,12 +303,11 @@ The strongest transfer studies deliberately separate learning from assistance.
 
 The most common method is an independent post-test. Students practise with whatever tool is being evaluated, but later complete new problems without access to the system. Researchers then compare performance against students who learned through other methods.
 
-The high-school mathematics experiment led by Hamsa Bastani and colleagues used exactly this design. During practice sessions, unrestricted GPT-4 boosted performance dramatically. However, students in the unrestricted AI condition later scored about 17% worse on independent exams than students who had never received AI assistance. The authors argued that many students had learned to rely on the system rather than developing the underlying mathematical skills themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">PMC - NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span>
+The high-school mathematics experiment led by Hamsa Bastani and colleagues used exactly this design. During practice sessions, unrestricted GPT-4 boosted performance dramatically. However, students in the unrestricted AI condition later scored about 17% worse on independent exams than students who had never received AI assistance. The authors argued that many students had learned to rely on the system rather than developing the underlying mathematical skills themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span>
 
-The same study tested a different version called GPT Tutor. Instead of freely giving answers, it used [guardrails]({{ 'guardrails/' | relative_url }}) intended to encourage reasoning, hints and stepwise progress. The negative transfer effect largely disappeared. Students still did not show large learning gains relative to the control group, but the damage seen in the unrestricted condition was substantially reduced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNGenerative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</span></span></span> PubMed This finding is easy to miss but important. The study was not merely comparing AI against no AI. It was comparing different designs of AI ass <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AI without guardrails can harm learningby H Bastani · 2025 · Cited by 90 — Without guardrails, students attempt to use GPT-4 as a &quot;crutch...</span></span></span> istance. The results suggest that transfer depends not only on model capability but on how the tutor structures the interaction.
+The same study tested a different version called GPT Tutor. Instead of freely giving answers, it used [guardrails]({{ 'guardrails/' | relative_url }}) intended to encourage reasoning, hints and stepwise progress. The negative transfer effect largely disappeared. Students still did not show large learning gains relative to the control group, but the damage seen in the unrestricted condition was substantially reduced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Generative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</span></span></span> PubMed This finding is easy to miss but important. The study was not merely comparing AI against no AI. It was comparing different designs of AI ass <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">AI without guardrails can harm learningby H Bastani · 2025 · Cited by 90 — Without guardrails, students attempt to use GPT-4 as a &quot;crutch...</span></span></span> istance. The results suggest that transfer depends not only on model capability but on how the tutor structures the interaction.
 
 For educational systems, this changes the engineering goal. Success is not simply maximising immediate student performance. It is designing interactions that produce better independent performance later.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cxozGuNOVv8" title="The Future of AI Tutoring Building What Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cxozGuNOVv8" target="_blank" rel="noopener noreferrer">The Future of AI Tutoring Building What Actually Works</a></p><p class="youtube-embed-meta">Channel: Edtech Insiders &middot; Views: 1.4K &middot; Uploaded: February 2026 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cxozGuNOVv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cxozGuNOVv8">Open on YouTube</a></p></div></div></div>
 
@@ -320,14 +317,13 @@ Immediate post-tests can still overestimate learning.
 
 Students sometimes retain enough short-term familiarity to perform well shortly after studying even when deeper understanding remains weak. Educational researchers therefore often use delayed assessments given days or weeks later.
 
-A randomised controlled trial examining ChatGPT as a study aid in higher education tested retention after a 45-day delay. Students who used ChatGPT while learning AI-related course material later scored significantly lower on the surprise retention test than students who used traditional study methods. The gap suggested that some of the apparent learning benefits observed during study did not transfer into durable knowledge. Researchers linked the effect to reduced cognitive effort during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590291125010186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</span></span></span>
+A randomised controlled trial examining ChatGPT as a study aid in higher education tested retention after a 45-day delay. Students who used ChatGPT while learning AI-related course material later scored significantly lower on the surprise retention test than students who used traditional study methods. The gap suggested that some of the apparent learning benefits observed during study did not transfer into durable knowledge. Researchers linked the effect to reduced cognitive effort during learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590291125010186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</span></span></span>
 
 The logic behind delayed testing is straightforward. Learning that survives time is usually more valuable than learning that survives only until tomorrow's assignment deadline.
 
 This principle becomes especially important in an AI-rich world. Future workers may have powerful systems available most of the time, but not necessarily in every circumstance. They may need to verify outputs, recognise errors, adapt knowledge to new contexts or continue functioning during outages and failures. Long-term retention remains economically and socially valuable even when AI assistance becomes abundant.
 
-For that reason, researchers increasingly argue that educational AI should be evaluated using delayed transfer measures rather than only immediate performance metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590291125010186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</span></span></span>
-
+For that reason, researchers increasingly argue that educational AI should be evaluated using delayed transfer measures rather than only immediate performance metrics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590291125010186" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-2-dark.svg" | relative_url }}" alt="Transfer tests illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What counts as genuine transfer?
@@ -335,7 +331,6 @@ For that reason, researchers increasingly argue that educational AI should be ev
 A student does not need to solve the exact same question again to demonstrate learning.
 
 Researchers usually look for several forms of transfer:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,7 +347,6 @@ For example, a student who learns algebra through an AI tutor might first be tes
 
 This is one reason many researchers remain cautious about claims that AI tutoring has already solved education. Demonstrating transfer is harder than demonstrating task completion. It requires carefully designed assessments that separate what the student knows from what the system knows.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cOfJV9T3ldY" title="The Biggest Risks Of Using AI In Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cOfJV9T3ldY" target="_blank" rel="noopener noreferrer">The Biggest Risks Of Using AI In Education</a></p><p class="youtube-embed-meta">Channel: Bernard Marr &middot; Views: 58.0K &middot; Uploaded: March 2026 &middot; Length: 3 minutes 13 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cOfJV9T3ldY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cOfJV9T3ldY">Open on YouTube</a></p></div></div></div>
 
 ## Warning signs of AI dependence
@@ -361,7 +355,7 @@ Several patterns repeatedly appear when AI support is helping performance more t
 
 ### Students ask for answers before attempting solutions
 
-In the mathematics field experiment, researchers found many students using GPT-4 as a shortcut rather than a tutor. Instead of requesting conceptual help, they often sought direct solutions. When that strategy succeeded, later independent performance suffered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNGenerative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</span></span></span>
+In the mathematics field experiment, researchers found many students using GPT-4 as a shortcut rather than a tutor. Instead of requesting conceptual help, they often sought direct solutions. When that strategy succeeded, later independent performance suffered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Generative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</span></span></span>
 
 The problem is not merely dishonesty. Even well-intentioned students often choose the path of least resistance when deadlines, grades and frustration are involved. An AI system that instantly reveals answers can therefore undermine the productive struggle that contributes to learning.
 
@@ -369,17 +363,16 @@ The problem is not merely dishonesty. Even well-intentioned students often choos
 
 One risk of fluent AI explanations is that they create an illusion of understanding.
 
-Students may feel they understand a concept because the explanation sounded clear, even if they could not reproduce the reasoning independently. Researchers studying AI-assisted learning have repeatedly highlighted this gap between perceived mastery and demonstrated mastery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInWithout Guardrails, Generative AI Can Harm EducationKey Takeaways Students performed better in practice sessions with gen AI, but...</span></span></span>
+Students may feel they understand a concept because the explanation sounded clear, even if they could not reproduce the reasoning independently. Researchers studying AI-assisted learning have repeatedly highlighted this gap between perceived mastery and demonstrated mastery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Without Guardrails, Generative AI Can Harm EducationKey Takeaways Students performed better in practice sessions with gen AI, but...</span></span></span>
 
 This makes independent testing especially important. Self-reports of confidence are often a poor substitute for transfer assessments.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-3-dark.svg" | relative_url }}" alt="Transfer tests illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38_ai_tutor_tran_cb0c07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Performance collapses when assistance disappears
 
 The clearest warning sign is simple: scores fall sharply once AI access is removed.
 
-This pattern appeared in the high-school mathematics study and in later work examining retention and independent problem-solving. Students often perform well during AI-supported practice but struggle when required to solve related problems alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">PMC - NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psypost.org">[PsyPost -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psypost.org</span><span class="citation-popover-title">Psy Post</span><span class="citation-popover-snippet">PsyPost - Psychology NewsUnrestricted generative AI harms high school math...Apr 21, 2026 — With AI access, students scored 48% higher o...</span></span></span>
+This pattern appeared in the high-school mathematics study and in later work examining retention and independent problem-solving. Students often perform well during AI-supported practice but struggle when required to solve related problems alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCGenerative AI without guardrails can harm learning</span><span class="citation-popover-snippet">NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psypost.org">[PsyPost -]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psypost.org</span><span class="citation-popover-title">Psy Post</span><span class="citation-popover-snippet">Psychology NewsUnrestricted generative AI harms high school math...Apr 21, 2026 — With AI access, students scored 48% higher o...</span></span></span>
 
 When this happens, the educational system may be measuring tool use rather than learning.
 
@@ -397,11 +390,9 @@ But if AI systems mainly increase assisted performance while leaving underlying 
 
 This is why independent post-tests, delayed assessments and transfer measures matter so much. They are not merely technical details in education research. They are among the clearest ways to distinguish between two very different futures: one in which AI helps humans become more capable, and one in which it mainly becomes a cognitive crutch.
 
-The real test of an AI tutor is therefore remarkably old-fashioned. After the lesson ends, after the hints disappear and after the chatbot window closes, can the learner still think through the problem alone? The answer to that question may determine whether [AI education]({{ 'education/' | relative_url }}) becomes a pathway to broader human flourishing or merely a more sophisticated form of homework completion.
-
+The real test of an AI tutor is therefore remarkably old-fashioned. After the lesson ends, after the hints disappear and after the chatbot window closes, can the learner still think through the problem alone? The answer to that question may determine whether AI education becomes a pathway to broader human flourishing or merely a more sophisticated form of homework completion.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wlr7KzGGHHg" title="Schools Risk Overreliance and Lost Connection with Unrestricted AI in Learning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wlr7KzGGHHg" target="_blank" rel="noopener noreferrer">Schools Risk Overreliance and Lost Connection with Unrestricted AI in Learning</a></p><p class="youtube-embed-meta">Channel: Knowledge at Wharton &middot; Views: 309 &middot; Uploaded: August 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wlr7KzGGHHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wlr7KzGGHHg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -415,33 +406,16 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Focuses on durable learning, retrieval and applying knowledge after support is removed.</p>
+        <p class="fr-book-desc">Directly addresses whether learners can perform later without support.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
-        
-        <p class="fr-book-desc">Emphasises active practice and independent capability, which fits the question of learning after AI support disappears.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -456,7 +430,7 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
         </h4>
         <p class="fr-book-author">By Daniel T. Willingham</p>
         
-        <p class="fr-book-desc">Explains why apparent understanding during support may not transfer unless knowledge is properly practised and stored.</p>
+        <p class="fr-book-desc">Explains the cognitive basis of independent understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -466,16 +440,33 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
         </h4>
-        <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
+        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Useful for thinking about transfer, prior knowledge and assessment beyond completed homework.</p>
+        <p class="fr-book-desc">Explains transfer, practice and memory mechanisms.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+        </h4>
+        <p class="fr-book-author">By John Hattie</p>
+        
+        <p class="fr-book-desc">Helps frame how to measure learning beyond completed tasks.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -483,7 +474,7 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -520,15 +511,15 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet"><img src="{{ '/assets/images/marketplace-covers/b988093382a3bc8b89b7.jpg' | relative_url }}" alt="Listing image for 2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK"><img src="https://i.ebayimg.com/images/g/9vsAAeSwEPFqEBFl/s-l225.jpg" alt="Listing image for Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">2 Pieces Educational Poster Laminated Wall Learning Chart Number and Alphabet</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Drawing Robot For Kids With 100 Cards Automatic Painting Robot Education Toy UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -536,15 +527,15 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large"><img src="{{ '/assets/images/marketplace-covers/8d54b8a1e09ac57a8c0b.jpg' | relative_url }}" alt="Listing image for Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy"><img src="https://i.ebayimg.com/images/g/ZY4AAeSwuYNp8G-5/s-l225.jpg" alt="Listing image for Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Electronic ABC Learning Wall Chart Talking Alphabet 123 Educational Poster Large</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -552,15 +543,15 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print-Maths Learning Poster-MULTIPLICATION TIMES TABLE-A4,A3,A2,A1"><img src="{{ '/assets/images/marketplace-covers/c2fa26cd8b89ad24d982.jpg' | relative_url }}" alt="Listing image for Home Wall Art Print-Maths Learning Poster-MULTIPLICATION TIMES TABLE-A4,A3,A2,A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested"><img src="https://i.ebayimg.com/images/g/EA4AAeSweqFqDwiB/s-l225.jpg" alt="Listing image for TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print-Maths Learning Poster-MULTIPLICATION TIMES TABLE-A4,A3,A2,A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer">TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -568,15 +559,15 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm"><img src="{{ '/assets/images/marketplace-covers/0589fe008e2ace8d06dc.jpg' | relative_url }}" alt="Listing image for Alphabet Poster Kids Learning A4 A3 200gsm 240gsm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RED5 14 In 1 Educational Solar Robot Kit STEM Science DIY Build Toy New Open Box"><img src="https://i.ebayimg.com/images/g/QiwAAeSwAyNqAx5D/s-l225.jpg" alt="Listing image for RED5 14 In 1 Educational Solar Robot Kit STEM Science DIY Build Toy New Open Box" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Alphabet Poster Kids Learning A4 A3 200gsm 240gsm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer">RED5 14 In 1 Educational Solar Robot Kit STEM Science DIY Build Toy New Open Box</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for learning poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: learning poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -584,7 +575,7 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=learning+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="learning poster -book -books" data-ebay-reference="transfer-tests-can-students-still-solve-it-alone-ai-bloom-abundance-superintelligence-and-humani-learning-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-students-still-solve-it-alone-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-students-still-solve-it-alone-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -799,96 +790,96 @@ The real test of an AI tutor is therefore remarkably old-fashioned. After the le
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2422633122](https://www.pnas.org/doi/10.1073/pnas.2422633122)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2422633122</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 198 — Our research examines the impact of generative AI...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCGenerative AI without guardrails can harm learning  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby H Bastani · 2025 · Cited by 187 — These results suggest that while access to generative AI can improve performance, it can su...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNGenerative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 365 — Without guardrails, students attempt to use GP...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590291125010186](https://www.sciencedirect.com/science/article/pii/S2590291125010186)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590291125010186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291125010186</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT as a cognitive crutch: Evidence from...by A Barcaui · 2025 · Cited by 39 — This study addresses this critical gap t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife](https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInWithout Guardrails, Generative AI Can Harm EducationKey Takeaways Students performed better in practice sessions with gen AI, but...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/without-guardrails-generative-ai-can-harm-education-wkife</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Without Guardrails, Generative AI Can Harm EducationKey Takeaways Students performed better in practice sessions with gen AI, but...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: psypost.org  
    Title: Psy Post  
-   Link: [https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/](https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PsyPost - Psychology NewsUnrestricted generative AI harms high school math...Apr 21, 2026 — With AI access, students scored 48% higher o...</p></details>
+   Link: <a href="https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology NewsUnrestricted generative AI harms high school math...Apr 21, 2026 — With AI access, students scored 48% higher o...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms](https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms)  
+   Link: <a href="https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Out in PNAS today!! | Hamsa BastaniOur research examines the impact of generative AI, specifically GPT-4, on student learning in math edu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40560616/](https://pubmed.ncbi.nlm.nih.gov/40560616/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40560616/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40560616/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningby H Bastani · 2025 · Cited by 90 — Without guardrails, students attempt to use GPT-4 as a &quot;crutch...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398113409_ChatGPT_as_a_cognitive_crutch_Evidence_from_a_randomized_controlled_trial_on_knowledge_retention](https://www.researchgate.net/publication/398113409_ChatGPT_as_a_cognitive_crutch_Evidence_from_a_randomized_controlled_trial_on_knowledge_retention)  
+   Link: <a href="https://www.researchgate.net/publication/398113409_ChatGPT_as_a_cognitive_crutch_Evidence_from_a_randomized_controlled_trial_on_knowledge_retention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398113409_ChatGPT_as_a_cognitive_crutch_Evidence_from_a_randomized_controlled_trial_on_knowledge_retention</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT as a cognitive crutch: Evidence from...11 May 2026 — An emerging body of empirical research has observed that using AI for cogni...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: thirdspacelearning.com  
-   Link: [https://thirdspacelearning.com/blog/intelligent-tutoring-systems/](https://thirdspacelearning.com/blog/intelligent-tutoring-systems/)  
+   Link: <a href="https://thirdspacelearning.com/blog/intelligent-tutoring-systems/" target="_blank" rel="noopener noreferrer nofollow">https://thirdspacelearning.com/blog/intelligent-tutoring-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligent Tutoring Systems: 7 Research-Backed PrinciplesThe best artificial intelligence tutoring systems use intelligent computer assi...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nxgl.ai  
-   Link: [https://nxgl.ai/post/mastery-and-scale-in-education-ai-tutors-as-an-integrated-part-of-an-online-learning-experience](https://nxgl.ai/post/mastery-and-scale-in-education-ai-tutors-as-an-integrated-part-of-an-online-learning-experience)  
+   Link: <a href="https://nxgl.ai/post/mastery-and-scale-in-education-ai-tutors-as-an-integrated-part-of-an-online-learning-experience" target="_blank" rel="noopener noreferrer nofollow">https://nxgl.ai/post/mastery-and-scale-in-education-ai-tutors-as-an-integrated-part-of-an-online-learning-experience</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastery and scale in education: AI Tutors as an integrated part...23 Mar 2025 — A 2024 Harvard Gazette report provides compelling eviden...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/703007927897194/posts/1052128856318431/](https://www.facebook.com/groups/703007927897194/posts/1052128856318431/)  
+   Link: <a href="https://www.facebook.com/groups/703007927897194/posts/1052128856318431/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/703007927897194/posts/1052128856318431/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>those practicing math problems using ChatGPT...Recently University of Pennsylvania researchers conducted a study that found high school...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: evelynlearning.com  
-   Link: [https://www.evelynlearning.com/blog/the-socratic-method-meets-machine-learning-how-ai-tutoring-tools-are-teaching-students-to-think-not-just-answer](https://www.evelynlearning.com/blog/the-socratic-method-meets-machine-learning-how-ai-tutoring-tools-are-teaching-students-to-think-not-just-answer)  
+   Link: <a href="https://www.evelynlearning.com/blog/the-socratic-method-meets-machine-learning-how-ai-tutoring-tools-are-teaching-students-to-think-not-just-answer" target="_blank" rel="noopener noreferrer nofollow">https://www.evelynlearning.com/blog/the-socratic-method-meets-machine-learning-how-ai-tutoring-tools-are-teaching-students-to-think-not-just-answer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring tools that use Socratic questioning rather than direct answers have been shown to reduce student churn by 40% in...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: chibe.upenn.edu  
-   Link: [https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/](https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/)  
+   Link: <a href="https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/" target="_blank" rel="noopener noreferrer nofollow">https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningJun 25, 2025 — This study tested generative AI tutors, showing that design guardrails, or prompts...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 390576465 AI Tutors in Higher Education Comparing Expectations to Evidence  
-   Link: [https://www.researchgate.net/publication/390576465_AI_Tutors_in_Higher_Education_Comparing_Expectations_to_Evidence](https://www.researchgate.net/publication/390576465_AI_Tutors_in_Higher_Education_Comparing_Expectations_to_Evidence)  
+   Link: <a href="https://www.researchgate.net/publication/390576465_AI_Tutors_in_Higher_Education_Comparing_Expectations_to_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390576465_AI_Tutors_in_Higher_Education_Comparing_Expectations_to_Evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutors in Higher Education: Comparing Expectations to...9 Apr 2025 — This study examines the effects of a genAI tutor on key precurso...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394273654_GPT-4_as_a_Homework_Tutor_Can_Improve_Student_Engagement_and_Learning_Outcomes](https://www.researchgate.net/publication/394273654_GPT-4_as_a_Homework_Tutor_Can_Improve_Student_Engagement_and_Learning_Outcomes)  
+   Link: <a href="https://www.researchgate.net/publication/394273654_GPT-4_as_a_Homework_Tutor_Can_Improve_Student_Engagement_and_Learning_Outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394273654_GPT-4_as_a_Homework_Tutor_Can_Improve_Student_Engagement_and_Learning_Outcomes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI integration enhances learning when students can strategically combine independent study with targeted support...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cxozGuNOVv8](https://www.youtube.com/watch?v=cxozGuNOVv8)  
+   Link: <a href="https://www.youtube.com/watch?v=cxozGuNOVv8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cxozGuNOVv8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of AI Tutoring Building What Actually WorksWhat evidence says about effective AI tutoring—and how to design systems that deepe...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: hamsabastani.github.io  
-   Link: [https://hamsabastani.github.io/education_llm.pdf](https://hamsabastani.github.io/education_llm.pdf)  
+   Link: <a href="https://hamsabastani.github.io/education_llm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hamsabastani.github.io/education_llm.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>statistically significantly worse than students in the control arm by 17%; this negative effect is...</p></details>

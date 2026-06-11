@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /interaction-safety/
 nav_short_title: Contact Safety
 title: How close is too close for cobots?
-title_full: How close is too close for cobots? | Interaction Safety
+title_full: How close is too close for cobots?
 display_title_short: Contact Safety
 display_title: Contact Safety
 heading_title: How close is too close for cobots?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Managing Risks When Humans and Robots Work Together | Robotics
+date: '2026-06-08 02:11:00'
+parent_title: Managing Risks When Humans and Robots Work Together
 parent_permalink: /interaction-safety/
 parent_nav_short_title: Interaction Safety
 parent_heading_title: Managing Risks When Humans and Robots Work Together
@@ -260,7 +261,6 @@ next_link:
   permalink: /felt-safety/
   short_title: Felt Safety
   heading_title: Why robot trust matters at work
-date: '2026-06-08 02:11:00 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-1.webp
@@ -271,12 +271,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a
 
 Collaborative robots—often called **cobots**—are designed to share physical space with human workers without the traditional safety fences and cages that surround industrial robots. This shared workspace model holds the promise of reducing hazardous manual labour, enabling humans and machines to work side‑by‑side on tasks such as assembly, inspection and material handling. But working close to a machine that moves with force and speed requires robust, well‑engineered safeguards. The core question is: **how do cobots prevent dangerous contact with humans in practice?** The answer lies not in fanciful safety claims but in **specific mechanisms and standards** that manage motion, sense humans, and limit impacts before they can cause injury—mechanisms defined primarily by international safety specifications such as **ISO/TS 15066** and ISO 10218.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robolist.ai">[robolist.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robolist.ai</span><span class="citation-popover-title">force limited safety iso ts 15066</span><span class="citation-popover-snippet">ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-1-dark.svg" | relative_url }}" alt="Contact Safety illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Shared Workspaces Change Robot Safety
 
 Traditional industrial robots operate behind physical guards. Safety barriers, light curtains, interlocked cages and zoning keep people physically separate from robot arms moving at high speed and force. Those methods work because they **eliminate contact**: if a human can’t enter the robot’s envelope while it’s powered, there’s no possibility of striking a person. But collaborative workspaces intentionally **remove those barriers**, letting humans and robots move in overlapping areas for greater flexibility and efficiency. That changed safety calculus means designers must shift from preventing access to **actively controlling robot behaviour** so that contact either **cannot occur** or, if it does, it won’t cause harm. ISO/TS 15066 provides a structured set of approaches for how this can be done in practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.iteh.ai">[iTeh Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.iteh.ai</span><span class="citation-popover-snippet">iTeh StandardsISO/TS 15066:2016 - Collaborative Robots Safety and Standards GuideFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yD1i4LQ-Wyw" title="How Does ISO/TS 15066 Address Human-Robot Safety?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer">How Does ISO/TS 15066 Address Human-Robot Safety?</a></p><p class="youtube-embed-meta">Channel: Everything About Robotics Explained &middot; Views: 83 &middot; Uploaded: December 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yD1i4LQ-Wyw">Open on YouTube</a></p></div></div></div>
 
@@ -284,15 +282,15 @@ Traditional industrial robots operate behind physical guards. Safety barriers, l
 
 ISO/TS 15066 (supplementing ISO 10218) describes four interoperable modes of collaborative operation, each serving to prevent dangerous contact through distinct mechanisms:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robolist.ai">[robolist.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robolist.ai</span><span class="citation-popover-title">force limited safety iso ts 15066</span><span class="citation-popover-snippet">ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[**1. Safety‑rated monitored stop (SMS)**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Perception and Computation for Speed and Separation Monitoring Architectures</span><span class="citation-popover-snippet">SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</span></span></span>
+**1. Safety‑rated monitored stop (SMS)** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-title">Perception and Computation for Speed and Separation Monitoring Architectures</span><span class="citation-popover-snippet">SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</span></span></span>
 
 In this basic mode, the robot **halts motion whenever a human enters the designated collaborative workspace**. Presence sensors such as *light curtains*, *area scanners* or *pressure mats* detect when someone crosses into a zone, and the robot immediately enters a safety‑certified stop. Because motion ceases before a human is close enough to be struck, **contact does not occur** during collaborative operation.[Robotomated]
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[**2. Hand guiding**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">8 5.5.3 Hand guiding</span><span class="citation-popover-snippet">ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</span><span class="citation-popover-meta">Published: February 15, 2016</span></span></span>
+**2. Hand guiding** <span class="citation-chip-wrap"><a class="citation-chip" href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studylib.net">[studylib.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studylib.net</span><span class="citation-popover-title">8 5.5.3 Hand guiding</span><span class="citation-popover-snippet">ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</span><span class="citation-popover-meta">Published: February 15, 2016</span></span></span>
 
 Here, the robot only moves under **direct human [control]({{ 'control/' | relative_url }})**. The operator physically guides the robot’s motions using a purpose‑built enable switch or guiding device. Because the robot’s motion reflects the operator’s intent at every moment, the risk of unintended impact is minimised. This mode is typically used during programming or setup rather than continuous production.[Robotomated]
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[**3. Speed and separation monitoring (SSM)**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">testbed evaluation speed and separation monitoring human robot collaborative</span><span class="citation-popover-snippet">NISTA Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment | NISTMarch 29, 2012...</span><span class="citation-popover-meta">Published: March 29, 2012</span></span></span>
+**3. Speed and separation monitoring (SSM)** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">testbed evaluation speed and separation monitoring human robot collaborative</span><span class="citation-popover-snippet">A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment &#124; NISTMarch 29, 2012...</span><span class="citation-popover-meta">Published: March 29, 2012</span></span></span>
 
 SSM is a **dynamic control method**: the robot continuously measures the **distance to the nearest human** using safety‑rated sensors such as laser scanners or depth cameras. As a person approaches:
 
@@ -307,7 +305,6 @@ PFL is the collaborative mode most commonly associated with the phrase “no saf
 
 Together, SSM and PFL cover the spectrum from *collision avoidance* to *collision tolerance*. In safety practice, they are often **combined**: the robot slows and stops proactively as a person comes close (SSM), and if contact does occur in low‑distance interactions, the low [energy]({{ 'energy/' | relative_url }}) impact is unlikely to cause injury (PFL).[Robotomated]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wn2pvUXK3vA" title="Smart Factory Automation: Cobots &amp; Safety Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wn2pvUXK3vA" target="_blank" rel="noopener noreferrer">Smart Factory Automation: Cobots &amp; Safety Explained</a></p><p class="youtube-embed-meta">Channel: PowerSafe Automation &middot; Views: 161 &middot; Uploaded: May 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wn2pvUXK3vA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wn2pvUXK3vA">Open on YouTube</a></p></div></div></div>
 
 ## Mechanisms Under the Hood: Sensors and Controls
@@ -315,11 +312,10 @@ Together, SSM and PFL cover the spectrum from *collision avoidance* to *collisio
 The practical implementation of these modes depends on **real‑time monitoring and control systems** integrated into the robot cell:
 
 * **Safety‑rated sensors** such as LiDAR area scanners and light curtains provide continuous data on human location relative to the robot’s workspace. These sensors must meet recognised safety performance levels (e.g., IEC 62061 categories).<span class="citation-chip-wrap"><a class="citation-chip" href="https://roboticsystemsauthority.com/collaborative-robots-cobots-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roboticsystemsauthority.com">[Robotic Systems Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roboticsystemsauthority.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* **Control logic** computes distances, speeds and stopping trajectories many times per second, ensuring that speed reduction or stops happen before a human enters a hazardous proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImplementing Speed and Separation Monitoring in Collaborative Robot Workcells</span><span class="citation-popover-snippet">PMCApril 1, 2017...</span><span class="citation-popover-meta">Published: April 1, 2017</span></span></span>
+* **Control logic** computes distances, speeds and stopping trajectories many times per second, ensuring that speed reduction or stops happen before a human enters a hazardous proximity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImplementing Speed and Separation Monitoring in Collaborative Robot Workcells</span><span class="citation-popover-snippet">April 1, 2017...</span><span class="citation-popover-meta">Published: April 1, 2017</span></span></span>
 * **Torque and force feedback loops** in robot joints detect unexpected loads applied during motion. If the force exceeds a safe threshold, the controller halts motion immediately, preventing harmful impact under PFL.<span class="citation-chip-wrap"><a class="citation-chip" href="https://roboticsystemsauthority.com/collaborative-robots-cobots-overview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roboticsystemsauthority.com">[Robotic Systems Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roboticsystemsauthority.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These systems operate on certified safety architectures, often involving safety PLCs (programmable logic controllers) and redundant circuits, to ensure that failures do not bypass safeguards.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-2-dark.svg" | relative_url }}" alt="Contact Safety illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Contact Controls Can Still Fail
@@ -334,15 +330,13 @@ Standards require that risk assessments consider not just the robot arm but the 
 
 SSM depends on sensors accurately detecting human presence and the controller having sufficient time to slow or stop. Rapid unpredicted human movements, occluded sensors or calibration errors can degrade performance. Therefore, protective separation distances must account for sensor and robot response latencies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: standards.iteh.ai">[iTeh Standards]</a><span class="citation-popover" role="note"><span class="citation-popover-source">standards.iteh.ai</span><span class="citation-popover-snippet">iTeh StandardsISO/TS 15066:2016 - Collaborative Robots Safety and Standards GuideFebruary 3, 2016...</span><span class="citation-popover-meta">Published: February 3, 2016</span></span></span>
 
-Moreover, even in PFL mode, excessive payload or high robot inertia can make it difficult to keep contact forces below injury thresholds without severely limiting tasks. In such cases, additional safety measures or partial segregation may still be necessary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineeringservice.net/knowledge/collaborative-robot-application-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineeringservice.net">[Engineering Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineeringservice.net</span><span class="citation-popover-title">collaborative robot application guide</span><span class="citation-popover-snippet">Engineering ServiceCollaborative Robot Deployment &amp; ISO/TS 15066 FAQs | Engineering Service...</span></span></span>
-
+Moreover, even in PFL mode, excessive payload or high robot inertia can make it difficult to keep contact forces below injury thresholds without severely limiting tasks. In such cases, additional safety measures or partial segregation may still be necessary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://engineeringservice.net/knowledge/collaborative-robot-application-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: engineeringservice.net">[Engineering Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">engineeringservice.net</span><span class="citation-popover-title">collaborative robot application guide</span><span class="citation-popover-snippet">Engineering ServiceCollaborative Robot Deployment &amp; ISO/TS 15066 FAQs &#124; Engineering Service...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/esJkeV3Lcxg" title="CRB 1300 robot with speed and separation monitoring" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=esJkeV3Lcxg" target="_blank" rel="noopener noreferrer">CRB 1300 robot with speed and separation monitoring</a></p><p class="youtube-embed-meta">Channel: ControlEngTV &middot; Views: 340 &middot; Uploaded: June 2023 &middot; Length: 1 minute 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=esJkeV3Lcxg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=esJkeV3Lcxg">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
 To prevent dangerous contact in shared human–robot workspaces, cobots rely on a **hierarchy of safety mechanisms** anchored in robust international standards. Safety‑rated monitored stops eliminate contact, hand guiding puts human intent at the centre of motion, speed and separation monitoring dynamically avoids proximity that could lead to harm, and power and force limiting ensures that any incidental contact is within benign limits. Coupled with rigorous risk assessment, certified sensors and control systems, these mechanisms make collaborative operation feasible and help realise the vision of safer, more flexible automation that complements human labour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: robolist.ai">[robolist.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">robolist.ai</span><span class="citation-popover-title">force limited safety iso ts 15066</span><span class="citation-popover-snippet">ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</span><span class="citation-popover-meta">Published: May 12, 2026</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-dark.svg" | relative_url }}" alt="Contact Safety illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_cobot_contact_27e7e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -463,15 +457,15 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Industrial Robotic Arm Kit Toy Gifts DIY Kit without"><img src="{{ '/assets/images/marketplace-covers/5a311da5cd06438d3187.jpg' | relative_url }}" alt="Listing image for Mini Industrial Robotic Arm Kit Toy Gifts DIY Kit without" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)"><img src="https://i.ebayimg.com/images/g/KsIAAeSwgIhqJ6rK/s-l225.jpg" alt="Listing image for &#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer">Mini Industrial Robotic Arm Kit Toy Gifts DIY Kit without</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Battle-Ready Robot&#x27; Suction Cup Car Window Sign (CG00037670)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot toy</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +473,15 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Industrial Robotic Arm Kit diy buliding robot Toy Gifts"><img src="{{ '/assets/images/marketplace-covers/213b6013861b751c3b13.jpg' | relative_url }}" alt="Listing image for Mini Industrial Robotic Arm Kit diy buliding robot Toy Gifts" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign"><img src="https://i.ebayimg.com/images/g/zF4AAOSwJq1ZZs5b/s-l225.jpg" alt="Listing image for Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer">Mini Industrial Robotic Arm Kit diy buliding robot Toy Gifts</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Robot Moves Without Warning Keep Away Danger OSHA / ANSI Aluminum METAL Sign</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot toy</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +489,15 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Magic Mike Toy Robot, 1984 New Bright Industrial Co, Made In Hong Kong"><img src="{{ '/assets/images/marketplace-covers/9a50d0ef0fbb71131768.jpg' | relative_url }}" alt="Listing image for Vintage Magic Mike Toy Robot, 1984 New Bright Industrial Co, Made In Hong Kong" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)"><img src="https://i.ebayimg.com/images/g/HwkAAeSwtWRqJ6qG/s-l225.jpg" alt="Listing image for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer">Vintage Magic Mike Toy Robot, 1984 New Bright Industrial Co, Made In Hong Kong</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00037802)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot toy</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,15 +505,15 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotic Hand Kidz labs Science Project 2009 4M Industrial Development Toy"><img src="{{ '/assets/images/marketplace-covers/b114c351c715fec2d8eb.jpg' | relative_url }}" alt="Listing image for Robotic Hand Kidz labs Science Project 2009 4M Industrial Development Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign"><img src="https://i.ebayimg.com/images/g/89sAAOSw94Fj3VTX/s-l225.jpg" alt="Listing image for Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer">Robotic Hand Kidz labs Science Project 2009 4M Industrial Development Toy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Caution Sign - Robot Operating Do Not Enter Authorized Only - 10x14 OSHA Sign</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot toy">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot toy</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -527,7 +521,7 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot toy" data-ebay-reference="contact-safety-how-close-is-too-close-for-cobots-ai-bloom-abundance-superintelligence-and-humani-industrial-robot-toy" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-close-is-too-close-for-cobots-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="how-close-is-too-close-for-cobots-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -743,122 +737,122 @@ To prevent dangerous contact in shared human–robot workspaces, cobots rely on 
 1. <a id="endnote-1"></a>
    Source: robolist.ai  
    Title: force limited safety iso ts 15066  
-   Link: [https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066](https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066)  
+   Link: <a href="https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066" target="_blank" rel="noopener noreferrer nofollow">https://www.robolist.ai/industry-knowledge/cobot/force-limited-safety-iso-ts-15066</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066 in Practice: Cobot Force and Pressure Limits Explained — Robolist.aiMay 12, 2026...</p></details>
    Published: May 12, 2026  
 
 2. <a id="endnote-2"></a>
    Source: robotomated.com  
    Title: robot safety standards iso 10218  
-   Link: [https://robotomated.com/learn/guides/robot-safety-standards-iso-10218](https://robotomated.com/learn/guides/robot-safety-standards-iso-10218)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RobotomatedUnderstanding Robot Safety Standards: ISO 10218 and ISO/TS 15066 Explained | Robotomated...</p></details>
+   Link: <a href="https://robotomated.com/learn/guides/robot-safety-standards-iso-10218" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/guides/robot-safety-standards-iso-10218</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Robot Safety Standards: ISO 10218 and ISO/TS 15066 Explained | Robotomated...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: standards.iteh.ai  
-   Link: [https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016](https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016)  
+   Link: <a href="https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016" target="_blank" rel="noopener noreferrer nofollow">https://standards.iteh.ai/catalog/standards/iso/6856348f-7de9-4e6e-b903-d1ffd1e8c54c/iso-ts-15066-2016</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>iTeh StandardsISO/TS 15066:2016 - Collaborative Robots Safety and Standards GuideFebruary 3, 2016...</p></details>
    Published: February 3, 2016  
 
 4. <a id="endnote-4"></a>
    Source: robotomated.com  
    Title: cobot safety assessment guide  
-   Link: [https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide](https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RobotomatedCobot Safety Assessment: ISO/TS 15066 and Risk Reduction in Practice | Robotomated...</p></details>
+   Link: <a href="https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide" target="_blank" rel="noopener noreferrer nofollow">https://robotomated.com/learn/manufacturing/cobot-safety-assessment-guide</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cobot Safety Assessment: ISO/TS 15066 and Risk Reduction in Practice | Robotomated...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nist.gov  
-   Title: testbed evaluation speed and separation monitoring [human robot](&#123;&#123; 'interaction-safety/' | relative_url &#125;&#125;) collaborative  
-   Link: [https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative](https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTA Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment | NISTMarch 29, 2012...</p></details>
+   Title: testbed evaluation speed and separation monitoring human robot collaborative  
+   Link: <a href="https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/testbed-evaluation-speed-and-separation-monitoring-human-robot-collaborative</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Testbed for Evaluation of Speed and Separation Monitoring in a Human Robot Collaborative Environment | NISTMarch 29, 2012...</p></details>
    Published: March 29, 2012  
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImplementing Speed and Separation Monitoring in Collaborative Robot Workcells  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApril 1, 2017...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5117641/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 1, 2017...</p></details>
    Published: April 1, 2017  
 
 7. <a id="endnote-7"></a>
    Source: nist.gov  
    Title: Marvel, Richard J. Norcross  
-   Link: [https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells](https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells)  
+   Link: <a href="https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/implementing-speed-and-separation-monitoring-collaborative-robot-workcells</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing Speed and Separation Monitoring in Collaborative Robot Workcells | NISTAugust 1, 2016 — IMPLEMENTING SPEED AND SEPARATION MO...</p></details>
    Published: August 1, 2016  
 
 8. <a id="endnote-8"></a>
    Source: engineeringservice.net  
    Title: collaborative robot application guide  
-   Link: [https://engineeringservice.net/knowledge/collaborative-robot-application-guide](https://engineeringservice.net/knowledge/collaborative-robot-application-guide)  
+   Link: <a href="https://engineeringservice.net/knowledge/collaborative-robot-application-guide" target="_blank" rel="noopener noreferrer nofollow">https://engineeringservice.net/knowledge/collaborative-robot-application-guide</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Engineering ServiceCollaborative Robot Deployment &amp; ISO/TS 15066 FAQs | Engineering Service...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: roboticsystemsauthority.com  
-   Link: [https://roboticsystemsauthority.com/collaborative-robots-cobots-overview](https://roboticsystemsauthority.com/collaborative-robots-cobots-overview)  
+   Link: <a href="https://roboticsystemsauthority.com/collaborative-robots-cobots-overview" target="_blank" rel="noopener noreferrer nofollow">https://roboticsystemsauthority.com/collaborative-robots-cobots-overview</a>  
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
    Title: Perception and Computation for Speed and Separation Monitoring Architectures  
-   Link: [https://www.mdpi.com/2218-6581/14/4/41](https://www.mdpi.com/2218-6581/14/4/41)  
+   Link: <a href="https://www.mdpi.com/2218-6581/14/4/41" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/14/4/41</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SAFETY-RATED MONITORED STOP As previously mentioned, safety-rated monitor stop defines a safe stop state in which the robot actions are s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: automate.org  
-   Link: [https://www.automate.org/[robotics](https://www.automate.org/[robotics)  
+   Link: <a href="https://www.automate.org/[robotics" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/[robotics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anandan, Contributing Editor 08/27/2019 11 minutes Collaborative robots, cobots, or even cobotics… whatever you ca...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: roboticsbiz.com  
    Title: four types of safety methods in human robot collaboration hrc  
-   Link: [https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/](https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/)  
+   Link: <a href="https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/" target="_blank" rel="noopener noreferrer nofollow">https://roboticsbiz.com/four-types-of-safety-methods-in-human-robot-collaboration-hrc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Four types of safety methods in human-robot collaboration (HRC) - RoboticsBizMarch 9, 2021 — To prevent this, it is important to identify...</p></details>
    Published: March 9, 2021  
 
 13. <a id="endnote-13"></a>
    Source: machinebuilding.net  
    Title: isots 15066 robots and robotic devices collaborative robots  
-   Link: [https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots](https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots)  
+   Link: <a href="https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.machinebuilding.net/isots-15066-robots-and-robotic-devices---collaborative-robots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066, Robots and robotic devices - Collaborative robots | Machine BuildingMarch 8, 2017 — As it is only a Technical Specification...</p></details>
    Published: March 8, 2017  
 
 14. <a id="endnote-14"></a>
    Source: isa.org  
    Title: Take a safe approach to collaborative robots  
-   Link: [https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots](https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISAFOUR METHODS OF COLLABORATIVE OPERATION Under the ANSI/RIA 15.06 and ISO 10218 harmonized robot safety standards and the new TS 15066...</p></details>
+   Link: <a href="https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.isa.org/intech-home/2017/july-august/features/take-a-safe-approach-to-collaborative-robots</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOUR METHODS OF COLLABORATIVE OPERATION Under the ANSI/RIA 15.06 and ISO 10218 harmonized robot safety standards and the new TS 15066...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: plantengineering.com  
    Title: Four types of collaborative robot operation  
-   Link: [https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/](https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/)  
+   Link: <a href="https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/" target="_blank" rel="noopener noreferrer nofollow">https://www.plantengineering.com/articles/four-types-of-collaborative-robot-operation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Plant EngineeringNovember 20, 2019 — Nov 20, 2019 Robotics FOUR TYPES OF COLLABORATIVE ROBOT OPERATION The ISO 10218-1 safety standard cl...</p></details>
    Published: November 20, 2019  
 
 16. <a id="endnote-16"></a>
    Source: techbriefs.com  
    Title: It also defines and discusses safet  
-   Link: [https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1](https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1)  
+   Link: <a href="https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1" target="_blank" rel="noopener noreferrer nofollow">https://www.techbriefs.com/component/content/article/tb/pub/features/articles/34385?start=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Collaborative Robot Safety - Tech BriefsMay 1, 2019 — This article discusses industry standards, project stages, and solutions...</p></details>
    Published: May 1, 2019  
 
 17. <a id="endnote-17"></a>
    Source: automate.org  
    Title: iso ts 15066 explained  
-   Link: [https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained](https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained)  
+   Link: <a href="https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech Papers: ISO/TS 15066 Explained | RobotiqMay 25, 2016 — TECH PAPERS ISO/TS 15066 EXPLAINED By Robotiq 05/25/2016 8 minutes ISO/TS 150...</p></details>
    Published: May 25, 2016  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Collaborative Robot Force & Pressure Testing | Cobot Safety w/ Tom Chaldecott  
-   Link: [https://www.youtube.com/watch?v=gp3FN14WP5Y](https://www.youtube.com/watch?v=gp3FN14WP5Y)  
+   Link: <a href="https://www.youtube.com/watch?v=gp3FN14WP5Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gp3FN14WP5Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRB 1300 robot with speed and separation monitoring...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: studylib.net  
    Title: 8 5.5.3 Hand guiding  
-   Link: [https://studylib.net/doc/27627297/iso-ts-15066-2016-en-](https://studylib.net/doc/27627297/iso-ts-15066-2016-en-)  
+   Link: <a href="https://studylib.net/doc/27627297/iso-ts-15066-2016-en-" target="_blank" rel="noopener noreferrer nofollow">https://studylib.net/doc/27627297/iso-ts-15066-2016-en-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066: Collaborative Robot Safety SpecificationFebruary 15, 2016 — 7 5.5.2 Safety-rated monitored stop...</p></details>
-   Published: February 15, 2016  
+   Published: February 15, 2016

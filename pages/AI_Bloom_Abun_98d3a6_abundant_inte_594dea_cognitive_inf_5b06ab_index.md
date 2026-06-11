@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-abundant-inte/
 description: Focused pages that expand on Broad Access.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab
-parent_title: Broad Access | Intelligence
+parent_title: Broad Access
 parent_nav_short_title: Broad Access
 parent_permalink: /broad-access/
 ---

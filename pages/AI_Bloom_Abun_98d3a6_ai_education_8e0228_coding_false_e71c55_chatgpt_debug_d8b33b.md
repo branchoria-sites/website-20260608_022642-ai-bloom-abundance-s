@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /false-mastery/
 nav_short_title: Debugging
 title: When AI debugging helps too much
-title_full: When AI debugging helps too much | False Mastery
+title_full: When AI debugging helps too much
 display_title_short: Debugging
 display_title: Debugging
 heading_title: When AI debugging helps too much
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Chat GPT help coders learn or coast? | Education
+date: '2026-06-08 01:39:05'
+parent_title: Does Chat GPT help coders learn or coast?
 parent_permalink: /false-mastery/
 parent_nav_short_title: False Mastery
 parent_heading_title: Does Chat GPT help coders learn or coast?
@@ -260,7 +261,6 @@ next_link:
   permalink: /guardrails/
   short_title: Guardrails
   heading_title: Can guardrails stop AI answer copying?
-date: '2026-06-08 01:39:05 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-1.webp
@@ -271,11 +271,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c
 
 Debugging is one of the clearest places where ChatGPT can either deepen programming skill or quietly replace it. A learner who asks why an error occurs, traces a bug with AI guidance, and tests their own hypotheses may end up understanding software more deeply than they would alone. A learner who pastes an error message and accepts a complete repair can reach a working result while learning very little.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-1-dark.svg" | relative_url }}" alt="Debugging illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters beyond programming classes. In an AI-rich future, one of the promises of human flourishing is that more people gain access to technical capability, [scientific]({{ 'discovery/' | relative_url }}) reasoning, and complex problem-solving. But that promise depends on AI expanding human competence rather than merely generating successful outputs. Debugging sits directly at that crossroads because it is where programmers learn how systems actually behave when things go wrong.
+This distinction matters beyond programming classes. In an AI-rich future, one of the promises of human flourishing is that more people gain access to technical capability, scientific reasoning, and complex problem-solving. But that promise depends on AI expanding human competence rather than merely generating successful outputs. Debugging sits directly at that crossroads because it is where programmers learn how systems actually behave when things go wrong.
 
-Research on AI-assisted programming repeatedly finds that students value ChatGPT for debugging support, error explanation, and reduced frustration. At the same time, researchers warn that unrestricted assistance can encourage dependence and create a misleading sense of understanding. The challenge is not whether AI should help with debugging. It is how to preserve the [cognitive]({{ 'broad-access/' | relative_url }}) work that turns debugging into learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A rapid review of literature amid the rise of generative AI...7 Mar 2025 — Studies in programming education show that ChatGPT can genera...</span></span></span>
+Research on AI-assisted programming repeatedly finds that students value ChatGPT for debugging support, error explanation, and reduced frustration. At the same time, researchers warn that unrestricted assistance can encourage dependence and create a misleading sense of understanding. The challenge is not whether AI should help with debugging. It is how to preserve the cognitive work that turns debugging into learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A rapid review of literature amid the rise of generative AI...7 Mar 2025 — Studies in programming education show that ChatGPT can genera...</span></span></span>
 
 ## Why debugging is where programming knowledge becomes real
 
@@ -284,7 +283,6 @@ Many beginners think programming skill comes from writing code. In practice, muc
 A student may understand a loop in theory but only truly grasp it after discovering why a loop never terminates. Someone may know what a variable is but only develop a durable mental model after tracing how a value changes through a program. Debugging forces learners to connect abstract rules with concrete behaviour.
 
 This is why programming educators often describe debugging as a core skill rather than a side activity. Debugging requires learners to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,7 @@ This is why programming educators often describe debugging as a core skill rathe
 
 These habits resemble scientific reasoning more than simple answer retrieval. The learner is not merely recalling information but investigating a system.
 
-Research on student debugging behaviour shows that many novices already struggle with these processes. Students often identify part of a problem without fully understanding it, introduce new bugs while fixing old ones, or use ineffective trial-and-error strategies. The difficulty is precisely why debugging develops expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAn Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span>
+Research on student debugging behaviour shows that many novices already struggle with these processes. Students often identify part of a problem without fully understanding it, introduce new bugs while fixing old ones, or use ineffective trial-and-error strategies. The difficulty is precisely why debugging develops expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span>
 
 If AI removes that struggle entirely, it may also remove much of the learning.
 
@@ -323,16 +321,15 @@ ChatGPT rewrites the code and produces a working solution.
 
 Both interactions solve the immediate problem. Only one reliably exercises the learner's reasoning.
 
-Studies of programming students consistently find that learners drift toward higher levels of automation when tasks become difficult or time pressure increases. What begins as explanation-seeking often becomes solution-seeking. Students naturally optimise for finishing assignments. The problem is that educational progress depends on the reasoning process, not just the final output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span>
+Studies of programming students consistently find that learners drift toward higher levels of automation when tasks become difficult or time pressure increases. What begins as explanation-seeking often becomes solution-seeking. Students naturally optimise for finishing assignments. The problem is that educational progress depends on the reasoning process, not just the final output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span>
 
 This is where [false mastery]({{ 'false-mastery/' | relative_url }}) emerges. The learner sees functioning code and experiences the emotional reward of success. Yet they may not be able to reproduce the reasoning later without AI assistance.
 
-Several recent studies report exactly this tension. ChatGPT often improves task completion speed and code quality while producing mixed or inconsistent gains in conceptual understanding. Students frequently report that debugging support is one of the most useful features, but researchers continue to raise concerns about over-reliance and reduced independent problem-solving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAn Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7102/16/1/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">ChatGPT in Programming Education: An Empirical Study...by D Stoyanova · 2025 · Cited by 1 — The results indicate that ChatGPT use was as...</span></span></span>
+Several recent studies report exactly this tension. ChatGPT often improves task completion speed and code quality while producing mixed or inconsistent gains in conceptual understanding. Students frequently report that debugging support is one of the most useful features, but researchers continue to raise concerns about over-reliance and reduced independent problem-solving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2227-7102/16/1/19" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">ChatGPT in Programming Education: An Empirical Study...by D Stoyanova · 2025 · Cited by 1 — The results indicate that ChatGPT use was as...</span></span></span>
 
 ## Learning-oriented versus dependency-oriented debugging
 
 The difference is often visible in the questions being asked.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0mSf_2RoWfM" title="You&#x27;re using ChatGPT WRONG | How I would learn to CODE in 2023 with the help of AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0mSf_2RoWfM" target="_blank" rel="noopener noreferrer">You&#x27;re using ChatGPT WRONG | How I would learn to CODE in 2023 with the help of AI</a></p><p class="youtube-embed-meta">Channel: Tiff In Tech &middot; Views: 42.6K &middot; Uploaded: February 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0mSf_2RoWfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0mSf_2RoWfM">Open on YouTube</a></p></div></div></div>
 
@@ -341,7 +338,6 @@ The difference is often visible in the questions being asked.
 In learning-oriented debugging, AI functions as a guide rather than a substitute.
 
 Typical prompts include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -365,7 +361,6 @@ Dependency-oriented debugging treats AI as an external problem-solver.
 
 Typical prompts include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Fix this code. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/data-science/using-chatgpt-for-efficient-debugging-fc9e065b7856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Using ChatGPT for Efficient DebuggingIn this post, I will share a set of techniques that enable you to utilize models such as ChatGPT for...</span></span></span>
@@ -379,8 +374,7 @@ The learner's role becomes closer to [verification]({{ 'verification/' | relativ
 
 This strategy often feels efficient because it is efficient in the short term. But it transfers the diagnostic process from the student to the model. The learner sees the repair without necessarily understanding why it worked.
 
-Researchers studying student use of generative AI in programming repeatedly report this pattern: learners often begin with explanation requests but move toward complete solution generation when challenges accumulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Systematic Review of Generative AI Use in Programming...17 Jan 2026 — The findings reveal that GAI-assisted instruction demonstrates s...</span></span></span>
-
+Researchers studying student use of generative AI in programming repeatedly report this pattern: learners often begin with explanation requests but move toward complete solution generation when challenges accumulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A Systematic Review of Generative AI Use in Programming...17 Jan 2026 — The findings reveal that GAI-assisted instruction demonstrates s...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-2-dark.svg" | relative_url }}" alt="Debugging illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Prompts that keep the learner reasoning
@@ -433,8 +427,7 @@ A useful pattern is:
 
 The student performs the analysis first and uses AI as a reviewer.
 
-Research on metacognitive approaches to AI-assisted programming suggests that planning, monitoring, and self-evaluation may be especially important. One recent study found that students benefited strongly from planning-oriented AI support rather than relying solely on debugging interventions after mistakes had already occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAn Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span>
-
+Research on metacognitive approaches to AI-assisted programming suggests that planning, monitoring, and self-evaluation may be especially important. One recent study found that students benefited strongly from planning-oriented AI support rather than relying solely on debugging interventions after mistakes had already occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</span><span class="citation-popover-meta">Published: August 20, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oFfVt3S51T4" title="Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oFfVt3S51T4" target="_blank" rel="noopener noreferrer">Cursor Team: Future of Programming with AI | Lex Fridman Podcast #447</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 1.0M &middot; Uploaded: October 2024 &middot; Length: 2 hours 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oFfVt3S51T4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oFfVt3S51T4">Open on YouTube</a></p></div></div></div>
 
@@ -454,7 +447,6 @@ This does not mean students should suffer through every problem alone. Endless f
 
 The challenge is finding a middle ground:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Enough struggle to force reasoning.
@@ -466,7 +458,6 @@ The challenge is finding a middle ground:
 Well-designed AI assistance can potentially help maintain that balance. Poorly designed assistance tends to eliminate the struggle altogether.
 
 The broader debate about AI tutors increasingly centres on this distinction. Educational researchers and organisations including the OECD have warned that AI can create a "false mastery" effect when apparent performance improvements conceal weaknesses in underlying reasoning and metacognitive skill. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theaustralian.com.au">[The Australian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theaustralian.com.au</span><span class="citation-popover-title">The Australian AI chatbots creating &#x27;false mastery&#x27; in students, OECD warns</span><span class="citation-popover-snippet">The report highlights concerns that GenAI fosters a deceptive sense of mastery among students by generating high-quality outputs that mas...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-3-dark.svg" | relative_url }}" alt="Debugging illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_chatgpt_debug_d8b33b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why debugging habits matter more as codebases grow
@@ -480,7 +471,6 @@ As projects become larger, debugging shifts from finding obvious syntax mistakes
 In these environments, programmers spend substantial amounts of time diagnosing unexpected behaviour rather than writing fresh code.
 
 The programmer who learned debugging as a reasoning process gains transferable skills:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -499,7 +489,6 @@ This matters beyond individual careers. One of the strongest arguments for AI-en
 
 Debugging is a surprisingly important test of that capability because it reveals whether people are learning to think through problems or simply route problems elsewhere.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BUtx9onUO1s" title="Debugging with AI: Why finding bugs is hard | Cursor Team and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BUtx9onUO1s" target="_blank" rel="noopener noreferrer">Debugging with AI: Why finding bugs is hard | Cursor Team and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 5.4K &middot; Uploaded: October 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BUtx9onUO1s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BUtx9onUO1s">Open on YouTube</a></p></div></div></div>
 
 ## What good AI debugging might look like
@@ -507,7 +496,6 @@ Debugging is a surprisingly important test of that capability because it reveals
 The most promising models of AI-assisted learning do not attempt to remove debugging. They attempt to structure it.
 
 Research on AI tutoring increasingly points toward systems that:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -524,7 +512,7 @@ Some experimental tutoring systems already move in this direction, using AI to s
 
 This distinction reflects a broader choice facing AI-rich societies. The most valuable future may not be one where machines eliminate every intellectual challenge. It may be one where they help more people engage successfully with challenges that would otherwise have been inaccessible.
 
-In that sense, debugging is a small but revealing example of a larger question. If AI becomes a [universal]({{ 'ai-tutors-f14433/' | relative_url }}) tutor, will it make reasoning more widespread, or simply make reasoning optional? The answer may depend less on the capability of the models than on how learners, teachers, and institutions decide to use them.
+In that sense, debugging is a small but revealing example of a larger question. If AI becomes a universal tutor, will it make reasoning more widespread, or simply make reasoning optional? The answer may depend less on the capability of the models than on how learners, teachers, and institutions decide to use them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -538,16 +526,16 @@ In that sense, debugging is a small but revealing example of a larger question. 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Programmer&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnk8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Programmer&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Programmer&#x27;s Brain">The Programmer&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
-        <p class="fr-book-author">By Felienne Hermans</p>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains how programmers build mental models and debug code, matching the page&#x27;s concern that AI debugging can bypass learning.</p>
+        <p class="fr-book-desc">Explains why active struggle and retrieval build durable expertise.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -562,7 +550,7 @@ In that sense, debugging is a small but revealing example of a larger question. 
         </h4>
         <p class="fr-book-author">By V. Anton Spraul</p>
         
-        <p class="fr-book-desc">Focuses on reasoning through problems, the key skill threatened when AI simply fixes code for the learner.</p>
+        <p class="fr-book-desc">Directly focuses on the thinking habits developed through debugging and troubleshooting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -572,16 +560,16 @@ In that sense, debugging is a small but revealing example of a larger question. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Debugging+by+David+J.+Agans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Debugging on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jynA9ECbBsgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Debugging" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Debugging+by+David+J.+Agans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Debugging">Debugging</a>
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
         </h4>
-        <p class="fr-book-author">By David J. Agans</p>
-        
-        <p class="fr-book-desc">Gives durable debugging habits that AI assistance should reinforce rather than replace.</p>
+        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+        <p class="fr-book-desc">Emphasises debugging, problem-solving and independent reasoning rather than accepting solutions blindly.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Debugging+by+David+J.+Agans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -589,16 +577,16 @@ In that sense, debugging is a small but revealing example of a larger question. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Code+Complete+by+Steve+McConnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Code Complete on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+          <a href="https://www.amazon.com/s?k=Code+Complete+by+Steve+McConnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Code Complete">Code Complete</a>
         </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+        <p class="fr-book-author">By Steve McConnell</p>
         
-        <p class="fr-book-desc">Explains why struggle, retrieval and testing one&#x27;s own hypotheses matter for lasting skill.</p>
+        <p class="fr-book-desc">Helps readers understand why code works and how to diagnose failures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Code+Complete+by+Steve+McConnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -606,7 +594,7 @@ In that sense, debugging is a small but revealing example of a larger question. 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Programmer%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Programmer&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Debugging&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Debugging</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -643,15 +631,15 @@ In that sense, debugging is a small but revealing example of a larger question. 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging"><img src="{{ '/assets/images/marketplace-covers/7af917c8816cae3b6995.jpg' | relative_url }}" alt="Listing image for 100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock Codey Rocky Entry Level Coding Robot And Kit | New/ Unused"><img src="https://i.ebayimg.com/images/g/noYAAeSwoIdoqkPl/s-l225.jpg" alt="Listing image for Makeblock Codey Rocky Entry Level Coding Robot And Kit | New/ Unused" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock Codey Rocky Entry Level Coding Robot And Kit | New/ Unused</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -659,15 +647,47 @@ In that sense, debugging is a small but revealing example of a larger question. 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive"><img src="{{ '/assets/images/marketplace-covers/b16ac85dd9ad4e701d8b.jpg' | relative_url }}" alt="Listing image for A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI Coding Robot Kit for Kids 12+, Programmable Building Set with Camera"><img src="https://i.ebayimg.com/images/g/AYUAAeSwZfBpibEy/s-l225.jpg" alt="Listing image for AI Coding Robot Kit for Kids 12+, Programmable Building Set with Camera" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">AI Coding Robot Kit for Kids 12+, Programmable Building Set with Camera</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build"><img src="https://i.ebayimg.com/images/g/bHEAAeSwyFxqDgzE/s-l225.jpg" alt="Listing image for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coding Robot Scratch Sr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy"><img src="https://i.ebayimg.com/images/g/33IAAeSw8-dpX-RW/s-l225.jpg" alt="Listing image for Coding Robot Scratch Sr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Coding Robot Scratch Sr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -675,7 +695,7 @@ In that sense, debugging is a small but revealing example of a larger question. 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="debugging-when-ai-debugging-helps-too-much-ai-bloom-abundance-superintelligence-and-humanity-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ai-debugging-helps-too-much-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="when-ai-debugging-helps-too-much-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -890,144 +910,144 @@ In that sense, debugging is a small but revealing example of a larger question. 
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666920X24000936](https://www.sciencedirect.com/science/article/pii/S2666920X24000936)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X24000936</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 106 — Results show that stud...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies](https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies)  
+   Link: <a href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A rapid review of literature amid the rise of generative AI...7 Mar 2025 — Studies in programming education show that ChatGPT can genera...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: dl.acm.org  
-   Link: [https://dl.acm.org/doi/fullHtml/10.1145/3632620.3671092](https://dl.acm.org/doi/fullHtml/10.1145/3632620.3671092)  
+   Link: <a href="https://dl.acm.org/doi/fullHtml/10.1145/3632620.3671092" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3632620.3671092</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryDebugging with an AI Tutor: Investigating Novice Help...by S Yang · 2024 · Cited by 48 — This mixed-methods study inv...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2508.14833](https://arxiv.org/abs/2508.14833)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2508.14833" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2508.14833</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Investigation Into Secondary School Students&#x27; Debugging Behaviour in PythonAugust 20, 2025...</p></details>
    Published: August 20, 2025  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949882123000051](https://www.sciencedirect.com/science/article/pii/S2949882123000051)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949882123000051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882123000051</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining student views on the use of ChatGPT for...by R Yilmaz · 2023 · Cited by 486 — This study aims to analyze the students&#x27; perspec...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-7102/16/1/19](https://www.mdpi.com/2227-7102/16/1/19)  
+   Link: <a href="https://www.mdpi.com/2227-7102/16/1/19" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/16/1/19</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT in Programming Education: An Empirical Study...by D Stoyanova · 2025 · Cited by 1 — The results indicate that ChatGPT use was as...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2510.00946](https://arxiv.org/abs/2510.00946)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student PerceptionsOctober...</p></details>
+   Link: <a href="https://arxiv.org/abs/2510.00946" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2510.00946</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT in Introductory Programming: Counterbalanced Evaluation of Code Quality, Conceptual Learning, and Student PerceptionsOctober...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2509.03171](https://arxiv.org/abs/2509.03171)  
+   Link: <a href="https://arxiv.org/abs/2509.03171" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.03171</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education](https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education)  
+   Link: <a href="https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Generative AI Use in Programming...17 Jan 2026 — The findings reveal that GAI-assisted instruction demonstrates s...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2451958825000570](https://www.sciencedirect.com/science/article/pii/S2451958825000570)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825000570" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825000570</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does generative AI help in learning programmingby M Lepp · 2025 · Cited by 52 — This study aims to explore how students utilize AI chatbo...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/388039099_AI_in_the_classroom_Exploring_students%27_interaction_with_ChatGPT_in_programming_learning](https://www.researchgate.net/publication/388039099_AI_in_the_classroom_Exploring_students%27_interaction_with_ChatGPT_in_programming_learning)  
+   Link: <a href="https://www.researchgate.net/publication/388039099_AI_in_the_classroom_Exploring_students%27_interaction_with_ChatGPT_in_programming_learning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388039099_AI_in_the_classroom_Exploring_students%27_interaction_with_ChatGPT_in_programming_learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI in the classroom: Exploring students&#x27; interaction...3 Jan 2025 — In this regard, this study investigates the dynamic interactio...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2508.05999v1](https://arxiv.org/html/2508.05999v1)  
+   Link: <a href="https://arxiv.org/html/2508.05999v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.05999v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Attitudes Toward AI in Programming Education8 Aug 2025 — This study contributes to addressing that gap by examining student attit...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2403.15472v2](https://arxiv.org/html/2403.15472v2)  
+   Link: <a href="https://arxiv.org/html/2403.15472v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.15472v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Programming Education with ChatGPT27 Mar 2024 — This paper explores ChatGPT&#x27;s impact on learning in a Python programming course...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2412.15226v1](https://arxiv.org/html/2412.15226v1)  
+   Link: <a href="https://arxiv.org/html/2412.15226v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2412.15226v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of teachable ChatGPT agent on programming...5 Dec 2024 — This study investigates the potential of using ChatGPT as a teachabl...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3417/15/11/5867](https://www.mdpi.com/2076-3417/15/11/5867)  
+   Link: <a href="https://www.mdpi.com/2076-3417/15/11/5867" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/11/5867</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For instance, Nettur et al. [65] found that...Rea...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2071-1050/16/3/1245](https://www.mdpi.com/2071-1050/16/3/1245)  
+   Link: <a href="https://www.mdpi.com/2071-1050/16/3/1245" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/16/3/1245</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT: Challenges and Benefits in Software...by CAG Silva · 2024 · Cited by 180 — ChatGPT can assist students with coding assignments...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theaustralian.com.au  
    Title: The Australian AI chatbots creating 'false mastery' in students, OECD warns  
-   Link: [https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4](https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4)  
+   Link: <a href="https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report highlights concerns that GenAI fosters a deceptive sense of mastery among students by generating high-quality outputs that mas...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: scale.stanford.edu  
-   Link: [https://scale.stanford.edu/ai/repository/exploring-use-chatgpt-computer-science-students-software-development-applications](https://scale.stanford.edu/ai/repository/exploring-use-chatgpt-computer-science-students-software-development-applications)  
+   Link: <a href="https://scale.stanford.edu/ai/repository/exploring-use-chatgpt-computer-science-students-software-development-applications" target="_blank" rel="noopener noreferrer nofollow">https://scale.stanford.edu/ai/repository/exploring-use-chatgpt-computer-science-students-software-development-applications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Use Of Chatgpt By Computer Science Students...17 Nov 2025 — Students tend to cap ChatGPT&#x27;s contribution to roughly 30%, and evaluate...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/techinsider/posts/many-of-my-fellow-classmates-at-stanford-used-chatgpt-to-complete-assignments-i-/1275335844465889/](https://www.facebook.com/techinsider/posts/many-of-my-fellow-classmates-at-stanford-used-chatgpt-to-complete-assignments-i-/1275335844465889/)  
+   Link: <a href="https://www.facebook.com/techinsider/posts/many-of-my-fellow-classmates-at-stanford-used-chatgpt-to-complete-assignments-i-/1275335844465889/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/techinsider/posts/many-of-my-fellow-classmates-at-stanford-used-chatgpt-to-complete-assignments-i-/1275335844465889/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Many of my fellow classmates at Stanford used ChatGPT...&quot;Many of my fellow classmates at Stanford used ChatGPT to complete assignments...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jesse.henson/ai-assisted-debugging-how-generative-ai-can-improve-coding-efficiency-771f5ea85f6e](https://medium.com/%40jesse.henson/ai-assisted-debugging-how-generative-ai-can-improve-coding-efficiency-771f5ea85f6e)  
+   Link: <a href="https://medium.com/%40jesse.henson/ai-assisted-debugging-how-generative-ai-can-improve-coding-efficiency-771f5ea85f6e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jesse.henson/ai-assisted-debugging-how-generative-ai-can-improve-coding-efficiency-771f5ea85f6e</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Assisted Debugging: How Generative AI Can Improve...AI-assisted debugging stands at the cusp of transforming coding efficiency, offer...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/boost-your-programming-skills-how-chatgpt-can-help-iyshf](https://www.linkedin.com/pulse/boost-your-programming-skills-how-chatgpt-can-help-iyshf)  
+   Link: <a href="https://www.linkedin.com/pulse/boost-your-programming-skills-how-chatgpt-can-help-iyshf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/boost-your-programming-skills-how-chatgpt-can-help-iyshf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How ChatGPT Can Help You Write and Debug Code FasterChatGPT is a powerful tool that can help developers write code faster, debug more eff...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science/using-chatgpt-for-efficient-debugging-fc9e065b7856](https://medium.com/data-science/using-chatgpt-for-efficient-debugging-fc9e065b7856)  
+   Link: <a href="https://medium.com/data-science/using-chatgpt-for-efficient-debugging-fc9e065b7856" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science/using-chatgpt-for-efficient-debugging-fc9e065b7856</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using ChatGPT for Efficient DebuggingIn this post, I will share a set of techniques that enable you to utilize models such as ChatGPT for...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gsic.uva.es  
-   Link: [https://www.gsic.uva.es/uploaded_files/49936_13_ijee4475.pdf](https://www.gsic.uva.es/uploaded_files/49936_13_ijee4475.pdf)  
+   Link: <a href="https://www.gsic.uva.es/uploaded_files/49936_13_ijee4475.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gsic.uva.es/uploaded_files/49936_13_ijee4475.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ChatGPT Impact on the Programming Learning...by P CALLEJO · Cited by 6 — For example, Generative Artificial [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (GenAI) chatbot...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/learnprogramming/comments/1kphgpm/im_afraid_chatgpt_is_destroying_my_ability_to/](https://www.reddit.com/r/learnprogramming/comments/1kphgpm/im_afraid_chatgpt_is_destroying_my_ability_to/)  
+   Link: <a href="https://www.reddit.com/r/learnprogramming/comments/1kphgpm/im_afraid_chatgpt_is_destroying_my_ability_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnprogramming/comments/1kphgpm/im_afraid_chatgpt_is_destroying_my_ability_to/</a>  
 
 25. <a id="endnote-25"></a>
    Source: peer.asee.org  
-   Link: [https://peer.asee.org/investigating-the-capabilities-and-limitations-of-chatgpt-to-perform-programming-assignments-from-an-introductory-r-programming-course.pdf](https://peer.asee.org/investigating-the-capabilities-and-limitations-of-chatgpt-to-perform-programming-assignments-from-an-introductory-r-programming-course.pdf)  
+   Link: <a href="https://peer.asee.org/investigating-the-capabilities-and-limitations-of-chatgpt-to-perform-programming-assignments-from-an-introductory-r-programming-course.pdf" target="_blank" rel="noopener noreferrer nofollow">https://peer.asee.org/investigating-the-capabilities-and-limitations-of-chatgpt-to-perform-programming-assignments-from-an-introductory-r-programming-course.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>L Guertault · 2025 — The objectives of this study are: i) To...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jacksonfdam_a-recent-study-looked-at-what-happens-when-activity-7407535913892839424-ZyXN](https://www.linkedin.com/posts/jacksonfdam_a-recent-study-looked-at-what-happens-when-activity-7407535913892839424-ZyXN)  
+   Link: <a href="https://www.linkedin.com/posts/jacksonfdam_a-recent-study-looked-at-what-happens-when-activity-7407535913892839424-ZyXN" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jacksonfdam_a-recent-study-looked-at-what-happens-when-activity-7407535913892839424-ZyXN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jackson F.&#x27;s Post18 Dec 2025 — A recent study looked at what happens when programming students learn with AI tools... student asked abou...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Debug Unreal Engine 5 Errors Faster with Chat GPT | Game Packaging Made Easy  
-   Link: [https://www.youtube.com/watch?v=Ogqboqc5-BM](https://www.youtube.com/watch?v=Ogqboqc5-BM)  
+   Link: <a href="https://www.youtube.com/watch?v=Ogqboqc5-BM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ogqboqc5-BM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;re using ChatGPT WRONG | How I would learn to CODE in 2023 with the help of AI You&#x27;re using ChatGPT WRONG | How I would learn to CODE...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: asbmb.org  
    Title: debugging my code and teaching with chatgpt  
-   Link: [https://www.asbmb.org/asbmb-today/opinions/101625/debugging-my-code-and-teaching-with-chatgpt](https://www.asbmb.org/asbmb-today/opinions/101625/debugging-my-code-and-teaching-with-chatgpt)  
+   Link: <a href="https://www.asbmb.org/asbmb-today/opinions/101625/debugging-my-code-and-teaching-with-chatgpt" target="_blank" rel="noopener noreferrer nofollow">https://www.asbmb.org/asbmb-today/opinions/101625/debugging-my-code-and-teaching-with-chatgpt</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2025 — By spending less time debugging code or drafting practice problems by hand, I have more bandwidth to pursue new research qu...</p></details>

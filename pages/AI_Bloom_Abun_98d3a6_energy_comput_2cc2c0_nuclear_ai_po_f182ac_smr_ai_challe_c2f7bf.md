@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /nuclear-power/
 nav_short_title: SMR Deployment Limits
 title: Why Small Modular Reactors Aren't Yet Ready for AI
-title_full: Why Small Modular Reactors Aren't Yet Ready for AI | Nuclear Power
+title_full: Why Small Modular Reactors Aren't Yet Ready for AI
 display_title_short: SMR Deployment Limits
 display_title: SMR Deployment Limits
 heading_title: Why Small Modular Reactors Aren't Yet Ready for AI
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can nuclear power feed the AI boom? | Energy
+date: '2026-06-08 02:01:49'
+parent_title: Can nuclear power feed the AI boom?
 parent_permalink: /nuclear-power/
 parent_nav_short_title: Nuclear Power
 parent_heading_title: Can nuclear power feed the AI boom?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /meta-nuclear-deal/
   short_title: Meta Nuclear Deal
   heading_title: How Meta Secures 1 GW of Nuclear Power for AI
-date: '2026-06-08 02:01:49 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1.webp
@@ -269,11 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f1
 
 ## Introduction
 
-Small modular reactors (SMRs) are often presented as a neat answer to one of the biggest questions in the AI boom: where will the enormous amounts of clean, reliable electricity come from? In theory, advanced nuclear reactors could provide round-the-clock [power]({{ 'power/' | relative_url }}) for [data centres]({{ 'power-demand/' | relative_url }}) without the carbon emissions of gas plants and without the intermittency challenges of wind and solar. That promise helps explain why companies such as Google, Microsoft, Amazon and Meta have explored nuclear partnerships as AI electricity demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span>
-
+Small modular reactors (SMRs) are often presented as a neat answer to one of the biggest questions in the AI boom: where will the enormous amounts of clean, reliable electricity come from? In theory, advanced nuclear reactors could provide round-the-clock [power]({{ 'power/' | relative_url }}) for data centres without the carbon emissions of gas plants and without the intermittency challenges of wind and solar. That promise helps explain why companies such as Google, Microsoft, Amazon and Meta have explored nuclear partnerships as AI electricity demand rises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-dark.svg" | relative_url }}" alt="SMR Deployment Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that most advanced SMRs are still years away from large-scale commercial deployment. Many designs remain in demonstration phases, licensing systems are still adapting to new reactor technologies, [supply chains]({{ 'risky-elements/' | relative_url }}) are immature, and the economics remain uncertain. Even where technology firms are signing nuclear agreements, many of the projects expected to support AI workloads are targeting the early 2030s or later rather than solving today's power shortages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> TechCrunch For advocates of an AI-enabled future of abundance <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">TechCrunchGoogle signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>, this matters because energy is one of the key physical constraints on expanding computation, [scientific]({{ 'discovery/' | relative_url }}) research, robotics and industrial automation. If advanced reactors arrive slowly, the path from AI progress to broader human flourishing may depend more heavily on existing nuclear plants, grid expansion, renewables, storage, geothermal energy and other power sources in the near term.
+The problem is that most advanced SMRs are still years away from large-scale commercial deployment. Many designs remain in demonstration phases, licensing systems are still adapting to new reactor technologies, supply chains are immature, and the economics remain uncertain. Even where technology firms are signing nuclear agreements, many of the projects expected to support AI workloads are targeting the early 2030s or later rather than solving today's power shortages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> TechCrunch For advocates of an AI-enabled future of abundance <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>, this matters because [energy]({{ 'energy/' | relative_url }}) is one of the key physical constraints on expanding computation, scientific research, [robotics]({{ 'robotics/' | relative_url }}) and industrial automation. If advanced reactors arrive slowly, the path from AI progress to broader human flourishing may depend more heavily on existing nuclear plants, grid expansion, renewables, storage, geothermal energy and other power sources in the near term.
 
 ## Technical Readiness Is Further Behind Than the Hype Suggests
 
@@ -281,7 +280,7 @@ One reason SMRs attract attention is that they promise to avoid some of the prob
 
 Yet many of the reactors discussed in AI power plans do not exist as commercial products today.
 
-Google's partnership with Kairos Power illustrates both the promise and the challenge. The companies announced plans to bring the first reactor online around 2030 and expand deployments through 2035. Even supporters describe this as an ambitious timeline because the reactors still need to move through demonstration, licensing, construction and commercial operation stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> NucNet The gap between announcement and deployment is important because AI infrastructure is growing much faster than nuclear construction. Hypersca <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-title">google to commit funding for three advanced nuclear power projects 5 4 2025</span><span class="citation-popover-snippet">Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> le data centres can be planned and built in a few years. Advanced reactors often require a decade or more from concept to operation, especially for first-of-a-kind designs. That creates a mismatch between the speed of AI demand growth and the speed of nuclear deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> TechCrunch Several technical issues contribute to the delay: <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">TechCrunchGoogle signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>
+Google's partnership with Kairos Power illustrates both the promise and the challenge. The companies announced plans to bring the first reactor online around 2030 and expand deployments through 2035. Even supporters describe this as an ambitious timeline because the reactors still need to move through demonstration, licensing, construction and commercial operation stages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> NucNet The gap between announcement and deployment is important because AI infrastructure is growing much faster than nuclear construction. Hypersca <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nucnet.org">[nucnet.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nucnet.org</span><span class="citation-popover-title">google to commit funding for three advanced nuclear power projects 5 4 2025</span><span class="citation-popover-snippet">Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> le data centres can be planned and built in a few years. Advanced reactors often require a decade or more from concept to operation, especially for first-of-a-kind designs. That creates a mismatch between the speed of AI demand growth and the speed of nuclear deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eia.gov">[U.S. Energy Information Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eia.gov</span><span class="citation-popover-snippet">U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</span></span></span> TechCrunch Several technical issues contribute to the delay: <span class="citation-chip-wrap"><a class="citation-chip" href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techcrunch.com">[techcrunch.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techcrunch.com</span><span class="citation-popover-title">Tim De Chant. 3</span><span class="citation-popover-snippet">Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</span></span></span>
 
 * Many advanced reactor designs still need extensive testing under real operating conditions.
 * Manufacturers have not yet demonstrated mass production of reactor modules at the scale envisioned by advocates.
@@ -290,21 +289,19 @@ Google's partnership with Kairos Power illustrates both the promise and the chal
 
 These constraints do not mean SMRs will fail. They mean that projections assuming rapid deployment across dozens of AI campuses should be treated as scenarios rather than established outcomes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNHr_5VV1cA" title="Inside Google’s $500M Nuclear Bet for AI Data Centers | Kairos Power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNHr_5VV1cA" target="_blank" rel="noopener noreferrer">Inside Google’s $500M Nuclear Bet for AI Data Centers | Kairos Power</a></p><p class="youtube-embed-meta">Channel: Nuclear Corner with Dan &middot; Views: 159 &middot; Uploaded: January 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNHr_5VV1cA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNHr_5VV1cA">Open on YouTube</a></p></div></div></div>
 
 ## Regulation Remains a Major Bottleneck
 
 Advanced reactors face a challenge common to many technologies connected to the long-term AI future: society wants innovation, but it also wants safety.
 
-[Nuclear power]({{ 'nuclear-power/' | relative_url }}) operates under some of the world's strictest regulatory frameworks. That caution exists for obvious reasons. Reactor accidents are rare, but the consequences can be severe, and public trust can be difficult to rebuild once lost.
+[Nuclear power]({{ 'nuclear-power/' | relative_url }}) operates under some of the world's strictest regulatory frameworks. That caution exists for obvious reasons. Reactor accidents are rare, but the consequences can be severe, and [public trust]({{ 'public-trust/' | relative_url }}) can be difficult to rebuild once lost.
 
 Many current regulations were designed around large conventional reactors rather than novel designs using different coolants, fuels and operating principles. As a result, regulators have had to develop new frameworks while preserving safety standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
 
 The US Nuclear Regulatory Commission has recently introduced reforms intended to accelerate advanced reactor licensing. These include new pathways for advanced reactors and microreactors, as well as efforts to shorten review times. Even so, the need for regulatory reform itself highlights how much work remains before advanced nuclear becomes routine infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">NRC rolls out reforms to accelerate small reactor licensing</span><span class="citation-popover-snippet">Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</span></span></span>
 
 For AI companies, the challenge is not merely obtaining reactor approval. Projects may also require:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -319,7 +316,6 @@ For AI companies, the challenge is not merely obtaining reactor approval. Projec
 
 Each stage can introduce delays. A technology company may be accustomed to scaling software globally in months. Nuclear infrastructure operates on very different timescales.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8pk2P8mdkBY" title="US Power Shortage: How Small Modular Nuclear Reactors Could Fill the Gap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8pk2P8mdkBY" target="_blank" rel="noopener noreferrer">US Power Shortage: How Small Modular Nuclear Reactors Could Fill the Gap</a></p><p class="youtube-embed-meta">Channel: Bloomberg Television &middot; Views: 40.7K &middot; Uploaded: December 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8pk2P8mdkBY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8pk2P8mdkBY">Open on YouTube</a></p></div></div></div>
 
 ## Public Acceptance Could Still Slow Expansion
@@ -332,11 +328,10 @@ This matters because many proposed AI facilities are located near population cen
 
 A company seeking to build a massive AI campus linked to an advanced reactor may therefore face several overlapping debates at once:
 
-* Should the reactor be built at all?
-* Should the [data centre]({{ 'power-demand/' | relative_url }}) be built there?
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
+* Should the reactor be built at all?
+* Should the data centre be built there?
 * Who receives the economic benefits?
 * Who bears the environmental and infrastructure costs?
 * How should water use and cooling requirements be managed?
@@ -344,7 +339,6 @@ A company seeking to build a massive AI campus linked to an advanced reactor may
 </div>
 
 The result is that deployment challenges are not purely engineering problems. They are also governance and public legitimacy problems.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-2-dark.svg" | relative_url }}" alt="SMR Deployment Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fuel Supply Is an Overlooked Constraint
@@ -367,7 +361,6 @@ Even if an advanced reactor supplies constant power, operators still need system
 
 This is why many proposed architectures combine multiple technologies rather than relying on nuclear alone:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Grid connections for redundancy.
@@ -380,7 +373,6 @@ This is why many proposed architectures combine multiple technologies rather tha
 </div>
 
 In practice, the future AI energy system may look less like a single dedicated reactor powering a data centre and more like a complex network in which nuclear is one component among many.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wnHyYKNnUTo" title="Why Big Tech&#x27;s Betting Billions on Nuclear (Not Renewables)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wnHyYKNnUTo" target="_blank" rel="noopener noreferrer">Why Big Tech&#x27;s Betting Billions on Nuclear (Not Renewables)</a></p><p class="youtube-embed-meta">Channel: Undecided with Matt Ferrell &middot; Views: 363.1K &middot; Uploaded: February 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wnHyYKNnUTo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wnHyYKNnUTo">Open on YouTube</a></p></div></div></div>
 
@@ -411,13 +403,12 @@ Current responses vary:
 * Many continue to invest heavily in renewables, storage and [grid upgrades]({{ 'grid-costs/' | relative_url }}).
 * Geothermal energy and other forms of firm clean power are also attracting interest as complementary options. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.google">[blog.google]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.google</span><span class="citation-popover-title">google kairos power nuclear energy agreement</span><span class="citation-popover-snippet">New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</span></span></span> Reuters The result is that SMRs are increasingly viewed as part of a broader energy portfolio rather than a single decisive solution. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Time to go nuclear?</span><span class="citation-popover-snippet">Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-dark.svg" | relative_url }}" alt="SMR Deployment Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac_smr_ai_challe_c2f7bf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means for the AI Bloom Vision
 
 The idea of AI bloom depends partly on overcoming physical bottlenecks. If advanced AI accelerates science, medicine, manufacturing and knowledge creation, civilisation will need vast amounts of reliable energy to support that growth.
 
-Advanced SMRs fit naturally into that vision because they promise scalable, low-carbon electricity without many of the land-use constraints associated with some other energy sources. In the most optimistic scenario, successful reactor deployment could help power future laboratories, automated factories, desalination systems, climate-repair technologies and large-scale AI infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectThe potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</span></span></span>
+Advanced SMRs fit naturally into that vision because they promise scalable, low-carbon electricity without many of the land-use constraints associated with some other energy sources. In the most optimistic scenario, successful reactor deployment could help power future laboratories, automated factories, desalination systems, climate-repair technologies and large-scale AI infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</span></span></span>
 
 The challenge is timing.
 
@@ -822,150 +813,150 @@ That does not weaken the broader case that abundant clean energy could help supp
 1. <a id="endnote-1"></a>
    Source: blog.google  
    Title: google kairos power nuclear energy agreement  
-   Link: [https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/](https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/)  
+   Link: <a href="https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/company-news/outreach-and-initiatives/sustainability/google-kairos-power-nuclear-energy-agreement/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>New nuclear clean energy agreement with Kairos PowerOct 14, 2024 — The initial phase of work is intended to bring Kairos Power&#x27;s first SM...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: Time to go nuclear?  
-   Link: [https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/](https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the battle to power AIAs AI technology rapidly expands, the demand for data centers—and consequently, electricity—is soaring. Fore...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: techcrunch.com  
    Title: Tim De Chant. 3  
-   Link: [https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/](https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechCrunchGoogle signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</p></details>
+   Link: <a href="https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/" target="_blank" rel="noopener noreferrer nofollow">https://techcrunch.com/2024/10/14/google-signed-a-deal-to-power-data-centers-with-nuclear-micro-reactors-from-kairos-but-the-2030-timeline-is-very-optimistic/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google signed a deal to power data centers with nuclear...Oct 14, 2024 — Google signed a deal to power data centers with nucle...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nucnet.org  
    Title: google to commit funding for three advanced nuclear power projects 5 4 2025  
-   Link: [https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025](https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025)  
+   Link: <a href="https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.nucnet.org/news/google-to-commit-funding-for-three-advanced-nuclear-power-projects-5-4-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google To Commit Funding For Three Advanced Nuclear...8 May 2025 — The deal at that time said the first Kairos project would come online...</p></details>
    Published: May 2025  
 
 5. <a id="endnote-5"></a>
    Source: irecruit.co  
-   Link: [https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments](https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments)  
+   Link: <a href="https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments" target="_blank" rel="noopener noreferrer nofollow">https://www.irecruit.co/insights/smr-nuclear-powered-data-center-developments</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMR Data Centers Tracker: Nuclear-Powered Projects 20267 days ago — The delays in deploying SMR-powered data centers largely arise from t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: perkinscoie.com  
    Title: nuclear industry kicks 2026 major public and private sector announcements 0  
-   Link: [https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0](https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0)  
+   Link: <a href="https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0" target="_blank" rel="noopener noreferrer nofollow">https://perkinscoie.com/insights/update/nuclear-industry-kicks-2026-major-public-and-private-sector-announcements-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Industry Kicks Off 2026 With Major Public and...Jan 27, 2026 — Project developers and hyperscalers face ongoing risks related to...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
    Title: NRC rolls out reforms to accelerate small reactor licensing  
-   Link: [https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/](https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/)  
+   Link: <a href="https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/nrc-rolls-out-reforms-accelerate-small-reactor-licensing--reeii-2026-05-26/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory Commission (NRC) is expediting three major regulatory reforms to fast-track small modular and microreactor licensing...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2504.02599](https://arxiv.org/abs/2504.02599)  
+   Link: <a href="https://arxiv.org/abs/2504.02599" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.02599</a>  
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/](https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/)  
+   Link: <a href="https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/pentagon-spurs-us-microreactor-race-commercial-hurdles-remain--reeii-2026-05-27/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense (DOD) is accelerating development of nuclear microreactors—compact reactors with capacities of 1–20 MW—through init...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.00415](https://arxiv.org/abs/2603.00415)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGrid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.00415" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.00415</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Grid Integration of AI Data Centers: A Critical Review of Energy Storage SolutionsFebruary 28, 2026...</p></details>
    Published: February 28, 2026  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2603.09110](https://arxiv.org/abs/2603.09110)  
+   Link: <a href="https://arxiv.org/abs/2603.09110" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.09110</a>  
 
 12. <a id="endnote-12"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary](https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary)  
+   Link: <a href="https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/the-path-to-a-new-era-for-nuclear-energy/executive-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open... Small modular reactor global installed capacity by scenario and case, 2025-2050.Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1738573324005643](https://www.sciencedirect.com/science/article/pii/S1738573324005643)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1738573324005643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1738573324005643</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The potential role of small modular reactors (SMRs) in...by S Cha · 2025 · Cited by 20 — This study investigates the necess...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d](https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d)  
+   Link: <a href="https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-your-world/the-great-ai-power-problem-2710cad6523d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Great AI Power ProblemThe Great AI Power Problem How Small Modular Reactors Will Become the Only Scalable Answer to Data Center Energ...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: energy.gov  
    Title: advantages and challenges nuclear powered data centers  
-   Link: [https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers](https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers)  
+   Link: <a href="https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/ne/articles/advantages-and-challenges-nuclear-powered-data-centers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New reactors will take time to build. · 2. First-of-a-kind reactor deployments are expensive. · 3. Metering issues could be a hurdle. · 4...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: eia.gov  
-   Link: [https://www.eia.gov/todayinenergy/detail.php?id=67584](https://www.eia.gov/todayinenergy/detail.php?id=67584)  
+   Link: <a href="https://www.eia.gov/todayinenergy/detail.php?id=67584" target="_blank" rel="noopener noreferrer nofollow">https://www.eia.gov/todayinenergy/detail.php?id=67584</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Energy Information AdministrationToday in Energy8 days ago — High capital costs and lengthy licensing and approval processes have li...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Nuclear Regulatory Commission  
-   Link: [https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission](https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission)  
+   Link: <a href="https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nuclear_Regulatory_Commission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nuclear Regulatory CommissionIts functions include overseeing reactor safety and security, administering reactor licensing and renewal...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gisreportsonline.com  
-   Link: [https://www.gisreportsonline.com/r/smrs/](https://www.gisreportsonline.com/r/smrs/)  
+   Link: <a href="https://www.gisreportsonline.com/r/smrs/" target="_blank" rel="noopener noreferrer nofollow">https://www.gisreportsonline.com/r/smrs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is holding up progress on small modular reactors?25 Nov 2025 — Similarly, Google has partnered with Kairos Power to bring SMRs onlin...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: nrc.gov  
-   Link: [https://www.nrc.gov/](https://www.nrc.gov/)  
+   Link: <a href="https://www.nrc.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/</a>  
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/](https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/)  
+   Link: <a href="https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/investing/comments/1p5bdlu/big_tech_going_nuclear_hype_or_real/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big tech going Nuclear Hype or Real?: r/investingMost people think Big Tech going nuclear is hype. They’re about to be very wrong. Micro...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3](https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3)  
+   Link: <a href="https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/small-modular-reactor-venture-capital-ai-data-centers-2025-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These companies include X-energy, TerraPower, Newcleo, and NuScale Power. SMRs produce around 300 megawatts, compared to traditional reac...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nrchealth.com  
-   Link: [https://nrchealth.com/](https://nrchealth.com/)  
+   Link: <a href="https://nrchealth.com/" target="_blank" rel="noopener noreferrer nofollow">https://nrchealth.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC HealthNRC Health has built a healthcare experience management platform with next-gen AI that drives the most human healthcare experie...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD](https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD)  
+   Link: <a href="https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amy-roma-jd-mba_with-electricity-demand-rising-serious-capital-activity-7414429722215911424-t7QD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NRC Activity Accelerates in 2026 with Licensing and...Under the 11th plan, data center electricity demand is projected to... (Small Mod...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: shumaker.com  
-   Link: [https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence](https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence)  
+   Link: <a href="https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.shumaker.com/insight/nuclear-powered-artificial-[intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Nuclear Powered Artificial Intelligence (AI): Small Modular...12 Dec 2025 — AI is advancing at extraordinary speed due to development o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl](https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl)  
+   Link: <a href="https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/toh-wee-khiang-0145a811_google-kairos-power-plan-advanced-nuclear-activity-7363436487360598016-e9Yl</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos to build advanced SMR by 2030, first...Data centers will be co-located on the 5,200-acre site and will receive power b...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: carboncredits.com  
-   Link: [https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/](https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/)  
+   Link: <a href="https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://carboncredits.com/google-kairos-and-tva-unlock-advanced-nuclear-energy-for-americas-ai-data-centers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google, Kairos, and TVA Unlock Advanced Nuclear Energy...Aug 20, 2025 — Google, Kairos Power, and TVA team up to deliver 50MW of advance...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: kairospower.com  
    Title: google and kairos power partner to deploy 500 mw of clean electricity generation  
-   Link: [https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation](https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation)  
+   Link: <a href="https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation" target="_blank" rel="noopener noreferrer nofollow">https://www.kairospower.com/updates/google-and-kairos-power-partner-to-deploy-500-mw-of-clean-electricity-generation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google and Kairos Power Partner to Deploy 500 MW...Oct 14, 2024 — Plants will be sited in relevant service territories to supply clean e...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
    Title: google has partnered with kairos power to build small modular nuclear reactors s  
-   Link: [https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/](https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/)  
+   Link: <a href="https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/google-has-partnered-with-kairos-power-to-build-small-modular-nuclear-reactors-s/960687726099272/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google has partnered with Kairos Power to build small...The reactors, expected to be operational between 2030 and 2035, will produce 500...</p></details>

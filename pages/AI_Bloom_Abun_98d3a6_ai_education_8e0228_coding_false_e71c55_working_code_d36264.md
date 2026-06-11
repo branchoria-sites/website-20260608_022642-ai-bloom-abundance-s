@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /false-mastery/
 nav_short_title: Working code
 title: Why working code can fool learners
-title_full: Why working code can fool learners | False Mastery
+title_full: Why working code can fool learners
 display_title_short: Working code
 display_title: Working code
 heading_title: Why working code can fool learners
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Chat GPT help coders learn or coast? | Education
+date: '2026-06-08 01:38:17'
+parent_title: Does Chat GPT help coders learn or coast?
 parent_permalink: /false-mastery/
 parent_nav_short_title: False Mastery
 parent_heading_title: Does Chat GPT help coders learn or coast?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /guardrails/
   short_title: Guardrails
   heading_title: Can guardrails stop AI answer copying?
-date: '2026-06-08 01:38:17 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-1.webp
@@ -271,9 +271,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c
 
 One of the most misleading features of AI-assisted programming is that the code often works. A student asks ChatGPT for help, receives a complete solution, runs it, sees the correct output, and concludes that learning has happened. Sometimes it has. But working software is a poor measure of whether someone can explain the solution, modify it, debug it, or recreate it later without assistance.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-1-dark.svg" | relative_url }}" alt="Working code illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters far beyond classroom grades. If AI is to expand human capability on a large scale — helping more people participate in science, engineering, automation, and technological progress — then people need genuine understanding, not just successful outputs. The danger is not that AI-generated code fails. It is that it succeeds so smoothly that weaknesses remain hidden until learners face a new problem, a broken system, or a situation where the AI is unavailable. Researchers increasingly describe this as a form of [false mastery]({{ 'false-mastery/' | relative_url }}): performance that looks impressive while underlying understanding remains fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+This matters far beyond classroom grades. If AI is to expand human capability on a large scale — helping more people participate in science, engineering, automation, and technological progress — then people need genuine understanding, not just successful outputs. The danger is not that AI-generated code fails. It is that it succeeds so smoothly that weaknesses remain hidden until learners face a new problem, a broken system, or a situation where the AI is unavailable. Researchers increasingly describe this as a form of [false mastery]({{ 'false-mastery/' | relative_url }}): performance that looks impressive while underlying understanding remains fragile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">Students Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
 
 ## Why running code feels like proof of skill
 
@@ -290,18 +289,17 @@ AI changes this relationship. A student can now obtain a functioning solution be
 
 Programming [education]({{ 'education/' | relative_url }}) research has long emphasised the importance of mental models: the internal representations programmers build to understand how code behaves. Strong mental models help learners transfer knowledge between problems, predict failures, and reason about unfamiliar systems. Weak mental models allow students to complete specific exercises while struggling to explain what the code is actually doing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/220807692_Self-efficacy_and_mental_models_in_learning_to_program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Self-efficacy and mental models in learning to programSeptember 1, 2004 — This research investigates the effects of stu...</span><span class="citation-popover-meta">Published: September 1, 2004</span></span></span>
 
-The problem becomes more severe when AI-generated code is clean, convincing, and professionally structured. Students may interpret polished output as evidence that they themselves have mastered the underlying concepts. The [psychological]({{ 'crew-resilience/' | relative_url }}) reward arrives immediately, while the learning deficit remains invisible.
+The problem becomes more severe when AI-generated code is clean, convincing, and professionally structured. Students may interpret polished output as evidence that they themselves have mastered the underlying concepts. The psychological reward arrives immediately, while the learning deficit remains invisible.
 
 ## The hidden gap between recognition and generation
 
 A learner often discovers that understanding code is easier than creating it.
 
-This distinction appears throughout [cognitive]({{ 'broad-access/' | relative_url }}) science. People frequently mistake recognition for mastery. Seeing a solution and following its logic can feel very similar to being able to generate that solution independently. In reality, the second task is much harder.
+This distinction appears throughout cognitive science. People frequently mistake recognition for mastery. Seeing a solution and following its logic can feel very similar to being able to generate that solution independently. In reality, the second task is much harder.
 
 Programming exposes this difference constantly.
 
 A student may:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -315,10 +313,9 @@ Yet still fail to write a comparable function from a blank page.
 
 The reason is that explanation and production rely on different cognitive processes. Producing software requires planning, decomposition, abstraction, [debugging]({{ 'debugging/' | relative_url }}), and decision-making under uncertainty. Reviewing a finished solution removes much of that difficulty.
 
-Researchers studying novice programmers have repeatedly found that students often overestimate their understanding of code structures and algorithms. Learners may focus on whether a program passes visible test cases rather than whether they understand the principles that produced the solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+Researchers studying novice programmers have repeatedly found that students often overestimate their understanding of code structures and algorithms. Learners may focus on whether a program passes visible test cases rather than whether they understand the principles that produced the solution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">Students Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
 
 AI can amplify this tendency because it dramatically lowers the cost of obtaining apparently correct answers.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/62D6fxsJIBM" title="#61 - The Programmer&#x27;s Brain and the Importance of Cognition - Felienne Hermans" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=62D6fxsJIBM" target="_blank" rel="noopener noreferrer">#61 - The Programmer&#x27;s Brain and the Importance of Cognition - Felienne Hermans</a></p><p class="youtube-embed-meta">Channel: Tech Lead Journal &middot; Views: 380 &middot; Uploaded: October 2021 &middot; Length: 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=62D6fxsJIBM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=62D6fxsJIBM">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +329,6 @@ This is where hidden weaknesses often appear.
 
 A student who completed an assignment with extensive AI assistance may perform well on that exact task. But when asked to:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Adapt the solution to new requirements.
@@ -344,12 +340,11 @@ A student who completed an assignment with extensive AI assistance may perform w
 
 Performance can drop sharply.
 
-Studies examining programming education with AI assistance increasingly focus on this distinction between assisted performance and independent capability. Research on programming learners using AI tools has found that many students successfully complete coding tasks with support but encounter difficulties when extending, modifying, or explaining solutions later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+Studies examining programming education with AI assistance increasingly focus on this distinction between assisted performance and independent capability. Research on programming learners using AI tools has found that many students successfully complete coding tasks with support but encounter difficulties when extending, modifying, or explaining solutions later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">Students Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
 
-A particularly revealing finding comes from work asking students to explain code they themselves submitted. Researchers found that roughly one-third struggled to explain aspects of their own programs despite having successfully completed the exercises. The visible success of the assignment concealed weaknesses that became apparent only when explanation was required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
+A particularly revealing finding comes from work asking students to explain code they themselves submitted. Researchers found that roughly one-third struggled to explain aspects of their own programs despite having successfully completed the exercises. The visible success of the assignment concealed weaknesses that became apparent only when explanation was required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">Students Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span>
 
 In other words, successful completion and genuine understanding are not the same thing.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-2-dark.svg" | relative_url }}" alt="Working code illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Debugging is where weak understanding becomes visible
@@ -357,7 +352,6 @@ In other words, successful completion and genuine understanding are not the same
 Many programming educators view debugging as one of the clearest windows into understanding.
 
 When code breaks, students must:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -379,7 +373,6 @@ Research on programming education consistently shows that debugging difficulties
 
 A learner whose code works only because the AI repaired every mistake may appear competent during coursework while remaining poorly prepared for real-world software maintenance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8o3tBmr3vNE" title="Stop Watching Tutorials. Do This Instead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8o3tBmr3vNE" target="_blank" rel="noopener noreferrer">Stop Watching Tutorials. Do This Instead</a></p><p class="youtube-embed-meta">Channel: Maddy Zhang &middot; Views: 73.5K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8o3tBmr3vNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8o3tBmr3vNE">Open on YouTube</a></p></div></div></div>
 
 ## How assignments can reward output over understanding
@@ -389,7 +382,6 @@ Traditional programming assessments were designed in a world where producing fun
 Generative AI changes that assumption.
 
 Many assignments still reward visible outputs:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -409,7 +401,6 @@ The OECD's 2026 Digital Education Outlook warned that generative AI can create a
 
 Programming courses are already experimenting with responses:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Oral code explanations.
@@ -422,7 +413,6 @@ Programming courses are already experimenting with responses:
 
 The common goal is to make thinking visible rather than judging only the finished artefact.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-3-dark.svg" | relative_url }}" alt="Working code illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_working_code_d36264-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for the broader AI bloom vision
 
@@ -430,17 +420,15 @@ The optimistic case for AI-assisted education is not merely that more people can
 
 Those are different outcomes.
 
-If AI allows learners to reach understanding faster, the implications are profound. Programming could become more accessible. Technical education could scale to larger populations. People with weaker backgrounds could enter fields previously closed to them. Evidence already suggests that AI tools can reduce barriers and accelerate early learning when used as tutors rather than replacements for thought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentGenerative AI in Computer Science Educationby D Franklin · 2025 · Cited by 23 — Generative AI is a...</span></span></span> University Press & Assessment
+If AI allows learners to reach understanding faster, the implications are profound. Programming could become more accessible. Technical education could scale to larger populations. People with weaker backgrounds could enter fields previously closed to them. Evidence already suggests that AI tools can reduce barriers and accelerate early learning when used as tutors rather than replacements for thought. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Students Struggle to Explain Their Own Program Code</span><span class="citation-popover-snippet">Students Struggle to Explain Their Own Program CodeApril 14, 2021...</span><span class="citation-popover-meta">Published: April 14, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentGenerative AI in Computer Science Educationby D Franklin · 2025 · Cited by 23 — Generative AI is a...</span></span></span> University Press & Assessment
 
 But if educational systems mistake AI-assisted output for genuine skill development, apparent progress may be fragile. A society could appear to have produced more programmers while actually producing fewer people capable of independent reasoning about software systems.
 
-The distinction becomes especially important in a future where AI itself plays a larger role in [scientific]({{ 'discovery/' | relative_url }}) research, infrastructure management, medicine, and [governance]({{ 'power/' | relative_url }}). Human understanding may become more valuable, not less, when civilisation depends on increasingly complex technological systems.
+The distinction becomes especially important in a future where AI itself plays a larger role in scientific research, infrastructure management, medicine, and governance. Human understanding may become more valuable, not less, when civilisation depends on increasingly complex technological systems.
 
 The central lesson is simple but easy to overlook: working code demonstrates that a problem has been solved. It does not necessarily demonstrate who understands the solution. The more capable AI becomes at producing software, the more important that distinction may become.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EFkJXwAexuw" title="AI Is Writing Code It Doesn’t Understand (JetBrains Warning)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EFkJXwAexuw" target="_blank" rel="noopener noreferrer">AI Is Writing Code It Doesn’t Understand (JetBrains Warning)</a></p><p class="youtube-embed-meta">Channel: Stefan Mischook &middot; Views: 19.9K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EFkJXwAexuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EFkJXwAexuw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -454,33 +442,16 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Programmer&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnk8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Programmer&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Programmer&#x27;s Brain">The Programmer&#x27;s Brain</a>
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
         </h4>
-        <p class="fr-book-author">By Felienne Hermans</p>
-        
-        <p class="fr-book-desc">Explains comprehension, memory and code reading, directly addressing why working code can mask weak understanding.</p>
+        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+        <p class="fr-book-desc">Shows that understanding and adaptability matter more than producing code that merely runs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
-        
-        <p class="fr-book-desc">Shows why fluency and successful performance can create illusions of mastery without durable recall or transfer.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -495,9 +466,26 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
         </h4>
         <p class="fr-book-author">By V. Anton Spraul</p>
         
-        <p class="fr-book-desc">Focuses on the reasoning process behind code, not just producing correct output.</p>
+        <p class="fr-book-desc">Emphasises transferable problem-solving over solution copying.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+        </h4>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+        
+        <p class="fr-book-desc">Explains why successful performance can mask weak understanding.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -512,7 +500,7 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
         </h4>
         <p class="fr-book-author">By Steve McConnell</p>
         
-        <p class="fr-book-desc">Represents mature software competence beyond simply generating code that passes a test.</p>
+        <p class="fr-book-desc">Focuses on deep comprehension of software construction and quality.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Code+Complete+by+Steve+McConnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -522,7 +510,7 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Programmer%27s+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Programmer&#x27;s Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pragmatic Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -559,15 +547,15 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom QR Code Window Sticker Personalised QR Code Scan Here Self Adhesive"><img src="{{ '/assets/images/marketplace-covers/1adf9f5b965b6c83bd1f.jpg' | relative_url }}" alt="Listing image for Custom QR Code Window Sticker Personalised QR Code Scan Here Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c"><img src="https://i.ebayimg.com/images/g/LzYAAeSwMcVpt-Dm/s-l225.jpg" alt="Listing image for Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">Custom QR Code Window Sticker Personalised QR Code Scan Here Self Adhesive</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +563,15 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Follow us on Instagram QR CODE Vinyl Sticker Shop Window Social Media decal"><img src="{{ '/assets/images/marketplace-covers/cc5cf3462bad1aa21ab4.jpg' | relative_url }}" alt="Listing image for Follow us on Instagram QR CODE Vinyl Sticker Shop Window Social Media decal" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy"><img src="https://i.ebayimg.com/images/g/~YwAAeSwJr1pYOv1/s-l225.jpg" alt="Listing image for Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">Follow us on Instagram QR CODE Vinyl Sticker Shop Window Social Media decal</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +579,15 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging"><img src="{{ '/assets/images/marketplace-covers/7af917c8816cae3b6995.jpg' | relative_url }}" alt="Listing image for 100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build"><img src="https://i.ebayimg.com/images/g/bHEAAeSwyFxqDgzE/s-l225.jpg" alt="Listing image for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">100 Custom QR Code Stickers 1x1 Inch | Scan Link Labels | Business Packaging</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +595,15 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive"><img src="{{ '/assets/images/marketplace-covers/b16ac85dd9ad4e701d8b.jpg' | relative_url }}" alt="Listing image for A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW"><img src="https://i.ebayimg.com/images/g/THcAAOSwyJZnnOUe/s-l225.jpg" alt="Listing image for Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">A4 Address Sheets White Sticky Shipping Labels A4 Stickers Printer Self Adhesive</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding sticker</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,7 +611,7 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding sticker" data-ebay-reference="working-code-why-working-code-can-fool-learners-ai-bloom-abundance-superintelligence-and-humanit-coding-sticker" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-working-code-can-fool-learners-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="why-working-code-can-fool-learners-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -839,129 +827,129 @@ The central lesson is simple but easy to overlook: working code demonstrates tha
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Students Struggle to Explain Their Own Program Code  
-   Link: [https://arxiv.org/abs/2104.06710](https://arxiv.org/abs/2104.06710)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivStudents Struggle to Explain Their Own Program CodeApril 14, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2104.06710" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2104.06710</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Students Struggle to Explain Their Own Program CodeApril 14, 2021...</p></details>
    Published: April 14, 2021  
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/220807692_Self-efficacy_and_mental_models_in_learning_to_program](https://www.researchgate.net/publication/220807692_Self-efficacy_and_mental_models_in_learning_to_program)  
+   Link: <a href="https://www.researchgate.net/publication/220807692_Self-efficacy_and_mental_models_in_learning_to_program" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/220807692_Self-efficacy_and_mental_models_in_learning_to_program</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Self-efficacy and mental models in learning to programSeptember 1, 2004 — This research investigates the effects of stu...</p></details>
    Published: September 1, 2004  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2212.07763](https://arxiv.org/abs/2212.07763)  
+   Link: <a href="https://arxiv.org/abs/2212.07763" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2212.07763</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.22085v2](https://arxiv.org/html/2507.22085v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBOOP: Write Right CodeIn general, students even tend to overestimate their understanding of program constructions [25]. This is ref...</p></details>
+   Link: <a href="https://arxiv.org/html/2507.22085v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.22085v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOP: Write Right CodeIn general, students even tend to overestimate their understanding of program constructions [25]. This is ref...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Tool or Trouble?  
-   Link: [https://arxiv.org/html/2507.22900v1](https://arxiv.org/html/2507.22900v1)  
+   Link: <a href="https://arxiv.org/html/2507.22900v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.22900v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring Student Attitudes Toward AI...This exploratory study examines how AI code assistants shape novice programmers&#x27; experiences dur...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2507.11543v1](https://arxiv.org/html/2507.11543v1)  
+   Link: <a href="https://arxiv.org/html/2507.11543v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2507.11543v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Generative AI in Computer Science Education17 Jun 2025 — This paper surveys the use of Generative AI tools, such as ChatGPT a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eleanorourke.com  
    Title: decoding debugging instruction  
-   Link: [https://www.eleanorourke.com/papers/decoding_debugging_instruction.pdf](https://www.eleanorourke.com/papers/decoding_debugging_instruction.pdf)  
+   Link: <a href="https://www.eleanorourke.com/papers/decoding_debugging_instruction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.eleanorourke.com/papers/decoding_debugging_instruction.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These struggles can have significant downstream...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
    Title: 062a7394 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Digital Education Outlook 2026 (EN)This 2026 edition synthesises evidence and expert insights to show how generative AI has the pote...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.20329](https://arxiv.org/abs/2505.20329)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGenerative AI in Computer Science Education: Accelerating Python Learning with ChatGPTMay 24, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.20329" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.20329</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI in Computer Science Education: Accelerating Python Learning with ChatGPTMay 24, 2025...</p></details>
    Published: May 24, 2025  
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F](https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F)  
+   Link: <a href="https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/elements/generative-ai-in-computer-science-education/0A22106CBD7FCB391FD120C56E21420F</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentGenerative AI in Computer Science Educationby D Franklin · 2025 · Cited by 23 — Generative AI is a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education](https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education)  
+   Link: <a href="https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399716242_Learning_Behavior_and_Pedagogy_A_Systematic_Review_of_Generative_AI_Use_in_Programming_Education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review of Generative AI Use in Programming...17 Jan 2026 — In programming education, a review of 45 studies reports improve...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/398851683_Engaging_Students_with_AI_for_Code_Comprehension_Critique_and_Explanation](https://www.researchgate.net/publication/398851683_Engaging_Students_with_AI_for_Code_Comprehension_Critique_and_Explanation)  
+   Link: <a href="https://www.researchgate.net/publication/398851683_Engaging_Students_with_AI_for_Code_Comprehension_Critique_and_Explanation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398851683_Engaging_Students_with_AI_for_Code_Comprehension_Critique_and_Explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Engaging Students with AI for Code Comprehension...19 Dec 2025 — This chapter will present a summary of how students learn to code...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theaustralian.com.au  
-   Link: [https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4](https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4)  
+   Link: <a href="https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4" target="_blank" rel="noopener noreferrer nofollow">https://www.theaustralian.com.au/higher-education/student-reliance-on-ai-is-a-shortcut-that-masks-a-failure-to-learn-the-oecd-warns/news-story/868d0c5769c42446ba140807e8de8fd4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report highlights concerns that GenAI fosters a deceptive sense of mastery among students by generating high-quality outputs that mas...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUYyuCMEsNC/](https://www.instagram.com/p/DUYyuCMEsNC/)  
+   Link: <a href="https://www.instagram.com/p/DUYyuCMEsNC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUYyuCMEsNC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, without delivering significant efficiency gains on average.”Read more...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7423836698100416513-H0W4](https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7423836698100416513-H0W4)  
+   Link: <a href="https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7423836698100416513-H0W4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/addyosmani_ai-programming-softwareengineering-activity-7423836698100416513-H0W4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Assistance vs Comprehension: Developers Who Ask...AI doesn&#x27;t make you dumber, but passive reliance does. The difference is asking &quot;wh...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cs.ucr.edu  
-   Link: [https://www.cs.ucr.edu/~vahid/pubs/asee2018_errors_struggle.pdf](https://www.cs.ucr.edu/~vahid/pubs/asee2018_errors_struggle.pdf)  
+   Link: <a href="https://www.cs.ucr.edu/~vahid/pubs/asee2018_errors_struggle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.ucr.edu/~vahid/pubs/asee2018_errors_struggle.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Science and EngineeringAn Analysis of Common Errors Leading to Excessive Student...by N Alzahrani · Cited by 12 — Ginat suggest...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/vaibhavsisintyofficial/posts/ai-made-you-dumber-overnightanthropic-tested-52-developers-half-used-ai-half-cod/1354799203330866/](https://www.facebook.com/vaibhavsisintyofficial/posts/ai-made-you-dumber-overnightanthropic-tested-52-developers-half-used-ai-half-cod/1354799203330866/)  
+   Link: <a href="https://www.facebook.com/vaibhavsisintyofficial/posts/ai-made-you-dumber-overnightanthropic-tested-52-developers-half-used-ai-half-cod/1354799203330866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vaibhavsisintyofficial/posts/ai-made-you-dumber-overnightanthropic-tested-52-developers-half-used-ai-half-cod/1354799203330866/</a>  
 
 18. <a id="endnote-18"></a>
    Source: scienceinpoland.pl  
-   Link: [https://scienceinpoland.pl/en/news/news%2C112183%2Cgenerative-ai-misuse-can-weaken-students-independent-thinking-study-finds.html](https://scienceinpoland.pl/en/news/news%2C112183%2Cgenerative-ai-misuse-can-weaken-students-independent-thinking-study-finds.html)  
+   Link: <a href="https://scienceinpoland.pl/en/news/news%2C112183%2Cgenerative-ai-misuse-can-weaken-students-independent-thinking-study-finds.html" target="_blank" rel="noopener noreferrer nofollow">https://scienceinpoland.pl/en/news/news%2C112183%2Cgenerative-ai-misuse-can-weaken-students-independent-thinking-study-finds.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI misuse can weaken students&#x27; independent...8 Apr 2026 — Misuse of generative artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) tools in education can...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
    Title: stop asking ai to do it ask ai to teach you how 8693f1bd93d4  
-   Link: [https://medium.com/write-rise/stop-asking-ai-to-do-it-ask-ai-to-teach-you-how-8693f1bd93d4](https://medium.com/write-rise/stop-asking-ai-to-do-it-ask-ai-to-teach-you-how-8693f1bd93d4)  
+   Link: <a href="https://medium.com/write-rise/stop-asking-ai-to-do-it-ask-ai-to-teach-you-how-8693f1bd93d4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-rise/stop-asking-ai-to-do-it-ask-ai-to-teach-you-how-8693f1bd93d4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Asking AI to Do It. Ask AI to Teach You How.A 2025 Tandfonline study on AI-assisted programming education found that students who us...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/vibecoding/comments/1qkmavw/lets_be_honest_programmers_who_pride_themselves/](https://www.reddit.com/r/vibecoding/comments/1qkmavw/lets_be_honest_programmers_who_pride_themselves/)  
+   Link: <a href="https://www.reddit.com/r/vibecoding/comments/1qkmavw/lets_be_honest_programmers_who_pride_themselves/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/vibecoding/comments/1qkmavw/lets_be_honest_programmers_who_pride_themselves/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hom think they are superior by not using AI in coding to increase...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/learnprogramming/comments/1f0qu7o/why_do_you_think_some_people_get_it_programming/](https://www.reddit.com/r/learnprogramming/comments/1f0qu7o/why_do_you_think_some_people_get_it_programming/)  
+   Link: <a href="https://www.reddit.com/r/learnprogramming/comments/1f0qu7o/why_do_you_think_some_people_get_it_programming/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnprogramming/comments/1f0qu7o/why_do_you_think_some_people_get_it_programming/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t school and university, most people who try it seem to not get it...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: open.metu.edu.tr  
    Title: Hacer Guner Ph DThesis Final Submission  
-   Link: [https://open.metu.edu.tr/bitstream/handle/11511/118396/HacerGuner_PhDThesis_Final-Submission.pdf](https://open.metu.edu.tr/bitstream/handle/11511/118396/HacerGuner_PhDThesis_Final-Submission.pdf)  
+   Link: <a href="https://open.metu.edu.tr/bitstream/handle/11511/118396/HacerGuner_PhDThesis_Final-Submission.pdf" target="_blank" rel="noopener noreferrer nofollow">https://open.metu.edu.tr/bitstream/handle/11511/118396/HacerGuner_PhDThesis_Final-Submission.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GENERATIVE AI INTO PROGRAMMING...by E Er · 2026 — This research investigates the effects of different pedagogical approaches to integrat...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Programmer's Brain and the Importance of Cognition  
-   Link: [https://www.youtube.com/watch?v=62D6fxsJIBM](https://www.youtube.com/watch?v=62D6fxsJIBM)  
+   Link: <a href="https://www.youtube.com/watch?v=62D6fxsJIBM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=62D6fxsJIBM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop Watching Tutorials. Do This Instead - YouTube Stop Watching Tutorials. Do This Instead - YouTube...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2394886](https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2394886)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2394886" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/0144929X.2024.2394886</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe promise and challenges of generative AI in educationby M Giannakos · 2025 · Cited by 688 — GenAI&#x27;s capabilitie...</p></details>

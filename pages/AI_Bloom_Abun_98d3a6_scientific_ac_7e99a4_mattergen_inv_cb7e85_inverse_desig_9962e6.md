@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /inverse-design/
 nav_short_title: Screening Shift
 title: Why inverse design changes materials discovery
-title_full: Why inverse design changes materials discovery | Inverse design
+title_full: Why inverse design changes materials discovery
 display_title_short: Screening Shift
 display_title: Screening Shift
 heading_title: Why inverse design changes materials discovery
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI design materials backwards? | Discovery
+date: '2026-06-08 02:17:51'
+parent_title: Can AI design materials backwards?
 parent_permalink: /inverse-design/
 parent_nav_short_title: Inverse design
 parent_heading_title: Can AI design materials backwards?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /risky-elements/
   short_title: Risky Elements
   heading_title: Can AI design around scarce elements?
-date: '2026-06-08 02:17:51 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-1.webp
@@ -269,11 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb
 
 ## Introduction
 
-Materials discovery has traditionally worked like a giant search problem. Scientists propose candidate substances, simulate or test them, and then rank the results. [MatterGen]({{ 'inverse-design/' | relative_url }}) represents a different ambition. Instead of asking which known or plausible material performs best, it starts with the properties researchers want and attempts to generate materials designed around those goals from the outset. This shift is known as [inverse design]({{ 'inverse-design/' | relative_url }}).
-
+Materials [discovery]({{ 'discovery/' | relative_url }}) has traditionally worked like a giant search problem. Scientists propose candidate substances, simulate or test them, and then rank the results. MatterGen represents a different ambition. Instead of asking which known or plausible material performs best, it starts with the properties researchers want and attempts to generate materials designed around those goals from the outset. This shift is known as [inverse design]({{ 'inverse-design/' | relative_url }}).
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-1-dark.svg" | relative_url }}" alt="Screening Shift illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The distinction matters because the space of possible materials is vastly larger than the number humanity has explored. If advanced AI systems can move from screening candidates to generating structures aimed at specific outcomes, they could help accelerate some of the hardest bottlenecks in [energy]({{ 'energy/' | relative_url }}), computing, manufacturing and climate technology. MatterGen does not eliminate the need for experiments or physics, but it changes where the search begins and how researchers navigate chemical space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
+The distinction matters because the space of possible materials is vastly larger than the number humanity has explored. If advanced AI systems can move from screening candidates to generating structures aimed at specific outcomes, they could help accelerate some of the hardest bottlenecks in [energy]({{ 'energy/' | relative_url }}), computing, manufacturing and climate technology. MatterGen does not eliminate the need for experiments or physics, but it changes where the search begins and how researchers navigate chemical space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
 
 ## How conventional screening searches chemical space
 
@@ -287,7 +286,6 @@ Machine learning has already improved this workflow. Instead of running expensiv
 
 The challenge is scale. Even with powerful computers, the number of possible inorganic materials is effectively enormous. Many technologically useful materials require balancing multiple properties at once:
 
-
 <div class="content-enhancement content-enhancement--tension" markdown="1">
 
 * High conductivity but low cost.
@@ -297,7 +295,7 @@ The challenge is scale. Even with powerful computers, the number of possible ino
 
 </div>
 
-A screening system may help identify good options among candidates already considered, but it can still spend much of its effort exploring vast regions of chemical space that ultimately do not contain what researchers need. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHas generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
+A screening system may help identify good options among candidates already considered, but it can still spend much of its effort exploring vast regions of chemical space that ultimately do not contain what researchers need. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
 
 ## What inverse design asks AI to do differently
 
@@ -309,10 +307,9 @@ The question becomes:
 
 > What material could satisfy these requirements?
 
-MatterGen was built around this idea. Using a diffusion-based generative model, it creates crystal structures by gradually constructing atom types, positions and lattice arrangements. Researchers can then steer generation towards specific goals through fine-tuning and property constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.09429v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven i...</span></span></span>
+MatterGen was built around this idea. Using a diffusion-based generative model, it creates crystal structures by gradually constructing atom types, positions and lattice arrangements. Researchers can then steer generation towards specific goals through fine-tuning and property constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/html/2411.09429v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">AI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven i...</span></span></span>
 
 In practical terms, a researcher might request a material that combines:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -331,7 +328,6 @@ Screening asks whether a suitable answer already exists somewhere in a large lib
 
 Inverse design asks AI to help invent an answer.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yKJQJDehrko" title="MatterGen: a generative model for inorganic materials design (Tian Xie, Microsoft Research)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yKJQJDehrko" target="_blank" rel="noopener noreferrer">MatterGen: a generative model for inorganic materials design (Tian Xie, Microsoft Research)</a></p><p class="youtube-embed-meta">Channel: Yingzhen Li &middot; Views: 1.8K &middot; Uploaded: February 2024 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yKJQJDehrko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yKJQJDehrko">Open on YouTube</a></p></div></div></div>
 
 ## Why this changes the economics of discovery
@@ -344,16 +340,15 @@ That matters because many technological bottlenecks are materials bottlenecks.
 
 A battery engineer may need a combination of properties that existing materials cannot simultaneously provide. A clean-energy researcher may want catalysts that are both efficient and made from abundant elements. Semiconductor designers may require compounds with highly unusual electrical behaviour.
 
-In conventional workflows, researchers often make incremental changes to known materials and hope improvements emerge. Inverse design aims to search directly for the desired outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHas generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
+In conventional workflows, researchers often make incremental changes to known materials and hope improvements emerge. Inverse design aims to search directly for the desired outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
 
-For advocates of AI-enabled [scientific]({{ 'discovery/' | relative_url }}) acceleration, this is one of the more interesting possibilities. Economic growth is often constrained not only by manufacturing capacity or labour but by the rate at which civilisation discovers new physical capabilities. Better materials can unlock entirely new engineering options, from [power]({{ 'power/' | relative_url }}) systems to medical devices.
+For advocates of AI-enabled scientific acceleration, this is one of the more interesting possibilities. Economic growth is often constrained not only by manufacturing capacity or labour but by the rate at which civilisation discovers new physical capabilities. Better materials can unlock entirely new engineering options, from [power]({{ 'power/' | relative_url }}) systems to medical devices.
 
 If AI systems become substantially better at proposing useful materials, they could accelerate multiple industries simultaneously rather than improving only one application area.
 
 ## Batteries, magnets and catalysts as test cases
 
 The value of inverse design becomes easiest to understand through examples.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-2-dark.svg" | relative_url }}" alt="Screening Shift illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Batteries
@@ -362,7 +357,7 @@ Battery materials often require balancing competing demands.
 
 A promising battery material may need high ionic conductivity, chemical stability, safety, affordability and manufacturability. Improving one characteristic frequently worsens another.
 
-Traditional screening searches for compounds that happen to satisfy these requirements. Inverse design instead attempts to generate candidates optimised around the combination itself. Researchers working on materials [discovery]({{ 'discovery/' | relative_url }}) increasingly view this as a route towards finding chemistries that would be unlikely to emerge from intuition-driven exploration alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
+Traditional screening searches for compounds that happen to satisfy these requirements. Inverse design instead attempts to generate candidates optimised around the combination itself. Researchers working on materials discovery increasingly view this as a route towards finding chemistries that would be unlikely to emerge from intuition-driven exploration alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">arXiv Matter Gen: a generative model for inorganic materials design</span></span></span>
 
 ### Magnets
 
@@ -372,8 +367,7 @@ Many current magnets depend on rare-earth elements with supply-chain vulnerabili
 
 This illustrates a broader advantage of inverse design: the optimisation target can include economic and geopolitical constraints, not just physical performance.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QWjzHJHh_fw" title="Can AI Create Materials That Never Existed?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QWjzHJHh_fw" target="_blank" rel="noopener noreferrer">Can AI Create Materials That Never Existed?</a></p><p class="youtube-embed-meta">Channel: Agents of Tech &middot; Views: 207.9K &middot; Uploaded: May 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QWjzHJHh_fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QWjzHJHh_fw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkKqQilNP1c" title="MatterGen: Revolutionizing Materials Design with Generative AI!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkKqQilNP1c" target="_blank" rel="noopener noreferrer">MatterGen: Revolutionizing Materials Design with Generative AI!</a></p><p class="youtube-embed-meta">Channel: Data Sciency &middot; Views: 15.6K &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkKqQilNP1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkKqQilNP1c">Open on YouTube</a></p></div></div></div>
 
 ### Catalysts
 
@@ -381,7 +375,7 @@ Catalysts accelerate chemical reactions and are central to industrial chemistry,
 
 Finding better catalysts often means discovering materials that satisfy several requirements simultaneously: activity, durability, cost and abundance.
 
-Because inverse-design systems can target multiple objectives at once, they are especially attractive for catalyst discovery, where the most useful solution may not resemble existing materials families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHas generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
+Because inverse-design systems can target multiple objectives at once, they are especially attractive for catalyst discovery, where the most useful solution may not resemble existing materials families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Has generative artificial intelligence solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</span></span></span>
 
 ## Why generation does not replace screening
 
@@ -394,7 +388,6 @@ A generative system may propose novel materials. Those proposals still need eval
 Likewise, screening systems remain valuable because they provide the feedback needed to judge generated candidates.
 
 A likely future workflow looks more like:
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-3-dark.svg" | relative_url }}" alt="Screening Shift illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_inverse_desig_9962e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -426,8 +419,7 @@ Third, materials innovation often depends on processing methods, defects, interf
 
 Finally, there is a difference between generating candidates and transforming industries. Many proposed materials may never leave the laboratory. The history of materials science contains numerous discoveries that took decades to become commercially significant.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkKqQilNP1c" title="MatterGen: Revolutionizing Materials Design with Generative AI!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkKqQilNP1c" target="_blank" rel="noopener noreferrer">MatterGen: Revolutionizing Materials Design with Generative AI!</a></p><p class="youtube-embed-meta">Channel: Data Sciency &middot; Views: 15.6K &middot; Uploaded: January 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkKqQilNP1c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkKqQilNP1c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P3uHQGGQiLs" title="Discovering New Materials With AI | Jonathan Godwin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P3uHQGGQiLs" target="_blank" rel="noopener noreferrer">Discovering New Materials With AI | Jonathan Godwin</a></p><p class="youtube-embed-meta">Channel: Infinite Curiosity with Prateek Joshi &middot; Views: 641 &middot; Uploaded: May 2024 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P3uHQGGQiLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P3uHQGGQiLs">Open on YouTube</a></p></div></div></div>
 
 ## Why the screening shift matters for AI bloom
 
@@ -437,7 +429,7 @@ Screening technologies help humanity evaluate options more efficiently. Inverse-
 
 That distinction becomes increasingly important if advanced AI begins accelerating science across many domains simultaneously. Better batteries, cleaner energy infrastructure, improved semiconductors, stronger lightweight materials and more efficient catalysts are not isolated achievements. They influence the physical foundations of economic abundance.
 
-MatterGen does not show that AI can automatically solve materials science. What it does suggest is that AI systems may increasingly participate in a more creative stage of discovery: proposing new structures aimed at human goals rather than merely ranking known possibilities. If that capability continues to improve, the long-term significance may be less about searching faster through existing knowledge and more about enlarging the range of technologies civilisation can realistically build. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</span></span></span>
+MatterGen does not show that AI can automatically solve materials science. What it does suggest is that AI systems may increasingly participate in a more creative stage of discovery: proposing new structures aimed at human goals rather than merely ranking known possibilities. If that capability continues to improve, the long-term significance may be less about searching faster through existing knowledge and more about enlarging the range of technologies civilisation can realistically build. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -835,127 +827,127 @@ MatterGen does not show that AI can automatically solve materials science. What 
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-025-08628-5](https://www.nature.com/articles/s41586-025-08628-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — We present MatterGen, a model that generates sta...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Matter Gen: a generative model for inorganic materials design  
-   Link: [https://arxiv.org/abs/2312.03687](https://arxiv.org/abs/2312.03687)  
+   Link: <a href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.03687</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S259023852400242X](https://www.sciencedirect.com/science/article/pii/S259023852400242X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHas generative artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S259023852400242X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S259023852400242X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has generative artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) solved inverse...by H Park · 2024 · Cited by 96 — We provide a perspective on progre...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: deepmind.google  
    Title: Google Deep Mind Millions of new materials discovered with deep learning  
-   Link: [https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)  
+   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learningNovember 29, 2023 — 29 Nov 2023 — AI tool GNoME finds 2.2 million n...</p></details>
    Published: November 29, 2023  
 
 5. <a id="endnote-5"></a>
    Source: github.com  
    Title: Git Hubgoogle-deepmind/materials_discovery  
-   Link: [https://github.com/google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)  
+   Link: <a href="https://github.com/google-deepmind/materials_discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/materials_discovery</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>google-deepmind/materials_discovery - GNoMEWith results recently published, this repository serves to share the discovery of 381,000 nove...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: time.com  
-   Link: [https://time.com/6340681/deepmind-gnome-ai-materials/](https://time.com/6340681/deepmind-gnome-ai-materials/)  
+   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2411.09429v1](https://arxiv.org/html/2411.09429v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven i...</p></details>
+   Link: <a href="https://arxiv.org/html/2411.09429v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2411.09429v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven inverse design of materials: Past, present and future14 Nov 2024 — This survey provides the latest overview of AI-driven i...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: microsoft.com  
    Title: mattergen a generative model for inorganic materials design  
-   Link: [https://www.microsoft.com/en-us/research/publication/mattergen-a-generative-model-for-inorganic-materials-design/](https://www.microsoft.com/en-us/research/publication/mattergen-a-generative-model-for-inorganic-materials-design/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/mattergen-a-generative-model-for-inorganic-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/mattergen-a-generative-model-for-inorganic-materials-design/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: a generative model for inorganic materials design6 Dec 2023 — We present MatterGen, a model that generates stable, diverse ino...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — We introduce the A-Lab, an autonomous laboratory for the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: microsoft.com  
    Title: mattergen a new paradigm of materials design with generative ai  
-   Link: [https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/](https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted materials...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: microsoft.com  
-   Link: [https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/](https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials DesignTian Xie introduces MatterGen, a generative model that creates new inorganic materials...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-025-08628-5_reference.pdf](https://www.nature.com/articles/s41586-025-08628-5_reference.pdf)  
+   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5_reference.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — After fine-tuning, MatterGen suc- cessfully generates...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: [https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them)  
+   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/752085993/s41586-023-06735-9](https://www.scribd.com/document/752085993/s41586-023-06735-9)  
+   Link: <a href="https://www.scribd.com/document/752085993/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/752085993/s41586-023-06735-9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Materials Discovery with GNoME | PDFBy guiding searches with neural networks, we are able to use diversified stability (decompo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128](https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128)  
+   Link: <a href="https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40musicalchemist/how-ai-is-revolutionizing-material-discovery-meet-mattergen-ceb7d3156128</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Revolutionizing Material DiscoveryMatterGen is a diffusion-based generative model tailored to handle the complexity of crystall...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cypris.ai  
-   Link: [https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d](https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d)  
+   Link: <a href="https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d" target="_blank" rel="noopener noreferrer nofollow">https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Generative Models, Graph Neural Networks, and...Google DeepMind released GNoME (Graph Networks for Materials Exploration), predictin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ItisaScience/posts/in-a-single-computational-discovery-campaign-google-deepminds-gnome-graph-networ/122218707482051326/](https://www.facebook.com/ItisaScience/posts/in-a-single-computational-discovery-campaign-google-deepminds-gnome-graph-networ/122218707482051326/)  
+   Link: <a href="https://www.facebook.com/ItisaScience/posts/in-a-single-computational-discovery-campaign-google-deepminds-gnome-graph-networ/122218707482051326/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ItisaScience/posts/in-a-single-computational-discovery-campaign-google-deepminds-gnome-graph-networ/122218707482051326/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s ScienceIn a groundbreaking leap for materials science, researchers at DeepMind have developed an AI system called GNoME (Graph Netwo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe](https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe)  
+   Link: <a href="https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/data-science-in-your-pocket/microsoft-mattergen-ai-model-for-material-design-and-discovery-4d1b74ba4cfe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft MatterGen: AI model for material design and...Unlike traditional methods, which are slow and costly, MatterGen accelerates inn...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yKJQJDehrko](https://www.youtube.com/watch?v=yKJQJDehrko)  
+   Link: <a href="https://www.youtube.com/watch?v=yKJQJDehrko" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yKJQJDehrko</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: a generative model for inorganic materials design...MatterGen: a generative model for inorganic materials design by Daniel Zü...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thelab.brookesbell.com  
    Title: googles deepmind ai tool makes material science breakthrough 158802  
-   Link: [https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/](https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/)  
+   Link: <a href="https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/" target="_blank" rel="noopener noreferrer nofollow">https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brookesbell.comGoogle&#x27;s DeepMind AI Tool Makes Material Science...14 Dec 2023 — Of the 2.2 million new crystals discovered by GNoME appr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 388093762 A generative model for inorganic materials design  
-   Link: [https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design](https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design)  
+   Link: <a href="https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/388093762_A_generative_model_for_inorganic_materials_design</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A generative model for inorganic materials design16 Jan 2025 — Here we present MatterGen, a model that generates stable, diverse in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
    Title: Revolutionizing Materials Discovery with Generative AIThe  
-   Link: [https://www.linkedin.com/pulse/mattergen-revolutionizing-materials-discovery-ai-majdi-srasra-78syf](https://www.linkedin.com/pulse/mattergen-revolutionizing-materials-discovery-ai-majdi-srasra-78syf)  
+   Link: <a href="https://www.linkedin.com/pulse/mattergen-revolutionizing-materials-discovery-ai-majdi-srasra-78syf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mattergen-revolutionizing-materials-discovery-ai-majdi-srasra-78syf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>introduction of MatterGen heralds a transformative era in materials science. By directly generating novel materials based on user-defined...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: inorgmatchem.com  
    Title: Generative AI for Inverse Materials Design  
-   Link: [https://www.inorgmatchem.com/posts/generative-ai-for-inverse-materials-design-models-applications-and-breakthroughs](https://www.inorgmatchem.com/posts/generative-ai-for-inverse-materials-design-models-applications-and-breakthroughs)  
+   Link: <a href="https://www.inorgmatchem.com/posts/generative-ai-for-inverse-materials-design-models-applications-and-breakthroughs" target="_blank" rel="noopener noreferrer nofollow">https://www.inorgmatchem.com/posts/generative-ai-for-inverse-materials-design-models-applications-and-breakthroughs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inorganic Matrix26 Nov 2025 — MatterGen more than doubles the percentage of generated stable, unique, and new materials compared to previ...</p></details>

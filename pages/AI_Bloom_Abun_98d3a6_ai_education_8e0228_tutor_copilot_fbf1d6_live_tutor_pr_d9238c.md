@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /tutor-co-pilot/
 nav_short_title: Live Prompts
 title: How AI nudges changed live tutoring
-title_full: How AI nudges changed live tutoring | Tutor Co Pilot
+title_full: How AI nudges changed live tutoring
 display_title_short: Live Prompts
 display_title: Live Prompts
 heading_title: How AI nudges changed live tutoring
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI make human tutors better? | Education
+date: '2026-06-08 01:43:13'
+parent_title: Can AI make human tutors better?
 parent_permalink: /tutor-co-pilot/
 parent_nav_short_title: Tutor Co Pilot
 parent_heading_title: Can AI make human tutors better?
@@ -266,7 +267,6 @@ next_link:
   permalink: /weaker-tutors/
   short_title: Weaker Tutors
   heading_title: Why weaker tutors gained most from AI help
-date: '2026-06-08 01:43:13 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-1.webp
@@ -275,11 +275,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf
 
 ## Introduction
 
-One of the most important findings from [Tutor CoPilot]({{ 'tutor-co-pilot/' | relative_url }}) was that the system improved learning not by teaching students directly, but by changing hundreds of tiny decisions made by [human tutors]({{ 'human-role/' | relative_url }}) during live lessons. Instead of acting as an automated teacher, the AI functioned as a real-time coach. It suggested questions, highlighted possible misunderstandings, and nudged tutors away from simply providing answers. Research suggests these shifts altered the language tutors used, especially among less experienced instructors, and helped students master more material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
-
+One of the most important findings from Tutor CoPilot was that the system improved learning not by teaching students directly, but by changing hundreds of tiny decisions made by [human tutors]({{ 'human-role/' | relative_url }}) during live lessons. Instead of acting as an automated teacher, the AI functioned as a real-time coach. It suggested questions, highlighted possible misunderstandings, and nudged tutors away from simply providing answers. Research suggests these shifts altered the language tutors used, especially among less experienced instructors, and helped students master more material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-1-dark.svg" | relative_url }}" alt="Live Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters beyond tutoring. A recurring question in debates about AI abundance and human flourishing is whether advanced AI will mainly replace human expertise or help distribute it more widely. Tutor CoPilot offers an early example of the second path. The central achievement was not automation. It was behavioural change: using AI prompts to help ordinary tutors act a little more like experienced ones during the moments when teaching decisions matter most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
+This matters beyond tutoring. A recurring question in debates about AI abundance and human flourishing is whether advanced AI will mainly replace human expertise or help distribute it more widely. Tutor CoPilot offers an early example of the second path. The central achievement was not automation. It was behavioural change: using AI prompts to help ordinary tutors act a little more like experienced ones during the moments when teaching decisions matter most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
 ## The small teaching decisions Tutor CoPilot targeted
 
@@ -289,10 +288,9 @@ They decide whether a student is confused or merely hesitant. They judge whether
 
 Tutor CoPilot was built around the idea that these decisions are a major source of educational quality. Rather than generating long explanations for students, the system monitored tutoring conversations and produced suggestions for tutors in real time. The prompts were intended to replicate patterns found in expert teaching practice, including guiding questions, conceptual scaffolding, reasoning checks, and misconception diagnosis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edunlp.stanford.edu/projects/tutor-copilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edunlp.stanford.edu">[EduNLP Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edunlp.stanford.edu</span><span class="citation-popover-title">tutor copilot</span><span class="citation-popover-snippet">EduNLP LabTutor CoPilot - EduNLP Lab - Stanford UniversityOct 31, 2024 — Tutor CoPilot is an AI system designed to provide expert-level g...</span></span></span>
 
-This is a different model from many public-facing AI tutors. The goal was not to create a machine that solved problems for students. The goal was to improve the judgement of the human already in the conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
+This is a different model from many public-facing AI tutors. The goal was not to create a machine that solved problems for students. The goal was to improve the judgement of the human already in the conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
 In practice, that meant influencing decisions that might last only a few seconds:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ In practice, that meant influencing decisions that might last only a few seconds
 
 None of these actions is individually dramatic. Collectively, however, they shape how students learn.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/27UCLMBqWGo" title="Google&#x27;s &#x27;Human-in-the-Loop&#x27; AI Strategy: Building a Socratic Tutor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=27UCLMBqWGo" target="_blank" rel="noopener noreferrer">Google&#x27;s &#x27;Human-in-the-Loop&#x27; AI Strategy: Building a Socratic Tutor</a></p><p class="youtube-embed-meta">Channel: AI Theory Guy &middot; Views: 1.6K &middot; Uploaded: February 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=27UCLMBqWGo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=27UCLMBqWGo">Open on YouTube</a></p></div></div></div>
 
 ## Why guiding questions beat answer-giving
@@ -317,9 +314,9 @@ This reflects a long-standing principle in learning science. Students generally 
 
 The challenge is that asking productive questions is harder than simply giving an answer. Under time pressure, especially for inexperienced tutors, the temptation is to solve the problem on the student's behalf.
 
-Tutor CoPilot appears to have shifted tutors away from that pattern. Researchers analysing more than 350,000 tutoring messages found that tutors using the system increased their use of probing questions and reduced less productive behaviours such as generic praise. They were also less likely to directly provide solutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">EdWorkingPapersTutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
+Tutor CoPilot appears to have shifted tutors away from that pattern. Researchers analysing more than 350,000 tutoring messages found that tutors using the system increased their use of probing questions and reduced less productive behaviours such as generic praise. They were also less likely to directly provide solutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
 
-The language changes are important because they provide evidence about mechanism, not just outcomes. The improvement in student mastery was not a mysterious black-box effect. Researchers could observe tutors changing how they interacted with learners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">EdWorkingPapersTutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
+The language changes are important because they provide evidence about mechanism, not just outcomes. The improvement in student mastery was not a mysterious black-box effect. Researchers could observe tutors changing how they interacted with learners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
 
 An experienced tutor often knows that a student who arrives at the correct answer may still hold a misunderstanding. Asking the learner to explain their reasoning can reveal hidden confusion. Tutor CoPilot repeatedly pushed tutors towards this style of interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edweek.org">[Education Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edweek.org</span><span class="citation-popover-title">what happens when an ai assistant helps the tutor instead of the student</span><span class="citation-popover-snippet">Education WeekWhat Happens When an AI Assistant Helps the Tutor...31 Oct 2024 — The tutors using Tutor CoPilot were more likely to do t...</span></span></span>
 
@@ -327,12 +324,11 @@ In effect, the AI encouraged tutors to treat reasoning as the learning target ra
 
 ## Why the strongest effects appeared among weaker tutors
 
-One of the most interesting findings was that students working with lower-rated tutors benefited the most from AI support. Students assigned to these tutors showed substantially larger improvements than the average treatment effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">EdWorkingPapersTutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
+One of the most interesting findings was that students working with lower-rated tutors benefited the most from AI support. Students assigned to these tutors showed substantially larger improvements than the average treatment effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
 
 This pattern makes sense if Tutor CoPilot primarily worked by improving behaviour during difficult moments.
 
 Highly experienced tutors often already use strategies such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -349,17 +345,16 @@ Less experienced tutors, by contrast, frequently know the subject matter better 
 
 In that situation, a timely prompt can function like an expert mentor whispering advice during the lesson itself. Instead of waiting for training sessions, observations, or performance reviews, the tutor receives support exactly when a teaching decision must be made.
 
-This helps explain why the system can be understood as a form of expertise distribution. The AI is not creating educational skill from nothing. It is making expert patterns more available at the point of use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
+This helps explain why the system can be understood as a form of expertise distribution. The AI is not creating educational skill from nothing. It is making expert patterns more available at the point of use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
-For the broader AI bloom argument, this is significant because many forms of human expertise are scarce. High-quality teaching, medicine, engineering, management, and [scientific]({{ 'discovery/' | relative_url }}) supervision all depend on judgement that normally takes years to develop. Systems that can transfer fragments of expert decision-making into real-world work may increase the effective supply of expertise without waiting for decades of training.
-
+For the broader AI bloom argument, this is significant because many forms of human expertise are scarce. High-quality teaching, medicine, engineering, management, and scientific supervision all depend on judgement that normally takes years to develop. Systems that can transfer fragments of expert decision-making into real-world work may increase the effective supply of expertise without waiting for decades of training.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-2-dark.svg" | relative_url }}" alt="Live Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The behavioural changes were subtle but cumulative
 
 The Tutor CoPilot story is easy to misunderstand because the AI's interventions were often small.
 
-The system did not suddenly transform novice tutors into master educators. It did not rewrite lesson plans or take over conversations. Most suggestions were brief and highly local to the current interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
+The system did not suddenly transform novice tutors into master educators. It did not rewrite lesson plans or take over conversations. Most suggestions were brief and highly local to the current interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
 Yet teaching quality is often the result of accumulated micro-decisions.
 
@@ -368,7 +363,6 @@ A tutor who asks three extra reasoning questions in a lesson may uncover misconc
 The importance of Tutor CoPilot lies partly in demonstrating that AI assistance does not need to be spectacular to matter. If millions of workers make slightly better decisions across millions of interactions, the aggregate effects can become substantial.
 
 This is one reason the experiment attracts attention beyond [education]({{ 'education/' | relative_url }}). It suggests a model in which AI improves performance by reshaping human behaviour rather than replacing human participation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IOd2GtMb6hM" title="Revolutionizing learning: AI research paves the way for more effective virtual tutoring experiences." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IOd2GtMb6hM" target="_blank" rel="noopener noreferrer">Revolutionizing learning: AI research paves the way for more effective virtual tutoring experiences.</a></p><p class="youtube-embed-meta">Channel: EctorCountyISD &middot; Views: 132 &middot; Uploaded: February 2025 &middot; Length: 3 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IOd2GtMb6hM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IOd2GtMb6hM">Open on YouTube</a></p></div></div></div>
 
@@ -384,15 +378,14 @@ There is also a deeper pedagogical concern. If tutors become overly dependent on
 
 Another risk is that AI systems can optimise for the appearance of good tutoring rather than genuine learning. A prompt might encourage a tutor to ask a question because the question resembles expert practice, even when a direct explanation would be more helpful in that moment.
 
-Recent research on AI tutoring safety has highlighted a related problem: educational failure often occurs quietly. A system may appear helpful while subtly encouraging answer-giving, reinforcing misconceptions, or reducing productive struggle. These failures can accumulate over long interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
+Recent research on AI tutoring safety has highlighted a related problem: educational failure often occurs quietly. A system may appear helpful while subtly encouraging answer-giving, reinforcing misconceptions, or reducing productive struggle. These failures can accumulate over long interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Tutor Co Pilot: A Human-AI Approach for Scaling Real-Time</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</span><span class="citation-popover-meta">Published: October 3, 2024</span></span></span>
 
 This means [human oversight]({{ 'human-oversight/' | relative_url }}) remains central. Tutor CoPilot's strongest results came from supporting tutors, not replacing them.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-3-dark.svg" | relative_url }}" alt="Live Prompts illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_tutor_copilot_fbf1d6_live_tutor_pr_d9238c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this mechanism suggests about AI and human flourishing
 
-The broader significance of Tutor CoPilot is not the four-percentage-point gain reported in one tutoring trial. It is the possibility that AI systems may increasingly function as real-time [cognitive]({{ 'broad-access/' | relative_url }}) support for human work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">EdWorkingPapersTutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
+The broader significance of Tutor CoPilot is not the four-percentage-point gain reported in one tutoring trial. It is the possibility that AI systems may increasingly function as real-time cognitive support for human work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edworkingpapers.com">[EdWorkingPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edworkingpapers.com</span><span class="citation-popover-snippet">Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</span></span></span>
 
 Many professions depend on moment-to-moment decisions that are difficult to teach and difficult to scale. Expert practitioners often struggle to explain how they make those decisions because much of their knowledge has become intuitive.
 
@@ -400,13 +393,11 @@ Tutor CoPilot points towards a future in which AI systems capture some of those 
 
 In education, that could mean more students receiving instruction closer to expert quality. In other fields, similar systems could potentially help nurses, social workers, technicians, researchers, or public servants perform difficult tasks more effectively.
 
-That does not guarantee an age of abundance or universal flourishing. Distribution, incentives, quality control, and [institutional]({{ 'institutional-gaps/' | relative_url }}) design all matter. But Tutor CoPilot offers a concrete example of a mechanism that appears repeatedly in optimistic visions of AI's long-term impact: not merely automating human intelligence, but helping more people access and apply it.
+That does not guarantee an age of abundance or universal flourishing. Distribution, incentives, quality [control]({{ 'control/' | relative_url }}), and institutional design all matter. But Tutor CoPilot offers a concrete example of a mechanism that appears repeatedly in optimistic visions of AI's long-term impact: not merely automating human [intelligence]({{ 'intelligence/' | relative_url }}), but helping more people access and apply it.
 
 The lesson from the tutoring experiment is therefore surprisingly modest and surprisingly ambitious at the same time. The AI did not teach the student. It changed the tutor's next sentence. Yet in that small intervention lies a broader possibility: that advanced AI systems may sometimes create value less by acting for humans than by helping humans think, notice, and respond more effectively in the moments where judgement matters most. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edweek.org">[Education Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edweek.org</span><span class="citation-popover-title">what happens when an ai assistant helps the tutor instead of the student</span><span class="citation-popover-snippet">Education WeekWhat Happens When an AI Assistant Helps the Tutor...31 Oct 2024 — The tutors using Tutor CoPilot were more likely to do t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://edunlp.stanford.edu/projects/tutor-copilot" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edunlp.stanford.edu">[EduNLP Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edunlp.stanford.edu</span><span class="citation-popover-title">tutor copilot</span><span class="citation-popover-snippet">EduNLP LabTutor CoPilot - EduNLP Lab - Stanford UniversityOct 31, 2024 — Tutor CoPilot is an AI system designed to provide expert-level g...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R0waf2WRdwQ" title="How Exactly Will AI Change Learning? | A Case Study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R0waf2WRdwQ" target="_blank" rel="noopener noreferrer">How Exactly Will AI Change Learning? | A Case Study</a></p><p class="youtube-embed-meta">Channel: 100x Engineers &middot; Views: 4.6K &middot; Uploaded: November 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R0waf2WRdwQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R0waf2WRdwQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -427,7 +418,7 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
         </h4>
         <p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Fits the idea of AI nudging human tutors rather than directly replacing them.</p>
+        <p class="fr-book-desc">Illustrates AI as a real-time assistant and coach.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -437,16 +428,16 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Teach Like a Champion 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7cU0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Teach Like a Champion 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Powerful Teaching on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vcaXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Powerful Teaching" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Teach Like a Champion 3.0">Teach Like a Champion 3.0</a>
+          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Powerful Teaching">Powerful Teaching</a>
         </h4>
-        <p class="fr-book-author">By Doug Lemov</p>
+        <p class="fr-book-author">By Pooja K. Agarwal, Patrice M. Bain</p>
         
-        <p class="fr-book-desc">Covers the small instructional moves that AI nudges attempt to improve during tutoring sessions.</p>
+        <p class="fr-book-desc">Focuses on classroom behaviours that improve learning.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0+by+Doug+Lemov&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Powerful+Teaching+by+Pooja+K.+Agarwal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,16 +445,16 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
         </h4>
-        <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
+        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Provides evidence-based principles for feedback, practice and diagnosing student misunderstanding.</p>
+        <p class="fr-book-desc">Explains why specific tutoring moves improve outcomes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -478,7 +469,7 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why guiding questions and active recall beat simply giving students the answer.</p>
+        <p class="fr-book-desc">Supports guided questioning and active learning over answer-giving.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -488,7 +479,7 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Teach+Like+a+Champion+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Teach Like a Champion 3.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Powerful+Teaching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Powerful Teaching</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Happens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Happens</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -525,15 +516,15 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm"><img src="{{ '/assets/images/marketplace-covers/fd818066b7b03cbe56f7.jpg' | relative_url }}" alt="Listing image for Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4, A3, A2, A1, A0 Classroom Alphabet Poster Learning Aids Teacher"><img src="https://i.ebayimg.com/images/g/ZzAAAeSwIXNpjcCM/s-l225.jpg" alt="Listing image for A4, A3, A2, A1, A0 Classroom Alphabet Poster Learning Aids Teacher" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Teacher Educational Poster Set Of 6 Classroom English Fun LAMINATED 30cm X 42cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">A4, A3, A2, A1, A0 Classroom Alphabet Poster Learning Aids Teacher</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -541,15 +532,15 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daycare Teacher Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9854aa4d5aa1b1bf0d21.jpg' | relative_url }}" alt="Listing image for Daycare Teacher Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO - Carry On TEACHER movie poster art LANDSCAPE VERS.- JUMBO FRIDGE MAGNET"><img src="https://i.ebayimg.com/images/g/4R8AAeSwIRpqJa7C/s-l225.jpg" alt="Listing image for RETRO - Carry On TEACHER movie poster art LANDSCAPE VERS.- JUMBO FRIDGE MAGNET" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Daycare Teacher Quote Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">RETRO - Carry On TEACHER movie poster art LANDSCAPE VERS.- JUMBO FRIDGE MAGNET</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,15 +548,15 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Teacher Quote ouch Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/769f69ffb509e46a6774.jpg' | relative_url }}" alt="Listing image for Inspirational Teacher Quote ouch Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENGLISH TEACHER - THIS COULD BE TEXAS ALBUM - MERCURY PRIZE PROMO POSTER"><img src="https://i.ebayimg.com/images/g/1XcAAeSw4s9ocNp0/s-l225.jpg" alt="Listing image for ENGLISH TEACHER - THIS COULD BE TEXAS ALBUM - MERCURY PRIZE PROMO POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Inspirational Teacher Quote ouch Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">ENGLISH TEACHER - THIS COULD BE TEXAS ALBUM - MERCURY PRIZE PROMO POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -573,15 +564,15 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher Identity Gifting Art Wall Art UK Art UK Gift Art Print Poster Wall Art U"><img src="{{ '/assets/images/marketplace-covers/7eae5672bb9ba43a1597.jpg' | relative_url }}" alt="Listing image for Teacher Identity Gifting Art Wall Art UK Art UK Gift Art Print Poster Wall Art U" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Teacher / King Size Poster - 36&quot;x24&quot; (#3563)"><img src="https://i.ebayimg.com/images/g/zFIAAOSwWq9mdn9H/s-l225.jpg" alt="Listing image for Teacher / King Size Poster - 36&quot;x24&quot; (#3563)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Teacher Identity Gifting Art Wall Art UK Art UK Gift Art Print Poster Wall Art U</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">Teacher / King Size Poster - 36&quot;x24&quot; (#3563)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -589,7 +580,7 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster -book -books" data-ebay-reference="live-prompts-how-ai-nudges-changed-live-tutoring-ai-bloom-abundance-superintelligence-and-humani-teacher-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-ai-nudges-changed-live-tutoring-teacher-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher poster" data-ebay-reference="how-ai-nudges-changed-live-tutoring-teacher-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -805,122 +796,122 @@ The lesson from the tutoring experiment is therefore surprisingly modest and sur
 1. <a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv [Tutor Co Pilot](&#123;&#123; 'tutor-co-pilot/' | relative_url &#125;&#125;): A Human-AI Approach for Scaling Real-Time  
-   Link: [https://arxiv.org/abs/2410.03017](https://arxiv.org/abs/2410.03017)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</p></details>
+   Link: <a href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03017</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...October 3, 2024 — by RE Wang · 2024 · Cited by 110 — We introduce Tutor...</p></details>
    Published: October 3, 2024  
 
 2. <a id="endnote-2"></a>
    Source: edworkingpapers.com  
-   Link: [https://edworkingpapers.com/ai24-1054](https://edworkingpapers.com/ai24-1054)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EdWorkingPapersTutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</p></details>
+   Link: <a href="https://edworkingpapers.com/ai24-1054" target="_blank" rel="noopener noreferrer nofollow">https://edworkingpapers.com/ai24-1054</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...Oct 7, 2024 — We introduce Tutor CoPilot, a Human-AI system th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: k12dive.com  
    Title: ai tutor effectiveness stanford university  
-   Link: [https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/](https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/)  
+   Link: <a href="https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/" target="_blank" rel="noopener noreferrer nofollow">https://www.k12dive.com/news/ai-tutor-effectiveness-stanford-university/728980/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>K-12 DiveHow AI can improve tutor effectiveness7 Oct 2024 — Called Tutor CoPilot, the open-source tool developed at Stanford can be embed...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Safe Tutors: Benchmarking Pedagogical Safety in AI Tutoring Systems  
-   Link: [https://arxiv.org/abs/2603.17373](https://arxiv.org/abs/2603.17373)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSafeTutors: Benchmarking Pedagogical Safety in AI Tutoring SystemsMarch 18, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.17373" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.17373</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring SystemsMarch 18, 2026...</p></details>
    Published: March 18, 2026  
 
 5. <a id="endnote-5"></a>
    Source: tutor.com  
-   Link: [https://www.tutor.com/](https://www.tutor.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutoring and Test Prep for K–12, Higher Education, and CareerTutor.com provides 24/7, expert, individualized academic and job support for...</p></details>
+   Link: <a href="https://www.tutor.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor.com/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ing and Test Prep for K–12, Higher Education, and CareerTutor.com provides 24/7, expert, individualized academic and job support for...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: edworkingpapers.com  
-   Link: [https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf](https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf)  
+   Link: <a href="https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...by S Loeb — We introduce Tutor CoPilot, a Human-AI approach to scale expertis...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: edunlp.stanford.edu  
    Title: tutor copilot  
-   Link: [https://edunlp.stanford.edu/projects/tutor-copilot](https://edunlp.stanford.edu/projects/tutor-copilot)  
+   Link: <a href="https://edunlp.stanford.edu/projects/tutor-copilot" target="_blank" rel="noopener noreferrer nofollow">https://edunlp.stanford.edu/projects/tutor-copilot</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EduNLP LabTutor CoPilot - EduNLP Lab - Stanford UniversityOct 31, 2024 — Tutor CoPilot is an AI system designed to provide expert-level g...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: edweek.org  
    Title: what happens when an ai assistant helps the tutor instead of the student  
-   Link: [https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10](https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10)  
+   Link: <a href="https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10" target="_blank" rel="noopener noreferrer nofollow">https://www.edweek.org/technology/what-happens-when-an-ai-assistant-helps-the-tutor-instead-of-the-student/2024/10</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Education WeekWhat Happens When an AI Assistant Helps the Tutor...31 Oct 2024 — The tutors using Tutor CoPilot were more likely to do t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nssa.stanford.edu  
    Title: tutor copilot human ai approach scaling real time expertise  
-   Link: [https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise](https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise)  
+   Link: <a href="https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise" target="_blank" rel="noopener noreferrer nofollow">https://nssa.stanford.edu/studies/tutor-copilot-human-ai-approach-scaling-real-time-expertise</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoPilot: A Human-AI Approach for Scaling Real-Time...Dec 15, 2024 — Two new randomized controlled trials find that AI embedded in live...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nssa.stanford.edu  
    Title: Tutor Co Pilot  
-   Link: [https://nssa.stanford.edu/sites/default/files/Tutor_CoPilot.pdf](https://nssa.stanford.edu/sites/default/files/Tutor_CoPilot.pdf)  
+   Link: <a href="https://nssa.stanford.edu/sites/default/files/Tutor_CoPilot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nssa.stanford.edu/sites/default/files/Tutor_CoPilot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoPilot: A Human-AI Approach for Scaling Real-Time...by RE Wang · Cited by 117 — This approach allowed us to assess whether more or less...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nssa.stanford.edu  
    Title: Tutor Co Pilot  
-   Link: [https://nssa.stanford.edu/sites/default/files/Tutor%20CoPilot.pdf](https://nssa.stanford.edu/sites/default/files/Tutor%20CoPilot.pdf)  
+   Link: <a href="https://nssa.stanford.edu/sites/default/files/Tutor%20CoPilot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nssa.stanford.edu/sites/default/files/Tutor%20CoPilot.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoPilot: A Human-AI Approach for Scaling Real-Time...by RE Wang · Cited by 110 — We conducted a randomized controlled trial to evaluate...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scale.stanford.edu  
-   Link: [https://scale.stanford.edu/publications/tutor-copilot-human-ai-approach-scaling-real-time-expertise](https://scale.stanford.edu/publications/tutor-copilot-human-ai-approach-scaling-real-time-expertise)  
+   Link: <a href="https://scale.stanford.edu/publications/tutor-copilot-human-ai-approach-scaling-real-time-expertise" target="_blank" rel="noopener noreferrer nofollow">https://scale.stanford.edu/publications/tutor-copilot-human-ai-approach-scaling-real-time-expertise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CoPilot: A Human-AI Approach for Scaling Real-Time...17 Nov 2025 — We introduce Tutor CoPilot, a Human-AI system that models expert thin...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/machinelearningnews/comments/1fz9cil/researchers_at_stanford_university_introduce/](https://www.reddit.com/r/machinelearningnews/comments/1fz9cil/researchers_at_stanford_university_introduce/)  
+   Link: <a href="https://www.reddit.com/r/machinelearningnews/comments/1fz9cil/researchers_at_stanford_university_introduce/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/machinelearningnews/comments/1fz9cil/researchers_at_stanford_university_introduce/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers at Stanford University Introduce Tutor CoPilot...Researchers from Stanford University developed Tutor CoPilot, a human-AI co...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: medium.com  
-   Link: [https://medium.com/syncedreview/sandford-us-tutor-copilot-transforms-real-time-tutoring-with-ai-driven-expert-guidance-b2a7cf5d5c18](https://medium.com/syncedreview/sandford-us-tutor-copilot-transforms-real-time-tutoring-with-ai-driven-expert-guidance-b2a7cf5d5c18)  
+   Link: <a href="https://medium.com/syncedreview/sandford-us-tutor-copilot-transforms-real-time-tutoring-with-ai-driven-expert-guidance-b2a7cf5d5c18" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/syncedreview/sandford-us-tutor-copilot-transforms-real-time-tutoring-with-ai-driven-expert-guidance-b2a7cf5d5c18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sandford U&#x27;s Tutor CoPilot Transforms Real-Time...A Stanford University research team presents Tutor CoPilot, a new model that offers ex...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/stanford-tutor-copilot-human-ai-approach-scaling-real-time-expertise-bx7me](https://www.linkedin.com/pulse/stanford-tutor-copilot-human-ai-approach-scaling-real-time-expertise-bx7me)  
+   Link: <a href="https://www.linkedin.com/pulse/stanford-tutor-copilot-human-ai-approach-scaling-real-time-expertise-bx7me" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/stanford-tutor-copilot-human-ai-approach-scaling-real-time-expertise-bx7me</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford: Tutor CoPilot – A Human-AI Approach for Scaling...This paper describes the development and evaluation of Tutor CoPilot, a huma...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: dorademszky.com  
-   Link: [https://www.dorademszky.com/publications/39308-tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise](https://www.dorademszky.com/publications/39308-tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise)  
+   Link: <a href="https://www.dorademszky.com/publications/39308-tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.dorademszky.com/publications/39308-tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for ScalingA human-AI approach for scaling real-time expertise. Journal article. Rose E Wang, Ana T Ri...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: semanticscholar.org  
-   Link: [https://www.semanticscholar.org/paper/Tutor-CoPilot%3A-A-Human-AI-Approach-for-Scaling-Wang-Ribeiro/69ee881b66e99453314b8a5445ba4a3160f4ed0a](https://www.semanticscholar.org/paper/Tutor-CoPilot%3A-A-Human-AI-Approach-for-Scaling-Wang-Ribeiro/69ee881b66e99453314b8a5445ba4a3160f4ed0a)  
+   Link: <a href="https://www.semanticscholar.org/paper/Tutor-CoPilot%3A-A-Human-AI-Approach-for-Scaling-Wang-Ribeiro/69ee881b66e99453314b8a5445ba4a3160f4ed0a" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Tutor-CoPilot%3A-A-Human-AI-Approach-for-Scaling-Wang-Ribeiro/69ee881b66e99453314b8a5445ba4a3160f4ed0a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...This study is the first randomized controlled trial of a Human-AI system in l...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: overdeck.org  
-   Link: [https://overdeck.org/research-repository/tutoring/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise/](https://overdeck.org/research-repository/tutoring/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise/)  
+   Link: <a href="https://overdeck.org/research-repository/tutoring/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise/" target="_blank" rel="noopener noreferrer nofollow">https://overdeck.org/research-repository/tutoring/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...This study uses an RCT to estimate the impacts of Tutor CoPilot—a novel human...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: themoonlight.io  
-   Link: [https://www.themoonlight.io/en/review/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise](https://www.themoonlight.io/en/review/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise)  
+   Link: <a href="https://www.themoonlight.io/en/review/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.themoonlight.io/en/review/tutor-copilot-a-human-ai-approach-for-scaling-real-time-expertise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Literature Review] Tutor CoPilot: A Human-AI Approach...The aim is to provide real-time, expert-like guidance to tutors, thereby addres...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: syncedreview.com  
-   Link: [https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/](https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/)  
+   Link: <a href="https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/" target="_blank" rel="noopener noreferrer nofollow">https://syncedreview.com/2024/11/15/self-evolving-prompts-redefining-ai-alignment-with-deepmind-chicago-us-eva-framework-3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford U&#x27;s Tutor CoPilot Transforms Real-Time Tutoring with...Nov 15, 2024 — Tutor CoPilot aims to enhance K-12 education by providing...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/45deg_two-new-randomized-controlled-trials-just-activity-7436264527907913728-MqwR](https://www.linkedin.com/posts/45deg_two-new-randomized-controlled-trials-just-activity-7436264527907913728-MqwR)  
+   Link: <a href="https://www.linkedin.com/posts/45deg_two-new-randomized-controlled-trials-just-activity-7436264527907913728-MqwR" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/45deg_two-new-randomized-controlled-trials-just-activity-7436264527907913728-MqwR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Tutoring Outperforms Human Tutors in RCTs7 Mar 2026 — a separate RCT published in Scientific Reports found AI-assisted learners hit hi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
    Title: 384680722 Tutor CoPilot A Human AI Approach for Scaling Real Time Expertise  
-   Link: [https://www.researchgate.net/publication/384680722_Tutor_CoPilot_A_Human-AI_Approach_for_Scaling_Real-Time_Expertise](https://www.researchgate.net/publication/384680722_Tutor_CoPilot_A_Human-AI_Approach_for_Scaling_Real-Time_Expertise)  
+   Link: <a href="https://www.researchgate.net/publication/384680722_Tutor_CoPilot_A_Human-AI_Approach_for_Scaling_Real-Time_Expertise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384680722_Tutor_CoPilot_A_Human-AI_Approach_for_Scaling_Real-Time_Expertise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Tutor CoPilot: A Human-AI Approach for Scaling...3 Oct 2024 — We introduce Tutor CoPilot, a novel Human-AI approach that leverages...</p></details>

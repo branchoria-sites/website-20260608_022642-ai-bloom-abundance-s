@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /education/
 nav_short_title: False Mastery
 title: Does Chat GPT help coders learn or coast?
-title_full: Does Chat GPT help coders learn or coast? | Education
+title_full: Does Chat GPT help coders learn or coast?
 display_title_short: False Mastery
 display_title: False Mastery
 heading_title: Does Chat GPT help coders learn or coast?
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Everyone Have a World Class Tutor? | AI Bloom
+date: '2026-06-08 01:22:09'
+parent_title: Can Everyone Have a World Class Tutor?
 parent_permalink: /education/
 parent_nav_short_title: Education
 parent_heading_title: Can Everyone Have a World Class Tutor?
@@ -273,7 +274,6 @@ next_link:
   permalink: /learn-lm-maths/
   short_title: Learn LM Maths
   heading_title: Can supervised AI tutor maths safely?
-date: '2026-06-08 01:22:09 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-1.webp
@@ -284,7 +284,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c
 
 Programming is one of the clearest tests of whether AI tutors expand human capability or merely create the appearance of it. A learner can ask ChatGPT why a bug occurs, request a step-by-step explanation of a sorting algorithm, or get help understanding an error message. Used this way, AI can function like an endlessly available tutor. But the same system can also generate complete solutions, repair code without explanation, and help students finish assignments they do not really understand.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-1-dark.svg" | relative_url }}" alt="False Mastery illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates a problem sometimes described as false mastery: the feeling of competence without the underlying skill. A student may complete more exercises, produce working programs, and receive higher marks, while remaining unable to solve similar problems independently. In the broader AI bloom vision, this distinction matters enormously. If AI makes programming knowledge genuinely more accessible, it could help expand the number of people capable of building software, conducting research, and participating in an increasingly digital civilisation. If it mainly encourages dependency and superficial success, the apparent educational gains may prove fragile. Research increasingly suggests that both outcomes are possible, depending on how AI assistance is designed and used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[pnas.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 191 — Without guardrails, students attempt to use GPT-4...</span></span></span>
 
@@ -294,11 +293,11 @@ The central educational question is not whether ChatGPT can write code. It clear
 
 Programming [education]({{ 'education/' | relative_url }}) has always depended on a certain amount of struggle. Students learn not only by seeing correct solutions but by tracing bugs, forming hypotheses, testing ideas, and discovering why a program fails. These activities build mental models of how software works. When AI shortcuts those steps, students may complete tasks without building those models.
 
-Several studies have found this pattern. Research examining programming students' use of generative AI observed that many students eventually prompted ChatGPT to generate complete solutions rather than using it as a reasoning partner. The students often prioritised task completion over understanding, especially when deadlines or difficulty increased. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.09047v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</span></span></span>
+Several studies have found this pattern. Research examining programming students' use of generative AI observed that many students eventually prompted ChatGPT to generate complete solutions rather than using it as a reasoning partner. The students often prioritised task completion over understanding, especially when deadlines or difficulty increased. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.09047v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</span></span></span>
 
 This is not necessarily irrational behaviour. A student under pressure naturally prefers a working answer to a prolonged [debugging]({{ 'debugging/' | relative_url }}) session. The problem is that programming ability is cumulative. Missing one layer of understanding weakens the next layer. Someone who uses AI to avoid learning loops may later struggle with data structures. Someone who never learns debugging may struggle to maintain larger systems.
 
-Researchers reviewing generative AI in programming education repeatedly identify this tension. Students report benefits such as faster debugging, clearer explanations and reduced frustration. Yet many studies also warn that unrestricted code generation can bypass the very learning processes programming courses are intended to develop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://manuelgarcia.info/publication/chatgpt-programming-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manuelgarcia.info">[Manuel B]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manuelgarcia.info</span><span class="citation-popover-snippet">GarciaTeaching and Learning Computer Programming Using...The emergence of generative AI tools like ChatGPT has sparked investigations in...</span></span></span>. Garcia
+Researchers reviewing generative AI in programming education repeatedly identify this tension. Students report benefits such as faster debugging, clearer explanations and reduced frustration. Yet many studies also warn that unrestricted code generation can bypass the very learning processes programming courses are intended to develop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://manuelgarcia.info/publication/chatgpt-programming-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manuelgarcia.info">[Manuel B]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manuelgarcia.info</span><span class="citation-popover-snippet">GarciaTeaching and Learning Computer Programming Using...The emergence of generative AI tools like ChatGPT has sparked investigations in...</span></span></span>. Garcia
 
 A useful comparison is the difference between a mathematics tutor who asks guiding questions and a calculator that instantly reveals every answer. Both can be helpful, but they serve different educational purposes. Programming AI can act as either.
 
@@ -312,10 +311,9 @@ A recurring finding across AI-learning research is that performance during assis
 
 Although this study focused on mathematics rather than programming, the mechanism is highly relevant to coding education. Programming also requires the gradual acquisition of mental models and problem-solving habits. If learners repeatedly obtain solutions without constructing those models themselves, apparent competence can exceed actual capability.
 
-Researchers studying coding classes have found similar concerns. Across observational and experimental work, AI assistance often improves immediate task completion while producing mixed results for longer-term understanding. In some cases, learners who heavily relied on generated solutions showed weaker knowledge gains than those who used AI more selectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.09047v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</span></span></span> 2arXiv
+Researchers studying coding classes have found similar concerns. Across observational and experimental work, AI assistance often improves immediate task completion while producing mixed results for longer-term understanding. In some cases, learners who heavily relied on generated solutions showed weaker knowledge gains than those who used AI more selectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.09047v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</span></span></span> 2arXiv
 
-This creates a distinctive [psychological]({{ 'crew-resilience/' | relative_url }}) risk. Learners receive constant signals of success:
-
+This creates a distinctive psychological risk. Learners receive constant signals of success:
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -330,7 +328,6 @@ Yet many of the underlying skills remain outsourced.
 
 The result is similar to using satellite navigation for every journey. One may reach the destination efficiently while developing little sense of geography. The tool improves immediate performance while reducing the need to build internal maps.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JmY8GI5U_pI" title="Master ChatGPT: Essential Tips and Hacks for Coders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JmY8GI5U_pI" target="_blank" rel="noopener noreferrer">Master ChatGPT: Essential Tips and Hacks for Coders</a></p><p class="youtube-embed-meta">Channel: Great Learning &middot; Views: 4.5K &middot; Uploaded: July 2024 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JmY8GI5U_pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JmY8GI5U_pI">Open on YouTube</a></p></div></div></div>
 
 ## The debugging paradox
@@ -339,14 +336,13 @@ One reason programming is such an interesting case is that AI can both strengthe
 
 Debugging illustrates this paradox.
 
-When learners paste an error message into ChatGPT and ask what it means, the model often provides explanations that would otherwise require searching documentation, reading forums or consulting a teacher. This can accelerate understanding and reduce frustration. Students frequently report that AI explanations help them move past obstacles that previously caused them to give up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</span></span></span>
+When learners paste an error message into ChatGPT and ask what it means, the model often provides explanations that would otherwise require searching documentation, reading forums or consulting a teacher. This can accelerate understanding and reduce frustration. Students frequently report that AI explanations help them move past obstacles that previously caused them to give up. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</span></span></span>
 
 However, debugging becomes educationally valuable precisely because it forces the learner to reason about cause and effect. If the AI simply identifies the bug and rewrites the code, the learner may never engage with that reasoning process.
 
 The difference is subtle but important:
 
 **Learning-oriented debugging**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -367,7 +363,6 @@ The first pattern builds transferable skill. The second often builds reliance on
 
 This distinction becomes increasingly important as programming tasks grow more complex. Professional software development involves architecture, judgement, trade-offs, testing and maintenance. Those skills depend heavily on understanding systems rather than merely producing snippets of code.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-2-dark.svg" | relative_url }}" alt="False Mastery illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why coding creates a special illusion of mastery
 
@@ -379,10 +374,9 @@ Second, beginners often lack the expertise needed to evaluate generated code. Th
 
 Third, modern models are highly fluent. They explain code confidently, produce plausible reasoning, and present solutions in a way that resembles expert guidance. This can create an impression of understanding even when important gaps remain.
 
-Some studies of programming learners found that students frequently accepted AI-generated explanations and code despite inaccuracies. The danger is not only factual error. It is misplaced trust. A learner who believes they understand may stop asking questions before genuine comprehension has formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateA rapid review of literature amid the rise of generative AI...7 Mar 2025 — This study examines the impact of an AI programmi...</span></span></span>
+Some studies of programming learners found that students frequently accepted AI-generated explanations and code despite inaccuracies. The danger is not only factual error. It is misplaced trust. A learner who believes they understand may stop asking questions before genuine comprehension has formed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A rapid review of literature amid the rise of generative AI...7 Mar 2025 — This study examines the impact of an AI programmi...</span></span></span>
 
 The problem becomes more serious if educational systems reward finished outputs rather than demonstrated reasoning. If assignments can be completed largely through AI assistance, grades may become weaker indicators of actual programming ability. Universities are already confronting this challenge as AI-generated submissions become increasingly difficult to distinguish from human work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Researchers fool university markers with AI-generated exam papers</span><span class="citation-popover-snippet">Out of 33 AI-generated submissions, only one was flagged, and the rest received higher grades compared to real students. This experiment...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jTTN9yZbWsk" title="Learning To Code From ChatGPT Is A HUGE Mistake (Seriously)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jTTN9yZbWsk" target="_blank" rel="noopener noreferrer">Learning To Code From ChatGPT Is A HUGE Mistake (Seriously)</a></p><p class="youtube-embed-meta">Channel: Indently &middot; Views: 5.8K &middot; Uploaded: January 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jTTN9yZbWsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jTTN9yZbWsk">Open on YouTube</a></p></div></div></div>
 
@@ -402,7 +396,6 @@ A tutor can ask the learner to explain their current understanding before reveal
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What do you think this function is doing?
@@ -413,14 +406,12 @@ For example:
 
 These prompts force retrieval and reflection rather than passive consumption.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-3-dark.svg" | relative_url }}" alt="False Mastery illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reveal solutions gradually
 
 Educational research has long found value in scaffolding: providing support while keeping the learner engaged.
 
 In coding, this may mean:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -441,7 +432,6 @@ AI tutors can strengthen understanding by asking learners to trace execution, pr
 
 This shifts attention from production alone to comprehension.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1u-gQ-d5Lv8" title="Thoughts on the use of Artificial Intelligence in Programming Courses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1u-gQ-d5Lv8" target="_blank" rel="noopener noreferrer">Thoughts on the use of Artificial Intelligence in Programming Courses</a></p><p class="youtube-embed-meta">Channel: Chuck Severance &middot; Views: 21.3K &middot; Uploaded: April 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1u-gQ-d5Lv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1u-gQ-d5Lv8">Open on YouTube</a></p></div></div></div>
 
 ### Test without assistance
@@ -449,7 +439,6 @@ This shifts attention from production alone to comprehension.
 One of the clearest ways to detect false mastery is to remove the tool periodically.
 
 Can the learner:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -466,11 +455,11 @@ If not, apparent progress may be masking dependency.
 
 Programming education offers a microcosm of a broader question running through the AI bloom debate.
 
-The optimistic vision is not merely that AI performs intellectual work on behalf of humans. It is that AI helps more humans develop intellectual capability themselves. A world where billions of people can learn technical skills faster, receive personalised tutoring, and participate in [scientific]({{ 'discovery/' | relative_url }}) and technological creation would represent a genuine expansion of human potential.
+The optimistic vision is not merely that AI performs intellectual work on behalf of humans. It is that AI helps more humans develop intellectual capability themselves. A world where billions of people can learn technical skills faster, receive personalised tutoring, and participate in scientific and technological creation would represent a genuine expansion of human potential.
 
 But abundance of answers is not the same as abundance of understanding.
 
-If AI systems increasingly perform the [cognitive]({{ 'broad-access/' | relative_url }}) work that education is meant to cultivate, societies may produce more outputs without producing correspondingly more expertise. The risk is not that people become incapable overnight. It is that deep competence grows more slowly than surface performance.
+If AI systems increasingly perform the cognitive work that education is meant to cultivate, societies may produce more outputs without producing correspondingly more expertise. The risk is not that people become incapable overnight. It is that deep competence grows more slowly than surface performance.
 
 Programming is one of the first domains where this tension can be observed directly. Learners can now build projects that would previously have been beyond their reach. Some use that leverage to learn faster and attempt harder challenges. Others use it to bypass learning entirely.
 
@@ -490,31 +479,14 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
-        
-        <p class="fr-book-desc">Places AI tutoring within the wider shift toward everyday human-AI collaboration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Grounds AI tutor design in proven learning principles such as retrieval practice and durable understanding.</p>
+        <p class="fr-book-desc">Explains what tutoring must achieve to create durable learning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -524,16 +496,16 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why Don&#x27;t Students Like School? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DlMlEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why Don&#x27;t Students Like School?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why Don&#x27;t Students Like School?">Why Don&#x27;t Students Like School?</a>
+          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
         </h4>
-        <p class="fr-book-author">By Daniel T. Willingham</p>
+        <p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Explains the cognitive constraints that make maths tutoring more than answer explanation.</p>
+        <p class="fr-book-desc">Covers how people can use AI as a collaborator and coach.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F+by+Daniel+T.+Willingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -541,16 +513,33 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Measure Anything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CBAh4eM-g3AC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How to Measure Anything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Measure Anything">How to Measure Anything</a>
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
         </h4>
-        <p class="fr-book-author">By Douglas W. Hubbard</p>
+        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
         
-        <p class="fr-book-desc">Useful for thinking carefully about what small trials do and do not prove.</p>
+        <p class="fr-book-desc">Practical match for AI tutoring and classroom integration.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Measure+Anything+by+Douglas+W.+Hubbard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
+        </h4>
+        <p class="fr-book-author">By John Hattie</p>
+        
+        <p class="fr-book-desc">Focuses on evidence quality, effect sizes and evaluating what improves learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -558,7 +547,7 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+Don%27t+Students+Like+School%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why Don&#x27;t Students Like School?</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -595,15 +584,15 @@ In that sense, the strongest educational version of AI bloom is not a future whe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz"><img src="{{ '/assets/images/marketplace-covers/2e5a973ba1e8e323ef2b.jpg' | relative_url }}" alt="Listing image for personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matata Studio VinciBot Classroom Set Programmable Coding Robot Kit 6pcs Age 8+"><img src="https://i.ebayimg.com/images/g/vtgAAeSwTbVqKggx/s-l225.jpg" alt="Listing image for Matata Studio VinciBot Classroom Set Programmable Coding Robot Kit 6pcs Age 8+" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">personalised Thank you Teacher mugs 7 choices Name Tea Coffee Mug White 11Oz</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Matata Studio VinciBot Classroom Set Programmable Coding Robot Kit 6pcs Age 8+</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,15 +600,15 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wholesale Pack Of 10 ‘Best teacher Ever’ Mugs End If Term Gift"><img src="{{ '/assets/images/marketplace-covers/b01706e1b635a3465a85.jpg' | relative_url }}" alt="Listing image for Wholesale Pack Of 10 ‘Best teacher Ever’ Mugs End If Term Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build"><img src="https://i.ebayimg.com/images/g/~TUAAeSw1-Npqrce/s-l225.jpg" alt="Listing image for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Wholesale Pack Of 10 ‘Best teacher Ever’ Mugs End If Term Gift</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -627,15 +616,15 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Teacher Mug –“This Is What an Awesome Teacher Looks Like” Coffee Cup 11oz"><img src="{{ '/assets/images/marketplace-covers/6b3c3e1c58c4a24871a7.jpg' | relative_url }}" alt="Listing image for Funny Teacher Mug –“This Is What an Awesome Teacher Looks Like” Coffee Cup 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c"><img src="https://i.ebayimg.com/images/g/LzYAAeSwMcVpt-Dm/s-l225.jpg" alt="Listing image for Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Funny Teacher Mug –“This Is What an Awesome Teacher Looks Like” Coffee Cup 11oz</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot2: STEM Education Coding Robot Kit for AI Learning + FREE Online c</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -643,15 +632,15 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Thank you Best Mrs Mr Teacher Personalise Tea Coffee Mug Ceramic White 11Oz"><img src="{{ '/assets/images/marketplace-covers/78254229b86f8361f241.jpg' | relative_url }}" alt="Listing image for Thank you Best Mrs Mr Teacher Personalise Tea Coffee Mug Ceramic White 11Oz" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy"><img src="https://i.ebayimg.com/images/g/~YwAAeSwJr1pYOv1/s-l225.jpg" alt="Listing image for Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">Thank you Best Mrs Mr Teacher Personalise Tea Coffee Mug Ceramic White 11Oz</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Coding Robot Scratch Jr 200-in-1 Kit | Birthday Gift Kids 6+ Building Block Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for teacher mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: teacher mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -659,7 +648,7 @@ In that sense, the strongest educational version of AI bloom is not a future whe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=teacher+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="teacher mug" data-ebay-reference="false-mastery-does-chat-gpt-help-coders-learn-or-coast-ai-bloom-abundance-superintelligence-and-teacher-mug" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-chatgpt-help-coders-learn-or-coast-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="does-chatgpt-help-coders-learn-or-coast-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -874,131 +863,131 @@ In that sense, the strongest educational version of AI bloom is not a future whe
 
 1. <a id="endnote-1"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2422633122](https://www.pnas.org/doi/10.1073/pnas.2422633122)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2422633122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2422633122</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI without guardrails can harm learningby H Bastani · 2025 · Cited by 191 — Without guardrails, students attempt to use GPT-4...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2409.09047v1](https://arxiv.org/html/2409.09047v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</p></details>
+   Link: <a href="https://arxiv.org/html/2409.09047v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.09047v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Students&#x27; Use of ChatGPT Affects their Learning29 Aug 2024 — In this paper, we study how generative AI and specifically large la...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: microsoft.com  
    Title: learning outcomes with genai in the classroom a review of empirical evidence  
-   Link: [https://www.microsoft.com/en-us/research/publication/learning-outcomes-with-genai-in-the-classroom-a-review-of-empirical-evidence/](https://www.microsoft.com/en-us/research/publication/learning-outcomes-with-genai-in-the-classroom-a-review-of-empirical-evidence/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/publication/learning-outcomes-with-genai-in-the-classroom-a-review-of-empirical-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/learning-outcomes-with-genai-in-the-classroom-a-review-of-empirical-evidence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning outcomes with GenAI in the classroom: A review...1 Oct 2025 — This report presents a review of recent empirical evidence of gen...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2501.10091v2](https://arxiv.org/html/2501.10091v2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow Do Programming Students Use Generative AI?21 Feb 2025 — We conducted a study including an exploratory experiment with 37 program...</p></details>
+   Link: <a href="https://arxiv.org/html/2501.10091v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.10091v2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Programming Students Use Generative AI?21 Feb 2025 — We conducted a study including an exploratory experiment with 37 program...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666920X24000936](https://www.sciencedirect.com/science/article/pii/S2666920X24000936)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666920X24000936" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X24000936</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI chatbots in programming education: Students&#x27; use in a...by S Groothuijsen · 2024 · Cited by 115 — Results show that stud...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: manuelgarcia.info  
    Title: Manuel B  
-   Link: [https://manuelgarcia.info/publication/chatgpt-programming-education](https://manuelgarcia.info/publication/chatgpt-programming-education)  
+   Link: <a href="https://manuelgarcia.info/publication/chatgpt-programming-education" target="_blank" rel="noopener noreferrer nofollow">https://manuelgarcia.info/publication/chatgpt-programming-education</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>GarciaTeaching and Learning Computer Programming Using...The emergence of generative AI tools like ChatGPT has sparked investigations in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4895486</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Without Guardrails Can Harm Learningby H Bastani · 2024 · Cited by 367 — Without guardrails, students attempt to use GPT-4 as a “crutc...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2511.13271](https://arxiv.org/abs/2511.13271)  
+   Link: <a href="https://arxiv.org/abs/2511.13271" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.13271</a>  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies](https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateA rapid review of literature amid the rise of generative AI...7 Mar 2025 — This study examines the impact of an AI programmi...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389490343_Teaching_and_learning_computer_programming_using_ChatGPT_A_rapid_review_of_literature_amid_the_rise_of_generative_AI_technologies</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A rapid review of literature amid the rise of generative AI...7 Mar 2025 — This study examines the impact of an AI programmi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2511.04144](https://arxiv.org/abs/2511.04144)  
+   Link: <a href="https://arxiv.org/abs/2511.04144" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.04144</a>  
 
 11. <a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/374942695_ChatGPT_impacts_in_programming_education_A_recent_literature_overview_that_debates_ChatGPT_responses](https://www.researchgate.net/publication/374942695_ChatGPT_impacts_in_programming_education_A_recent_literature_overview_that_debates_ChatGPT_responses)  
+   Link: <a href="https://www.researchgate.net/publication/374942695_ChatGPT_impacts_in_programming_education_A_recent_literature_overview_that_debates_ChatGPT_responses" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374942695_ChatGPT_impacts_in_programming_education_A_recent_literature_overview_that_debates_ChatGPT_responses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) ChatGPT impacts in programming educationThis paper aims at a brief overview of the main impact of ChatGPT in the scientific field o...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics](https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics)  
+   Link: <a href="https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393011815_Generative_AI_without_guardrails_can_harm_learning_Evidence_from_high_school_mathematics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Generative AI without guardrails can harm learning4 May 2026 — Without guardrails, students attempt to use GPT-4 as a “crutch” duri...</p></details>
    Published: May 2026  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2501.10091](https://arxiv.org/pdf/2501.10091)  
+   Link: <a href="https://arxiv.org/pdf/2501.10091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2501.10091</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[2023] found ChatGPT able to solve 68% of coding exercises of a functional programming course in the first try, expanding to 86% after fo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: The Guardian Researchers fool university markers with AI-generated exam papers  
-   Link: [https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers](https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers)  
+   Link: <a href="https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/article/2024/jun/26/researchers-fool-university-markers-with-ai-generated-exam-papers</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Out of 33 AI-generated submissions, only one was flagged, and the rest received higher grades compared to real students. This experiment...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai](https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai)  
+   Link: <a href="https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/education/2025/feb/26/uk-universities-warned-to-stress-test-assessments-as-92-of-students-use-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The survey revealed a dramatic increase in AI use over the past year, rising from 66% in 2024 to 92% in 2025. Many students use AI to exp...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8](https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8)  
+   Link: <a href="https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/openai-education-brain-rot-productive-struggle-vibe-coding-chatgpt-study-2025-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>She argued that students must develop AI literacy—from general usage to coding and image creation—since these skills are essential in the...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: chibe.upenn.edu  
-   Link: [https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/](https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/)  
+   Link: <a href="https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/" target="_blank" rel="noopener noreferrer nofollow">https://chibe.upenn.edu/publications/generative-ai-without-guardrails-can-harm-learning-evidence-from-high-school-mathematics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI without guardrails can harm learningThis study tested generative AI tutors, showing that design guardrails, or prompts that...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms](https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms)  
+   Link: <a href="https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/hamsa-bastani-4a346955_generative-ai-without-guardrails-can-harm-activity-7343667696540033025-a1Ms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Out in PNAS today!! | Hamsa BastaniOur research examines the impact of generative AI, specifically GPT-4, on student learning in math edu...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/learnpython/comments/1kztskw/have_ai_tools_like_chatgpt_made_learning_to_code/](https://www.reddit.com/r/learnpython/comments/1kztskw/have_ai_tools_like_chatgpt_made_learning_to_code/)  
+   Link: <a href="https://www.reddit.com/r/learnpython/comments/1kztskw/have_ai_tools_like_chatgpt_made_learning_to_code/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/learnpython/comments/1kztskw/have_ai_tools_like_chatgpt_made_learning_to_code/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have AI tools like ChatGPT made learning to code so much...With ChatGPT, even beginners can learn the fundamentals and basics of almost...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: psypost.org  
    Title: unrestricted generative ai harms high school math learning by acting as a crutch  
-   Link: [https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/](https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/)  
+   Link: <a href="https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/unrestricted-generative-ai-harms-high-school-math-learning-by-acting-as-a-crutch/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unrestricted generative AI harms high school math...21 Apr 2026 — The study, “Generative AI without guardrails can harm learning: Eviden...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JmY8GI5U_pI](https://www.youtube.com/watch?v=JmY8GI5U_pI)  
+   Link: <a href="https://www.youtube.com/watch?v=JmY8GI5U_pI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=JmY8GI5U_pI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Master ChatGPT: Essential Tips and Hacks for CodersBoost your coding skills using ChatGPT with expert guidance. Learn coding, debugging...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: hamsabastani.github.io  
-   Link: [https://hamsabastani.github.io/education_llm.pdf](https://hamsabastani.github.io/education_llm.pdf)  
+   Link: <a href="https://hamsabastani.github.io/education_llm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hamsabastani.github.io/education_llm.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4, on student learning in math education. Through a large-scale field experiment in a high.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: springerprofessional.de  
-   Link: [https://www.springerprofessional.de/en/programming-education-with-chatgpt-outcomes-for-beginners-and-in/50859184](https://www.springerprofessional.de/en/programming-education-with-chatgpt-outcomes-for-beginners-and-in/50859184)  
+   Link: <a href="https://www.springerprofessional.de/en/programming-education-with-chatgpt-outcomes-for-beginners-and-in/50859184" target="_blank" rel="noopener noreferrer nofollow">https://www.springerprofessional.de/en/programming-education-with-chatgpt-outcomes-for-beginners-and-in/50859184</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Programming education with ChatGPT: outcomes for...10 Apr 2025 — Through a detailed analysis of assignments, exams, and expert evaluatio...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: scribd.com  
    Title: Bastani Et Al 2025 GAI Without Guardians Can Harm Learning  
-   Link: [https://www.scribd.com/document/987492680/Bastani-Et-Al-2025-GAI-Without-Guardians-Can-Harm-Learning](https://www.scribd.com/document/987492680/Bastani-Et-Al-2025-GAI-Without-Guardians-Can-Harm-Learning)  
+   Link: <a href="https://www.scribd.com/document/987492680/Bastani-Et-Al-2025-GAI-Without-Guardians-Can-Harm-Learning" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/987492680/Bastani-Et-Al-2025-GAI-Without-Guardians-Can-Harm-Learning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bastani Et Al (2025) GAI Without Guardians Can Harm...A study investigates the impact of generative AI tutors on high school mathematics...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2025PNAS..12222633B/abstract](https://ui.adsabs.harvard.edu/abs/2025PNAS..12222633B/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2025PNAS..12222633B/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2025PNAS..12222633B/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI without guardrails can harm learningby H Bastani · 2025 · Cited by 187 — Our research examines the impact of generative AI, specifical...</p></details>

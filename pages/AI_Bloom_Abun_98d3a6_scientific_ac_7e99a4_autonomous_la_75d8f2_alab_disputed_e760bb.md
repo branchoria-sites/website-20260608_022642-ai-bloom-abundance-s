@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /robot-labs/
 nav_short_title: A Lab dispute
 title: Did A Lab really discover new materials?
-title_full: Did A Lab really discover new materials? | Robot labs
+title_full: Did A Lab really discover new materials?
 display_title_short: A Lab dispute
 display_title: A Lab dispute
 heading_title: Did A Lab really discover new materials?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When robot labs meet reality | Discovery
+date: '2026-06-08 02:14:31'
+parent_title: When robot labs meet reality
 parent_permalink: /robot-labs/
 parent_nav_short_title: Robot labs
 parent_heading_title: When robot labs meet reality
@@ -260,7 +261,6 @@ next_link:
   permalink: /closed-loop/
   short_title: Closed loop
   heading_title: How robot labs learn what to test next
-date: '2026-06-08 02:14:31 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-1.webp
@@ -269,21 +269,20 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75
 
 ## Introduction
 
-The A-Lab project was presented as a glimpse of a future in which AI-guided laboratories could dramatically accelerate [scientific]({{ 'discovery/' | relative_url }}) [discovery]({{ 'discovery/' | relative_url }}). In a 2023 *Nature* paper, researchers described an autonomous system that generated synthesis recipes, operated laboratory equipment, analysed results and reported the successful production of dozens of inorganic materials in just over two weeks. For supporters of AI-driven science, it looked like evidence that discovery itself might become far faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
-
+The A-Lab project was presented as a glimpse of a future in which AI-guided laboratories could dramatically accelerate scientific [discovery]({{ 'discovery/' | relative_url }}). In a 2023 *Nature* paper, researchers described an autonomous system that generated synthesis recipes, operated laboratory equipment, analysed results and reported the successful production of dozens of inorganic materials in just over two weeks. For supporters of AI-driven science, it looked like evidence that discovery itself might become far faster. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-1-dark.svg" | relative_url }}" alt="A Lab dispute illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The dispute began when materials scientists asked a more specific question: were these actually new materials? Critics argued that many of the reported compounds were already known, had previously appeared in scientific databases, or had not been demonstrated with the level of evidence normally required to establish the creation of a genuinely new material. The argument became important far beyond a single paper because it exposed a central problem for autonomous science. Producing candidate results is one thing. Proving discovery is another. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</span></span></span>
 
 ## What A-Lab claimed to achieve
 
-The A-Lab system, developed by researchers associated with Lawrence Berkeley National Laboratory and collaborators, combined machine learning, materials databases, literature-derived synthesis planning, [robotics]({{ 'robotics/' | relative_url }}) and automated X-ray diffraction analysis. The laboratory was designed to run a closed-loop discovery process with minimal human intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureRobot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
+The A-Lab system, developed by researchers associated with Lawrence Berkeley National Laboratory and collaborators, combined machine learning, materials databases, literature-derived synthesis planning, [robotics]({{ 'robotics/' | relative_url }}) and automated X-ray diffraction analysis. The laboratory was designed to run a closed-loop discovery process with minimal human intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
 
 The headline numbers attracted attention. The paper reported that the laboratory operated continuously for 17 days and successfully synthesised 41 target materials from a set of 58 candidates. Many of the targets had been proposed through computational materials discovery efforts connected to the Materials Project and related AI systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-023-31953-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">While novelty preferences have been well-studied.Read more...</span></span></span>
 
-At a time when [AI materials]({{ 'lab-test/' | relative_url }}) projects were making increasingly ambitious claims about discovering huge numbers of potentially useful compounds, A-Lab appeared to solve a major bottleneck. Predicting a material on a computer is much easier than making it in the real world. The project therefore seemed to demonstrate a path from AI prediction to physical realisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span>
+At a time when AI materials projects were making increasingly ambitious claims about discovering huge numbers of potentially useful compounds, A-Lab appeared to solve a major bottleneck. Predicting a material on a computer is much easier than making it in the real world. The project therefore seemed to demonstrate a path from AI prediction to physical realisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span>
 
-The public interpretation quickly expanded beyond the paper itself. Headlines and commentary often framed the result as evidence that autonomous systems were beginning to discover entirely new materials with limited human involvement. That framing helped turn A-Lab into a symbol of accelerated AI-driven science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
+The public interpretation quickly expanded beyond the paper itself. Headlines and commentary often framed the result as evidence that autonomous systems were beginning to discover entirely new materials with limited human involvement. That framing helped turn A-Lab into a symbol of accelerated AI-driven science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
 
 ## Why critics challenged the novelty claims
 
@@ -295,8 +294,7 @@ A second criticism concerned [verification]({{ 'verification/' | relative_url }}
 
 The dispute became especially visible because some researchers conducted detailed reviews of the reported compounds. According to analyses published after the paper, many of the claimed successes appeared to involve materials that were already known, incompletely characterised or insufficiently demonstrated as distinct new phases. One influential critique concluded that there was little evidence for compounds satisfying the combination of novelty, credibility and usefulness implied by some interpretations of the work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCArtificial Intelligence Driving Materials Discovery?</span><span class="citation-popover-snippet">AK Cheetham · 2024 · Cited by 169 — We examine the claims of this work here, unfortunately finding scant evidence for c...</span></span></span>
 
-This was not merely a disagreement about wording. The difference between "a robot successfully followed a synthesis pathway" and "a robot discovered a new material" is scientifically significant. Discovery claims carry a higher evidential burden because they imply an expansion of knowledge rather than the automation of an existing process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureRobot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
-
+This was not merely a disagreement about wording. The difference between "a robot successfully followed a synthesis pathway" and "a robot discovered a new material" is scientifically significant. Discovery claims carry a higher evidential burden because they imply an expansion of knowledge rather than the automation of an existing process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/961VIyGliH4" title="Jens Hauch - From automated materials research to autonomous materials discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=961VIyGliH4" target="_blank" rel="noopener noreferrer">Jens Hauch - From automated materials research to autonomous materials discovery</a></p><p class="youtube-embed-meta">Channel: i-MEET Lab &middot; Views: 341 &middot; Uploaded: February 2023 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=961VIyGliH4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=961VIyGliH4">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +321,6 @@ Around the same time, Google's DeepMind and collaborators announced GNoME, a sys
 
 The problem is that materials science contains multiple stages:
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-2-dark.svg" | relative_url }}" alt="A Lab dispute illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -346,10 +343,9 @@ For the broader AI bloom discussion, this distinction matters because many forec
 
 One lesson is that science is not only information processing.
 
-AI systems can search enormous spaces of possibilities, identify patterns and generate promising hypotheses. But in fields such as chemistry and materials science, reality ultimately decides whether a proposed discovery exists. Instruments, replication studies and independent verification remain essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05890v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAutomating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</span></span></span>
+AI systems can search enormous spaces of possibilities, identify patterns and generate promising hypotheses. But in fields such as chemistry and materials science, reality ultimately decides whether a proposed discovery exists. Instruments, replication studies and independent verification remain essential. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05890v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</span></span></span>
 
 The A-Lab debate showed that automating laboratory work does not remove the need for traditional scientific standards. If anything, those standards become more important when machines can generate large numbers of claims quickly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/a3Y0Z-6tGAM" title="Materialism Podcast Ep 71: Automating Materials Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=a3Y0Z-6tGAM" target="_blank" rel="noopener noreferrer">Materialism Podcast Ep 71: Automating Materials Discovery</a></p><p class="youtube-embed-meta">Channel: Taylor Sparks &middot; Views: 698 &middot; Uploaded: August 2023 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=a3Y0Z-6tGAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=a3Y0Z-6tGAM">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +354,6 @@ The A-Lab debate showed that automating laboratory work does not remove the need
 Another lesson concerns incentives and measurement.
 
 Large numbers are attractive. Reporting dozens of synthesised materials or hundreds of thousands of predicted candidates creates a powerful impression of rapid progress. But raw counts can obscure the harder questions:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -371,17 +366,15 @@ Large numbers are attractive. Reporting dozens of synthesised materials or hundr
 
 The controversy pushed researchers to distinguish more carefully between candidate generation, synthesis attempts and validated discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCArtificial Intelligence Driving Materials Discovery?</span><span class="citation-popover-snippet">AK Cheetham · 2024 · Cited by 169 — We examine the claims of this work here, unfortunately finding scant evidence for c...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8XMoXH7qSms" title="Google&#x27;s New AI &quot;GNoME&quot; Discovered Millions Of New Materials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8XMoXH7qSms" target="_blank" rel="noopener noreferrer">Google&#x27;s New AI &quot;GNoME&quot; Discovered Millions Of New Materials</a></p><p class="youtube-embed-meta">Channel: AI Matrix &middot; Views: 1.3K &middot; Uploaded: February 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8XMoXH7qSms" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8XMoXH7qSms">Open on YouTube</a></p></div></div></div>
 
 ### Autonomous labs may still be valuable
 
 Importantly, the criticism did not show that autonomous laboratories are useless.
 
-Many researchers who questioned the novelty claims still viewed laboratory automation as a promising direction. Faster experimentation, continuous operation and machine-guided search could substantially improve research productivity even if early claims proved overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</span></span></span>
+Many researchers who questioned the novelty claims still viewed laboratory automation as a promising direction. Faster experimentation, continuous operation and machine-guided search could substantially improve research productivity even if early claims proved overstated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</span></span></span>
 
 The debate was therefore less about whether autonomous labs matter and more about how success should be measured. A laboratory that helps scientists eliminate dead ends, optimise synthesis routes or generate higher-quality experimental data may still accelerate science without having independently "discovered" large numbers of new materials.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-3-dark.svg" | relative_url }}" alt="A Lab dispute illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_alab_disputed_e760bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What A-Lab revealed about the proof problem
@@ -390,7 +383,7 @@ The lasting significance of the A-Lab dispute is that it exposed a recurring cha
 
 An autonomous system may generate hypotheses, run experiments and produce plausible-looking results at unprecedented speed. Yet scientific knowledge depends on something more demanding than output volume. Claims must survive scrutiny, replication and alternative explanations. The harder the claim, the stronger the evidence required.
 
-That is why the A-Lab argument became a useful case study within debates about scientific acceleration and AI abundance. If advanced AI eventually helps humanity discover new medicines, materials, energy systems or [longevity]({{ 'longevity/' | relative_url }}) treatments far faster than before, society will still need reliable methods for distinguishing genuine breakthroughs from merely promising signals. The future of automated science may depend not only on building machines that can discover faster, but also on building institutions and verification systems that can prove what has actually been discovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05890v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAutomating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</span></span></span>
+That is why the A-Lab argument became a useful case study within debates about scientific acceleration and AI abundance. If advanced AI eventually helps humanity discover new medicines, materials, [energy]({{ 'energy/' | relative_url }}) systems or [longevity]({{ 'longevity/' | relative_url }}) treatments far faster than before, society will still need reliable methods for distinguishing genuine breakthroughs from merely promising signals. The future of automated science may depend not only on building machines that can discover faster, but also on building institutions and verification systems that can prove what has actually been discovered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2409.05890v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Automating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -788,123 +781,123 @@ That is why the A-Lab argument became a useful case study within debates about s
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: [https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them)  
+   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-03956-w](https://www.nature.com/articles/d41586-023-03956-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureRobot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</p></details>
+   Link: <a href="https://www.nature.com/articles/d41586-023-03956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03956-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robot chemist sparks row with claim it created new materials12 Dec 2023 — Researchers question whether an AI-controlled lab assista...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCArtificial Intelligence Driving Materials Discovery?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AK Cheetham · 2024 · Cited by 169 — We examine the claims of this work here, unfortunately finding scant evidence for c...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238524003229](https://www.sciencedirect.com/science/article/pii/S2590238524003229)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 83 — Self-driving labs (SDLs) have em...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2409.05890v1](https://arxiv.org/html/2409.05890v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutomating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</p></details>
+   Link: <a href="https://arxiv.org/html/2409.05890v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.05890v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating the Practice of Science23 Aug 2024 — This article evaluates the scope of automation within scientific practice and assess...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-023-31953-6](https://www.nature.com/articles/s41598-023-31953-6)  
+   Link: <a href="https://www.nature.com/articles/s41598-023-31953-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-023-31953-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While novelty preferences have been well-studied.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2444569X24001690](https://www.sciencedirect.com/science/article/pii/S2444569X24001690)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2444569X24001690" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2444569X24001690</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the impact of generative artificial intelligence...by AS Al-Busaidi · 2024 · Cited by 76 — This study, using a multi-persp...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: chemistryworld.com  
-   Link: [https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article](https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article)  
+   Link: <a href="https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/new-analysis-raises-doubts-over-autonomous-labs-materials-discoveries/4018791.article</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry WorldNew analysis raises doubts over autonomous lab&#x27;s...16 Jan 2024 — A critique of a paper published in Nature last year, whi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.org  
    Title: whoa now cautionary tales materials science  
-   Link: [https://www.science.org/content/blog-post/whoa-now-cautionary-tales-materials-science](https://www.science.org/content/blog-post/whoa-now-cautionary-tales-materials-science)  
+   Link: <a href="https://www.science.org/content/blog-post/whoa-now-cautionary-tales-materials-science" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/blog-post/whoa-now-cautionary-tales-materials-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Whoa Now: Cautionary Tales from Materials Science22 May 2025 — Here&#x27;s a paper from a group at Ottawa looking at the metal-organic framewo...</p></details>
    Published: May 2025  
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
    Title: last year a paper published in nature reported the discovery of over 40 novel ma  
-   Link: [https://www.facebook.com/ChemistryWorld/posts/last-year-a-paper-published-in-nature-reported-the-discovery-of-over-40-novel-ma/779836674188165/](https://www.facebook.com/ChemistryWorld/posts/last-year-a-paper-published-in-nature-reported-the-discovery-of-over-40-novel-ma/779836674188165/)  
+   Link: <a href="https://www.facebook.com/ChemistryWorld/posts/last-year-a-paper-published-in-nature-reported-the-discovery-of-over-40-novel-ma/779836674188165/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChemistryWorld/posts/last-year-a-paper-published-in-nature-reported-the-discovery-of-over-40-novel-ma/779836674188165/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry World16 Jan 2024 — Last year a paper published in Nature reported the discovery of over 40 novel materials using A-lab, an auto...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: natureconservation.pensoft.net  
-   Link: [https://natureconservation.pensoft.net/about](https://natureconservation.pensoft.net/about)  
+   Link: <a href="https://natureconservation.pensoft.net/about" target="_blank" rel="noopener noreferrer nofollow">https://natureconservation.pensoft.net/about</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature Conservation - Pensoft PublishersNature Conservation is a peer-reviewed, open access, rapidly published online journal covering al...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials](https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials)  
+   Link: <a href="https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399899062_Author_Correction_An_autonomous_laboratory_for_the_accelerated_synthesis_of_inorganic_materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Author Correction: An autonomous laboratory for the...19 Jan 2026 — An autonomous laboratory for the accelerated synthesis of inor...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: 404media.co  
    Title: google says it discovered millions of new materials with ai human researchers  
-   Link: [https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/](https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/)  
+   Link: <a href="https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/" target="_blank" rel="noopener noreferrer nofollow">https://www.404media.co/google-says-it-discovered-millions-of-new-materials-with-ai-human-researchers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Is Google&#x27;s AI Actually Discovering &#x27;Millions of New...11 Apr 2024 — “AI tool GNoME finds 2.2 million new crystals, including 380,000 st...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Jens Hauch  
-   Link: [https://www.youtube.com/watch?v=961VIyGliH4](https://www.youtube.com/watch?v=961VIyGliH4)  
+   Link: <a href="https://www.youtube.com/watch?v=961VIyGliH4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=961VIyGliH4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI TAKES NO BREAKS: CRAZY WEEK IN AI | Sam Altman Confirms Q*| Musk on AGI [Weekly AI News] AI_Snippets · 1.2K views...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: theregister.com  
    Title: novel ai made materials not actually new study  
-   Link: [https://www.theregister.com/offbeat/2024/01/31/novel-ai-made-materials-not-actually-new-study/956058](https://www.theregister.com/offbeat/2024/01/31/novel-ai-made-materials-not-actually-new-study/956058)  
+   Link: <a href="https://www.theregister.com/offbeat/2024/01/31/novel-ai-made-materials-not-actually-new-study/956058" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2024/01/31/novel-ai-made-materials-not-actually-new-study/956058</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Novel&#x27; AI-made materials not actually new – study31 Jan 2024 — Over 17 days, according to the published study, the lab&#x27;s robotic arm mad...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: springernature.com  
    Title: Editorial policies  
-   Link: [https://www.springernature.com/gp/policies/editorial-policies](https://www.springernature.com/gp/policies/editorial-policies)  
+   Link: <a href="https://www.springernature.com/gp/policies/editorial-policies" target="_blank" rel="noopener noreferrer nofollow">https://www.springernature.com/gp/policies/editorial-policies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer NatureThese policies underpin our commitment as a leading research publisher to editorial independence and supporting research e...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/reviewer2/posts/10161405566865469/](https://www.facebook.com/groups/reviewer2/posts/10161405566865469/)  
+   Link: <a href="https://www.facebook.com/groups/reviewer2/posts/10161405566865469/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/reviewer2/posts/10161405566865469/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rial that our workplace didn&#x27;t end up permitting us to use.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: scientificadvice.eu  
    Title: advanced materials evidence review report  
-   Link: [https://scientificadvice.eu/scientific-outputs/advanced-materials-evidence-review-report/](https://scientificadvice.eu/scientific-outputs/advanced-materials-evidence-review-report/)  
+   Link: <a href="https://scientificadvice.eu/scientific-outputs/advanced-materials-evidence-review-report/" target="_blank" rel="noopener noreferrer nofollow">https://scientificadvice.eu/scientific-outputs/advanced-materials-evidence-review-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Materials: Evidence Review Reportby A Weidenkaff · 2026 — The report showcases numerous exciting research areas in biomaterials...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376473501_Robot_chemist_sparks_row_with_claim_it_created_new_materials](https://www.researchgate.net/publication/376473501_Robot_chemist_sparks_row_with_claim_it_created_new_materials)  
+   Link: <a href="https://www.researchgate.net/publication/376473501_Robot_chemist_sparks_row_with_claim_it_created_new_materials" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376473501_Robot_chemist_sparks_row_with_claim_it_created_new_materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since we raised issues in the paper shortly after...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thebsdetector.substack.com  
    Title: ai materials and fraud oh my  
-   Link: [https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my](https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my)  
+   Link: <a href="https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my" target="_blank" rel="noopener noreferrer nofollow">https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>by Ben - The BS DetectorThe article analyzes data from a randomized trial of over one thousand materials researchers at the R&amp;D lab of a...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AK Cheetham · 2024 · Cited by 166 — A Laboratory for the Accelerated Synthesis of Novel Materials. Nature 2023, 624, 86...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-civilisationa/
 description: Focused pages that expand on Conflict AI.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82
-parent_title: Conflict AI | Resilience
+parent_title: Conflict AI
 parent_nav_short_title: Conflict AI
 parent_permalink: /conflict-ai/
 ---

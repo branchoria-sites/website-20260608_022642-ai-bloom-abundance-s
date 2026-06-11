@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /broad-access/
 nav_short_title: AI divide
 title: Why access alone will not close the AI divide
-title_full: Why access alone will not close the AI divide | Broad Access
+title_full: Why access alone will not close the AI divide
 display_title_short: AI divide
 display_title: AI divide
 heading_title: Why access alone will not close the AI divide
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets Access to Abundant Intelligence? | Intelligence
+date: '2026-06-08 01:52:40'
+parent_title: Who Gets Access to Abundant Intelligence?
 parent_permalink: /broad-access/
 parent_nav_short_title: Broad Access
 parent_heading_title: Who Gets Access to Abundant Intelligence?
@@ -260,7 +261,6 @@ next_link:
   permalink: /compute-control/
   short_title: Compute control
   heading_title: Who gets to own abundant intelligence?
-date: '2026-06-08 01:52:40 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-1.webp
@@ -269,13 +269,12 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b
 
 ## Introduction
 
-If advanced AI eventually becomes a major source of [education]({{ 'education/' | relative_url }}), expertise, planning help and [scientific]({{ 'discovery/' | relative_url }}) insight, then the key question is not simply who can log in to a chatbot. The deeper question is who can actually convert AI into real capability.
-
+If advanced AI eventually becomes a major source of [education]({{ 'education/' | relative_url }}), expertise, planning help and scientific insight, then the key question is not simply who can log in to a chatbot. The deeper question is who can actually convert AI into real capability.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-1-dark.svg" | relative_url }}" alt="AI divide illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The history of technology suggests that access alone rarely closes gaps. A school can have computers without producing digital literacy. A village can have internet coverage without gaining high-value online jobs. A company can buy AI software without becoming more productive. The same pattern is emerging with generative AI. People, organisations and countries differ not only in whether they possess AI tools, but in whether they have the language support, connectivity, training, [institutional]({{ 'institutional-gaps/' | relative_url }}) capacity and social trust needed to use those tools well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOAI literacy and the new Digital Divide - A Global Call for...6 Aug 2024 — The rapid advancements in artificial intelligence (AI) h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-title">dptr2025 ai foundations</span><span class="citation-popover-snippet">World BankDigital Progress and Trends Report 2025: AI FoundationsThe World Bank&#x27;s Digital Progress and Trends 2025 report explores how AI...</span></span></span>
+The history of technology suggests that access alone rarely closes gaps. A school can have computers without producing digital literacy. A village can have internet coverage without gaining high-value online jobs. A company can buy AI software without becoming more productive. The same pattern is emerging with generative AI. People, organisations and countries differ not only in whether they possess AI tools, but in whether they have the language support, connectivity, training, institutional capacity and social trust needed to use those tools well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">AI literacy and the new Digital Divide - A Global Call for...6 Aug 2024 — The rapid advancements in artificial intelligence (AI) h...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-title">dptr2025 ai foundations</span><span class="citation-popover-snippet">World BankDigital Progress and Trends Report 2025: AI FoundationsThe World Bank&#x27;s Digital Progress and Trends 2025 report explores how AI...</span></span></span>
 
-This matters for the broader idea of AI-enabled human flourishing. The optimistic vision is that advanced AI could make high-level [cognitive]({{ 'broad-access/' | relative_url }}) assistance widely available, helping billions of people learn faster, solve problems more effectively and participate in scientific, economic and cultural progress. But if the supporting infrastructure for using AI remains uneven, the benefits may concentrate among already advantaged populations while others receive only limited gains. The AI divide may therefore become less about access to software and more about access to the conditions that make software useful.
+This matters for the broader idea of AI-enabled human flourishing. The optimistic vision is that advanced AI could make high-level cognitive assistance widely available, helping billions of people learn faster, solve problems more effectively and participate in scientific, economic and cultural progress. But if the supporting infrastructure for using AI remains uneven, the benefits may concentrate among already advantaged populations while others receive only limited gains. The AI divide may therefore become less about access to software and more about access to the conditions that make software useful.
 
 ## The layers of unequal AI benefit
 
@@ -283,9 +282,9 @@ Public discussion often treats the AI divide as a simple binary: some people hav
 
 The first layer is basic access. People need devices, connectivity and affordable services. This remains a significant challenge in many regions, particularly where internet access is unreliable or expensive. The World Bank argues that many lower-income countries still face substantial barriers in digital infrastructure and AI readiness despite growing interest in AI adoption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldbank.org</span><span class="citation-popover-title">dptr2025 ai foundations</span><span class="citation-popover-snippet">World BankDigital Progress and Trends Report 2025: AI FoundationsThe World Bank&#x27;s Digital Progress and Trends 2025 report explores how AI...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">WorldThe world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptu...</span></span></span>
 
-The second layer is usability. Having access to a system does not mean understanding how to use it. Effective AI use often depends on skills such as formulating questions, evaluating outputs, checking sources, identifying mistakes and integrating AI assistance into real workflows. UNESCO has increasingly framed AI literacy as a central challenge, arguing that unequal understanding of AI can create a new form of digital exclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">UNESCOGuidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</span></span></span>
+The second layer is usability. Having access to a system does not mean understanding how to use it. Effective AI use often depends on skills such as formulating questions, evaluating outputs, checking sources, identifying mistakes and integrating AI assistance into real workflows. UNESCO has increasingly framed AI literacy as a central challenge, arguing that unequal understanding of AI can create a new form of digital exclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">guidance generative ai education and research</span><span class="citation-popover-snippet">Guidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</span></span></span>
 
-The third layer is institutional support. Schools, businesses, hospitals, local governments and community organisations all influence whether AI becomes genuinely useful. A teacher trained to integrate AI into lessons can produce very different outcomes from a school where students are left to experiment without guidance. Likewise, a small business with AI training, management support and reliable digital systems may gain much more from the same tools than a business that lacks those foundations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOAI and technologies in educationUNESCO partners with countries and institutions on ideas, research, and evidence-informed digital l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">launches global roadmap multilingualism digital era</span><span class="citation-popover-snippet">Unveiled during the solutions session “Safeguarding Languages, Empowering...Read more...</span></span></span>
+The third layer is institutional support. Schools, businesses, hospitals, local governments and community organisations all influence whether AI becomes genuinely useful. A teacher trained to integrate AI into lessons can produce very different outcomes from a school where students are left to experiment without guidance. Likewise, a small business with AI training, management support and reliable digital systems may gain much more from the same tools than a business that lacks those foundations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/digital-education" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">AI and technologies in educationUNESCO partners with countries and institutions on ideas, research, and evidence-informed digital l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-title">launches global roadmap multilingualism digital era</span><span class="citation-popover-snippet">Unveiled during the solutions session “Safeguarding Languages, Empowering...Read more...</span></span></span>
 
 The fourth layer is strategic use. Some individuals and institutions learn how to use AI not merely as a convenience tool but as a force multiplier. They employ it for research, software development, scientific analysis, planning and decision support. As these higher-value uses spread unevenly, the productivity gap between advanced users and basic users may grow substantially. OpenAI's own analysis has argued that differences in institutional readiness and capability use are becoming as important as differences in formal access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">While 66% of leaders prioritize AI skills development, only 33% of employees report receiving AI-related training. Misalignment between e...</span></span></span>
 
@@ -307,14 +306,13 @@ The problem extends beyond translation. AI systems also reflect the assumptions,
 
 As AI becomes more deeply embedded in education, administration and knowledge work, language support may become a form of cognitive infrastructure. Societies whose languages are well represented in AI systems could gain easier access to knowledge and expertise, while poorly represented communities risk a new form of digital marginalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courier.unesco.org/en/articles/african-languages-blind-spot-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courier.unesco.org">[UNESCO Courier]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courier.unesco.org</span><span class="citation-popover-snippet">UNESCO CourierAfrican languages, the blind spot of AI4 days ago — This initiative aimed to use AI to translate academic texts into local...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nLLMqF8bKyM" title="How can we fix the AI divide? | Global Stage at the UN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nLLMqF8bKyM" target="_blank" rel="noopener noreferrer">How can we fix the AI divide? | Global Stage at the UN</a></p><p class="youtube-embed-meta">Channel: GZERO Media &middot; Views: 314.9K &middot; Uploaded: March 2026 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nLLMqF8bKyM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nLLMqF8bKyM">Open on YouTube</a></p></div></div></div>
 
 ## Connectivity still matters more than many AI forecasts assume
 
 Some visions of AI abundance focus on increasingly powerful models while paying less attention to the physical systems that allow people to use them.
 
-Yet advanced AI depends on electricity, telecommunications networks, [data centres]({{ 'power-demand/' | relative_url }}), cloud services and digital devices. The benefits of [frontier AI]({{ 'safety-frameworks/' | relative_url }}) cannot easily reach communities lacking these foundations.
+Yet advanced AI depends on electricity, telecommunications networks, data centres, cloud services and digital devices. The benefits of frontier AI cannot easily reach communities lacking these foundations.
 
 This creates a familiar pattern in technological history. Innovations often appear globally available in theory but remain unevenly distributed in practice because the supporting infrastructure arrives slowly or inconsistently. The internet itself demonstrated this dynamic. Simply making websites available did not guarantee equal participation in the digital economy.
 
@@ -337,10 +335,9 @@ The pattern appears repeatedly:
 * Teachers need support integrating AI into classrooms rather than simply being given access.
 * Small businesses often need workflow redesign and staff training before productivity gains appear.
 * Public-sector organisations frequently need procurement standards, governance frameworks and technical expertise.
-* Workers need opportunities to learn new skills before AI complements rather than replaces parts of their jobs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">UNESCOGenerative AI: UNESCO study reveals alarming evidence...7 Mar 2024 — A UNESCO study revealed worrying tendencies in Large Language...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">While 66% of leaders prioritize AI skills development, only 33% of employees report receiving AI-related training. Misalignment between e...</span></span></span>
+* Workers need opportunities to learn new skills before AI complements rather than replaces parts of their jobs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unesco.org">[UNESCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unesco.org</span><span class="citation-popover-snippet">Generative AI: UNESCO study reveals alarming evidence...7 Mar 2024 — A UNESCO study revealed worrying tendencies in Large Language...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">While 66% of leaders prioritize AI skills development, only 33% of employees report receiving AI-related training. Misalignment between e...</span></span></span>
 
 This means AI literacy may become a major determinant of future opportunity. The societies that teach people how to collaborate effectively with AI systems could gain advantages that exceed the benefits of merely possessing the software.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-2-dark.svg" | relative_url }}" alt="AI divide illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Institutions can widen or narrow the divide
@@ -359,7 +356,6 @@ Historically, many of the largest gains from science and technology came not fro
 
 The same may prove true for AI. A society with strong institutions could turn advanced AI into a widely shared resource. A society with weak institutions might see the same technology reinforce existing inequalities.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U7Fl8Ct6060" title="The AI Divide: From Warning to Action - Goals Lounge | United Nations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U7Fl8Ct6060" target="_blank" rel="noopener noreferrer">The AI Divide: From Warning to Action - Goals Lounge | United Nations</a></p><p class="youtube-embed-meta">Channel: United Nations &middot; Views: 1.7K &middot; Uploaded: March 2026 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U7Fl8Ct6060" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U7Fl8Ct6060">Open on YouTube</a></p></div></div></div>
 
 ## Bias, representation and whose knowledge gets amplified
@@ -376,7 +372,6 @@ The risk is that AI becomes a global amplifier of existing informational inequal
 
 Addressing this challenge requires more than technical fixes. It often depends on local data collection, multilingual development, community participation and institutional investment in underrepresented populations.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-3-dark.svg" | relative_url }}" alt="AI divide illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_cognitive_inf_5b06ab_ai_divide_bey_578447-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The fight over broad access is increasingly a fight over capability
 
@@ -392,9 +387,7 @@ The future divide may therefore be less visible than the old digital divide. Ins
 
 Whether advanced AI expands human flourishing broadly or concentrates advantages among already capable groups will depend heavily on how societies build that surrounding cognitive infrastructure. Access is the beginning of the story, not the end of it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FESh6yYKxXc" title="Google CEO Sundar Pichai Calls to Prevent ‘AI Divide’, Announces US–India Connectivity Boost" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FESh6yYKxXc" target="_blank" rel="noopener noreferrer">Google CEO Sundar Pichai Calls to Prevent ‘AI Divide’, Announces US–India Connectivity Boost</a></p><p class="youtube-embed-meta">Channel: ET Now &middot; Views: 867 &middot; Uploaded: February 2026 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FESh6yYKxXc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FESh6yYKxXc">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -408,40 +401,6 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
-        </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
-        
-        <p class="fr-book-desc">Helps explain the practical capabilities people need to turn AI access into real advantage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Equality+Machine+by+Orly+Lobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Equality Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eLRXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Equality Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Equality+Machine+by+Orly+Lobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Equality Machine">The Equality Machine</a>
-        </h4>
-        <p class="fr-book-author">By Orly Lobel</p>
-        
-        <p class="fr-book-desc">Addresses how digital technology can reduce inequality when designed and governed for inclusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Equality+Machine+by+Orly+Lobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -449,7 +408,7 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
         </h4>
         <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Shows why access to technology alone is not enough unless institutions distribute benefits broadly.</p>
+        <p class="fr-book-desc">Directly addresses why access alone does not guarantee shared benefits.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -466,7 +425,7 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
         </h4>
         <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explains why access to powerful AI may be shaped by states, companies and infrastructure rather than availability alone.</p>
+        <p class="fr-book-desc">Explores uneven access and governance of powerful AI systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -474,9 +433,43 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Poor+Economics+by+Abhijit+Banerjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Poor Economics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=an3utwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Poor Economics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Poor+Economics+by+Abhijit+Banerjee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Poor Economics">Poor Economics</a>
+        </h4>
+        <p class="fr-book-author">By Abhijit Banerjee, Esther Duflo</p>
+        
+        <p class="fr-book-desc">Explains why interventions need local capacity and institutions to work.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Poor+Economics+by+Abhijit+Banerjee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+        </h4>
+        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+        
+        <p class="fr-book-desc">Provides context on global inequality and development capacity.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Equality+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Equality Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Poor+Economics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Poor Economics</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -513,15 +506,15 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks"><img src="https://i.ebayimg.com/images/g/LncAAeSwUAlqGWiB/s-l225.jpg" alt="Listing image for 5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer">5 in 1 STEM RC Robot Building Kit 795Pcs Blocks App &amp; Remote Control Bricks</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,15 +522,47 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids"><img src="https://i.ebayimg.com/images/g/wagAAeSw-wlqGq-h/s-l225.jpg" alt="Listing image for Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Interactive Educational Drawing Robot Auto Drawing Robot w/ 100 Cards for Kids</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="https://i.ebayimg.com/images/g/FVUAAeSwPjVpY6Oc/s-l225.jpg" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested"><img src="https://i.ebayimg.com/images/g/EA4AAeSweqFqDwiB/s-l225.jpg" alt="Listing image for TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer">TTS Blue-Bot Educational Bluetooth Robot + USB Cable - Fully Tested</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -545,7 +570,7 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="ai-divide-why-access-alone-will-not-close-the-ai-divide-ai-bloom-abundance-superintelligence-and-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-access-alone-will-not-close-the-ai-divide-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="why-access-alone-will-not-close-the-ai-divide-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -760,301 +785,301 @@ Whether advanced AI expands human flourishing broadly or concentrates advantages
 
 1. <a id="endnote-1"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action](https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOAI literacy and the new Digital Divide - A Global Call for...6 Aug 2024 — The rapid advancements in artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (AI) h...</p></details>
+   Link: <a href="https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/ethics-ai/en/articles/ai-literacy-and-new-digital-divide-global-call-action</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI literacy and the new Digital Divide - A Global Call for...6 Aug 2024 — The rapid advancements in artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (AI) h...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Learning to Adopt Generative AI  
-   Link: [https://arxiv.org/abs/2410.19806](https://arxiv.org/abs/2410.19806)  
+   Link: <a href="https://arxiv.org/abs/2410.19806" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.19806</a>  
 
 3. <a id="endnote-3"></a>
    Source: unesco.org  
    Title: guidance generative ai education and research  
-   Link: [https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOGuidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for generative AI in education and research7 Sept 2023 — UNESCO&#x27;s first global guidance on GenAI in education aims to supp...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/digital-education](https://www.unesco.org/en/digital-education)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOAI and technologies in educationUNESCO partners with countries and institutions on ideas, research, and evidence-informed digital l...</p></details>
+   Link: <a href="https://www.unesco.org/en/digital-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/digital-education</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and technologies in educationUNESCO partners with countries and institutions on ideas, research, and evidence-informed digital l...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees](https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees)  
+   Link: <a href="https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/closing-ai-learning-gaps-between-leaders-and-employees</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While 66% of leaders prioritize AI skills development, only 33% of employees report receiving AI-related training. Misalignment between e...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/put-plainly-some-countries-are-already-using-ai-to-solve-harder-problems-and-move-faster-openai-wants-to-make-ai-usage-more-equal-between-countries-but-will-it-actually-work](https://www.techradar.com/pro/put-plainly-some-countries-are-already-using-ai-to-solve-harder-problems-and-move-faster-openai-wants-to-make-ai-usage-more-equal-between-countries-but-will-it-actually-work)  
+   Link: <a href="https://www.techradar.com/pro/put-plainly-some-countries-are-already-using-ai-to-solve-harder-problems-and-move-faster-openai-wants-to-make-ai-usage-more-equal-between-countries-but-will-it-actually-work" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/put-plainly-some-countries-are-already-using-ai-to-solve-harder-problems-and-move-faster-openai-wants-to-make-ai-usage-more-equal-between-countries-but-will-it-actually-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study underscores a notable capability overhang — existing AI systems are more advanced than how they are being used, leading to a si...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Artificial intelligence is creating a new global linguistic hierarchy  
-   Link: [https://arxiv.org/abs/2602.12018](https://arxiv.org/abs/2602.12018)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivArtificial intelligence is creating a new global linguistic hierarchyFebruary 12, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.12018" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.12018</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence is creating a new global linguistic hierarchyFebruary 12, 2026...</p></details>
    Published: February 12, 2026  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.04531](https://arxiv.org/abs/2505.04531)  
+   Link: <a href="https://arxiv.org/abs/2505.04531" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.04531</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv AI Diffusion in Low Resource Language Countries  
-   Link: [https://arxiv.org/abs/2511.02752](https://arxiv.org/abs/2511.02752)  
+   Link: <a href="https://arxiv.org/abs/2511.02752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.02752</a>  
 
 10. <a id="endnote-10"></a>
    Source: unesco.org  
    Title: launches global roadmap multilingualism digital era  
-   Link: [https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era](https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-launches-global-roadmap-multilingualism-digital-era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiled during the solutions session “Safeguarding Languages, Empowering...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: courier.unesco.org  
-   Link: [https://courier.unesco.org/en/articles/african-languages-blind-spot-ai](https://courier.unesco.org/en/articles/african-languages-blind-spot-ai)  
+   Link: <a href="https://courier.unesco.org/en/articles/african-languages-blind-spot-ai" target="_blank" rel="noopener noreferrer nofollow">https://courier.unesco.org/en/articles/african-languages-blind-spot-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO CourierAfrican languages, the blind spot of AI4 days ago — This initiative aimed to use AI to translate academic texts into local...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes](https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCOGenerative AI: UNESCO study reveals alarming evidence...7 Mar 2024 — A UNESCO study revealed worrying tendencies in Large Language...</p></details>
+   Link: <a href="https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/generative-ai-unesco-study-reveals-alarming-evidence-regressive-gender-stereotypes</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI: UNESCO study reveals alarming evidence...7 Mar 2024 — A UNESCO study revealed worrying tendencies in Large Language...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners](https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners)  
+   Link: <a href="https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/ai-and-education-protecting-rights-learners</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and education: Protecting the rights of learnersThe rapid digitalization of education and the development of generative artificial int...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: articles.unesco.org  
-   Link: [https://articles.unesco.org/sites/default/files/medias/fichiers/2024/07/PR_Generative_AI_UNESCO_study_reveals_alarming_evidence_of_regressive_gender_stereotypes_en.pdf](https://articles.unesco.org/sites/default/files/medias/fichiers/2024/07/PR_Generative_AI_UNESCO_study_reveals_alarming_evidence_of_regressive_gender_stereotypes_en.pdf)  
+   Link: <a href="https://articles.unesco.org/sites/default/files/medias/fichiers/2024/07/PR_Generative_AI_UNESCO_study_reveals_alarming_evidence_of_regressive_gender_stereotypes_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://articles.unesco.org/sites/default/files/medias/fichiers/2024/07/PR_Generative_AI_UNESCO_study_reveals_alarming_evidence_of_regressive_gender_stereotypes_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIParis, 7 March 2024 – Ahead of the International Women&#x27;s Day, a UNESCO study revealed worrying tendencies in Large Language models (LLM...</p></details>
    Published: March 2024  
 
 15. <a id="endnote-15"></a>
    Source: unesco.org  
    Title: what you need know about ai and right education  
-   Link: [https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education](https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education)  
+   Link: <a href="https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/what-you-need-know-about-ai-and-right-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What you need to know about AI and the right to education25 Sept 2025 — During Digital Learning Week 2025, UNESCO released a new report “...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: unesco.org  
-   Link: [https://www.unesco.org/en/articles/languages-matter-global-guidance-multilingual-education](https://www.unesco.org/en/articles/languages-matter-global-guidance-multilingual-education)  
+   Link: <a href="https://www.unesco.org/en/articles/languages-matter-global-guidance-multilingual-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/languages-matter-global-guidance-multilingual-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Languages matter: global guidance on multilingual educationThis guide presents up-to-date principles for language-in-education policies t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000388971](https://unesdoc.unesco.org/ark%3A/48223/pf0000388971)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000388971" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000388971</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation into bias against women and girls in large...Challenging systematic prejudices: an investigation into bias against women a...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: unesdoc.unesco.org  
-   Link: [https://unesdoc.unesco.org/ark%3A/48223/pf0000395373.locale%3Den](https://unesdoc.unesco.org/ark%3A/48223/pf0000395373.locale%3Den)  
+   Link: <a href="https://unesdoc.unesco.org/ark%3A/48223/pf0000395373.locale%3Den" target="_blank" rel="noopener noreferrer nofollow">https://unesdoc.unesco.org/ark%3A/48223/pf0000395373.locale%3Den</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s Guidance for Generative AI in Education and Research (UNESCO, 2023b).... equitable access to digital infrastructure and skills...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: unesco.org  
    Title: qa how unesco driving digital learning and transformation education  
-   Link: [https://www.unesco.org/en/articles/qa-how-unesco-driving-digital-learning-and-transformation-education](https://www.unesco.org/en/articles/qa-how-unesco-driving-digital-learning-and-transformation-education)  
+   Link: <a href="https://www.unesco.org/en/articles/qa-how-unesco-driving-digital-learning-and-transformation-education" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/qa-how-unesco-driving-digital-learning-and-transformation-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A: How UNESCO is driving digital learning and the...19 Mar 2024 — It focuses on AI&#x27;s role in addressing inequalities regarding access...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: unesco.org  
    Title: global roadmap multilingualism  
-   Link: [https://www.unesco.org/en/global-roadmap-multilingualism](https://www.unesco.org/en/global-roadmap-multilingualism)  
+   Link: <a href="https://www.unesco.org/en/global-roadmap-multilingualism" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/global-roadmap-multilingualism</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Roadmap for Multilingualism in the Digital Era13 Feb 2026 — Led by UNESCO, this initiative provides guidance for global efforts to...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: unesco.org  
    Title: and g20 promote linguistic diversity digital age  
-   Link: [https://www.unesco.org/en/articles/unesco-and-g20-promote-linguistic-diversity-digital-age](https://www.unesco.org/en/articles/unesco-and-g20-promote-linguistic-diversity-digital-age)  
+   Link: <a href="https://www.unesco.org/en/articles/unesco-and-g20-promote-linguistic-diversity-digital-age" target="_blank" rel="noopener noreferrer nofollow">https://www.unesco.org/en/articles/unesco-and-g20-promote-linguistic-diversity-digital-age</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO and G20 promote Linguistic Diversity in Digital AgeNov 21, 2025 — Nearly half of the world&#x27;s 7,000 languages are now at risk of fa...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: worldbank.org  
    Title: dptr2025 ai foundations  
-   Link: [https://www.worldbank.org/en/publication/dptr2025-ai-foundations](https://www.worldbank.org/en/publication/dptr2025-ai-foundations)  
+   Link: <a href="https://www.worldbank.org/en/publication/dptr2025-ai-foundations" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/publication/dptr2025-ai-foundations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World BankDigital Progress and Trends Report 2025: AI FoundationsThe World Bank&#x27;s Digital Progress and Trends 2025 report explores how AI...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: worldbank.org  
    Title: emerging technologies  
-   Link: [https://www.worldbank.org/en/topic/digital/brief/emerging-technologies](https://www.worldbank.org/en/topic/digital/brief/emerging-technologies)  
+   Link: <a href="https://www.worldbank.org/en/topic/digital/brief/emerging-technologies" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/topic/digital/brief/emerging-technologies</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data, AI, and Emerging Technologies10 Apr 2025 — The World Bank prioritizes building robust Artificial Intelligence (AI) foundations and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: worldbank.org  
-   Link: [https://www.worldbank.org/ext/en/topic/digital-and-ai/data-and-ai](https://www.worldbank.org/ext/en/topic/digital-and-ai/data-and-ai)  
+   Link: <a href="https://www.worldbank.org/ext/en/topic/digital-and-ai/data-and-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/topic/digital-and-ai/data-and-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data and AIThe World Bank Group supports governments in building data infrastructure and AI foundations, strengthening data ecosystems, a...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: worldbank.org  
-   Link: [https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives](https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives)  
+   Link: <a href="https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/about/unit/unit-dec/research/initiatives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Research InitiativesThe AI and Digital Development (AI/DD) Research Initiative asks, What is the impact of AI and the digital transformat...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/bitstreams/99474f35-6a0c-48c3-9104-7b693e04313e/download](https://openknowledge.worldbank.org/bitstreams/99474f35-6a0c-48c3-9104-7b693e04313e/download)  
+   Link: <a href="https://openknowledge.worldbank.org/bitstreams/99474f35-6a0c-48c3-9104-7b693e04313e/download" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/bitstreams/99474f35-6a0c-48c3-9104-7b693e04313e/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress and Trends Report 2025: Strengthening AI...20 Nov 2025 — From 2021 to 2024, job postings requiring AI skills grew by 2 percent...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: worldbank.org  
    Title: generative ai and jobs in lac  
-   Link: [https://www.worldbank.org/en/topic/poverty/publication/generative-ai-and-jobs-in-lac](https://www.worldbank.org/en/topic/poverty/publication/generative-ai-and-jobs-in-lac)  
+   Link: <a href="https://www.worldbank.org/en/topic/poverty/publication/generative-ai-and-jobs-in-lac" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/en/topic/poverty/publication/generative-ai-and-jobs-in-lac</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI and Jobs in Latin America and the CaribbeanJul 31, 2024 — Researchers found that generative AI (GenAI) could have transform...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/server/api/core/bitstreams/d2ac1ea9-b70e-4080-b5de-8b31098e992f/content](https://openknowledge.worldbank.org/server/api/core/bitstreams/d2ac1ea9-b70e-4080-b5de-8b31098e992f/content)  
+   Link: <a href="https://openknowledge.worldbank.org/server/api/core/bitstreams/d2ac1ea9-b70e-4080-b5de-8b31098e992f/content" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/server/api/core/bitstreams/d2ac1ea9-b70e-4080-b5de-8b31098e992f/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress and Trends Report 202515 Sept 2025 — DIGITAL PROGRESS AND TRENDS REPORT 2025. Our new World Bank Group digital strategy includes...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/server/api/core/bitstreams/f2509a0f-7153-4f32-b180-bc11e90c4940/content](https://openknowledge.worldbank.org/server/api/core/bitstreams/f2509a0f-7153-4f32-b180-bc11e90c4940/content)  
+   Link: <a href="https://openknowledge.worldbank.org/server/api/core/bitstreams/f2509a0f-7153-4f32-b180-bc11e90c4940/content" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/server/api/core/bitstreams/f2509a0f-7153-4f32-b180-bc11e90c4940/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress and Trends Report 2025: Strengthening AI...24 Jun 2025 — Our new World Bank Group digital strategy includes AI readiness as a c...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/4a11a37d-149a-44fb-a941-100065ff5eb8](https://openknowledge.worldbank.org/entities/publication/4a11a37d-149a-44fb-a941-100065ff5eb8)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/4a11a37d-149a-44fb-a941-100065ff5eb8" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/4a11a37d-149a-44fb-a941-100065ff5eb8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exposure of Workers to Artificial Intelligence in Lowby G Demombynes · 2025 · Cited by 5 — This paper analyzes this issue using microdata...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/bitstreams/5e2d0789-43dc-4f7b-9804-90a5fcade533/download](https://openknowledge.worldbank.org/bitstreams/5e2d0789-43dc-4f7b-9804-90a5fcade533/download)  
+   Link: <a href="https://openknowledge.worldbank.org/bitstreams/5e2d0789-43dc-4f7b-9804-90a5fcade533/download" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/bitstreams/5e2d0789-43dc-4f7b-9804-90a5fcade533/download</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress and Trends Report 2025: Strengthening AI...20 Nov 2025 — As AI adoption accelerates in advanced countries, delayed action in LI...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: openknowledge.worldbank.org  
-   Link: [https://openknowledge.worldbank.org/entities/publication/6b514a80-1d5a-5e54-9c8d-b51473775613](https://openknowledge.worldbank.org/entities/publication/6b514a80-1d5a-5e54-9c8d-b51473775613)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/6b514a80-1d5a-5e54-9c8d-b51473775613" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/6b514a80-1d5a-5e54-9c8d-b51473775613</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: The Role of Artificial Intelligence in Supporting...by D Strusani · Cited by 158 — AI offers an opportunity to...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: blogs.worldbank.org  
    Title: What we re reading about the age of AI jobs and inequality  
-   Link: [https://blogs.worldbank.org/en/jobs/What-we-re-reading-about-the-age-of-AI-jobs-and-inequality](https://blogs.worldbank.org/en/jobs/What-we-re-reading-about-the-age-of-AI-jobs-and-inequality)  
+   Link: <a href="https://blogs.worldbank.org/en/jobs/What-we-re-reading-about-the-age-of-AI-jobs-and-inequality" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/jobs/What-we-re-reading-about-the-age-of-AI-jobs-and-inequality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>we&#x27;re reading about the age of AI, jobs, and inequalityMay 7, 2024 — Anxieties about job displacement and income insecurity in the age of...</p></details>
    Published: May 7, 2024  
 
 34. <a id="endnote-34"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/099123512172521590/pdf/IDU-393e0705-dc57-406a-b146-6c04a2656a43.pdf](https://documents1.worldbank.org/curated/en/099123512172521590/pdf/IDU-393e0705-dc57-406a-b146-6c04a2656a43.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/099123512172521590/pdf/IDU-393e0705-dc57-406a-b146-6c04a2656a43.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/099123512172521590/pdf/IDU-393e0705-dc57-406a-b146-6c04a2656a43.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affordability, Ecosystem, and AI Readiness, underpinned by robust Digital. Safeguards. Looking ahead...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: worldbank.org  
-   Link: [https://www.worldbank.org/ext/en/topic/digital-and-ai](https://www.worldbank.org/ext/en/topic/digital-and-ai)  
+   Link: <a href="https://www.worldbank.org/ext/en/topic/digital-and-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.worldbank.org/ext/en/topic/digital-and-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nclusive growth. Read the report.Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: openknowledge.worldbank.org  
    Title: It discusses the demand and supply of digital skills.Read more  
-   Link: [https://openknowledge.worldbank.org/entities/publication/18cfa834-c2bf-5286-9510-6dc615e96faf](https://openknowledge.worldbank.org/entities/publication/18cfa834-c2bf-5286-9510-6dc615e96faf)  
+   Link: <a href="https://openknowledge.worldbank.org/entities/publication/18cfa834-c2bf-5286-9510-6dc615e96faf" target="_blank" rel="noopener noreferrer nofollow">https://openknowledge.worldbank.org/entities/publication/18cfa834-c2bf-5286-9510-6dc615e96faf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>worldbank.orgPublication: Digital Skills: Frameworks and ProgramsThis paper presents a framework for digital skills, based on a review of...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/welker_protecting-teacher-agency-in-the-age-of-ai-activity-7369676563895730177-Epq1](https://www.linkedin.com/posts/welker_protecting-teacher-agency-in-the-age-of-ai-activity-7369676563895730177-Epq1)  
+   Link: <a href="https://www.linkedin.com/posts/welker_protecting-teacher-agency-in-the-age-of-ai-activity-7369676563895730177-Epq1" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_protecting-teacher-agency-in-the-age-of-ai-activity-7369676563895730177-Epq1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO paper on AI and teacher agency highlights...- Generative AI should only be applied under clear controls (e.g. in the classroom un...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg](https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg)  
+   Link: <a href="https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/welker_unesco-governance-of-digital-platforms-and-activity-7383863780478263297-WAUg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO releases guidelines for AI and digital platform...The Guidelines for the Governance of Digital Platforms and Generative Artificia...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/ifc-education_devising-a-strategic-approach-to-ai-activity-7368655733782888449-QOOi](https://www.linkedin.com/posts/ifc-education_devising-a-strategic-approach-to-ai-activity-7368655733782888449-QOOi)  
+   Link: <a href="https://www.linkedin.com/posts/ifc-education_devising-a-strategic-approach-to-ai-activity-7368655733782888449-QOOi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/ifc-education_devising-a-strategic-approach-to-ai-activity-7368655733782888449-QOOi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank launches AI strategy framework for countriesThe World Bank developed a practical and flexible framework to help shape national...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/cija-augustus-89811a13_globaleducation-educationequity-digitaldivide-activity-7378191151079518208-3Dk6](https://www.linkedin.com/posts/cija-augustus-89811a13_globaleducation-educationequity-digitaldivide-activity-7378191151079518208-3Dk6)  
+   Link: <a href="https://www.linkedin.com/posts/cija-augustus-89811a13_globaleducation-educationequity-digitaldivide-activity-7378191151079518208-3Dk6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/cija-augustus-89811a13_globaleducation-educationequity-digitaldivide-activity-7378191151079518208-3Dk6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report: AI widens digital divide in education28 Sept 2025 — The digital divide in education is no longer just about access to devi...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/karina-kesserwan-2065266_ai-indigenoussovereignty-dataethics-activity-7302726351755640833--8YG](https://www.linkedin.com/posts/karina-kesserwan-2065266_ai-indigenoussovereignty-dataethics-activity-7302726351755640833--8YG)  
+   Link: <a href="https://www.linkedin.com/posts/karina-kesserwan-2065266_ai-indigenoussovereignty-dataethics-activity-7302726351755640833--8YG" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/karina-kesserwan-2065266_ai-indigenoussovereignty-dataethics-activity-7302726351755640833--8YG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO report on AI and Indigenous communities in Latin...UNESCO has just shared a report on AI &amp; Culture — a publication which examined...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/World](https://en.wikipedia.org/wiki/World)  
+   Link: <a href="https://en.wikipedia.org/wiki/World" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WorldThe world is the totality of entities, the whole of reality, or everything that exists. The nature of the world has been conceptu...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: cdut.edu.cn  
    Title: protecting the rights of learners  
-   Link: [https://www.cdut.edu.cn/__local/0/68/31/67B2897D8ADD86271124C1D7A58_F36B9C93_1BFF3E9.pdf](https://www.cdut.edu.cn/__local/0/68/31/67B2897D8ADD86271124C1D7A58_F36B9C93_1BFF3E9.pdf)  
+   Link: <a href="https://www.cdut.edu.cn/__local/0/68/31/67B2897D8ADD86271124C1D7A58_F36B9C93_1BFF3E9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cdut.edu.cn/__local/0/68/31/67B2897D8ADD86271124C1D7A58_F36B9C93_1BFF3E9.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Digital LibraryThe rapid digitalization of education, accelerated by the COVID-19 pandemic and the development of generative artif...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: fhsmun.org  
    Title: UNESC O  
-   Link: [https://www.fhsmun.org/wp-content/uploads/2025/01/UNESCO-Digital-Equity-in-Education-and-Culture-1.pdf](https://www.fhsmun.org/wp-content/uploads/2025/01/UNESCO-Digital-Equity-in-Education-and-Culture-1.pdf)  
+   Link: <a href="https://www.fhsmun.org/wp-content/uploads/2025/01/UNESCO-Digital-Equity-in-Education-and-Culture-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.fhsmun.org/wp-content/uploads/2025/01/UNESCO-Digital-Equity-in-Education-and-Culture-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO - Digital Equity in Education and Culture4 Studies indicate that a 10% increase in broadband penetration correlates with a 1.2% in...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: tandfonline.com  
    Title: The ethics of AI or techno-solutionism?  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2502808](https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2502808)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2502808" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/01425692.2025.2502808</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO&#x27;s policy...by Y Mochizuki · 2025 · Cited by 29 — This unambiguously exemplifies UNESCO&#x27;s role in legitimating technology companie...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: enmaeya.com  
    Title: 68da3a22f9ce754f0163e8b9 unesco warns ai could deepen inequality in education  
-   Link: [https://enmaeya.com/en/news/68da3a22f9ce754f0163e8b9-unesco-warns-ai-could-deepen-inequality-in-education](https://enmaeya.com/en/news/68da3a22f9ce754f0163e8b9-unesco-warns-ai-could-deepen-inequality-in-education)  
+   Link: <a href="https://enmaeya.com/en/news/68da3a22f9ce754f0163e8b9-unesco-warns-ai-could-deepen-inequality-in-education" target="_blank" rel="noopener noreferrer nofollow">https://enmaeya.com/en/news/68da3a22f9ce754f0163e8b9-unesco-warns-ai-could-deepen-inequality-in-education</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNESCO Warns AI Could Deepen Inequality in EducationSep 29, 2025 — UNESCO warns AI in education may worsen inequalities, urging human-rig...</p></details>
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-and-the-global-productivity-divide_f47026c5/c315ea90-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-and-the-global-productivity-divide_f47026c5/c315ea90-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-and-the-global-productivity-divide_f47026c5/c315ea90-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/12/ai-and-the-global-productivity-divide_f47026c5/c315ea90-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and the Global Productivity Divide: Fuel for the Fast or a...Technological leapfrogging would favour rapid adoption of AI by avoiding...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1759027/full](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1759027/full)  
+   Link: <a href="https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1759027/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1759027/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and the digital divide in educationby MA Matjie · Cited by 3 — A recent study on AI adoption and the digital divide in education found...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: sea-vet.net  
-   Link: [https://sea-vet.net/images/seb/e-library/doc_file/1417/386693eng.pdf](https://sea-vet.net/images/seb/e-library/doc_file/1417/386693eng.pdf)  
+   Link: <a href="https://sea-vet.net/images/seb/e-library/doc_file/1417/386693eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sea-vet.net/images/seb/e-library/doc_file/1417/386693eng.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidance for generative AI in education and researchUNESCO&#x27;s first global guidance on GenAI in education aims to support countries to imp...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: unctad.org  
-   Link: [https://unctad.org/system/files/official-document/tir2025ch2_en.pdf](https://unctad.org/system/files/official-document/tir2025ch2_en.pdf)  
+   Link: <a href="https://unctad.org/system/files/official-document/tir2025ch2_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unctad.org/system/files/official-document/tir2025ch2_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging AI for productivity and workers&#x27; empowermentThe adoption of AI in developing countries can be accelerated by redesigning AI so...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/the-world-bank-group_future-jobs-activity-7424436592028766208-koLU](https://www.linkedin.com/posts/the-world-bank-group_future-jobs-activity-7424436592028766208-koLU)  
+   Link: <a href="https://www.linkedin.com/posts/the-world-bank-group_future-jobs-activity-7424436592028766208-koLU" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/the-world-bank-group_future-jobs-activity-7424436592028766208-koLU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Report: AI, Jobs, and Digital Platforms in EAP CountriesAutomation and AI increase productivity, but the benefits are uneven. Roles built...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: cecyt17.ipn.mx  
-   Link: [https://www.cecyt17.ipn.mx/assets/files/cecyt17/docs/inicio/unescoia.pdf](https://www.cecyt17.ipn.mx/assets/files/cecyt17/docs/inicio/unescoia.pdf)  
+   Link: <a href="https://www.cecyt17.ipn.mx/assets/files/cecyt17/docs/inicio/unescoia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cecyt17.ipn.mx/assets/files/cecyt17/docs/inicio/unescoia.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and educationThe rapid digitalization of education, accelerated by the COVID-19 pandemic and the development of generative artificial int...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals](https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals)  
+   Link: <a href="https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389936132_Integrating_AI_in_Education_Navigating_UNESCO_Global_Guidelines_Emerging_Trends_and_Its_Intersection_with_Sustainable_Development_Goals</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Integrating AI in Education: Navigating UNESCO Global...Mar 18, 2025 — This comprehensive review explores the integration of artificial...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: bera.ac.uk  
-   Link: [https://www.bera.ac.uk/blog/digital-equity-in-the-age-of-generative-ai-bridging-the-divide-in-educational-technology](https://www.bera.ac.uk/blog/digital-equity-in-the-age-of-generative-ai-bridging-the-divide-in-educational-technology)  
+   Link: <a href="https://www.bera.ac.uk/blog/digital-equity-in-the-age-of-generative-ai-bridging-the-divide-in-educational-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.bera.ac.uk/blog/digital-equity-in-the-age-of-generative-ai-bridging-the-divide-in-educational-technology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital equity in the age of generative AI30 May 2025 — Generative AI holds enormous potential to transform education, but its benefits w...</p></details>
    Published: May 2025  
 
 55. <a id="endnote-55"></a>
    Source: news.ruforum.org  
-   Link: [https://news.ruforum.org/ai-in-education-navigating-fears-embracing-possibilities-and-charting-a-path-forward/](https://news.ruforum.org/ai-in-education-navigating-fears-embracing-possibilities-and-charting-a-path-forward/)  
+   Link: <a href="https://news.ruforum.org/ai-in-education-navigating-fears-embracing-possibilities-and-charting-a-path-forward/" target="_blank" rel="noopener noreferrer nofollow">https://news.ruforum.org/ai-in-education-navigating-fears-embracing-possibilities-and-charting-a-path-forward/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in Education: Navigating Fears, Embracing Possibilities...by N Muhanguzi — A comparative analysis of generative AI adoption found signif...</p></details>
 
 56. <a id="endnote-56"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jose-f-quesada_lt4all2025-languagetechnology-ai-activity-7293536455686025218-IrtS](https://www.linkedin.com/posts/jose-f-quesada_lt4all2025-languagetechnology-ai-activity-7293536455686025218-IrtS)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jose F Quesada&#x27;s Post6 Feb 2025 —... [AI research](&amp;#123;&amp;#123; &#x27;research-agents/&#x27; | relative_url &amp;#125;&amp;#125;) and data collection, with a focus on advancing digital inclusion for Europe&#x27;s low-resou...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/jose-f-quesada_lt4all2025-languagetechnology-ai-activity-7293536455686025218-IrtS" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jose-f-quesada_lt4all2025-languagetechnology-ai-activity-7293536455686025218-IrtS</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jose F Quesada&#x27;s Post6 Feb 2025 —... AI research and data collection, with a focus on advancing digital inclusion for Europe&#x27;s low-resou...</p></details>

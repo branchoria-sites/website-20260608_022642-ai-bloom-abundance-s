@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /inverse-design/
 nav_short_title: Risky Elements
 title: Can AI design around scarce elements?
-title_full: Can AI design around scarce elements? | Inverse design
+title_full: Can AI design around scarce elements?
 display_title_short: Risky Elements
 display_title: Risky Elements
 heading_title: Can AI design around scarce elements?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI design materials backwards? | Discovery
+date: '2026-06-08 01:49:54'
+parent_title: Can AI design materials backwards?
 parent_permalink: /inverse-design/
 parent_nav_short_title: Inverse design
 parent_heading_title: Can AI design materials backwards?
@@ -266,7 +267,6 @@ next_link:
   permalink: /screening-shift/
   short_title: Screening Shift
   heading_title: Why inverse design changes materials discovery
-date: '2026-06-08 01:49:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-1.webp
@@ -277,9 +277,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb
 
 The promise of AI-designed materials is not only that they could make technologies perform better. In some cases, the bigger question is whether they can make crucial technologies less dependent on fragile supply chains.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-1-dark.svg" | relative_url }}" alt="Risky Elements illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-[MatterGen]({{ 'inverse-design/' | relative_url }}), Microsoft's generative materials-design system, offers a useful example. One of its showcased goals was not simply finding stronger magnets, but generating magnetic materials that combine useful performance with lower supply-chain risk. That matters because modern clean-energy systems, electric vehicles, robotics, advanced manufacturing equipment, [data centres]({{ 'power-demand/' | relative_url }}) and defence technologies all rely heavily on permanent magnets whose production depends on a small number of countries and difficult-to-substitute elements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">IEANew projects, partnerships and policies are needed to...Demand for magnet rare earths – notably neodymium, praseodymium, dysprosium a...</span></span></span>
+MatterGen, Microsoft's generative materials-design system, offers a useful example. One of its showcased goals was not simply finding stronger magnets, but generating magnetic materials that combine useful performance with lower supply-chain risk. That matters because modern clean-[energy]({{ 'energy/' | relative_url }}) systems, electric vehicles, [robotics]({{ 'robotics/' | relative_url }}), advanced manufacturing equipment, data centres and defence technologies all rely heavily on permanent magnets whose production depends on a small number of countries and difficult-to-substitute elements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">New projects, partnerships and policies are needed to...Demand for magnet rare earths – notably neodymium, praseodymium, dysprosium a...</span></span></span>
 
 For advocates of an AI-enabled age of abundance, this is an important test case. The challenge is not merely inventing something better in a laboratory. It is whether AI can help civilisation escape bottlenecks created by scarce materials, geopolitical concentration, environmental costs and industrial vulnerability. MatterGen suggests one possible route: designing around the constraint itself.
 
@@ -287,15 +286,15 @@ For advocates of an AI-enabled age of abundance, this is an important test case.
 
 Many visions of technological abundance assume that once humanity knows how to build something useful, scaling it becomes mostly an engineering challenge. In practice, physical supply chains often become the limiting factor.
 
-Permanent magnets illustrate the problem. High-performance magnets used in electric motors, wind turbines, industrial machinery and many electronics frequently depend on rare earth elements such as neodymium, praseodymium, dysprosium and terbium. Demand for these magnet materials has risen rapidly alongside electrification and clean-[energy]({{ 'energy/' | relative_url }}) deployment, with the International Energy Agency reporting that demand for key magnet rare earths has roughly doubled since 2015 and is expected to continue growing strongly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">With new export controls on critical minerals, supply...Oct 23, 2025 — The new rare earth export controls pose major risks for a range o...</span></span></span>
+Permanent magnets illustrate the problem. High-performance magnets used in electric motors, wind turbines, industrial machinery and many electronics frequently depend on rare earth elements such as neodymium, praseodymium, dysprosium and terbium. Demand for these magnet materials has risen rapidly alongside electrification and clean-energy deployment, with the International Energy Agency reporting that demand for key magnet rare earths has roughly doubled since 2015 and is expected to continue growing strongly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">With new export controls on critical minerals, supply...Oct 23, 2025 — The new rare earth export controls pose major risks for a range o...</span></span></span>
 
-The issue is not simply geology. Rare earth elements exist in many places, but mining, refining and magnet production are concentrated in a small number of locations. China dominates much of the processing and magnet-manufacturing chain, creating concerns about industrial [resilience]({{ 'resilience/' | relative_url }}) and geopolitical leverage. Multiple analyses estimate that Chinese firms [control]({{ 'control/' | relative_url }}) the majority of global rare-earth processing and magnet production capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idtechex.com/en/research-report/rare-earth-magnets/1112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idtechex.com">[IDTechEx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idtechex.com</span><span class="citation-popover-title">Global rare earth mining, separation, refining, and magnet production supply</span><span class="citation-popover-snippet">IDTechExRare Earth Magnets 2026-2036: Technologies, Supply...This report characterizes rare earth magnet markets, technologies, and pla...</span></span></span> Nature Recent export restrictions have turned what was once a largely technical discussion into a strategic one. Industry and policy reports in 2025 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span> and 2026 describe disruptions, licensing delays and growing concern among manufacturers dependent on rare-earth magnets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">012726 rare earth supply bottlenecks set to persist in 2026</span><span class="citation-popover-snippet">S&amp;P GlobalRare earth supply bottlenecks set to persist in 202627 Jan 2026 — China&#x27;s rare-earth export restrictions are set to drive suppl...</span></span></span>
+The issue is not simply geology. Rare earth elements exist in many places, but mining, refining and magnet production are concentrated in a small number of locations. China dominates much of the processing and magnet-manufacturing chain, creating concerns about industrial [resilience]({{ 'resilience/' | relative_url }}) and geopolitical leverage. Multiple analyses estimate that Chinese firms [control]({{ 'control/' | relative_url }}) the majority of global rare-earth processing and magnet production capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idtechex.com/en/research-report/rare-earth-magnets/1112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idtechex.com">[IDTechEx]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idtechex.com</span><span class="citation-popover-title">Global rare earth mining, separation, refining, and magnet production supply</span><span class="citation-popover-snippet">Rare Earth Magnets 2026-2036: Technologies, Supply...This report characterizes rare earth magnet markets, technologies, and pla...</span></span></span> Nature Recent export restrictions have turned what was once a largely technical discussion into a strategic one. Industry and policy reports in 2025 <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span> and 2026 describe disruptions, licensing delays and growing concern among manufacturers dependent on rare-earth magnets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spglobal.com">[S&amp;P Global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spglobal.com</span><span class="citation-popover-title">012726 rare earth supply bottlenecks set to persist in 2026</span><span class="citation-popover-snippet">S&amp;P GlobalRare earth supply bottlenecks set to persist in 202627 Jan 2026 — China&#x27;s rare-earth export restrictions are set to drive suppl...</span></span></span>
 
-This creates a broader question for AI-driven [scientific]({{ 'discovery/' | relative_url }}) acceleration. If advanced AI helps humanity discover better batteries, motors or energy systems, but all of them depend on vulnerable inputs, then material bottlenecks could slow the wider bloom of abundance. Scientific progress and supply-chain resilience become linked problems rather than separate ones.
+This creates a broader question for AI-driven scientific acceleration. If advanced AI helps humanity discover better batteries, motors or energy systems, but all of them depend on vulnerable inputs, then material bottlenecks could slow the wider bloom of abundance. Scientific progress and supply-chain resilience become linked problems rather than separate ones.
 
 ## How MatterGen combines performance and lower risk
 
-Most materials-discovery systems are asked to optimise performance. MatterGen demonstrates a more ambitious idea: optimising performance and supply-chain characteristics simultaneously.
+Most materials-[discovery]({{ 'discovery/' | relative_url }}) systems are asked to optimise performance. MatterGen demonstrates a more ambitious idea: optimising performance and supply-chain characteristics simultaneously.
 
 According to the Nature paper describing the system, researchers fine-tuned MatterGen to generate materials with both strong magnetic properties and lower supply-chain risk. The paper specifically highlights the challenge that many high-performance permanent magnets depend on rare earth elements whose supply chains are considered strategically vulnerable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — MatterGen is also able to design materials given multi...</span></span></span>
 
@@ -313,7 +312,6 @@ Researchers can ask:
 
 That sounds simple, but it greatly expands the search challenge. Materials scientists are no longer looking for a single optimum. They are balancing several competing objectives:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * Magnetic strength
@@ -326,10 +324,9 @@ That sounds simple, but it greatly expands the search challenge. Materials scien
 
 </div>
 
-MatterGen's significance is that it treats those tradeoffs as design inputs rather than after-the-fact constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span>
+MatterGen's significance is that it treats those tradeoffs as design inputs rather than after-the-fact constraints. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</span></span></span>
 
 In principle, a future generation of materials models could search vast regions of chemical space for solutions that human researchers might never manually investigate. The objective would not necessarily be finding the strongest possible magnet. It would be finding the best overall compromise between performance, resilience and scale.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Smz1go6_Spo" title="Materials Project Seminars – Tian Xie &quot;MatterGen: a generative model for inorganic materials design&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Smz1go6_Spo" target="_blank" rel="noopener noreferrer">Materials Project Seminars – Tian Xie &quot;MatterGen: a generative model for inorganic materials design&quot;</a></p><p class="youtube-embed-meta">Channel: MaterialsProject &middot; Views: 5.5K &middot; Uploaded: January 2024 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Smz1go6_Spo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Smz1go6_Spo">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +334,7 @@ In principle, a future generation of materials models could search vast regions 
 
 The challenge is that rare earth magnets became dominant for good reasons.
 
-Neodymium-iron-boron magnets and related technologies achieve extremely high magnetic performance. They are compact, powerful and well suited to electric motors, wind turbines and many advanced applications. Replacing them is not as straightforward as swapping one ingredient for another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0921344924005573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectRare earth permanent magnets for the green energy...by Y Ghorbani · 2025 · Cited by 111 — This review paper provides an ove...</span></span></span>
+Neodymium-iron-boron magnets and related technologies achieve extremely high magnetic performance. They are compact, powerful and well suited to electric motors, wind turbines and many advanced applications. Replacing them is not as straightforward as swapping one ingredient for another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0921344924005573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Rare earth permanent magnets for the green energy...by Y Ghorbani · 2025 · Cited by 111 — This review paper provides an ove...</span></span></span>
 
 Researchers have spent years exploring alternatives, including ferrites, alnico materials, manganese-based compounds, iron-nitride systems and Heusler alloys. Many of these approaches reduce reliance on critical rare earths, but often at the cost of weaker magnetic performance, more difficult manufacturing requirements or lower durability under real-world conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Matter Gen: a generative model for inorganic materials design</span><span class="citation-popover-snippet">MatterGen: a generative model for inorganic materials designby C Zeni · 2023 · Cited by 230 — We present MatterGen, a model that generate...</span></span></span>
 
@@ -346,7 +343,6 @@ This is where AI-assisted design could matter most.
 A human researcher might examine thousands of candidate compounds. A generative model can explore vastly larger regions of possibility space and propose unconventional combinations that satisfy multiple constraints simultaneously. That does not guarantee success, but it increases the chance of finding useful compromises.
 
 The broader significance for an AI-bloom worldview is that abundance is frequently blocked by optimisation problems rather than fundamental physical impossibilities. The world may not need a perfect substitute for every scarce material. It may need substitutes that are good enough while being easier to source, manufacture and scale.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-2-dark.svg" | relative_url }}" alt="Risky Elements illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden tradeoff: scarcity can move rather than disappear
@@ -359,7 +355,6 @@ This is a recurring pattern in energy and materials transitions.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * A battery chemistry can reduce dependence on cobalt while increasing demand for other minerals.
@@ -371,7 +366,6 @@ For example:
 Researchers studying rare-earth supply systems increasingly emphasise that risk exists at multiple levels: mining, refining, manufacturing, transport and geopolitical relationships. Simply changing the chemistry does not automatically remove all vulnerabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">IDEAS/RePEcGeopolitical risk and the global supply of rare earth permanby L Depraiter · 2025 · Cited by 47 — This paper delves deep into...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">IDEAS/RePEcGeopolitical risk and the global supply of rare earth permanby L Depraiter · 2025 · Cited by 47 — This paper delves deep into...</span></span></span>
 
 This is one reason MatterGen's multi-objective approach is notable. The goal is not merely replacing one element. It is searching for solutions that perform well across several dimensions of risk simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RIuGbHb_b-s" title="The Hunt for a New Kind of Magnet to Power the Future | Bloomberg Primer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RIuGbHb_b-s" target="_blank" rel="noopener noreferrer">The Hunt for a New Kind of Magnet to Power the Future | Bloomberg Primer</a></p><p class="youtube-embed-meta">Channel: Bloomberg Originals &middot; Views: 1.2M &middot; Uploaded: March 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RIuGbHb_b-s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RIuGbHb_b-s">Open on YouTube</a></p></div></div></div>
 
@@ -391,7 +385,6 @@ Factories represent huge capital investments. A new magnet material must fit int
 
 A material that performs slightly better on paper may fail commercially if manufacturers need entirely new equipment, supply contracts or quality-control processes.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-3-dark.svg" | relative_url }}" alt="Risky Elements illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_mattergen_inv_cb7e85_supply_chain_571e39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Long-term reliability
 
@@ -407,7 +400,6 @@ Manufacturers may tolerate higher costs for defence applications or critical inf
 
 This creates an important reality check for AI-driven discovery. Generating a candidate material is not the same as transforming an industry. Discovery is only the first step in a chain that includes testing, manufacturing, certification, financing and deployment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sWQH0p9HMic" title="Beyond Chips: Rare Earth Magnets and the Future of AI Infrastructure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sWQH0p9HMic" target="_blank" rel="noopener noreferrer">Beyond Chips: Rare Earth Magnets and the Future of AI Infrastructure</a></p><p class="youtube-embed-meta">Channel: Radical Ventures &middot; Views: 127 &middot; Uploaded: January 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sWQH0p9HMic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sWQH0p9HMic">Open on YouTube</a></p></div></div></div>
 
 ## A glimpse of a broader abundance strategy
@@ -419,7 +411,6 @@ Many future technologies may be limited less by ideas than by physical bottlenec
 MatterGen hints at a future where AI helps search not only for higher performance, but for resilience itself.
 
 If such systems mature, researchers could increasingly specify goals such as:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -448,16 +439,16 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Material World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_olEEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Material World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Material World">Material World</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Ed Conway</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Directly supports the page’s focus on scarce elements, supply chains and physical bottlenecks.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Material+World+by+Ed+Conway&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -465,16 +456,16 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stuff Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_5yUAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stuff Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stuff Matters">Stuff Matters</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Mark Miodownik</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explains why material properties determine whether substitutes can actually work.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stuff+Matters+by+Mark+Miodownik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -482,16 +473,16 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alchemy of Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KM_XDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Alchemy of Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Premonition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QQXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Premonition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alchemy of Us">The Alchemy of Us</a>
+          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
         </h4>
-        <p class="fr-book-author">By Ainissa Ramirez</p>
+        <p class="fr-book-author">By Michael Lewis</p>
         
-        <p class="fr-book-desc">Shows how material choices shape technologies and societies over time.</p>
+        <p class="fr-book-desc">Explores early warning, forecasting and public-health response.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alchemy+of+Us+by+Ainissa+Ramirez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -499,16 +490,16 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rare Metals War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=k79fzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rare Metals War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Apollo&#x27;s Arrow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6_CRzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Apollo&#x27;s Arrow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rare Metals War">The Rare Metals War</a>
+          <a href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Apollo&#x27;s Arrow">Apollo&#x27;s Arrow</a>
         </h4>
-        <p class="fr-book-author">By Guillaume Pitron</p>
+        <p class="fr-book-author">By Nicholas A. Christakis</p>
         
-        <p class="fr-book-desc">Directly addresses the geopolitical and environmental stakes of scarce materials.</p>
+        <p class="fr-book-desc">Examines societal responses to pandemics and preparedness.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rare+Metals+War+by+Guillaume+Pitron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -516,7 +507,7 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Material+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Material World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stuff+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stuff Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alchemy+of+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alchemy of Us</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -529,7 +520,7 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -553,15 +544,15 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Geological Specimen Mink Creek Fossil Mineral Slice Labeled Display"><img src="{{ '/assets/images/marketplace-covers/3e125d9e3930c72493f4.jpg' | relative_url }}" alt="Listing image for Vintage Geological Specimen Mink Creek Fossil Mineral Slice Labeled Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20mm x 3mm Magnets Neodymium Disc 20 x 3 Rare Earth Magnet Strong N52 Grade"><img src="https://i.ebayimg.com/images/g/1BgAAOSwV9VkyYCA/s-l225.jpg" alt="Listing image for 20mm x 3mm Magnets Neodymium Disc 20 x 3 Rare Earth Magnet Strong N52 Grade" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer">Vintage Geological Specimen Mink Creek Fossil Mineral Slice Labeled Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer">20mm x 3mm Magnets Neodymium Disc 20 x 3 Rare Earth Magnet Strong N52 Grade</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for geology display">Search <span data-ebay-domain-label>eBay.co.uk</span>: geology display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rare earth magnet">Search <span data-ebay-domain-label>eBay.co.uk</span>: rare earth magnet</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -569,15 +560,15 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Geographic Break Open 2 Geodes STEM Real Geology Kit With Display Stand"><img src="{{ '/assets/images/marketplace-covers/c56635f327f38fc8d73d.jpg' | relative_url }}" alt="Listing image for National Geographic Break Open 2 Geodes STEM Real Geology Kit With Display Stand" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neodymium Magnets Extra Strong Rare Earth Magnets For Fridge Whiteboard"><img src="https://i.ebayimg.com/images/g/x6UAAeSwX3xpAqiJ/s-l225.jpg" alt="Listing image for Neodymium Magnets Extra Strong Rare Earth Magnets For Fridge Whiteboard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer">National Geographic Break Open 2 Geodes STEM Real Geology Kit With Display Stand</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer">Neodymium Magnets Extra Strong Rare Earth Magnets For Fridge Whiteboard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for geology display">Search <span data-ebay-domain-label>eBay.co.uk</span>: geology display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rare earth magnet">Search <span data-ebay-domain-label>eBay.co.uk</span>: rare earth magnet</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -585,15 +576,15 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vermiculated Rock Idaho Chas Mathews Geological Specimen Mineral Display"><img src="{{ '/assets/images/marketplace-covers/c54b50da1acc751e1889.jpg' | relative_url }}" alt="Listing image for Vermiculated Rock Idaho Chas Mathews Geological Specimen Mineral Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small N52 strong neodymium fasteners disc 2mm 3mm 4mm 5mm 6mm rare earth magnets"><img src="https://i.ebayimg.com/images/g/Ze4AAeSwlC9qIqtU/s-l225.jpg" alt="Listing image for Small N52 strong neodymium fasteners disc 2mm 3mm 4mm 5mm 6mm rare earth magnets" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer">Vermiculated Rock Idaho Chas Mathews Geological Specimen Mineral Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer">Small N52 strong neodymium fasteners disc 2mm 3mm 4mm 5mm 6mm rare earth magnets</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for geology display">Search <span data-ebay-domain-label>eBay.co.uk</span>: geology display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rare earth magnet">Search <span data-ebay-domain-label>eBay.co.uk</span>: rare earth magnet</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -601,15 +592,15 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rock &amp; Mineral Collection 15pcs Geology Gem in a Display"><img src="{{ '/assets/images/marketplace-covers/a31f3cf2fbb3c9fe3b99.jpg' | relative_url }}" alt="Listing image for Rock &amp; Mineral Collection 15pcs Geology Gem in a Display" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Earth DIY Industrial Strong Ring Neo Neodymium Disc Round Magnet with Hole"><img src="https://i.ebayimg.com/images/g/1~QAAeSwMq1oovjy/s-l225.jpg" alt="Listing image for Rare Earth DIY Industrial Strong Ring Neo Neodymium Disc Round Magnet with Hole" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer">Rock &amp; Mineral Collection 15pcs Geology Gem in a Display</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer">Rare Earth DIY Industrial Strong Ring Neo Neodymium Disc Round Magnet with Hole</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for geology display">Search <span data-ebay-domain-label>eBay.co.uk</span>: geology display</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for rare earth magnet">Search <span data-ebay-domain-label>eBay.co.uk</span>: rare earth magnet</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -617,7 +608,7 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=geology+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="geology display" data-ebay-reference="risky-elements-can-ai-design-around-scarce-elements-ai-bloom-abundance-superintelligence-and-hum-geology-display" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=rare+earth+magnet&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-design-around-scarce-elements-rare-earth-magnet&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rare earth magnet" data-ebay-reference="can-ai-design-around-scarce-elements-rare-earth-magnet" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -832,136 +823,136 @@ For the larger AI-bloom vision, that distinction is significant. A flourishing f
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-025-08628-5](https://www.nature.com/articles/s41586-025-08628-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureA generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — Although MatterGen can be fine-tuned for any com...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements](https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEANew projects, partnerships and policies are needed to...Demand for magnet rare earths – notably neodymium, praseodymium, dysprosium a...</p></details>
+   Link: <a href="https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/new-projects-partnerships-and-policies-are-needed-to-address-supply-chain-risks-for-rare-earth-elements</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New projects, partnerships and policies are needed to...Demand for magnet rare earths – notably neodymium, praseodymium, dysprosium a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0921344924005573](https://www.sciencedirect.com/science/article/pii/S0921344924005573)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRare earth permanent magnets for the green energy...by Y Ghorbani · 2025 · Cited by 111 — This review paper provides an ove...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0921344924005573" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0921344924005573</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare earth permanent magnets for the green energy...by Y Ghorbani · 2025 · Cited by 111 — This review paper provides an ove...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: idtechex.com  
    Title: Global rare earth mining, separation, refining, and magnet production supply  
-   Link: [https://www.idtechex.com/en/research-report/rare-earth-magnets/1112](https://www.idtechex.com/en/research-report/rare-earth-magnets/1112)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDTechExRare Earth Magnets 2026-2036: Technologies, Supply...This report characterizes rare earth magnet markets, technologies, and pla...</p></details>
+   Link: <a href="https://www.idtechex.com/en/research-report/rare-earth-magnets/1112" target="_blank" rel="noopener noreferrer nofollow">https://www.idtechex.com/en/research-report/rare-earth-magnets/1112</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare Earth Magnets 2026-2036: Technologies, Supply...This report characterizes rare earth magnet markets, technologies, and pla...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-025-08628-5_reference.pdf](https://www.nature.com/articles/s41586-025-08628-5_reference.pdf)  
+   Link: <a href="https://www.nature.com/articles/s41586-025-08628-5_reference.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-025-08628-5_reference.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A generative model for inorganic materials designby C Zeni · 2025 · Cited by 679 — MatterGen is also able to design materials given multi...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Matter Gen: a generative model for inorganic materials design  
-   Link: [https://arxiv.org/abs/2312.03687](https://arxiv.org/abs/2312.03687)  
+   Link: <a href="https://arxiv.org/abs/2312.03687" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.03687</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: a generative model for inorganic materials designby C Zeni · 2023 · Cited by 230 — We present MatterGen, a model that generate...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1909.03275](https://arxiv.org/abs/1909.03275)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDesigning rare-earth free permanent magnets in Heusler alloys via interstitial dopingSeptember 7, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1909.03275" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1909.03275</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing rare-earth free permanent magnets in Heusler alloys via interstitial dopingSeptember 7, 2019...</p></details>
    Published: September 7, 2019  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Permanent Magnets Based on Hard Ferrite Ceramics  
-   Link: [https://arxiv.org/abs/2310.02106](https://arxiv.org/abs/2310.02106)  
+   Link: <a href="https://arxiv.org/abs/2310.02106" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2310.02106</a>  
 
 9. <a id="endnote-9"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html](https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/eneeco/v146y2025ics0140988325003202.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcGeopolitical risk and the global supply of rare earth permanby L Depraiter · 2025 · Cited by 47 — This paper delves deep into...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0140988325003202](https://www.sciencedirect.com/science/article/pii/S0140988325003202)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0140988325003202" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0140988325003202</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geopolitical risk and the global supply of rare earth...by L Depraiter · 2025 · Cited by 33 — This paper delves deep into the ramificati...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: microsoft.com  
    Title: mattergen a new paradigm of materials design with generative ai  
-   Link: [https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/](https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/blog/mattergen-a-new-paradigm-of-materials-design-with-generative-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A new paradigm of materials design with...16 Jan 2025 — MatterGen enables a new paradigm of generative AI-assisted materials...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: microsoft.com  
-   Link: [https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/](https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/video/mattergen-a-generative-model-for-materials-design/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MatterGen: A Generative Model for Materials DesignTian Xie introduces MatterGen, a generative model that creates new inorganic materials...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality](https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality)  
+   Link: <a href="https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/commentaries/with-new-export-controls-on-critical-minerals-supply-concentration-risks-become-reality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With new export controls on critical minerals, supply...Oct 23, 2025 — The new rare earth export controls pose major risks for a range o...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/reports/rare-earth-elements/executive-summary](https://www.iea.org/reports/rare-earth-elements/executive-summary)  
+   Link: <a href="https://www.iea.org/reports/rare-earth-elements/executive-summary" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/rare-earth-elements/executive-summary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>summary – Rare Earth Elements – AnalysisIn April 2025, China introduced export controls on seven heavy rare earth elements, related compo...</p></details>
    Published: April 2025  
 
 15. <a id="endnote-15"></a>
    Source: spglobal.com  
    Title: 012726 rare earth supply bottlenecks set to persist in 2026  
-   Link: [https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026](https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026)  
+   Link: <a href="https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.spglobal.com/energy/en/news-research/latest-news/metals/012726-rare-earth-supply-bottlenecks-set-to-persist-in-2026</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>S&amp;P GlobalRare earth supply bottlenecks set to persist in 202627 Jan 2026 — China&#x27;s rare-earth export restrictions are set to drive suppl...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: sheffield.ac.uk  
-   Link: [https://sheffield.ac.uk/royce-institute/impact-and-outreach/impact/case-studies/collaboration-rapidly-develops-rare-earth-free-materials](https://sheffield.ac.uk/royce-institute/impact-and-outreach/impact/case-studies/collaboration-rapidly-develops-rare-earth-free-materials)  
+   Link: <a href="https://sheffield.ac.uk/royce-institute/impact-and-outreach/impact/case-studies/collaboration-rapidly-develops-rare-earth-free-materials" target="_blank" rel="noopener noreferrer nofollow">https://sheffield.ac.uk/royce-institute/impact-and-outreach/impact/case-studies/collaboration-rapidly-develops-rare-earth-free-materials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaboration rapidly develops rare-earth-free materialsWith an initial focus on magnets, the platform has screened well over 100 million...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iuk-business-connect.org.uk  
-   Link: [https://iuk-business-connect.org.uk/wp-content/uploads/2022/06/Final_Magnets-Document_Innovate-UK-KTN.pdf](https://iuk-business-connect.org.uk/wp-content/uploads/2022/06/Final_Magnets-Document_Innovate-UK-KTN.pdf)  
+   Link: <a href="https://iuk-business-connect.org.uk/wp-content/uploads/2022/06/Final_Magnets-Document_Innovate-UK-KTN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iuk-business-connect.org.uk/wp-content/uploads/2022/06/Final_Magnets-Document_Innovate-UK-KTN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK supply chain opportunity in materials for permanent...For high performance applications, which require the highest degree of magnetic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/microsoftresearch/posts/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/1040950821397547/](https://www.facebook.com/microsoftresearch/posts/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/1040950821397547/)  
+   Link: <a href="https://www.facebook.com/microsoftresearch/posts/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/1040950821397547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/microsoftresearch/posts/microsoft-researchers-introduce-mattergen-a-model-that-can-discover-new-material/1040950821397547/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft researchers introduce MatterGen, a model...Microsoft researchers introduce MatterGen, a model that can discover new materials...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sites.lsa.umich.edu  
-   Link: [https://sites.lsa.umich.edu/mje/2026/01/09/market-concentration-of-rare-earth-elements-chinas-dominance-and-the-global-response/](https://sites.lsa.umich.edu/mje/2026/01/09/market-concentration-of-rare-earth-elements-chinas-dominance-and-the-global-response/)  
+   Link: <a href="https://sites.lsa.umich.edu/mje/2026/01/09/market-concentration-of-rare-earth-elements-chinas-dominance-and-the-global-response/" target="_blank" rel="noopener noreferrer nofollow">https://sites.lsa.umich.edu/mje/2026/01/09/market-concentration-of-rare-earth-elements-chinas-dominance-and-the-global-response/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Concentration of Rare Earth Elements: China&#x27;s...Jan 9, 2026 — Now, China&#x27;s position in the rare earth industry allows it to influence gl...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: globalpolicywatch.com  
-   Link: [https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/](https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/)  
+   Link: <a href="https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalpolicywatch.com/2026/02/heavy-rare-earth-elements-rising-supply-chain-risks-and-emerging-policy-responses/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavy Rare Earth Elements: Rising Supply Chain Risks...1 Feb 2026 — In April, export controls were widened to include alloys containing...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: csis.org  
    Title: chinas new rare earth and magnet restrictions threaten us defense supply chains  
-   Link: [https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains](https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains)  
+   Link: <a href="https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains" target="_blank" rel="noopener noreferrer nofollow">https://www.csis.org/analysis/chinas-new-rare-earth-and-magnet-restrictions-threaten-us-defense-supply-chains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s New Rare Earth and Magnet Restrictions Threaten...Oct 9, 2025 — China has imposed its most stringent rare earth and magnet expor...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sfa-oxford.com  
    Title: sfa china s rare earth export controls and their impact on global supply chains  
-   Link: [https://www.sfa-oxford.com/market-news-and-insights/sfa-china-s-rare-earth-export-controls-and-their-impact-on-global-supply-chains/](https://www.sfa-oxford.com/market-news-and-insights/sfa-china-s-rare-earth-export-controls-and-their-impact-on-global-supply-chains/)  
+   Link: <a href="https://www.sfa-oxford.com/market-news-and-insights/sfa-china-s-rare-earth-export-controls-and-their-impact-on-global-supply-chains/" target="_blank" rel="noopener noreferrer nofollow">https://www.sfa-oxford.com/market-news-and-insights/sfa-china-s-rare-earth-export-controls-and-their-impact-on-global-supply-chains/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>China&#x27;s Rare Earth Export Controls: Impact and Western...Oct 10, 2025 — China&#x27;s rare earth export controls shift global power, threaten...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: advisorpedia.com  
-   Link: [https://www.advisorpedia.com/viewpoints/microsofts-mattergen-a-game-changer-in-material-discovery/](https://www.advisorpedia.com/viewpoints/microsofts-mattergen-a-game-changer-in-material-discovery/)  
+   Link: <a href="https://www.advisorpedia.com/viewpoints/microsofts-mattergen-a-game-changer-in-material-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.advisorpedia.com/viewpoints/microsofts-mattergen-a-game-changer-in-material-discovery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft&#x27;s MatterGen: A Game-Changer in Material...Rare-Earth-Free magnets: now can be designed from common elements, wow...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Smz1go6_Spo](https://www.youtube.com/watch?v=Smz1go6_Spo)  
+   Link: <a href="https://www.youtube.com/watch?v=Smz1go6_Spo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Smz1go6_Spo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Project Seminars – Tian Xie &quot;MatterGen: a...Materials Project Seminars – Tian Xie &quot;MatterGen: a generative model for inorganic...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: md-one.com  
    Title: materials nexus discovers new rare earth free magnet using ai algorithm  
-   Link: [https://www.md-one.com/news/materials-nexus-discovers-new-rare-earth-free-magnet-using-ai-algorithm](https://www.md-one.com/news/materials-nexus-discovers-new-rare-earth-free-magnet-using-ai-algorithm)  
+   Link: <a href="https://www.md-one.com/news/materials-nexus-discovers-new-rare-earth-free-magnet-using-ai-algorithm" target="_blank" rel="noopener noreferrer nofollow">https://www.md-one.com/news/materials-nexus-discovers-new-rare-earth-free-magnet-using-ai-algorithm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Nexus discovers new rare-earth-free magnet...12 Jun 2024 — MagNex can be produced at 20% of the material cost and a 70% reduct...</p></details>

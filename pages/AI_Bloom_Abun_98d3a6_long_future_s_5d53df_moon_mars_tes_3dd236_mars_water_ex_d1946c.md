@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /moon-and-mars/
 nav_short_title: Mars Water Systems
 title: Mining and Using Water Ice on Mars for Survival
-title_full: Mining and Using Water Ice on Mars for Survival | Moon and Mars
+title_full: Mining and Using Water Ice on Mars for Survival
 display_title_short: Mars Water Systems
 display_title: Mars Water Systems
 heading_title: Mining and Using Water Ice on Mars for Survival
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are Moon and Mars bases the first step? | Long Future
+date: '2026-06-08 02:07:47'
+parent_title: Are Moon and Mars bases the first step?
 parent_permalink: /moon-and-mars/
 parent_nav_short_title: Moon and Mars
 parent_heading_title: Are Moon and Mars bases the first step?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /lunar-life-support/
   short_title: Lunar Life Support
   heading_title: How Autonomous Systems Sustain Lunar Life Support
-date: '2026-06-08 02:07:47 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-1.webp
@@ -271,16 +271,14 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3d
 
 Establishing a long‑duration human presence on Mars — whether as a research outpost or as an eventual settlement — will hinge on **accessing and using local water resources** rather than hauling everything from Earth. Water on Mars is not just for drinking: it can **supply [life support]({{ 'life-support/' | relative_url }}), support agriculture, and be turned into rocket propellant** and breathable oxygen. Because resupply missions to Mars are immensely costly and delayed by the great distance from Earth, making use of what Mars itself provides is a cornerstone of affordable, sustainable exploration and settlement. This article explains how water ice on Mars can be **found, extracted, purified and used** through in‑situ resource utilisation (ISRU) systems — that is, technologies designed to turn Martian materials into useful products on site, a practical necessity for any long‑term human presence.[NASA]
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-1-dark.svg" | relative_url }}" alt="Mars Water Systems illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Mapping and Accessing Ice Deposits
 
 Mars hosts **significant water ice below its surface**, much of it buried in the shallow subsurface across mid‑latitude regions. Instruments onboard orbiters like NASA’s Mars Reconnaissance Orbiter and Mars Odyssey have detected this buried ice and helped generate maps showing where water ice lies within a few metres of the surface. Scientists use radar and thermal data to estimate distribution and depth, information that planners rely upon when selecting landing sites for early missions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science SWIM Map Shows Subsurface Water Ice on Mars</span><span class="citation-popover-snippet">NASA ScienceSWIM Map Shows Subsurface Water Ice on Mars - NASA ScienceOctober 26, 2023...</span><span class="citation-popover-meta">Published: October 26, 2023</span></span></span>
 
-On the Red Planet, water cannot stably exist as liquid at the surface because the atmosphere is extremely thin; instead, it is **mostly frozen as ice or bound within minerals**, and sometimes present as vapour in the atmosphere. Accessible water near the surface is vital for extraction systems, but these deposits can be intermingled with soil or locked in hydrated minerals, which complicates retrieval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMartian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
+On the Red Planet, water cannot stably exist as liquid at the surface because the atmosphere is extremely thin; instead, it is **mostly frozen as ice or bound within minerals**, and sometimes present as vapour in the atmosphere. Accessible water near the surface is vital for extraction systems, but these deposits can be intermingled with soil or locked in hydrated minerals, which complicates retrieval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
 
-To physically reach water ice, robotic systems or human teams will likely have to **excavate below the surface**, either by digging with mechanical drills or by removing overburden material. Ice may lie from the poles toward mid‑latitudes where temperatures and sunlight make missions more viable. In some regions, orbital data suggest ice could be just a metre or so under the ground, reducing the [energy]({{ 'energy/' | relative_url }}) needed to reach it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)NASA&#x27;s Treasure Map for Water Ice on Mars | NASA Jet Propulsion Laboratory (JPL)December 10, 2019...</span><span class="citation-popover-meta">Published: December 10, 2019</span></span></span> Jet Propulsion Laboratory (JPL
-
+To physically reach water ice, robotic systems or human teams will likely have to **excavate below the surface**, either by digging with mechanical drills or by removing overburden material. Ice may lie from the poles toward mid‑latitudes where temperatures and sunlight make missions more viable. In some regions, orbital data suggest ice could be just a metre or so under the ground, reducing the [energy]({{ 'energy/' | relative_url }}) needed to reach it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jpl.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jpl.nasa.gov</span><span class="citation-popover-snippet">NASA Jet Propulsion Laboratory (JPL)NASA&#x27;s Treasure Map for Water Ice on Mars &#124; NASA Jet Propulsion Laboratory (JPL)December 10, 2019...</span><span class="citation-popover-meta">Published: December 10, 2019</span></span></span> Jet Propulsion Laboratory (JPL
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b7qNSaM_k6s" title="NASA Science Live: Moon to Mars Ice and Prospecting Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b7qNSaM_k6s" target="_blank" rel="noopener noreferrer">NASA Science Live: Moon to Mars Ice and Prospecting Challenge</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 73.0K &middot; Uploaded: September 2021 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b7qNSaM_k6s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b7qNSaM_k6s">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +291,6 @@ Extracting water on Mars means separating it from **regolith (the soil and broke
 
 Once vapour is released, it typically passes through **condensers and filters** that cool and purify the water, removing dust, perchlorates and other contaminants that could harm humans or plants. Water produced in this way will need further treatment to meet standards for drinking or agricultural use, and integrated water purification systems — like those developed under ISRU technology programmes — are central to this step.[NASA]
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-2-dark.svg" | relative_url }}" alt="Mars Water Systems illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Distribution and Life Support Applications
 
@@ -303,24 +300,22 @@ Extracted water becomes the backbone of any habitat’s life support. It can be 
 
 Water is also essential for **thermal regulation** within habitats on Mars. Because temperature swings are extreme, water’s high heat capacity makes it useful for stabilising internal temperatures.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w2hDRnXGUdI" title="ISRU: In-Situ Resource Utilization - From Regolith to Rocket Fuel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w2hDRnXGUdI" target="_blank" rel="noopener noreferrer">ISRU: In-Situ Resource Utilization - From Regolith to Rocket Fuel</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 57.2K &middot; Uploaded: June 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w2hDRnXGUdI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w2hDRnXGUdI">Open on YouTube</a></p></div></div></div>
 
 ### Agriculture and Biological Systems
 
-For growing food, Mars settlers will need reliable water supplies delivered to greenhouses and hydroponic systems. Purified water can support plant growth, allowing crew members to supplement stored food and build more self‑sufficient production. Integrating water extraction with controlled agricultural environments — including humidity [control]({{ 'control/' | relative_url }}) and recycling — will be vital for extending crew endurance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMartian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
+For growing food, Mars settlers will need reliable water supplies delivered to greenhouses and hydroponic systems. Purified water can support plant growth, allowing crew members to supplement stored food and build more self‑sufficient production. Integrating water extraction with controlled agricultural environments — including humidity [control]({{ 'control/' | relative_url }}) and recycling — will be vital for extending crew endurance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
 
 ### Propellant and Oxygen Production
 
-One of the most compelling applications of Martian water is in **rocket propellant production**. Through **electrolysis**, water molecules can be split into hydrogen and oxygen: oxygen for breathing and **as the oxidiser in rocket fuel**, and hydrogen as a fuel component. Combined with carbon dioxide from Mars’ atmosphere, hydrogen can be used in Sabatier reactions to produce methane, a practical fuel for rockets returning to Earth or travelling between Martian orbit and the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMethane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</span><span class="citation-popover-meta">Published: March 31, 2024</span></span></span>
+One of the most compelling applications of Martian water is in **rocket propellant production**. Through **electrolysis**, water molecules can be split into hydrogen and oxygen: oxygen for breathing and **as the oxidiser in rocket fuel**, and hydrogen as a fuel component. Combined with carbon dioxide from Mars’ atmosphere, hydrogen can be used in Sabatier reactions to produce methane, a practical fuel for rockets returning to Earth or travelling between Martian orbit and the surface.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Methane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</span><span class="citation-popover-meta">Published: March 31, 2024</span></span></span>
 
 This capability underpins plans for early Mars missions to **produce return propellant on the planet itself**, a strategy that dramatically reduces launch mass and overall mission cost.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-3-dark.svg" | relative_url }}" alt="Mars Water Systems illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_mars_water_ex_d1946c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Challenges and Integration
 
-While the science of locating and extracting water is advancing, engineering reliable systems for Martian conditions remains challenging. Low temperatures, abrasive dust, thin atmosphere and the need to operate autonomously or with limited [human oversight]({{ 'human-oversight/' | relative_url }}) all complicate design and operations. Moreover, **water may be bound in minerals or exist only in thin atmospheric vapour**, making extraction more energy‑intensive in some locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMartian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
+While the science of locating and extracting water is advancing, engineering reliable systems for Martian conditions remains challenging. Low temperatures, abrasive dust, thin atmosphere and the need to operate autonomously or with limited [human oversight]({{ 'human-oversight/' | relative_url }}) all complicate design and operations. Moreover, **water may be bound in minerals or exist only in thin atmospheric vapour**, making extraction more energy‑intensive in some locations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</span><span class="citation-popover-meta">Published: January 1, 2026</span></span></span>
 
 Strong integration of extraction, purification, storage and distribution systems is vital. A settlement’s water system must **balance local extraction with recycling and reserves** to ensure redundancy and [resilience]({{ 'resilience/' | relative_url }}).
 
@@ -328,9 +323,7 @@ Strong integration of extraction, purification, storage and distribution systems
 
 Within the broader picture of humanity’s long‑term future — including visions of technological abundance and space settlement — **in‑situ water extraction on Mars is a foundational technology**. AI‑enabled systems that can autonomously identify deposits, optimise excavation and manage purification processes will significantly bolster the sustainability of off‑Earth habitation. Extracting water locally reduces logistical bottlenecks, lowers costs, and supports critical functions like fuel production and agriculture, thereby turning Mars from a remote outpost into a more habitable platform for science, exploration and potentially future expansion.[NASA]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WtUU7eYyXME" title="NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WtUU7eYyXME" target="_blank" rel="noopener noreferrer">NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge</a></p><p class="youtube-embed-meta">Channel: NASA 360 &middot; Views: 1.9K &middot; Uploaded: June 2019 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WtUU7eYyXME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WtUU7eYyXME">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -729,155 +722,155 @@ Within the broader picture of humanity’s long‑term future — including visi
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: Overview: In-Situ Resource Utilization  
-   Link: [https://www.nasa.gov/overview-in-situ-resource-utilization/](https://www.nasa.gov/overview-in-situ-resource-utilization/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAOverview: In-Situ Resource Utilization - NASAJuly 26, 2023...</p></details>
+   Link: <a href="https://www.nasa.gov/overview-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/overview-in-situ-resource-utilization/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview: In-Situ Resource Utilization - NASAJuly 26, 2023...</p></details>
    Published: July 26, 2023  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: In-Situ Resource Utilization  
-   Link: [https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/](https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAIn-Situ Resource Utilization - NASA...</p></details>
+   Link: <a href="https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-in-situ-resource-utilization/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization - NASA...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: science.nasa.gov  
    Title: Science SWIM Map Shows Subsurface Water Ice on Mars  
-   Link: [https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/](https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/)  
+   Link: <a href="https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/swim-map-shows-subsurface-water-ice-on-mars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSWIM Map Shows Subsurface Water Ice on Mars - NASA ScienceOctober 26, 2023...</p></details>
    Published: October 26, 2023  
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Title: Science Distribution of Buried Ice on Mars  
-   Link: [https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/](https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/)  
+   Link: <a href="https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/photojournal/distribution-of-buried-ice-on-mars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Buried Ice on Mars - NASA ScienceOctober 26, 2023 — Photojournal Navigation 2 Min Read DISTRIBUTION OF BURIED ICE ON MARS Image: These...</p></details>
    Published: October 26, 2023  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0273117725012864](https://www.sciencedirect.com/science/article/pii/S0273117725012864)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMartian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0273117725012864" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0273117725012864</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Martian Aqua: Occurrence of Water and Appraisal of Acquisition Technologies - ScienceDirectJanuary 1, 2026...</p></details>
    Published: January 1, 2026  
 
 6. <a id="endnote-6"></a>
    Source: jpl.nasa.gov  
-   Link: [https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/](https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/)  
+   Link: <a href="https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/nasas-treasure-map-for-water-ice-on-mars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Jet Propulsion Laboratory (JPL)NASA&#x27;s Treasure Map for Water Ice on Mars | NASA Jet Propulsion Laboratory (JPL)December 10, 2019...</p></details>
    Published: December 10, 2019  
 
 7. <a id="endnote-7"></a>
    Source: techport.nasa.gov  
    Title: Tech Port NASA Tech Port  
-   Link: [https://techport.nasa.gov/projects/93846](https://techport.nasa.gov/projects/93846)  
+   Link: <a href="https://techport.nasa.gov/projects/93846" target="_blank" rel="noopener noreferrer nofollow">https://techport.nasa.gov/projects/93846</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA TechPortNASA TechPort - ProjectDecember 2, 2025...</p></details>
    Published: December 2, 2025  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066](https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA systems approach to reliable and sustainable water utilization for life support in Martian greenhouses leveraging medusae...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2468896726000066</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A systems approach to reliable and sustainable water utilization for life support in Martian greenhouses leveraging medusae...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.00800](https://arxiv.org/abs/2404.00800)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMethane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.00800" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.00800</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Methane and oxygen from energy-efficient, low temperature in situ resource utilization enables missions to MarsMarch 31, 2024...</p></details>
    Published: March 31, 2024  
 
 10. <a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/](https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAJanuary 4, 2024 — ADD-ON TO LARGE-SCALE WATER MINING OPERATIONS ON MARS TO SCREEN FOR INTRODUCED AND ALIEN LIFE Image: The headshot i...</p></details>
+   Link: <a href="https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/large-scale-water-mining-operations-on-mars/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 4, 2024 — ADD-ON TO LARGE-SCALE WATER MINING OPERATIONS ON MARS TO SCREEN FOR INTRODUCED AND ALIEN LIFE Image: The headshot i...</p></details>
    Published: January 4, 2024  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Mars in situ resource utilization: a review  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0032063319301618](https://www.sciencedirect.com/science/article/pii/S0032063319301618)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMarch 1, 2020 — PLANETARY AND SPACE SCIENCE Volume 182, March 2020, 104824 MARS IN SITU RESOURCE UTILIZATION: A REVIEW https...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0032063319301618" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0032063319301618</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 1, 2020 — PLANETARY AND SPACE SCIENCE Volume 182, March 2020, 104824 MARS IN SITU RESOURCE UTILIZATION: A REVIEW https...</p></details>
    Published: March 1, 2020  
 
 12. <a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power](https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANovember 17, 2017 — LOW MASS, LOW POWER, NON-MECHANICAL EXCAVATION OF GYPSUM AND OTHER EVAPORITES FOR WATER PRODUCTION ON MARS Image...</p></details>
+   Link: <a href="https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/stmd/space-tech-research-grants/low-mass-low-[power</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 17, 2017 — LOW MASS, LOW POWER, NON-MECHANICAL EXCAVATION OF GYPSUM AND OTHER EVAPORITES FOR WATER PRODUCTION ON MARS Image...</p></details>
    Published: November 17, 2017  
 
 13. <a id="endnote-13"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20160005963.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In-Situ Resource Utilization for Enabling Sustained Human Presence on Mars - NASA Technical Reports Server (NTRS)April 1, 2016 — Frontier...</p></details>
    Published: April 1, 2016  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0094576517305131](https://www.sciencedirect.com/science/article/pii/S0094576517305131)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectACTA ASTRONAUTICA Volume 138, September 2017, Pages 53-67 MARS COLONY IN SITU RESOURCE UTILIZATION: AN INTEGRATED ARCHITECTU...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576517305131" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576517305131</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACTA ASTRONAUTICA Volume 138, September 2017, Pages 53-67 MARS COLONY IN SITU RESOURCE UTILIZATION: AN INTEGRATED ARCHITECTU...</p></details>
    Published: September 2017  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Living Off the Land in Space: The Power of ISRU  
-   Link: [https://www.youtube.com/watch?v=AVxW65sfY4I](https://www.youtube.com/watch?v=AVxW65sfY4I)  
+   Link: <a href="https://www.youtube.com/watch?v=AVxW65sfY4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AVxW65sfY4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Science Live: Moon to Mars Ice and Prospecting Challenge...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: NASA Science Live: Moon to Mars Ice and Prospecting Challenge  
-   Link: [https://www.youtube.com/watch?v=b7qNSaM_k6s](https://www.youtube.com/watch?v=b7qNSaM_k6s)  
+   Link: <a href="https://www.youtube.com/watch?v=b7qNSaM_k6s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b7qNSaM_k6s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU Technology Developments for Regolith Beneficiation and Water Extraction on [Moon and Mars](&amp;#123;&amp;#123; &#x27;moon-and-mars/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413](https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acssuschemeng.5c02413</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WATER PRODUCTION AND PURIFICATION TECHNOLOGIES Mars harbors abundant water ice and hydrated minerals (such as montmorillonite, gypsum, an...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: orbitcodex.com  
-   Link: [https://orbitcodex.com/knowledge-base/in-situ-resource-utilization](https://orbitcodex.com/knowledge-base/in-situ-resource-utilization)  
+   Link: <a href="https://orbitcodex.com/knowledge-base/in-situ-resource-utilization" target="_blank" rel="noopener noreferrer nofollow">https://orbitcodex.com/knowledge-base/in-situ-resource-utilization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISRU — Living Off the Land in Space | Orbit CodexIN-SITU RESOURCE UTILIZATION ID: n168 In-situ resource utilization (ISRU) extracts and p...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: dl.iafastro.directory  
-   Link: [https://dl.iafastro.directory/event/IAC-2024/paper/81449/](https://dl.iafastro.directory/event/IAC-2024/paper/81449/)  
+   Link: <a href="https://dl.iafastro.directory/event/IAC-2024/paper/81449/" target="_blank" rel="noopener noreferrer nofollow">https://dl.iafastro.directory/event/IAC-2024/paper/81449/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in-Situ resource utilization for sustainable manned exploration of Mars — IAF Digital LibraryWATER IN-SITU RESOURCE UTILIZATION FOR SUSTA...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pureportal.strath.ac.uk  
-   Link: [https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/](https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/)  
+   Link: <a href="https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/" target="_blank" rel="noopener noreferrer nofollow">https://pureportal.strath.ac.uk/en/publications/martian-aqua-occurrence-of-water-and-appraisal-of-acquisition-tec/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inglezakis^{*} ^{*}Corresponding author for this work * Chemical And Process Engineering Research output: Contribu...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: strathprints.strath.ac.uk  
-   Link: [https://strathprints.strath.ac.uk/94675/](https://strathprints.strath.ac.uk/94675/)  
+   Link: <a href="https://strathprints.strath.ac.uk/94675/" target="_blank" rel="noopener noreferrer nofollow">https://strathprints.strath.ac.uk/94675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026) Martian aqua: occurrence of water and appraisal of acquisition technologies. Advances in Space R...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: usgs.gov  
    Title: Ice resource mapping on Mars | U.S  
-   Link: [https://www.usgs.gov/publications/ice-resource-mapping-mars](https://www.usgs.gov/publications/ice-resource-mapping-mars)  
+   Link: <a href="https://www.usgs.gov/publications/ice-resource-mapping-mars" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/publications/ice-resource-mapping-mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geological SurveyApril 28, 2023 — ICE RESOURCE MAPPING ON MARS April 28, 2023 This chapter explains the rationale for considering shallow...</p></details>
    Published: April 28, 2023  
 
 23. <a id="endnote-23"></a>
    Source: paragonsdc.com  
-   Link: [https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/](https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/)  
+   Link: <a href="https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/" target="_blank" rel="noopener noreferrer nofollow">https://www.paragonsdc.com/what-we-do/in-situ-resource-utilization-isru/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The technology development for Paragon’s flagship “system of s...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IrX9FKSwYE0](https://www.youtube.com/watch?v=IrX9FKSwYE0)  
+   Link: <a href="https://www.youtube.com/watch?v=IrX9FKSwYE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IrX9FKSwYE0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Moon to Mars Ice &amp; Prospecting Challenge...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: marspedia.org  
    Title: In-situ resource utilization  
-   Link: [https://marspedia.org/In-situ_resource_utilization](https://marspedia.org/In-situ_resource_utilization)  
+   Link: <a href="https://marspedia.org/In-situ_resource_utilization" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/In-situ_resource_utilization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright R. Heidmann The use of local resources is called in-situ resource utilization or ISRU. This...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: ISRU: In-Situ Resource Utilization  
-   Link: [https://www.youtube.com/watch?v=w2hDRnXGUdI](https://www.youtube.com/watch?v=w2hDRnXGUdI)  
+   Link: <a href="https://www.youtube.com/watch?v=w2hDRnXGUdI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w2hDRnXGUdI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Living Off the Land in Space: The Power of ISRU...</p></details>

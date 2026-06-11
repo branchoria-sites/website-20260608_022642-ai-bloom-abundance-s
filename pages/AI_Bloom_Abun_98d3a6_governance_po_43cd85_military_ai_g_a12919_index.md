@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-governance-po/
 description: Focused pages that expand on Military AI.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919
-parent_title: Military AI | Power
+parent_title: Military AI
 parent_nav_short_title: Military AI
 parent_permalink: /military-ai/
 ---

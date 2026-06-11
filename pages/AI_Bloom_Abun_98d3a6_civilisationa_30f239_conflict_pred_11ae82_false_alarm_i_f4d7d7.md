@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /conflict-ai/
 nav_short_title: False Alarm Impacts
 title: Economic and Social Costs of False Positive Conflict Alerts
-title_full: Economic and Social Costs of False Positive Conflict Alerts | Conflict AI
+title_full: Economic and Social Costs of False Positive Conflict Alerts
 display_title_short: False Alarm Impacts
 display_title: False Alarm Impacts
 heading_title: Economic and Social Costs of False Positive Conflict Alerts
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Conflict Forecasting Helps And When It Fails | Resilience
+date: '2026-06-08 01:58:26'
+parent_title: When Conflict Forecasting Helps And When It Fails
 parent_permalink: /conflict-ai/
 parent_nav_short_title: Conflict AI
 parent_heading_title: When Conflict Forecasting Helps And When It Fails
@@ -260,7 +261,6 @@ next_link:
   permalink: /new-conflict-prediction/
   short_title: New Conflict Prediction
   heading_title: Why AI Struggles to Forecast Emerging Conflicts
-date: '2026-06-08 01:58:26 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-1.webp
@@ -269,17 +269,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11
 
 ## Introduction
 
-Conflict forecasting systems are often presented as tools that can give governments, aid organisations and international institutions more time to prevent violence. In the most optimistic versions of the AI-enabled future, increasingly powerful prediction systems could help societies anticipate crises, coordinate responses and avoid wars that destroy lives, infrastructure and [scientific]({{ 'discovery/' | relative_url }}) progress. Yet prediction systems create a difficult trade-off: reducing the chance of missing a real conflict often increases the number of false alarms.
-
+Conflict forecasting systems are often presented as tools that can give governments, aid organisations and international institutions more time to prevent violence. In the most optimistic versions of the AI-enabled future, increasingly powerful prediction systems could help societies anticipate crises, coordinate responses and avoid wars that destroy lives, infrastructure and scientific progress. Yet prediction systems create a difficult trade-off: reducing the chance of missing a real conflict often increases the number of false alarms.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-1-dark.svg" | relative_url }}" alt="False Alarm Impacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A false positive conflict forecast does not simply produce a technical error on a dashboard. It can affect investment decisions, insurance costs, political behaviour, [public trust]({{ 'public-trust/' | relative_url }}) and security policy. Communities may be labelled as dangerous despite remaining peaceful. Governments may divert resources in response to risks that never materialise. International actors may overreact to statistical warnings. Understanding these costs is essential because conflict forecasting systems are increasingly becoming part of broader efforts to use AI for civilisational [resilience]({{ 'resilience/' | relative_url }}) and long-term human flourishing. A forecasting system that repeatedly generates false alarms can undermine the very trust and coordination that effective prevention depends upon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stabilityjournal.org">[Stability Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stabilityjournal.org</span><span class="citation-popover-snippet">Reflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descriptive review of the...</span></span></span>
+A false positive conflict forecast does not simply produce a technical error on a dashboard. It can affect investment decisions, insurance costs, political behaviour, [public trust]({{ 'public-trust/' | relative_url }}) and security policy. Communities may be labelled as dangerous despite remaining peaceful. Governments may divert resources in response to risks that never materialise. International actors may overreact to statistical warnings. Understanding these costs is essential because conflict forecasting systems are increasingly becoming part of broader efforts to use AI for civilisational [resilience]({{ 'resilience/' | relative_url }}) and long-term human flourishing. A forecasting system that repeatedly generates false alarms can undermine the very trust and coordination that effective prevention depends upon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stabilityjournal.org">[Stability Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stabilityjournal.org</span><span class="citation-popover-snippet">Reflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descriptive review of the...</span></span></span>
 
 ## Why False Alarms Matter Even When Models Are Useful
 
-Conflict prediction systems rarely claim certainty. Most generate probability estimates, highlighting regions where violence appears more likely than usual. The challenge is that armed conflict remains comparatively rare and influenced by unpredictable political decisions. Even a statistically strong model can therefore produce many warnings that never lead to violence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd-opsi.org">[Observatory of Public Sector Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd-opsi.org</span><span class="citation-popover-title">Observatory of Public Sector Innovation Vi EWS</span><span class="citation-popover-snippet">Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — ViEWS is a publicly available dat...</span></span></span>
+Conflict prediction systems rarely claim certainty. Most generate probability estimates, highlighting regions where violence appears more likely than usual. The challenge is that armed conflict remains comparatively rare and influenced by unpredictable political decisions. Even a statistically strong model can therefore produce many warnings that never lead to violence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd-opsi.org">[Observatory of Public Sector Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd-opsi.org</span><span class="citation-popover-title">Observatory of Public Sector Innovation Vi EWS</span><span class="citation-popover-snippet">Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — ViEWS is a publicly available dat...</span></span></span>
 
-Researchers reviewing conflict early-warning systems have noted substantial variation between forecasting models and considerable uncertainty in how risks should be interpreted. Different systems may identify different areas as high-risk, while political actors often struggle to determine how strongly they should respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span>
+Researchers reviewing conflict early-warning systems have noted substantial variation between forecasting models and considerable uncertainty in how risks should be interpreted. Different systems may identify different areas as high-risk, while political actors often struggle to determine how strongly they should respond. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span>
 
 This creates a familiar dilemma seen in many early-warning systems. Lowering the threshold for warnings may catch more genuine dangers but also increases false positives. Raising the threshold reduces unnecessary alarms but risks missing real crises. Similar trade-offs appear in disaster forecasting, financial crisis prediction and other early-warning domains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents1.worldbank.org/curated/en/609951468330279598/pdf/693580ESW0P1230aster0Risk0Reduction.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents1.worldbank.org">[World Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents1.worldbank.org</span><span class="citation-popover-snippet">World BankCosts and benefits of early warning systemsby D Rogers · Cited by 170 — However, with longer lead times comes greater risk of f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecb.europa.eu/events/pdf/conferences/140623/Vasicek-et-al_Comparing-Different-Early-Warning-Systems.pdf?F96bbb525a26071ecf97f9154fb3cc73=" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecb.europa.eu">[European Central Bank]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecb.europa.eu</span><span class="citation-popover-snippet">European Central BankComparing different early warning systemsOver the recent decades researchers in academia and central banks have deve...</span></span></span>
 
@@ -291,10 +290,9 @@ The economic and social consequences of these mistakes are often less visible th
 
 Markets respond not only to actual violence but also to expectations of violence. If a region becomes associated with elevated conflict risk through widely used forecasting tools, investors may become more cautious even if violence never occurs.
 
-Foreign companies considering factories, infrastructure projects or long-term contracts often incorporate political risk assessments into decision-making. Governments, insurers and multinational firms increasingly rely on quantitative forecasting tools when evaluating exposure to instability. A region repeatedly flagged as dangerous may therefore experience reduced investment, higher financing costs or delayed projects despite remaining peaceful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcss.nl">[HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcss.nl</span><span class="citation-popover-title">Conflict Early Warning Systems HCSS 2022</span><span class="citation-popover-snippet">HCSSPractices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</span></span></span>
+Foreign companies considering factories, infrastructure projects or long-term contracts often incorporate political risk assessments into decision-making. Governments, insurers and multinational firms increasingly rely on quantitative forecasting tools when evaluating exposure to instability. A region repeatedly flagged as dangerous may therefore experience reduced investment, higher financing costs or delayed projects despite remaining peaceful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcss.nl">[HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcss.nl</span><span class="citation-popover-title">Conflict Early Warning Systems HCSS 2022</span><span class="citation-popover-snippet">Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</span></span></span>
 
 The mechanism is straightforward:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -312,12 +310,11 @@ Unlike visible physical destruction from war, these costs appear as opportunitie
 
 False alarms can also become embedded in narratives about a place.
 
-Regions already associated with instability often struggle against international perceptions that they are permanently risky. If [predictive]({{ 'failure-warnings/' | relative_url }}) systems repeatedly classify such areas as future conflict hotspots, forecasts can reinforce existing stereotypes rather than merely describe objective risk.
+Regions already associated with instability often struggle against international perceptions that they are permanently risky. If predictive systems repeatedly classify such areas as future conflict hotspots, forecasts can reinforce existing stereotypes rather than merely describe objective risk.
 
 This matters because economic expectations are partly social. International lenders, development agencies and corporations often learn about distant regions through reports, rankings and risk assessments rather than direct experience. Once a place becomes known as a likely future conflict zone, reversing that reputation may take years even if forecasts prove wrong.
 
 For lower-income countries attempting to attract investment and develop modern industries, reputational effects can have lasting consequences. The result may be slower economic development in precisely the places where growth and employment could help reduce future conflict risks.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0I0BAVJRxas" title="A Multi-Risk, AI, and Simulation-Based Scenario Planning Platform for Anticipatory Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0I0BAVJRxas" target="_blank" rel="noopener noreferrer">A Multi-Risk, AI, and Simulation-Based Scenario Planning Platform for Anticipatory Action</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 243 &middot; Uploaded: October 2023 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0I0BAVJRxas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0I0BAVJRxas">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +329,6 @@ When residents repeatedly hear that their area is supposedly on the brink of vio
 Researchers examining early-warning systems have repeatedly identified trust and communication as central challenges. Warning systems are not merely technical instruments; they operate within political and social environments where legitimacy matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gppac.net">[gppac.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gppac.net</span><span class="citation-popover-snippet">September 27, 2006 — by A Matveeva · Cited by 80 — This paper is the first in the series of studies into issues in conflict prevention an...</span><span class="citation-popover-meta">Published: September 27, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: assets.publishing.service.gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">assets.publishing.service.gov.uk</span><span class="citation-popover-snippet">early warning and early responseby B Rohwerder · 2015 · Cited by 17 — Linking warning and response: The biggest challenge for conflict ea...</span></span></span>
 
 Trust can be damaged in several ways:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -355,13 +351,12 @@ In fragile political systems, such effects may deepen existing tensions rather t
 
 This risk becomes particularly important as AI systems gain greater authority. Statistical outputs often appear objective, even when they contain substantial uncertainty. Policymakers may treat machine-generated warnings as neutral facts rather than probabilistic assessments with significant margins of error.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-2-dark.svg" | relative_url }}" alt="False Alarm Impacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Legitimacy Problem for AI Governance
 
-The broader AI-bloom vision often depends on societies becoming better at coordination, forecasting and long-term planning. Yet false alarms highlight a deeper challenge: prediction alone does not automatically improve [governance]({{ 'power/' | relative_url }}).
+The broader AI-bloom vision often depends on societies becoming better at coordination, forecasting and long-term planning. Yet false alarms highlight a deeper challenge: prediction alone does not automatically improve governance.
 
-A forecasting system can be technically sophisticated while still damaging [institutional]({{ 'institutional-gaps/' | relative_url }}) legitimacy if people perceive it as opaque, inaccurate or unfair. Reviews of conflict early-warning systems have repeatedly found that transparency and accessibility remain important weaknesses. Communities and decision-makers often struggle to understand how warnings are generated or how much confidence they should place in them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span>
+A forecasting system can be technically sophisticated while still damaging institutional legitimacy if people perceive it as opaque, inaccurate or unfair. Reviews of conflict early-warning systems have repeatedly found that transparency and accessibility remain important weaknesses. Communities and decision-makers often struggle to understand how warnings are generated or how much confidence they should place in them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span>
 
 For AI systems intended to support civilisation-scale decision-making, maintaining trust may be as important as improving predictive accuracy.
 
@@ -377,7 +372,6 @@ Conflict prevention literature has long recognised that [early warning]({{ 'earl
 
 Potential unintended effects include:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Increased perceptions of state repression.
@@ -390,7 +384,6 @@ Potential unintended effects include:
 
 In extreme cases, a response triggered by a false warning can alter behaviour in ways that make instability more likely than it was before.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mj6JD_hnrhQ" title="Lightning Talk: Early-warning Systems for Political Violence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mj6JD_hnrhQ" target="_blank" rel="noopener noreferrer">Lightning Talk: Early-warning Systems for Political Violence</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 106 &middot; Uploaded: January 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mj6JD_hnrhQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mj6JD_hnrhQ">Open on YouTube</a></p></div></div></div>
 
 ### Feedback Loops Between Predictions and Reality
@@ -400,7 +393,6 @@ Conflict forecasts are unusual because they can influence the systems they are t
 A weather forecast does not usually change the weather itself. Political forecasts, by contrast, can affect human behaviour. Governments, armed groups, investors and citizens may all react to warnings.
 
 This creates the possibility of feedback loops:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -415,7 +407,6 @@ This creates the possibility of feedback loops:
 The forecast may therefore become part of the causal environment it seeks to analyse.
 
 As predictive systems become more powerful and widely adopted, these reflexive effects may become increasingly important. The challenge is not merely predicting human behaviour but predicting how humans will respond to predictions.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-3-dark.svg" | relative_url }}" alt="False Alarm Impacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_false_alarm_i_f4d7d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Cost of Alert Fatigue
@@ -440,20 +431,19 @@ Several approaches appear increasingly important:
 * **Transparent methodologies** that allow users to understand how forecasts are produced.
 * **[Human oversight]({{ 'human-oversight/' | relative_url }})** combining local expertise with statistical outputs.
 * **Multiple independent models** rather than reliance on a single forecast.
-* **Careful response planning** that emphasises proportionate preventive measures rather than heavy-handed interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcss.nl">[HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcss.nl</span><span class="citation-popover-title">Conflict Early Warning Systems HCSS 2022</span><span class="citation-popover-snippet">HCSSPractices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</span></span></span>
+* **Careful response planning** that emphasises proportionate preventive measures rather than heavy-handed interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcss.nl">[HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcss.nl</span><span class="citation-popover-title">Conflict Early Warning Systems HCSS 2022</span><span class="citation-popover-snippet">Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</span></span></span>
 
 Many researchers argue that forecasting systems should support human judgement rather than replace it. A model may identify elevated risk, but decisions about resource allocation, diplomacy or security responses still require political and contextual understanding.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ocEKE9mKFGE" title="Early warning, early and anticipatory action in humanitarian settings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ocEKE9mKFGE" target="_blank" rel="noopener noreferrer">Early warning, early and anticipatory action in humanitarian settings</a></p><p class="youtube-embed-meta">Channel: Climate and Environment Charter Secretariat &middot; Views: 71 &middot; Uploaded: April 2026 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ocEKE9mKFGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ocEKE9mKFGE">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for an AI-Enabled Long-Term Future
 
-Within the wider debate about AI and humanity's long-term future, conflict forecasting illustrates both the promise and the difficulty of predictive intelligence.
+Within the wider debate about AI and humanity's long-term future, conflict forecasting illustrates both the promise and the difficulty of predictive [intelligence]({{ 'intelligence/' | relative_url }}).
 
 The optimistic case is compelling. More accurate forecasting could help prevent wars, reduce displacement, protect scientific institutions and preserve the social stability needed for long-term human flourishing. A civilisation capable of anticipating crises more effectively may be better able to coordinate around shared challenges and avoid catastrophic breakdowns.
 
-False alarms reveal the other side of the equation. Prediction systems operate inside human societies, where expectations, trust and political incentives matter. A technically impressive model can still produce economic losses, social distrust and counterproductive interventions if its outputs are interpreted poorly or acted upon without caution.
+False alarms reveal the other side of the equation. Prediction systems operate inside human societies, where expectations, trust and [political incentives]({{ 'political-incentives/' | relative_url }}) matter. A technically impressive model can still produce economic losses, social distrust and counterproductive interventions if its outputs are interpreted poorly or acted upon without caution.
 
 The lesson is broader than conflict forecasting alone. As AI systems become more involved in forecasting risks ranging from political instability to pandemics, climate shocks and economic crises, their value will depend not only on predictive accuracy but also on governance. The future benefits of advanced AI may rely as much on designing institutions that handle uncertainty wisely as on improving the algorithms themselves. Predictions can expand humanity's capacity to anticipate danger, but only if societies learn how to respond without turning every warning into a new source of risk.
 
@@ -853,118 +843,118 @@ The lesson is broader than conflict forecasting alone. As AI systems become more
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169207023000018](https://www.sciencedirect.com/science/article/pii/S0169207023000018)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169207023000018</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — We review and compare conflict ear...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: hcss.nl  
    Title: Conflict Early Warning Systems HCSS 2022  
-   Link: [https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf](https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HCSSPractices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</p></details>
+   Link: <a href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: gppac.net  
-   Link: [https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf](https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf)  
+   Link: <a href="https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 27, 2006 — by A Matveeva · Cited by 80 — This paper is the first in the series of studies into issues in conflict prevention an...</p></details>
    Published: September 27, 2006  
 
 4. <a id="endnote-4"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf](https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>early warning and early responseby B Rohwerder · 2015 · Cited by 17 — Linking warning and response: The biggest challenge for conflict ea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: lse.ac.uk  
    Title: wp49.2conflict early warning and response mechanisms  
-   Link: [https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf](https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf)  
+   Link: <a href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Conflict early warning and response&#x27; (EWR) was conceived as a means of preventing violent conflict in order to protect...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: stamus-networks.com  
    Title: Learn how false positives contribute to alert fatigue and how to prevent  
-   Link: [https://www.stamus-networks.com/blog/the-hidden-risks-of-false-positives-how-to-prevent-alert-fatigue-in-your-organization](https://www.stamus-networks.com/blog/the-hidden-risks-of-false-positives-how-to-prevent-alert-fatigue-in-your-organization)  
+   Link: <a href="https://www.stamus-networks.com/blog/the-hidden-risks-of-false-positives-how-to-prevent-alert-fatigue-in-your-organization" target="_blank" rel="noopener noreferrer nofollow">https://www.stamus-networks.com/blog/the-hidden-risks-of-false-positives-how-to-prevent-alert-fatigue-in-your-organization</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stamus NetworksThe Hidden Risks of False Positives: How to Prevent Alert...7 Mar 2023 — Alert fatigue is one of the leading factors in s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: threatintelligence.com  
    Title: false positives  
-   Link: [https://www.threatintelligence.com/blog/false-positives](https://www.threatintelligence.com/blog/false-positives)  
+   Link: <a href="https://www.threatintelligence.com/blog/false-positives" target="_blank" rel="noopener noreferrer nofollow">https://www.threatintelligence.com/blog/false-positives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Holding Your Security Back21 Apr 2023 — False positives are a common frustration for security teams, and can undermine the credibilit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: stabilityjournal.org  
-   Link: [https://stabilityjournal.org/articles/10.5334/sta.857](https://stabilityjournal.org/articles/10.5334/sta.857)  
+   Link: <a href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow">https://stabilityjournal.org/articles/10.5334/sta.857</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descriptive review of the...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oecd-opsi.org  
    Title: Observatory of Public Sector Innovation Vi EWS  
-   Link: [https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/](https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/)  
+   Link: <a href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — ViEWS is a publicly available dat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: documents1.worldbank.org  
-   Link: [https://documents1.worldbank.org/curated/en/609951468330279598/pdf/693580ESW0P1230aster0Risk0Reduction.pdf](https://documents1.worldbank.org/curated/en/609951468330279598/pdf/693580ESW0P1230aster0Risk0Reduction.pdf)  
+   Link: <a href="https://documents1.worldbank.org/curated/en/609951468330279598/pdf/693580ESW0P1230aster0Risk0Reduction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents1.worldbank.org/curated/en/609951468330279598/pdf/693580ESW0P1230aster0Risk0Reduction.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World BankCosts and benefits of early warning systemsby D Rogers · Cited by 170 — However, with longer lead times comes greater risk of f...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ecb.europa.eu  
-   Link: [https://www.ecb.europa.eu/events/pdf/conferences/140623/Vasicek-et-al_Comparing-Different-Early-Warning-Systems.pdf?F96bbb525a26071ecf97f9154fb3cc73=](https://www.ecb.europa.eu/events/pdf/conferences/140623/Vasicek-et-al_Comparing-Different-Early-Warning-Systems.pdf?F96bbb525a26071ecf97f9154fb3cc73=)  
+   Link: <a href="https://www.ecb.europa.eu/events/pdf/conferences/140623/Vasicek-et-al_Comparing-Different-Early-Warning-Systems.pdf?F96bbb525a26071ecf97f9154fb3cc73=" target="_blank" rel="noopener noreferrer nofollow">https://www.ecb.europa.eu/events/pdf/conferences/140623/Vasicek-et-al_Comparing-Different-Early-Warning-Systems.pdf?F96bbb525a26071ecf97f9154fb3cc73=</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Central BankComparing different early warning systemsOver the recent decades researchers in academia and central banks have deve...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/377013074_Conflict_Early_Warning_Systems](https://www.researchgate.net/publication/377013074_Conflict_Early_Warning_Systems)  
+   Link: <a href="https://www.researchgate.net/publication/377013074_Conflict_Early_Warning_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377013074_Conflict_Early_Warning_Systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conflict Early Warning SystemsConflict Early Warning Systems, or CEWS, are our first example of a sustained systematic PeaceTech in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/327344292_Early_warning_system_in_business_finance_and_economics_Bibliometric_and_topic_analysis](https://www.researchgate.net/publication/327344292_Early_warning_system_in_business_finance_and_economics_Bibliometric_and_topic_analysis)  
+   Link: <a href="https://www.researchgate.net/publication/327344292_Early_warning_system_in_business_finance_and_economics_Bibliometric_and_topic_analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327344292_Early_warning_system_in_business_finance_and_economics_Bibliometric_and_topic_analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Early warning system in business, finance, and economics1 May 2026 — Early warning systems are used primary for detecting crises before d...</p></details>
    Published: May 2026  
 
 14. <a id="endnote-14"></a>
    Source: checkpoint.com  
-   Link: [https://www.checkpoint.com/cyber-hub/cyber-security/understanding-false-positives-in-cybersecurity/](https://www.checkpoint.com/cyber-hub/cyber-security/understanding-false-positives-in-cybersecurity/)  
+   Link: <a href="https://www.checkpoint.com/cyber-hub/cyber-security/understanding-false-positives-in-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.checkpoint.com/cyber-hub/cyber-security/understanding-false-positives-in-cybersecurity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding False Positives in CybersecurityFalse positives in cybersecurity are when a company&#x27;s cybersecurity system identifies a sus...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy do healthcare professionals fail to escalate as per  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7842002/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7842002/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby SM O’Neill · 2021 · Cited by 94 — Early recognition of clinical deterioration, followed by prompt and effective action, can minimis...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7842002/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7842002/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by SM O’Neill · 2021 · Cited by 94 — Early recognition of clinical deterioration, followed by prompt and effective action, can minimis...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: clingendael.org  
-   Link: [https://www.clingendael.org/sites/default/files/pdfs/19960000_cru_paper.pdf](https://www.clingendael.org/sites/default/files/pdfs/19960000_cru_paper.pdf)  
+   Link: <a href="https://www.clingendael.org/sites/default/files/pdfs/19960000_cru_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.clingendael.org/sites/default/files/pdfs/19960000_cru_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the existence of “early warning” mechanisms in various security organizations...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ukdataservice.ac.uk  
    Title: comparing early warning systems for banking crises  
-   Link: [https://ukdataservice.ac.uk/case-study/comparing-early-warning-systems-for-banking-crises/](https://ukdataservice.ac.uk/case-study/comparing-early-warning-systems-for-banking-crises/)  
+   Link: <a href="https://ukdataservice.ac.uk/case-study/comparing-early-warning-systems-for-banking-crises/" target="_blank" rel="noopener noreferrer nofollow">https://ukdataservice.ac.uk/case-study/comparing-early-warning-systems-for-banking-crises/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Sept 2006 — We developed econometric models using statistical software and IMF and World Bank data to generate probabilities of bankin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: stormshield.com  
    Title: the issue of false positives in cybersecurity  
-   Link: [https://www.stormshield.com/news/the-issue-of-false-positives-in-cybersecurity/](https://www.stormshield.com/news/the-issue-of-false-positives-in-cybersecurity/)  
+   Link: <a href="https://www.stormshield.com/news/the-issue-of-false-positives-in-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.stormshield.com/news/the-issue-of-false-positives-in-cybersecurity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>False positives: detection and protection26 Sept 2023 — A false positive is a false alert, notification or reaction to a situation resemb...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: learn.microsoft.com  
-   Link: [https://learn.microsoft.com/en-us/defender-for-identity/understanding-security-alerts](https://learn.microsoft.com/en-us/defender-for-identity/understanding-security-alerts)  
+   Link: <a href="https://learn.microsoft.com/en-us/defender-for-identity/understanding-security-alerts" target="_blank" rel="noopener noreferrer nofollow">https://learn.microsoft.com/en-us/defender-for-identity/understanding-security-alerts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Manage security alerts10 Jun 2025 — In the Microsoft Defender portal, go to Incidents &amp; alerts and then to Alerts...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40tahirbalarabe2/how-to-reduce-false-positive-alerts-in-threat-detection-sharpening-security-detections-d8382b93915a](https://medium.com/%40tahirbalarabe2/how-to-reduce-false-positive-alerts-in-threat-detection-sharpening-security-detections-d8382b93915a)  
+   Link: <a href="https://medium.com/%40tahirbalarabe2/how-to-reduce-false-positive-alerts-in-threat-detection-sharpening-security-detections-d8382b93915a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40tahirbalarabe2/how-to-reduce-false-positive-alerts-in-threat-detection-sharpening-security-detections-d8382b93915a</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST. False positives are like car alarms in a bad...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: alnap.org  
    Title: early warning and response to violent conflict eng  
-   Link: [https://alnap.org/documents/13642/early-warning-and-response-to-violent-conflict---eng.pdf](https://alnap.org/documents/13642/early-warning-and-response-to-violent-conflict---eng.pdf)  
+   Link: <a href="https://alnap.org/documents/13642/early-warning-and-response-to-violent-conflict---eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://alnap.org/documents/13642/early-warning-and-response-to-violent-conflict---eng.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It functions to predict conflict trends, alert communities of risk, inform decision- making...Read more...</p></details>

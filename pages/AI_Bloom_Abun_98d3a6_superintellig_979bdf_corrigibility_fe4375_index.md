@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig/
 description: Focused pages that expand on Shutdown Risk.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_979bdf_corrigibility_fe4375
-parent_title: Shutdown Risk | Control
+parent_title: Shutdown Risk
 parent_nav_short_title: Shutdown Risk
 parent_permalink: /shutdown-risk/
 ---

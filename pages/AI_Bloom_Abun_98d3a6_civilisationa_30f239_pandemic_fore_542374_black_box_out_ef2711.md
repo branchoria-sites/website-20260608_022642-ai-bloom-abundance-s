@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /pandemic-ai/
 nav_short_title: Black Box AI
 title: Can Officials Trust AI They Cannot Fully Explain?
-title_full: Can Officials Trust AI They Cannot Fully Explain? | Pandemic AI
+title_full: Can Officials Trust AI They Cannot Fully Explain?
 display_title_short: Black Box AI
 display_title: Black Box AI
 heading_title: Can Officials Trust AI They Cannot Fully Explain?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Really Warn US Before the Next Pandemic? | Resilience
+date: '2026-06-08 01:59:12'
+parent_title: Can AI Really Warn US Before the Next Pandemic?
 parent_permalink: /pandemic-ai/
 parent_nav_short_title: Pandemic AI
 parent_heading_title: Can AI Really Warn US Before the Next Pandemic?
@@ -260,7 +261,6 @@ next_link:
   permalink: /data-failures/
   short_title: Data Failures
   heading_title: Can Pandemic AI Work With Incomplete Data?
-date: '2026-06-08 01:59:12 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1.webp
@@ -271,24 +271,23 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 
 Public health agencies should not automatically trust black-box outbreak models, but neither should they reject them simply because they are difficult to explain. The practical question is not whether an AI system is perfectly interpretable. It is whether officials can understand enough about its strengths, limits, uncertainty, and failure modes to use it responsibly when lives and resources are at stake.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-dark.svg" | relative_url }}" alt="Black Box AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because outbreak forecasting is becoming more ambitious. Deep learning systems can detect subtle patterns across mobility data, hospital records, weather signals, genomic information, news reports, and online behaviour. In some cases they have improved short-term forecasting and provided earlier warning signals than traditional surveillance alone. Yet many of the most powerful systems operate as statistical black boxes whose internal reasoning is difficult even for their creators to interpret. Public-health leaders therefore face a dilemma: ignore potentially valuable warnings, or act on forecasts they cannot fully explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCenter for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span>
+This matters because outbreak forecasting is becoming more ambitious. Deep learning systems can detect subtle patterns across mobility data, hospital records, weather signals, genomic information, news reports, and online behaviour. In some cases they have improved short-term forecasting and provided earlier warning signals than traditional surveillance alone. Yet many of the most powerful systems operate as statistical black boxes whose internal reasoning is difficult even for their creators to interpret. Public-health leaders therefore face a dilemma: ignore potentially valuable warnings, or act on forecasts they cannot fully explain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span>
 
-Within the broader discussion of AI-enabled civilisational [resilience]({{ 'resilience/' | relative_url }}), this debate sits at the boundary between capability and [governance]({{ 'power/' | relative_url }}). Better forecasting could help societies detect and contain outbreaks earlier, reducing mortality and economic disruption. But if agencies become dependent on opaque systems they do not understand, forecasting tools can create new risks alongside new capabilities.
+Within the broader discussion of AI-enabled civilisational [resilience]({{ 'resilience/' | relative_url }}), this debate sits at the boundary between capability and governance. Better forecasting could help societies detect and contain outbreaks earlier, reducing mortality and economic disruption. But if agencies become dependent on opaque systems they do not understand, forecasting tools can create new risks alongside new capabilities.
 
 ## Why Deep Learning Forecasts Are Hard to Interpret
 
 Traditional epidemiological models often expose their assumptions. A researcher can usually explain how infection rates, contact patterns, immunity, or population movement contribute to a forecast. Deep learning models work differently.
 
-Modern neural networks may absorb enormous quantities of information and identify correlations that no human analyst would notice. Their forecasts emerge from millions or billions of internal parameters rather than a transparent chain of reasoning. Even when the prediction is accurate, it may be difficult to answer a simple question: why did the model expect a surge in cases three weeks from now? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMedical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCUnbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
+Modern neural networks may absorb enormous quantities of information and identify correlations that no human analyst would notice. Their forecasts emerge from millions or billions of internal parameters rather than a transparent chain of reasoning. Even when the prediction is accurate, it may be difficult to answer a simple question: why did the model expect a surge in cases three weeks from now? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
 
 This opacity creates several distinct problems:
 
 * **[Verification]({{ 'verification/' | relative_url }}) becomes harder.** Officials cannot easily check whether the model is relying on sensible epidemiological signals or accidental correlations.
 * **Errors become harder to diagnose.** When forecasts fail, it may be unclear whether the problem came from poor data, changing disease dynamics, or flaws in the model itself.
 * **Novel situations expose weaknesses.** Models trained on historical outbreaks may struggle when a pathogen behaves differently from anything in their training data.
-* **Public communication becomes more difficult.** Leaders may have to justify costly interventions without being able to explain exactly how a forecast was generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectMedical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phgfoundation.org">[PHG Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phgfoundation.org</span><span class="citation-popover-snippet">Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</span></span></span>
+* **Public communication becomes more difficult.** Leaders may have to justify costly interventions without being able to explain exactly how a forecast was generated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Medical artificial intelligence and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phgfoundation.org">[PHG Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phgfoundation.org</span><span class="citation-popover-snippet">Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</span></span></span>
 
 The problem is not unique to outbreak forecasting. Similar debates have emerged across medicine, where highly accurate systems sometimes remain difficult to interpret. Researchers increasingly describe trust, accountability, and explainability as major barriers to operational deployment. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span>
 
@@ -302,10 +301,9 @@ However, public-health decisions differ from many commercial prediction tasks.
 
 A retailer can quietly adjust inventory if an algorithm makes a mistake. A health ministry may impose travel restrictions, redirect vaccines, close schools, or issue emergency warnings affecting millions of people. The threshold for trust is therefore higher.
 
-Officials often need more than a prediction. They need confidence that the forecast remains reliable when conditions change. They need to know whether uncertainty is growing. They need to identify which assumptions matter most. Pure [predictive]({{ 'failure-warnings/' | relative_url }}) performance on historical benchmarks may not answer these questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">IRISWhether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
+Officials often need more than a prediction. They need confidence that the forecast remains reliable when conditions change. They need to know whether uncertainty is growing. They need to identify which assumptions matter most. Pure predictive performance on historical benchmarks may not answer these questions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
 
 This is especially important because outbreak forecasting frequently operates under conditions that differ from the past. The most valuable warning is often the one about an emerging threat that has never been seen before.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5-nVT5sWJI4" title="Enhancing Long-Term Forecasting: Learning from COVID-19 Models" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5-nVT5sWJI4" target="_blank" rel="noopener noreferrer">Enhancing Long-Term Forecasting: Learning from COVID-19 Models</a></p><p class="youtube-embed-meta">Channel: The Foundations of Biomedical Data Science &middot; Views: 246 &middot; Uploaded: January 2023 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5-nVT5sWJI4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5-nVT5sWJI4">Open on YouTube</a></p></div></div></div>
 
@@ -313,10 +311,9 @@ This is especially important because outbreak forecasting frequently operates un
 
 One of the most important governance lessons from COVID-19 is that agencies rarely relied on a single forecasting system.
 
-The US COVID-19 Forecast Hub collected forecasts from dozens of modelling teams using different methods, assumptions, and data sources. Rather than treating any one model as authoritative, forecasters increasingly combined predictions into ensemble forecasts designed to reduce individual model errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: covid19forecasthub.org">[COVID-19 Forecast Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">covid19forecasthub.org</span><span class="citation-popover-snippet">COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</span></span></span> Nature This approach reflects a deeper institutional reality: public-health agencies generally trust forecasting systems more when they can compare <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NaturePersonalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span> them against competing models.
+The US COVID-19 Forecast Hub collected forecasts from dozens of modelling teams using different methods, assumptions, and data sources. Rather than treating any one model as authoritative, forecasters increasingly combined predictions into ensemble forecasts designed to reduce individual model errors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: covid19forecasthub.org">[COVID-19 Forecast Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">covid19forecasthub.org</span><span class="citation-popover-snippet">COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</span></span></span> Nature This approach reflects a deeper institutional reality: public-health agencies generally trust forecasting systems more when they can compare <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span> them against competing models.
 
 A black-box model that produces strong forecasts can still be useful if:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -329,7 +326,7 @@ A black-box model that produces strong forecasts can still be useful if:
 
 In practice, agencies often place more trust in a system that has repeatedly demonstrated reliable performance than in one that merely offers elegant explanations.
 
-Yet the COVID period also showed how rapidly forecasting accuracy can degrade when behaviour changes, new variants emerge, testing patterns shift, or policy interventions alter transmission dynamics. Models that performed well during one phase of a pandemic sometimes struggled during another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NaturePersonalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
+Yet the COVID period also showed how rapidly forecasting accuracy can degrade when behaviour changes, new variants emerge, testing patterns shift, or policy interventions alter transmission dynamics. Models that performed well during one phase of a pandemic sometimes struggled during another. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
 
 The lesson is not that forecasting failed. It is that outbreak prediction remains inherently uncertain, and sophisticated AI does not eliminate that uncertainty.
 
@@ -341,18 +338,17 @@ If an agency acts on an AI warning that later proves wrong, who is responsible?
 
 Possible answers include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The software developer.
 * The forecasting team.
-* Public-health officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCenter for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span>
+* Public-health officials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span>
 * Political leaders.
 * Nobody in particular.
 
 </div>
 
-This ambiguity becomes dangerous when decisions carry major social consequences. Trust in public-health institutions depends partly on their ability to explain why actions were taken. An unexplained [algorithmic]({{ 'algorithmic-risks/' | relative_url }}) recommendation can weaken that legitimacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">IRISWhether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
+This ambiguity becomes dangerous when decisions carry major social consequences. Trust in public-health institutions depends partly on their ability to explain why actions were taken. An unexplained algorithmic recommendation can weaken that legitimacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span>
 
 The World Health Organization has repeatedly emphasised that AI systems in health should support, rather than replace, human decision-making. Its governance guidance stresses human autonomy, accountability, transparency, safety, and public interest as core principles for AI deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
@@ -360,14 +356,12 @@ For outbreak response, this suggests a practical rule: officials should remain a
 
 That principle may sound obvious, but it has important consequences. Agencies must maintain enough internal expertise to challenge forecasts rather than simply accepting them. Otherwise responsibility becomes symbolic rather than real.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-dark.svg" | relative_url }}" alt="Black Box AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explainable AI Helps, But It Does Not Fully Solve the Problem
 
-Researchers have invested heavily in explainable AI, often called XAI. These methods attempt to reveal which variables influenced a prediction or identify patterns driving a model's conclusions. Techniques such as SHAP values, feature attribution methods, and attention visualisations are increasingly used in healthcare AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy of US CDC COVID-19 forecasting models</span><span class="citation-popover-snippet">PMCby A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</span></span></span>
+Researchers have invested heavily in explainable AI, often called XAI. These methods attempt to reveal which variables influenced a prediction or identify patterns driving a model's conclusions. Techniques such as SHAP values, feature attribution methods, and attention visualisations are increasingly used in healthcare AI. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAccuracy of US CDC COVID-19 forecasting models</span><span class="citation-popover-snippet">by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</span></span></span>
 
 Explainability can improve trust in several ways:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -380,10 +374,9 @@ Explainability can improve trust in several ways:
 
 However, explainability has limits.
 
-A system may produce convincing explanations that are only partial descriptions of what the model is actually doing. Some researchers argue that post-hoc explanations can create an illusion of understanding rather than genuine transparency. Even highly interpretable visualisations do not necessarily guarantee that a model will behave reliably under new conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCUnbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
+A system may produce convincing explanations that are only partial descriptions of what the model is actually doing. Some researchers argue that post-hoc explanations can create an illusion of understanding rather than genuine transparency. Even highly interpretable visualisations do not necessarily guarantee that a model will behave reliably under new conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livrepository.liverpool.ac.uk">[University of Liverpool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livrepository.liverpool.ac.uk</span><span class="citation-popover-snippet">University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</span></span></span>
 
 For that reason, many public-health experts increasingly treat explainability as one component of trustworthiness rather than a complete solution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7c8K7FQwD4Q" title="Presentation on Enhancing Long-term Forecasting: Learning from COVID-19 Models - Health SIG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7c8K7FQwD4Q" target="_blank" rel="noopener noreferrer">Presentation on Enhancing Long-term Forecasting: Learning from COVID-19 Models - Health SIG</a></p><p class="youtube-embed-meta">Channel: System Dynamics Society &middot; Views: 235 &middot; Uploaded: April 2022 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7c8K7FQwD4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7c8K7FQwD4Q">Open on YouTube</a></p></div></div></div>
 
@@ -392,7 +385,6 @@ For that reason, many public-health experts increasingly treat explainability as
 The strongest case for using opaque forecasting systems appears in relatively narrow situations.
 
 These include:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -404,7 +396,7 @@ These include:
 
 </div>
 
-In these settings, agencies can compare forecasts against known outcomes and continuously measure performance. The consequences of individual prediction errors may also be easier to manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span> Nature The weakest case for reliance emerges when: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NaturePersonalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
+In these settings, agencies can compare forecasts against known outcomes and continuously measure performance. The consequences of individual prediction errors may also be easier to manage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publichealthaihandbook.com">[Public Health AI Handbook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publichealthaihandbook.com</span><span class="citation-popover-title">Public Health AI Handbook Epidemic Forecasting with AI</span><span class="citation-popover-snippet">COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</span></span></span> Nature The weakest case for reliance emerges when: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</span></span></span>
 
 * A pathogen is genuinely novel.
 * Data quality is poor.
@@ -414,7 +406,6 @@ In these settings, agencies can compare forecasts against known outcomes and con
 
 The same model that provides useful guidance for seasonal influenza may be far less trustworthy during the first weeks of an unfamiliar pandemic.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-3-dark.svg" | relative_url }}" alt="Black Box AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_black_box_out_ef2711-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing Automation With Epidemiological Judgement
 
@@ -422,7 +413,7 @@ The most promising governance model is neither full automation nor full rejectio
 
 Instead, many public-health institutions are moving toward a "human-plus-machine" approach. Forecasts become decision-support tools rather than decision-makers.
 
-In practice, this means AI systems can generate hypotheses, risk estimates, and [early warnings]({{ 'early-warning/' | relative_url }}), while epidemiologists evaluate whether the outputs fit biological realities, surveillance evidence, and local conditions. The forecast becomes one input among several rather than an unquestioned instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">CDCCenter for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restoredcdc.org">[Restored CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restoredcdc.org</span><span class="citation-popover-snippet">CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</span></span></span>
+In practice, this means AI systems can generate hypotheses, risk estimates, and [early warnings]({{ 'early-warning/' | relative_url }}), while epidemiologists evaluate whether the outputs fit biological realities, surveillance evidence, and local conditions. The forecast becomes one input among several rather than an unquestioned instruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Center for Forecasting and Outbreak Analytics &#124; CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: restoredcdc.org">[Restored CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">restoredcdc.org</span><span class="citation-popover-snippet">CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</span></span></span>
 
 This approach also creates institutional resilience. Human experts can detect situations where models appear to be drifting. Models can process more information than human teams can analyse manually. Each compensates for weaknesses in the other.
 
@@ -438,17 +429,15 @@ Before relying on an outbreak forecasting system, agencies should generally expe
 * Transparent reporting of uncertainty.
 * Regular performance monitoring.
 * Documentation of training data and limitations.
-* Human oversight by epidemiologists and public-health officials.
+* [Human oversight]({{ 'human-oversight/' | relative_url }}) by epidemiologists and public-health officials.
 * Comparison against alternative models rather than reliance on a single forecast source.
 * Clear procedures for responding when forecasts fail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ictworks.org">[ICTworks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ictworks.org</span><span class="citation-popover-title">who guidance artificial intelligence health</span><span class="citation-popover-snippet">Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</span></span></span>
 
 Under those conditions, even partially opaque systems can become useful public-health tools.
 
-Without those safeguards, black-box forecasting risks creating a dangerous situation in which agencies gain powerful predictions but lose the ability to judge when those predictions deserve confidence. The future of pandemic forecasting is therefore likely to depend less on finding a perfect predictive model than on building institutions capable of combining advanced AI with transparency, accountability, and human expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">IRISWhether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span>
-
+Without those safeguards, black-box forecasting risks creating a dangerous situation in which agencies gain powerful predictions but lose the ability to judge when those predictions deserve confidence. The future of pandemic forecasting is therefore likely to depend less on finding a perfect predictive model than on building institutions capable of combining advanced AI with transparency, accountability, and human expertise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[Iris]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-title">Iris Ethics and governance of artificial intelligence for health</span><span class="citation-popover-snippet">Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gD0obKGIWVk" title="From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer">From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI</a></p><p class="youtube-embed-meta">Channel: UCLA Library &middot; Views: 34 &middot; Uploaded: October 2025 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gD0obKGIWVk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -846,194 +835,194 @@ Without those safeguards, black-box forecasting risks creating a dangerous situa
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/forecast-outbreak-analytics/index.html](https://www.cdc.gov/forecast-outbreak-analytics/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCCenter for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</p></details>
+   Link: <a href="https://www.cdc.gov/forecast-outbreak-analytics/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/forecast-outbreak-analytics/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Forecasting and Outbreak Analytics | CFACFA uses advanced analytic approaches, like forecasting and modeling, to drive effe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667102623000578](https://www.sciencedirect.com/science/article/pii/S2667102623000578)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectMedical artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667102623000578" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667102623000578</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Medical artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) and the black box problemby H Xu · 2024 · Cited by 199 — In this study, we focus on the pote...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCUnbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8459787/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unbox the black-box for the medical explainable AI via multi...by G Yang · 2022 · Cited by 887 — Explainable Artificial Intelligence...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv The Three Ghosts of Medical AI: Can the Black-Box Present Deliver?  
-   Link: [https://arxiv.org/abs/2012.06000](https://arxiv.org/abs/2012.06000)  
+   Link: <a href="https://arxiv.org/abs/2012.06000" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2012.06000</a>  
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-15867-z](https://www.nature.com/articles/s41598-025-15867-z)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NaturePersonalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-025-15867-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-15867-z</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Personalized health monitoring using explainable AIby MS Vani · 2025 · Cited by 65 — However, worried about the trust, accountabili...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>the black box: A systematic review of Explainable...by D Muhammad · 2024 · Cited by 246 — This systematic literature review examines sta...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41597-022-01517-w](https://www.nature.com/articles/s41597-022-01517-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe United States COVID-19 Forecast Hub datasetby EY Cramer · 2022 · Cited by 194 — The Forecast Hub is a dataset with point and pr...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41597-022-01517-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41597-022-01517-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The United States COVID-19 Forecast Hub datasetby EY Cramer · 2022 · Cited by 194 — The Forecast Hub is a dataset with point and pr...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAccuracy of US CDC COVID-19 forecasting models  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11233691/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Chharia · 2024 · Cited by 21 — In this study, we systematically analyze all US CDC COVID-19 forecasting models, by first categori...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Improving Outbreak Forecasts Through Model Augmentation  
-   Link: [https://arxiv.org/abs/2506.16410](https://arxiv.org/abs/2506.16410)  
+   Link: <a href="https://arxiv.org/abs/2506.16410" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.16410</a>  
 
 10. <a id="endnote-10"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789240029200](https://www.who.int/publications/i/item/9789240029200)  
+   Link: <a href="https://www.who.int/publications/i/item/9789240029200" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240029200</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for healthJun 28, 2021 — The report identifies the ethical chal...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iris.who.int  
    Title: Iris Ethics and governance of artificial intelligence for health  
-   Link: [https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content](https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IRISWhether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</p></details>
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/4f2c477c-4b72-4ca1-9a78-a1e73af64e50/content</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whether AI can advance the interests of patients and communities depends on a collective effort to design and implement ethically def...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: covid19forecasthub.org  
-   Link: [https://covid19forecasthub.org/](https://covid19forecasthub.org/)  
+   Link: <a href="https://covid19forecasthub.org/" target="_blank" rel="noopener noreferrer nofollow">https://covid19forecasthub.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubCOVID 19 forecast hub: HomeFrom 2020 to 2024, this site collected real-time forecasts of COVID-19 hospitalizations...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789240037403](https://www.who.int/publications/i/item/9789240037403)  
+   Link: <a href="https://www.who.int/publications/i/item/9789240037403" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240037403</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationEthics and governance of artificial intelligence for health28 Jun 2021 — The report identifies the ethical chall...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ictworks.org  
    Title: who guidance artificial intelligence health  
-   Link: [https://www.ictworks.org/who-guidance-artificial-intelligence-health/](https://www.ictworks.org/who-guidance-artificial-intelligence-health/)  
+   Link: <a href="https://www.ictworks.org/who-guidance-artificial-intelligence-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.ictworks.org/who-guidance-artificial-intelligence-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protecting human autonomy · 2. Promoting human well-being, safety, and public interest. · 3. Ensuring...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: arxiv.org  
    Title: arXiv From Black Box to Insight: Explainable AI for Extreme Event Preparedness  
-   Link: [https://arxiv.org/abs/2511.13712](https://arxiv.org/abs/2511.13712)  
+   Link: <a href="https://arxiv.org/abs/2511.13712" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.13712</a>  
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12027014/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by G Chassang · 2025 · Cited by 8 — This paper discusses the responsible use of artificial intelligence (AI) in public health and in m...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: who.int  
-   Link: [https://www.who.int/](https://www.who.int/)  
+   Link: <a href="https://www.who.int/" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/</a>  
 
 18. <a id="endnote-18"></a>
    Source: who.int  
-   Link: [https://www.who.int/publications/i/item/9789240084759](https://www.who.int/publications/i/item/9789240084759)  
+   Link: <a href="https://www.who.int/publications/i/item/9789240084759" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/publications/i/item/9789240084759</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for healthMar 25, 2025 — This guidance addresses one type of generative AI, large multi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2508.12260v5](https://arxiv.org/html/2508.12260v5)  
+   Link: <a href="https://arxiv.org/html/2508.12260v5" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2508.12260v5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Foundation Model for Mechanistic Disease ForecastingApr 13, 2026 — When benchmarked against CDC Forecast Hub models on early pandemic C...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: publichealthaihandbook.com  
    Title: Public Health AI Handbook Epidemic Forecasting with AI  
-   Link: [https://publichealthaihandbook.com/applications/forecasting.html](https://publichealthaihandbook.com/applications/forecasting.html)  
+   Link: <a href="https://publichealthaihandbook.com/applications/forecasting.html" target="_blank" rel="noopener noreferrer nofollow">https://publichealthaihandbook.com/applications/forecasting.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 experiments, PandemicLLM reported better 1- to 3-week forecasting performance than several CDC COVID-19 Forecast Hub baselines...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: phgfoundation.org  
-   Link: [https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf](https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf)  
+   Link: <a href="https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.phgfoundation.org/wp-content/uploads/2023/10/black-box-machine-learning-landscape.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Black box medicine and transparencyThis last section outlines two cases that illustrate the importance of interpretability in machine lea...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: livrepository.liverpool.ac.uk  
-   Link: [https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf](https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf)  
+   Link: <a href="https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf" target="_blank" rel="noopener noreferrer nofollow">https://livrepository.liverpool.ac.uk/3170961/1/Explainable%20artificial%20intelligence%20for%20mental%20health%20through%20transparency%20and%20interpretability%20for%20understandability.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of LiverpoolExplainable artificial intelligence for mental health through...by DW Joyce · 2023 · Cited by 265 — Across health...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: github.com  
-   Link: [https://github.com/CDCgov/covid19-forecast-hub](https://github.com/CDCgov/covid19-forecast-hub)  
+   Link: <a href="https://github.com/CDCgov/covid19-forecast-hub" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CDCgov/covid19-forecast-hub</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>COVID-19 Forecast HubThis repository is designed to collect forecast data for the COVID-19 Forecast Hub run by the US CDC. The project co...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: restoredcdc.org  
-   Link: [https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html](https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html)  
+   Link: <a href="https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/cfa-behind-the-model/php/behind-the-model/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CFA: Behind the ModelOct 4, 2024 — The models helped forecast the expected size and duration of the outbreak and helped the Chicago Depar...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
    Title: World Health Organization  
-   Link: [https://en.wikipedia.org/wiki/World_Health_Organization](https://en.wikipedia.org/wiki/World_Health_Organization)  
+   Link: <a href="https://en.wikipedia.org/wiki/World_Health_Organization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/World_Health_Organization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationThe World Health Organization (WHO) is a specialized agency of the United Nations (UN) which coordinates resp...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: aiforgood.itu.int  
    Title: int World Health Organization (WHO)  
-   Link: [https://aiforgood.itu.int/about-us/un-ai-actions/who/](https://aiforgood.itu.int/about-us/un-ai-actions/who/)  
+   Link: <a href="https://aiforgood.itu.int/about-us/un-ai-actions/who/" target="_blank" rel="noopener noreferrer nofollow">https://aiforgood.itu.int/about-us/un-ai-actions/who/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health Organization (WHO) - AI for Good - ITUAI has enormous potential for strengthening the delivery of health care and medicine and hel...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models](https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models)  
+   Link: <a href="https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340495230_Explainable_AI_for_Healthcare_From_Black_Box_to_Interpretable_Models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explainable AI for Healthcare: From Black Box to...In this paper, we reflect on recent investigations about the interpretability and exp...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reliefweb.int  
-   Link: [https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation](https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation)  
+   Link: <a href="https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation" target="_blank" rel="noopener noreferrer nofollow">https://reliefweb.int/report/world/artificial-intelligence-health-emergencies-who-advances-public-health-intelligence-and-surveillance-through-innovation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence for health emergenciesDec 10, 2025 — Sessions focused on practical skills for emergency settings, including respo...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: eurasiareview.com  
    Title: 30062021 who issues first global report in artificial intelligence in health  
-   Link: [https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/](https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/)  
+   Link: <a href="https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiareview.com/30062021-who-issues-first-global-report-in-artificial-intelligence-in-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Issues First Global Report In Artificial Intelligence...Jun 30, 2021 — However, WHO&#x27;s new report, published on June 28, cautions aga...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: privacyinternational.org  
    Title: our analysis who report ethics and governance artificial intelligence health  
-   Link: [https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health](https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health)  
+   Link: <a href="https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health" target="_blank" rel="noopener noreferrer nofollow">https://privacyinternational.org/news-analysis/4594/our-analysis-who-report-ethics-and-governance-artificial-intelligence-health</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Our analysis of the WHO report on Ethics and Governance...Jul 20, 2021 — This report is a very thorough one that does not shy away from...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchprofiles.ku.dk  
    Title: ethics and governance of artificial intelligence for health who g  
-   Link: [https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/](https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/)  
+   Link: <a href="https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.ku.dk/en/publications/ethics-and-governance-of-artificial-intelligence-for-health-who-g/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AND GOVERNANCE OF ARTIFICIAL...Jun 28, 2021 — The report identifies the ethical challenges and risks with the use of artificial intellig...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: hub.jhu.edu  
    Title: artificial intelligence infectious disease forecasting  
-   Link: [https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/](https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/)  
+   Link: <a href="https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/" target="_blank" rel="noopener noreferrer nofollow">https://hub.jhu.edu/2025/06/06/artificial-intelligence-infectious-disease-forecasting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The HubArtificial intelligence reimagines infectious disease forecastingJun 6, 2025 — A new AI tool to predict the spread of infectious d...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
    Title: Enhancing Long-Term Forecasting: Learning from COVID-19 Models  
-   Link: [https://www.youtube.com/watch?v=5-nVT5sWJI4](https://www.youtube.com/watch?v=5-nVT5sWJI4)  
+   Link: <a href="https://www.youtube.com/watch?v=5-nVT5sWJI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5-nVT5sWJI4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Enhancing Long-term Forecasting: Learning from COVID-19 Models&quot; Enhancing Long-Term Forecasting: Learning from COVID-19 Models The Found...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: ncdirindia.org  
-   Link: [https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf](https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf)  
+   Link: <a href="https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncdirindia.org/Downloads/WHO_AI_Ethics.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and governance of artificial intelligence for health:...by WHO GUIDANCE · 2021 · Cited by 185 — of different public health interv...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
    Title: From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI  
-   Link: [https://www.youtube.com/watch?v=gD0obKGIWVk](https://www.youtube.com/watch?v=gD0obKGIWVk)  
+   Link: <a href="https://www.youtube.com/watch?v=gD0obKGIWVk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gD0obKGIWVk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Speaker Series N°11 – Building Large Language Models &amp; other AI tools for Public Health Intelligence...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
    Title: Presentation on Enhancing Long-term Forecasting: Learning from COVID-19 Models  
-   Link: [https://www.youtube.com/watch?v=7c8K7FQwD4Q](https://www.youtube.com/watch?v=7c8K7FQwD4Q)  
+   Link: <a href="https://www.youtube.com/watch?v=7c8K7FQwD4Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7c8K7FQwD4Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the Unseen to Foresight: Epidemic Modeling in the Age of Computing and AI...</p></details>

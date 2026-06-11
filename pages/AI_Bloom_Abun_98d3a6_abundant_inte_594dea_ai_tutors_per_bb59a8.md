@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /intelligence/
 nav_short_title: AI Tutors
 title: Can AI Make Personal Tutoring Common?
-title_full: Can AI Make Personal Tutoring Common? | Intelligence
+title_full: Can AI Make Personal Tutoring Common?
 display_title_short: AI Tutors
 display_title: AI Tutors
 heading_title: Can AI Make Personal Tutoring Common?
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What If Expert Help Became Cheap? | AI Bloom
+date: '2026-06-08 01:25:24'
+parent_title: What If Expert Help Became Cheap?
 parent_permalink: /intelligence/
 parent_nav_short_title: Intelligence
 parent_heading_title: What If Expert Help Became Cheap?
@@ -273,7 +274,6 @@ next_link:
   permalink: /broad-access/
   short_title: Broad Access
   heading_title: Who Gets Access to Abundant Intelligence?
-date: '2026-06-08 01:25:24 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-1.webp
@@ -283,7 +283,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb
 ## Introduction
 
 The strongest argument for AI tutors is simple: personal tutoring works, but most people never receive much of it. Good tutors adapt explanations, spot misunderstandings quickly, provide immediate feedback and adjust to a student's pace. Those benefits have traditionally been limited by cost and scarcity. If advanced AI can provide some of the same advantages at very low cost, personal learning support could become available to millions more people.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-1-dark.svg" | relative_url }}" alt="AI Tutors illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This possibility sits near the centre of the broader idea of abundant [intelligence]({{ 'intelligence/' | relative_url }}). Rather than treating high-quality educational attention as a scarce resource, AI systems could make tailored explanations, practice, feedback and coaching available on demand. The optimistic case is not that chatbots can replace schools or teachers. It is that they might help make one of [education]({{ 'education/' | relative_url }})'s most effective tools — individual guidance — far more widely available. The harder question is whether they can improve learning without weakening judgement, motivation, trust or the human relationships that education depends on.
@@ -303,7 +302,7 @@ A skilled tutor can only work with a limited number of students. Personal tutori
 
 This creates a form of cognitive scarcity. Educational support exists, but it is rationed by money, geography and institutional capacity.
 
-AI tutors appear attractive because they attack exactly that bottleneck. A software system can theoretically provide explanations, questions, examples and feedback to millions of learners simultaneously. Unlike human tutors, it does not become tired, need scheduling or charge by the hour.
+AI tutors appear attractive because they attack exactly that bottleneck. A software system can theoretically provide explanations, questions, examples and feedback to millions of learners simultaneously. Unlike [human tutors]({{ 'human-role/' | relative_url }}), it does not become tired, need scheduling or charge by the hour.
 
 That does not mean AI can reproduce everything that makes human tutoring effective. Human tutors provide encouragement, accountability, emotional judgement and social connection. They recognise confusion that students cannot articulate. They understand family circumstances, classroom dynamics and motivation. The real question is therefore narrower: how much of tutoring's educational value comes from personalised feedback that software can help provide, and how much depends on uniquely human relationships?
 
@@ -312,7 +311,6 @@ That does not mean AI can reproduce everything that makes human tutoring effecti
 When people hear "AI tutor", they often imagine a chatbot answering homework questions. The more ambitious systems attempt something closer to [guided learning]({{ 'guided-learning/' | relative_url }}).
 
 Instead of immediately supplying answers, many educational AI systems are designed to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,9 +324,9 @@ Instead of immediately supplying answers, many educational AI systems are design
 
 </div>
 
-This approach resembles older "intelligent tutoring systems" developed long before large language models. Programmes such as Carnegie Learning's mathematics tutors attempted to simulate aspects of one-to-one instruction through carefully structured interactions. Research generally found positive learning effects, although results rarely approached Bloom's famous tutoring gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSearching for the two sigma advantage: Evaluating algebra...by KE Sabo · 2013 · Cited by 65 — Intelligent tutors attempt to...</span></span></span>
+This approach resembles older "intelligent tutoring systems" developed long before large language models. Programmes such as Carnegie Learning's mathematics tutors attempted to simulate aspects of one-to-one instruction through carefully structured interactions. Research generally found positive learning effects, although results rarely approached Bloom's famous tutoring gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Searching for the two sigma advantage: Evaluating algebra...by KE Sabo · 2013 · Cited by 65 — Intelligent tutors attempt to...</span></span></span>
 
-Large language models change the picture because they can converse flexibly rather than following rigid decision trees. Systems such as Khan Academy's Khanmigo are explicitly built around the idea that AI should guide students toward answers rather than simply providing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[Khanmigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">KhanmigoMeet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</span></span></span>
+Large language models change the picture because they can converse flexibly rather than following rigid decision trees. Systems such as Khan Academy's Khanmigo are explicitly built around the idea that AI should guide students toward answers rather than simply providing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: khanmigo.ai">[Khanmigo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">khanmigo.ai</span><span class="citation-popover-snippet">Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</span></span></span>
 
 The broader AI bloom argument is that if personalised cognitive assistance becomes extremely cheap, education may become less constrained by teacher-student ratios. A learner struggling with algebra, English grammar or introductory physics could receive continual practice and explanation instead of waiting for limited classroom attention.
 
@@ -336,16 +334,15 @@ The broader AI bloom argument is that if personalised cognitive assistance becom
 
 The evidence for AI tutoring is becoming more substantial, but it remains far from definitive.
 
-Several recent studies have reported encouraging results. Researchers at Harvard and other institutions studying an AI physics tutor found that students learned significantly more in less time than students participating in active-learning classroom sessions. Students also reported greater engagement and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govtackling the two sigma problem with AI in journal clubs</span><span class="citation-popover-snippet">PMCby F Umer · 2025 · Cited by 8 — This study explores the development and preliminary evaluation of a RAG-enhanced LLM to support journa...</span></span></span>
+Several recent studies have reported encouraging results. Researchers at Harvard and other institutions studying an AI physics tutor found that students learned significantly more in less time than students participating in active-learning classroom sessions. Students also reported greater engagement and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">govtackling the two sigma problem with AI in journal clubs</span><span class="citation-popover-snippet">by F Umer · 2025 · Cited by 8 — This study explores the development and preliminary evaluation of a RAG-enhanced LLM to support journa...</span></span></span>
 
 Another randomised controlled trial in Italian secondary schools found that GPT-4-based interactive homework support improved learning outcomes and student engagement compared with conventional homework. Students reported wanting to continue using the system after the experiment ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aclanthology.org/2025.acl-long.1502.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aclanthology.org">[ACL Anthology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aclanthology.org</span><span class="citation-popover-title">2025.acl long.1502</span><span class="citation-popover-snippet">Trial (RCT) in an Italian high school to understand its effect on students, in terms of the students&#x27; ex- periences and...Read more...</span></span></span>
 
-Research from Nigeria attracted particular attention because it tested AI-supported after-school learning in a lower-resource setting. Students worked with GPT-4 under teacher supervision, and reported gains that compared favourably with many educational interventions studied in development economics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxdev.org">[VoxDev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxdev.org</span><span class="citation-popover-snippet">VoxDevHow AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">From chalkboards to chatbots Transforming learning in Nigeria</span><span class="citation-popover-snippet">World Bank BlogsTransforming learning in Nigeria, one prompt at a time9 Jan 2025 — A pilot that used generative artificial intelligence (...</span></span></span>
+Research from Nigeria attracted particular attention because it tested AI-supported after-school learning in a lower-resource setting. Students worked with GPT-4 under teacher supervision, and reported gains that compared favourably with many educational interventions studied in development economics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxdev.org">[VoxDev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxdev.org</span><span class="citation-popover-snippet">How AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.worldbank.org">[World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.worldbank.org</span><span class="citation-popover-title">From chalkboards to chatbots Transforming learning in Nigeria</span><span class="citation-popover-snippet">World Bank BlogsTransforming learning in Nigeria, one prompt at a time9 Jan 2025 — A pilot that used generative artificial intelligence (...</span></span></span>
 
 These findings matter because they suggest that large language models may provide more than novelty or entertainment. Under some conditions, they appear capable of improving measurable learning outcomes.
 
 However, several caveats are important.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yEgHrxvLsz0" title="Khan Academy announces GPT-4 powered learning guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yEgHrxvLsz0" target="_blank" rel="noopener noreferrer">Khan Academy announces GPT-4 powered learning guide</a></p><p class="youtube-embed-meta">Channel: Khan Academy &middot; Views: 713.5K &middot; Uploaded: March 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yEgHrxvLsz0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yEgHrxvLsz0">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +351,6 @@ However, several caveats are important.
 Many AI tutor experiments run for weeks rather than years.
 
 A six-week improvement is encouraging, but education is ultimately concerned with durable understanding. Researchers still know much less about:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +365,7 @@ Students can appear to learn quickly during interventions while retaining less t
 
 ### Good prompting is not the same as good pedagogy
 
-Some of the strongest results come from carefully designed systems built around educational research rather than from unrestricted chatbots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</span></span></span>
+Some of the strongest results come from carefully designed systems built around educational research rather than from unrestricted chatbots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</span></span></span>
 
 This distinction matters. An AI tutor that asks guiding questions, provides structured hints and encourages reflection may behave very differently from a general-purpose model that instantly supplies solutions.
 
@@ -393,7 +389,6 @@ Historically, societies have invested enormous resources in making knowledge ava
 
 If AI systems become reliable educational companions, several barriers could weaken simultaneously.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-2-dark.svg" | relative_url }}" alt="AI Tutors illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### More feedback for more people
 
@@ -407,8 +402,7 @@ An AI tutor can respond immediately, potentially creating thousands of additiona
 
 Modern economies increasingly require retraining and skill acquisition throughout adulthood.
 
-Most adults cannot afford continuous access to personal coaches or tutors. AI systems could lower the cost of learning new languages, technical skills, professional qualifications or [scientific]({{ 'discovery/' | relative_url }}) subjects long after formal education ends.
-
+Most adults cannot afford continuous access to personal coaches or tutors. AI systems could lower the cost of learning new languages, technical skills, professional qualifications or scientific subjects long after formal education ends.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WOmRB6jNiSU" title="AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WOmRB6jNiSU" target="_blank" rel="noopener noreferrer">AI Schools Are Here: How kids learn 2h/day and become top 1% nationally | MacKenzie Price</a></p><p class="youtube-embed-meta">Channel: Silicon Valley Girl &middot; Views: 67.9K &middot; Uploaded: May 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WOmRB6jNiSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WOmRB6jNiSU">Open on YouTube</a></p></div></div></div>
 
@@ -416,7 +410,7 @@ Most adults cannot afford continuous access to personal coaches or tutors. AI sy
 
 Many regions face severe shortages of qualified teachers, particularly in specialised subjects.
 
-An AI tutor cannot solve every educational problem. It cannot replace school infrastructure, nutrition, political stability or human mentorship. But it could increase access to explanations, exercises and feedback in places where educational resources remain scarce. The Nigerian pilot is often discussed in this context because it explored whether advanced AI could help supplement limited educational capacity rather than simply enhance already well-resourced schools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxdev.org">[VoxDev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxdev.org</span><span class="citation-popover-snippet">VoxDevHow AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</span></span></span>
+An AI tutor cannot solve every educational problem. It cannot replace school infrastructure, nutrition, political stability or human mentorship. But it could increase access to explanations, exercises and feedback in places where educational resources remain scarce. The Nigerian pilot is often discussed in this context because it explored whether advanced AI could help supplement limited educational capacity rather than simply enhance already well-resourced schools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: voxdev.org">[VoxDev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">voxdev.org</span><span class="citation-popover-snippet">How AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</span></span></span>
 
 ### Human intellectual potential may be less constrained by attention scarcity
 
@@ -429,7 +423,6 @@ In that sense, AI tutoring is not just about efficiency. It is about expanding w
 ## Risks for teachers, students and unequal access
 
 The educational promise is substantial, but so are the risks.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-3-dark.svg" | relative_url }}" alt="AI Tutors illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_tutors_per_bb59a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Students may outsource thinking
@@ -460,7 +453,6 @@ Advanced educational systems may be concentrated in wealthier schools, richer co
 
 The history of educational technology offers many examples where innovations initially widened gaps before later becoming more widely distributed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y7NETBaGMAc" title="Sal Khan is Changing Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y7NETBaGMAc" target="_blank" rel="noopener noreferrer">Sal Khan is Changing Education</a></p><p class="youtube-embed-meta">Channel: All Things Negotiation &middot; Views: 116.8K &middot; Uploaded: April 2026 &middot; Length: 50 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y7NETBaGMAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y7NETBaGMAc">Open on YouTube</a></p></div></div></div>
 
 ### Teachers may lose influence over learning
@@ -469,18 +461,13 @@ Some educators worry that AI tutoring could gradually shift authority away from 
 
 If students increasingly receive explanations, recommendations and feedback from commercial AI systems, important questions emerge:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Who decides what counts as correct knowledge?
 * Which values are embedded in educational models?
 * How transparent are the systems?
 * Who audits errors and biases?
-* How much educational power becomes concentrated in a small number of technology firms?
+* How much educational [power]({{ 'power/' | relative_url }}) becomes concentrated in a small number of technology firms?
 
-</div>
-
-These are [governance]({{ 'power/' | relative_url }}) questions as much as educational ones.
+These are governance questions as much as educational ones.
 
 ## The most plausible future may be human-AI tutoring rather than AI alone
 
@@ -495,7 +482,6 @@ Rather than imagining AI replacing experts, it may be more realistic to think ab
 This matters because education is not simply information transfer. Students need motivation, encouragement, social learning, trust and accountability. Human teachers help create those conditions. AI may become valuable not because it replaces those functions, but because it frees more time and attention for them.
 
 The result could be a different educational division of labour:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -521,16 +507,16 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Co-Intelligence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=r13gEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Co-Intelligence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Co-Intelligence">Co-Intelligence</a>
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
         </h4>
-        <p class="fr-book-author">By Ethan Mollick</p>
+        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
         
-        <p class="fr-book-desc">Shows how AI can be used as a collaborative coach and helper.</p>
+        <p class="fr-book-desc">Directly examines educational uses of AI systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -538,16 +524,16 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Brave+New+Words+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Brave New Words on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QUQa0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Brave New Words" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Brave+New+Words+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Brave New Words">Brave New Words</a>
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
-        <p class="fr-book-author">By Salman Khan</p>
+        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Directly addresses AI tutors and how they could reshape learning at scale.</p>
+        <p class="fr-book-desc">Explains how effective learning works, a core issue for AI tutoring.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Brave+New+Words+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -555,16 +541,16 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+World+Schoolhouse+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One World Schoolhouse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GeY3AQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The One World Schoolhouse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Visible Learning for Teachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vSoUT6PXdoIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Visible Learning for Teachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+World+Schoolhouse+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One World Schoolhouse">The One World Schoolhouse</a>
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Visible Learning for Teachers">Visible Learning for Teachers</a>
         </h4>
-        <p class="fr-book-author">By Salman Khan</p>
+        <p class="fr-book-author">By John Hattie</p>
         
-        <p class="fr-book-desc">Explains the case for personalised mastery learning that AI tutors try to scale.</p>
+        <p class="fr-book-desc">Provides evidence on what teaching methods actually improve learning.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+World+Schoolhouse+by+Salman+Khan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers+by+John+Hattie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -572,16 +558,16 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+People+Learn+by+National+Research+Council&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How People Learn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XjZeI8MndBQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How People Learn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Happens on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qhQpygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Learning Happens" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+People+Learn+by+National+Research+Council&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How People Learn">How People Learn</a>
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Happens">How Learning Happens</a>
         </h4>
-        <p class="fr-book-author">By National Research Council, Division of Behavioral and Social Sciences and Education et al.</p>
+        <p class="fr-book-author">By Paul A. Kirschner, Carl Hendrick</p>
         
-        <p class="fr-book-desc">Provides evidence-based background for what effective tutoring must accomplish.</p>
+        <p class="fr-book-desc">Connects cognitive science findings to tutoring and instruction.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+People+Learn+by+National+Research+Council&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+Learning+Happens+by+Paul+A.+Kirschner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -589,7 +575,7 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Brave+New+Words&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Brave New Words</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+World+Schoolhouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One World Schoolhouse</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Visible+Learning+for+Teachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Visible Learning for Teachers</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -626,15 +612,15 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot with Voice Interaction Educational Montessori Toy Birthday"><img src="https://i.ebayimg.com/images/g/f~4AAeSw2nhpwf2f/s-l225.jpg" alt="Listing image for Kids Drawing Robot with Voice Interaction Educational Montessori Toy Birthday" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot with Voice Interaction Educational Montessori Toy Birthday</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -642,15 +628,15 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="{{ '/assets/images/marketplace-covers/526b63c9105e4b2c7bc0.jpg' | relative_url }}" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul"><img src="https://i.ebayimg.com/images/g/6IoAAOSwH95nMPeS/s-l225.jpg" alt="Listing image for 🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer">🤖Sphero SPRK+ Educational Robot – STEM Coding &amp; Programming Toy for Kids &amp; Adul</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -658,15 +644,15 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit"><img src="{{ '/assets/images/marketplace-covers/9be77cb3cd417fc69711.jpg' | relative_url }}" alt="Listing image for 5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy"><img src="https://i.ebayimg.com/images/g/ZY4AAeSwuYNp8G-5/s-l225.jpg" alt="Listing image for Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">5 in 1 Robot Toys for Kids Building Set, APP &amp; Remote Control Robotics Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Kids Drawing Robot Educational Drawing Machine Voice Interaction Learning Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -674,15 +660,15 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="https://i.ebayimg.com/images/g/FVUAAeSwPjVpY6Oc/s-l225.jpg" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for educational robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: educational robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -690,7 +676,7 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="ai-tutors-can-ai-make-personal-tutoring-common-ai-bloom-abundance-superintelligence-and-humanity-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=educational+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-make-personal-tutoring-common-educational-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="educational robot" data-ebay-reference="can-ai-make-personal-tutoring-common-educational-robot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -906,124 +892,124 @@ The promise is therefore real, but still conditional. Early evidence suggests AI
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bloom's 2 sigma problem  
-   Link: [https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem</a>  
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903](https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSearching for the two sigma advantage: Evaluating algebra...by KE Sabo · 2013 · Cited by 65 — Intelligent tutors attempt to...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563213000903</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching for the two sigma advantage: Evaluating algebra...by KE Sabo · 2013 · Cited by 65 — Intelligent tutors attempt to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: khanmigo.ai  
-   Link: [https://www.khanmigo.ai/](https://www.khanmigo.ai/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KhanmigoMeet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</p></details>
+   Link: <a href="https://www.khanmigo.ai/" target="_blank" rel="noopener noreferrer nofollow">https://www.khanmigo.ai/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Khanmigo: Khan Academy&#x27;s AI-powered teaching...Khanmigo, built by nonprofit Khan Academy, is a top-rated AI for education...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-97652-6](https://www.nature.com/articles/s41598-025-97652-6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 130 — We find that students learn significantly more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2409.15981](https://arxiv.org/abs/2409.15981)  
+   Link: <a href="https://arxiv.org/abs/2409.15981" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2409.15981</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[2409.15981] GPT-4 as a Homework Tutor can Improve...by A Vanzo · 2024 · Cited by 24 — We developed a prompting strategy that enables GP...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: voxdev.org  
-   Link: [https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria](https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VoxDevHow AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</p></details>
+   Link: <a href="https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria" target="_blank" rel="noopener noreferrer nofollow">https://voxdev.org/topic/education/how-ai-tutors-improved-learning-nigeria</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI tutors improved learning in Nigeriaby M De Simone — In an RCT in Nigeria, we tested a six-week after-school programme where...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: axios.com  
    Title: Why AI is no substitute for human teachers  
-   Link: [https://www.axios.com/2024/08/15/ai-tutors-learning-education-khan-academy-wharton](https://www.axios.com/2024/08/15/ai-tutors-learning-education-khan-academy-wharton)  
+   Link: <a href="https://www.axios.com/2024/08/15/ai-tutors-learning-education-khan-academy-wharton" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/08/15/ai-tutors-learning-education-khan-academy-wharton</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This challenges the optimistic vision of AI as a &quot;personal tutor for every student.&quot; Although genAI, like Khan Academy’s experimental Kha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv [Tutor Co Pilot](&#123;&#123; 'tutor-co-pilot/' | relative_url &#125;&#125;): A Human-AI Approach for Scaling Real-Time Expertise  
-   Link: [https://arxiv.org/abs/2410.03017](https://arxiv.org/abs/2410.03017)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTutor CoPilot: A Human-AI Approach for Scaling Real-Time ExpertiseOctober 3, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2410.03017" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.03017</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time ExpertiseOctober 3, 2024...</p></details>
    Published: October 3, 2024  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2409.15981v1](https://arxiv.org/html/2409.15981v1)  
+   Link: <a href="https://arxiv.org/html/2409.15981v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2409.15981v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>We assess...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: aclanthology.org  
    Title: 2025.acl long.1502  
-   Link: [https://aclanthology.org/2025.acl-long.1502.pdf](https://aclanthology.org/2025.acl-long.1502.pdf)  
+   Link: <a href="https://aclanthology.org/2025.acl-long.1502.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aclanthology.org/2025.acl-long.1502.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trial (RCT) in an Italian high school to understand its effect on students, in terms of the students&#x27; ex- periences and...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: blogs.worldbank.org  
    Title: From chalkboards to chatbots Transforming learning in Nigeria  
-   Link: [https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria](https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria)  
+   Link: <a href="https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria" target="_blank" rel="noopener noreferrer nofollow">https://blogs.worldbank.org/en/education/From-chalkboards-to-chatbots-Transforming-learning-in-Nigeria</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Bank BlogsTransforming learning in Nigeria, one prompt at a time9 Jan 2025 — A pilot that used generative artificial intelligence (...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey](https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey)  
+   Link: <a href="https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two-thirds of respondents observed a decline in thinking abilities among students, with some noting reliance on voice-to-text tools dimin...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: hbs.edu  
    Title: Khanmigo: Revolutionizing Learning with Gen AI  
-   Link: [https://www.hbs.edu/faculty/Pages/item.aspx?num=64929](https://www.hbs.edu/faculty/Pages/item.aspx?num=64929)  
+   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=64929" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=64929</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Khanmigo: Revolutionizing Learning with GenAI - CaseKhan Academy began beta testing Khanmigo, a genAI “guide” and tutor built with ChatGP...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/emollick_new-randomized-controlled-trial-by-the-world-activity-7285400569274380288-wh50](https://www.linkedin.com/posts/emollick_new-randomized-controlled-trial-by-the-world-activity-7285400569274380288-wh50)  
+   Link: <a href="https://www.linkedin.com/posts/emollick_new-randomized-controlled-trial-by-the-world-activity-7285400569274380288-wh50" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/emollick_new-randomized-controlled-trial-by-the-world-activity-7285400569274380288-wh50</a>  
 
 15. <a id="endnote-15"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/from-chatgpt-khanmigo-how-recent-ai-advancements-munir-shah-phd--prpfc](https://www.linkedin.com/pulse/from-chatgpt-khanmigo-how-recent-ai-advancements-munir-shah-phd--prpfc)  
+   Link: <a href="https://www.linkedin.com/pulse/from-chatgpt-khanmigo-how-recent-ai-advancements-munir-shah-phd--prpfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/from-chatgpt-khanmigo-how-recent-ai-advancements-munir-shah-phd--prpfc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From ChatGPT to Khanmigo: How recent AI advancements...From personalized learning and adaptive tutoring to automated grading and immersi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: edworkingpapers.com  
-   Link: [https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf](https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf)  
+   Link: <a href="https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://edworkingpapers.com/sites/default/files/ai24_1054_v2.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor CoPilot: A Human-AI Approach for Scaling Real-Time...by S Loeb — In a randomized controlled trial involving more than 700 tutors a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-personalised-tutoring-2-sigma-problem-martin-hall](https://www.linkedin.com/pulse/ai-personalised-tutoring-2-sigma-problem-martin-hall)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-personalised-tutoring-2-sigma-problem-martin-hall" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-personalised-tutoring-2-sigma-problem-martin-hall</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, personalised tutoring and the 2 sigma problemThe Holy Grail of generative AI in schooling is personalised tutoring; Benjamin Bloom&#x27;s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: resolve.cambridge.org  
    Title: blooms 2 sigma problem and datadriven approaches for improving student success  
-   Link: [https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/49F7035693DF68EDB8A9B2B72FBCCC9E/9781316811764c8_p212-246_CBO.pdf/blooms_2_sigma_problem_and_datadriven_approaches_for_improving_student_success.pdf](https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/49F7035693DF68EDB8A9B2B72FBCCC9E/9781316811764c8_p212-246_CBO.pdf/blooms_2_sigma_problem_and_datadriven_approaches_for_improving_student_success.pdf)  
+   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/49F7035693DF68EDB8A9B2B72FBCCC9E/9781316811764c8_p212-246_CBO.pdf/blooms_2_sigma_problem_and_datadriven_approaches_for_improving_student_success.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/49F7035693DF68EDB8A9B2B72FBCCC9E/9781316811764c8_p212-246_CBO.pdf/blooms_2_sigma_problem_and_datadriven_approaches_for_improving_student_success.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgBloom&#x27;s 2 Sigma Problem and Data- Driven Approaches...mathematics produced average effect sizes of.78 and.81, respectivel...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: govtackling the two sigma problem with AI in journal clubs  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby F Umer · 2025 · Cited by 8 — This study explores the development and preliminary evaluation of a RAG-enhanced LLM to support journa...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12062218/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Umer · 2025 · Cited by 8 — This study explores the development and preliminary evaluation of a RAG-enhanced LLM to support journa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=yEgHrxvLsz0](https://www.youtube.com/watch?v=yEgHrxvLsz0)  
+   Link: <a href="https://www.youtube.com/watch?v=yEgHrxvLsz0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yEgHrxvLsz0</a>  
 
 21. <a id="endnote-21"></a>
    Source: rickhess99.medium.com  
    Title: can an ai powered tutor produce meaningful results b67d7376cb51  
-   Link: [https://rickhess99.medium.com/can-an-ai-powered-tutor-produce-meaningful-results-b67d7376cb51](https://rickhess99.medium.com/can-an-ai-powered-tutor-produce-meaningful-results-b67d7376cb51)  
+   Link: <a href="https://rickhess99.medium.com/can-an-ai-powered-tutor-produce-meaningful-results-b67d7376cb51" target="_blank" rel="noopener noreferrer nofollow">https://rickhess99.medium.com/can-an-ai-powered-tutor-produce-meaningful-results-b67d7376cb51</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an AI-Powered Tutor Produce Meaningful Results?We are continuing to work on bringing new AI technology to the tutoring experience. For in...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: educationnext.org  
    Title: two sigma tutoring separating science fiction from science fact  
-   Link: [https://www.educationnext.org/two-sigma-tutoring-separating-science-fiction-from-science-fact/](https://www.educationnext.org/two-sigma-tutoring-separating-science-fiction-from-science-fact/)  
+   Link: <a href="https://www.educationnext.org/two-sigma-tutoring-separating-science-fiction-from-science-fact/" target="_blank" rel="noopener noreferrer nofollow">https://www.educationnext.org/two-sigma-tutoring-separating-science-fiction-from-science-fact/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Two-Sigma Tutoring: Separating Science Fiction from...7 Mar 2024 — Benjamin Bloom&#x27;s essay “The 2 Sigma Problem,” featuring his famous ha...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/382320210_An_Evaluation_of_Khanmigo_a_Generative_AI_Tool_as_a_Computer-Assisted_Language_Learning_App](https://www.researchgate.net/publication/382320210_An_Evaluation_of_Khanmigo_a_Generative_AI_Tool_as_a_Computer-Assisted_Language_Learning_App)  
+   Link: <a href="https://www.researchgate.net/publication/382320210_An_Evaluation_of_Khanmigo_a_Generative_AI_Tool_as_a_Computer-Assisted_Language_Learning_App" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382320210_An_Evaluation_of_Khanmigo_a_Generative_AI_Tool_as_a_Computer-Assisted_Language_Learning_App</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>latform that uses a dialogue format designed to inspire students to think, help...Read more...</p></details>

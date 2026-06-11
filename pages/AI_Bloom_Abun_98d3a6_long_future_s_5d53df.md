@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-bloom-abundance-superintelligence/
 nav_short_title: Long Future
 title: How Big Could Humanity's Future Become?
-title_full: How Big Could Humanity's Future Become? | AI Bloom
+title_full: How Big Could Humanity's Future Become?
 display_title_short: Long Future
 display_title: Long Future
 heading_title: How Big Could Humanity's Future Become?
@@ -209,6 +209,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-08 01:19:55'
 parent_title: AI Bloom
 parent_permalink: /ai-bloom-abundance-superintelligence/
 parent_nav_short_title: AI Bloom
@@ -307,7 +308,6 @@ next_link:
   permalink: /longevity/
   short_title: Longevity
   heading_title: Can AI Help US Live Healthier Longer?
-date: '2026-06-08 01:19:55 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-overview-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-overview.webp
@@ -316,32 +316,29 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-overview-social.
 
 ## Introduction
 
-For civilisation to *bloom* — not just grow a bit richer or smarter but expand its capacity for knowledge, creativity, [resilience]({{ 'resilience/' | relative_url }}) and choice over deep time — one of the most striking possibilities beyond Earth is **space settlement**. This idea stretches from establishing long‑lasting human habitats on the Moon or Mars to building vast communities in orbit or, in the very long run, spreading life out across the Solar System and perhaps beyond. An AI‑enabled long future is not merely about technology; it is about enlarging *where* and *how* human potential can unfold, reducing existential risk, fostering new cultures and ways of living, and opening possibilities that Earth’s single biosphere does not offer. This section explores how space settlement intersects with the long future and human capability — from the case for settlement as a safeguard and source of abundance, to the [scientific]({{ 'discovery/' | relative_url }}), economic and ethical contours of such an expansion.
-
+For civilisation to *bloom* — not just grow a bit richer or smarter but expand its capacity for knowledge, creativity, [resilience]({{ 'resilience/' | relative_url }}) and choice over deep time — one of the most striking possibilities beyond Earth is **space settlement**. This idea stretches from establishing long‑lasting human habitats on the Moon or Mars to building vast communities in orbit or, in the very long run, spreading life out across the Solar System and perhaps beyond. An AI‑enabled long future is not merely about technology; it is about enlarging *where* and *how* human potential can unfold, reducing existential risk, fostering new cultures and ways of living, and opening possibilities that Earth’s single biosphere does not offer. This section explores how space settlement intersects with the long future and human capability — from the case for settlement as a safeguard and source of abundance, to the scientific, economic and ethical contours of such an expansion.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-overview.webp" | relative_url }}" alt="Overview image for Long Future" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Space Settlement Matters for the Long Future
 
 Space settlement is not just science fiction; many thinkers and organisations see it as pivotal to humanity’s *[longevity]({{ 'longevity/' | relative_url }})* and resilience. A core motivation is **survival**: Earth faces natural threats such as asteroid impacts or supervolcanoes and human‑created risks like nuclear war or pandemics. Establishing populations [off Earth]({{ 'civilisation-backup/' | relative_url }}) reduces the chance that a single catastrophe could wipe out conscious life altogether. This *backup* rationale has been articulated by scientists from Stephen Hawking to space policy analysts, emphasizing colonisation as a hedge against extinction over centuries or millennia.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Space_colonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space colonization</span><span class="citation-popover-snippet">Space colonization</span></span></span>
 
-Connected to survival is the idea that Earth’s resources and constraints will ultimately limit human ambition. Astronomical modelling shows that in the very long term — billions of years — the Sun’s evolution will render Earth uninhabitable, making off‑Earth habitats a necessity for species persistence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/space-colonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">Space colonization | History | Research Starters | EBSCO Research</span><span class="citation-popover-snippet">EBSCOSpace colonization | History | Research Starters | EBSCO Research...</span></span></span> Space settlement can also unlock *new resources* — from solar [power]({{ 'power/' | relative_url }}) harnessed in space to minerals from asteroids — that could ease terrestrial scarcities and feed back into technological progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thespacereview.com/article/2915/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[The Space Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">The Space ReviewThe Space Review: Settling space is the only sustainable reason for humans to be in spaceFebruary 1, 2016...</span><span class="citation-popover-meta">Published: February 1, 2016</span></span></span>
+Connected to survival is the idea that Earth’s resources and constraints will ultimately limit human ambition. Astronomical modelling shows that in the very long term — billions of years — the Sun’s evolution will render Earth uninhabitable, making off‑Earth habitats a necessity for species persistence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/history/space-colonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[EBSCO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-title">Space colonization &#124; History &#124; Research Starters &#124; EBSCO Research</span><span class="citation-popover-snippet">Space colonization &#124; History &#124; Research Starters &#124; EBSCO Research...</span></span></span> Space settlement can also unlock *new resources* — from solar [power]({{ 'power/' | relative_url }}) harnessed in space to minerals from asteroids — that could ease terrestrial scarcities and feed back into technological progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thespacereview.com/article/2915/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thespacereview.com">[The Space Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thespacereview.com</span><span class="citation-popover-snippet">The Space ReviewThe Space Review: Settling space is the only sustainable reason for humans to be in spaceFebruary 1, 2016...</span><span class="citation-popover-meta">Published: February 1, 2016</span></span></span>
 
 In the context of AI bloom, space settlement combines with advances in automated systems, [robotics]({{ 'robotics/' | relative_url }}) and intelligent planning to make off‑Earth living more feasible. AI can help manage complex ecosystems, optimise resource extraction, design habitats, and support human decision‑making in remote and hazardous environments — key to reducing risk and cost at the scales required for long‑term habitation.[Frontiers]
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-1-dark.svg" | relative_url }}" alt="Long Future illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pathways and Challenges to Sustained Human Life Off Earth
 
 Movements towards space settlement chart a range of possible futures, each with distinct implications for human potential.
 
-**Lunar and Martian Bases:** In the next few decades, international space agencies and private ventures aim to establish enduring human outposts on the Moon and Mars. These serve as stepping stones: proving technologies for life support, radiation shielding, in‑situ resource use (pulling water, oxygen, building materials from local sources) and governance frameworks for communities beyond Earth. Establishing a self‑sustaining society in such harsh environments will involve not just engineering but new social and political systems tailored to life on other worlds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The Martian: Possible Scenarios for a Future Human Society on Mars</span><span class="citation-popover-snippet">ScienceDirectThe Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</span></span></span>
+**Lunar and Martian Bases:** In the next few decades, international space agencies and private ventures aim to establish enduring human outposts on the [Moon and Mars]({{ 'moon-and-mars/' | relative_url }}). These serve as stepping stones: proving technologies for [life support]({{ 'life-support/' | relative_url }}), radiation shielding, in‑situ resource use (pulling water, oxygen, building materials from local sources) and governance frameworks for communities beyond Earth. Establishing a self‑sustaining society in such harsh environments will involve not just engineering but new social and political systems tailored to life on other worlds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The Martian: Possible Scenarios for a Future Human Society on Mars</span><span class="citation-popover-snippet">The Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</span></span></span>
 
 **Orbital and Free‑Space Habitats:** Beyond surface bases, physicists and designers have long pictured enormous space habitats — artificial worlds built from asteroid or lunar materials that can support thousands of people in Earth‑like living conditions. Such structures, while distant in time, could offer scalable living space untethered from a planetary surface, with abundant solar energy and the potential to accommodate vast populations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Space_colonization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Space colonization</span><span class="citation-popover-snippet">Space colonization</span></span></span>
 
-**Biological and Social Adaptation:** True long‑term settlement raises complex biological and social questions. Human survival off Earth requires closed life‑support systems for air, water and food, protection from cosmic radiation, and stable social environments that maintain wellbeing across generations. Research into these needs shows the **scale and integration** of biological, engineering and organisational systems required for viable settlements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The Martian: Possible Scenarios for a Future Human Society on Mars</span><span class="citation-popover-snippet">ScienceDirectThe Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</span></span></span>
+**Biological and Social Adaptation:** True long‑term settlement raises complex biological and social questions. Human survival off Earth requires closed life‑support systems for air, water and food, protection from cosmic radiation, and stable social environments that maintain wellbeing across generations. Research into these needs shows the **scale and integration** of biological, engineering and organisational systems required for viable settlements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect The Martian: Possible Scenarios for a Future Human Society on Mars</span><span class="citation-popover-snippet">The Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</span></span></span>
 
-The behavioural and cultural evolution of space‑born communities also matters. Just as human cultures adapted in new ways through past migrations on Earth, off‑Earth societies could develop distinct values, identities and norms shaped by their environments and histories. Scientific commentary suggests that planners should consider not only physical survival but the *anthropological and cultural foundations* of future space dwellers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanAn Evolutionary Biologist Imagines the Future Traits of Space Colonists | Scientific AmericanOctober 1, 2016...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span>
-
+The behavioural and cultural evolution of space‑born communities also matters. Just as human cultures adapted in new ways through past migrations on Earth, off‑Earth societies could develop distinct values, identities and norms shaped by their environments and histories. Scientific commentary suggests that planners should consider not only physical survival but the *anthropological and cultural foundations* of future space dwellers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanAn Evolutionary Biologist Imagines the Future Traits of Space Colonists &#124; Scientific AmericanOctober 1, 2016...</span><span class="citation-popover-meta">Published: October 1, 2016</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rqUaaEsFW_M" title="The Next 200 Years of SPACE COLONIZATION (Timelapse)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rqUaaEsFW_M" target="_blank" rel="noopener noreferrer">The Next 200 Years of SPACE COLONIZATION (Timelapse)</a></p><p class="youtube-embed-meta">Channel: Venture City &middot; Views: 881.3K &middot; Uploaded: June 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rqUaaEsFW_M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rqUaaEsFW_M">Open on YouTube</a></p></div></div></div>
 
@@ -351,19 +348,16 @@ Space settlement invites reflection on what humanity *might become* when freed f
 
 **Expanded Human Capability:** Living in new environments catalyses innovation — in energy systems, life support, materials science, medicine and cognition. Colonising space could accelerate technologies that feed back into life on Earth and enhance human capabilities generally. These include closed‑loop ecological systems, advanced automation, and distributed [intelligence]({{ 'intelligence/' | relative_url }}) networks that aid decision‑making across vast distances. In line with the broader AI bloom thesis, tools that make intelligence more widely available and effective feed into both Earth‑bound and space‑bound human endeavours.
 
-**Diversity and New Horizons:** Philosophers and futurists have long speculated that societies spread across different environments — low gravity, orbit, lunar plains or Martian valleys — might cultivate diverse *forms of life and culture*, enriching the tapestry of conscious existence. Olaf Stapledon’s classic vision outlined an interplanetary “Commonwealth of Worlds” where human and post‑human forms pursue varied intellectual, artistic and spiritual paths, expanding what is valued and possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1207.1498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivStapledon&#x27;s Interplanetary Man: A Commonwealth of Worlds and the Ultimate Purpose of Space ColonisationJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
+**Diversity and New Horizons:** Philosophers and futurists have long speculated that societies spread across different environments — low gravity, orbit, lunar plains or Martian valleys — might cultivate diverse *forms of life and culture*, enriching the tapestry of conscious existence. Olaf Stapledon’s classic vision outlined an interplanetary “Commonwealth of Worlds” where human and post‑human forms pursue varied intellectual, artistic and spiritual paths, expanding what is valued and possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1207.1498" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Stapledon&#x27;s Interplanetary Man: A Commonwealth of Worlds and the Ultimate Purpose of Space ColonisationJuly 6, 2012...</span><span class="citation-popover-meta">Published: July 6, 2012</span></span></span>
 
 This diversity isn’t merely aesthetic. It broadens the *space of potential* for human experiences, social structures, norms and collective projects. In a long future, such pluralism could underpin a far richer civilisation than any single world has supported.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BZwf28TqIYw" title="Escape, immortality, AI: Silicon Valley&#x27;s blueprint for the future | Front Burner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BZwf28TqIYw" target="_blank" rel="noopener noreferrer">Escape, immortality, AI: Silicon Valley&#x27;s blueprint for the future | Front Burner</a></p><p class="youtube-embed-meta">Channel: CBC News &middot; Views: 3.2K &middot; Uploaded: August 2025 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BZwf28TqIYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BZwf28TqIYw">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-2-dark.svg" | relative_url }}" alt="Long Future illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ethical and Governance Questions
 
 Expanding humanity into space also raises pressing ethical questions about fairness, access, and power. Who gets to go? Who governs distant settlements? How are resources shared between Earth and off‑Earth communities? Without thoughtful institutions, the benefits of settlement could remain concentrated among elites or exacerbate inequalities that already exist on Earth. Ensuring that space settlement contributes to broad human flourishing requires governance frameworks that foreground equity, rights, and intergenerational stewardship, not just technical feasibility.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-3-dark.svg" | relative_url }}" alt="Long Future illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Long View
@@ -372,9 +366,7 @@ Space settlement is not an inevitable outcome nor a short‑term project — it 
 
 The core challenge is not technology alone but ensuring that such expansion, if it occurs, enhances human potential broadly rather than replicating old patterns of scarcity, exclusion and control. Done well, space settlement could be one of the most profound chapters in the story of civilization — a bridge from a world bound to Earth to a long future where conscious life flourishes across space and time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kvc7uuuwldg" title="The Von Braun Wheel - Building Humanity’s First Rotating Space Station" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kvc7uuuwldg" target="_blank" rel="noopener noreferrer">The Von Braun Wheel - Building Humanity’s First Rotating Space Station</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 79.2K &middot; Uploaded: May 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kvc7uuuwldg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kvc7uuuwldg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -395,7 +387,7 @@ The core challenge is not technology alone but ensuring that such expansion, if 
         </h4>
         <p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Covers space settlement, expansion beyond Earth and humanity&#x27;s long-term prospects.</p>
+        <p class="fr-book-desc">Directly covers humanity&#x27;s expansion into space and long-term future.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -405,16 +397,16 @@ The core challenge is not technology alone but ensuring that such expansion, if 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
         </h4>
-        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
+        <p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Directly addresses challenges of off-Earth communities.</p>
+        <p class="fr-book-desc">Explores long-term futures shaped by advanced intelligence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -422,16 +414,16 @@ The core challenge is not technology alone but ensuring that such expansion, if 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Beginning of Infinity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aykAsxPIwW0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Beginning of Infinity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
+          <a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beginning of Infinity">The Beginning of Infinity</a>
         </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
+        <p class="fr-book-author">By David Deutsch</p>
         
-        <p class="fr-book-desc">Explores economic and civilisational arguments for expansion into space.</p>
+        <p class="fr-book-desc">Argues for open-ended human progress and problem-solving.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Beginning+of+Infinity+by+David+Deutsch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -446,7 +438,7 @@ The core challenge is not technology alone but ensuring that such expansion, if 
         </h4>
         <p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Links existential risk reduction to preserving humanity&#x27;s future potential.</p>
+        <p class="fr-book-desc">Frames the value of protecting humanity&#x27;s vast future.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -456,7 +448,7 @@ The core challenge is not technology alone but ensuring that such expansion, if 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Beginning+of+Infinity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Beginning of Infinity</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -493,15 +485,15 @@ The core challenge is not technology alone but ensuring that such expansion, if 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Futuristic Sci-Fi City Art Print, Golden Planet Space Colony Pulp A67"><img src="{{ '/assets/images/marketplace-covers/f5b3d1bcf2a0cdbf2f82.jpg' | relative_url }}" alt="Listing image for Retro Futuristic Sci-Fi City Art Print, Golden Planet Space Colony Pulp A67" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Retro Futuristic Sci-Fi City Art Print, Golden Planet Space Colony Pulp A67</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,47 +501,15 @@ The core challenge is not technology alone but ensuring that such expansion, if 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Impression Colony Habitat Station 12X16 Inch Framed Art Print"><img src="{{ '/assets/images/marketplace-covers/2e9de01b227b976e54f0.jpg' | relative_url }}" alt="Listing image for Space Impression Colony Habitat Station 12X16 Inch Framed Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Space Impression Colony Habitat Station 12X16 Inch Framed Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/26a6de4e33693786f82b.jpg' | relative_url }}" alt="Listing image for Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f2a5e448dfdd06d27f21.jpg' | relative_url }}" alt="Listing image for Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -557,7 +517,7 @@ The core challenge is not technology alone but ensuring that such expansion, if 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print -book -books" data-ebay-reference="long-future-how-big-could-humanity-s-future-become-ai-bloom-abundance-superintelligence-and-huma-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-big-could-humanity-s-future-become-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="how-big-could-humanity-s-future-become-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -773,95 +733,95 @@ The core challenge is not technology alone but ensuring that such expansion, if 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Space colonization  
-   Link: [https://en.wikipedia.org/wiki/Space_colonization](https://en.wikipedia.org/wiki/Space_colonization)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_colonization" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_colonization</a>  
 
 2. <a id="endnote-2"></a>
    Source: ebsco.com  
    Title: Space colonization | History | Research Starters | EBSCO Research  
-   Link: [https://www.ebsco.com/research-starters/history/space-colonization](https://www.ebsco.com/research-starters/history/space-colonization)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EBSCOSpace colonization | History | Research Starters | EBSCO Research...</p></details>
+   Link: <a href="https://www.ebsco.com/research-starters/history/space-colonization" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/history/space-colonization</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space colonization | History | Research Starters | EBSCO Research...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The Martian: Possible Scenarios for a Future Human Society on Mars  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0265964620300308](https://www.sciencedirect.com/science/article/pii/S0265964620300308)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectThe Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0265964620300308</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Martian: Possible Scenarios for a Future Human Society on Mars - ScienceDirect...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Biological challenges of true space settlement  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S009457651731812X](https://www.sciencedirect.com/science/article/abs/pii/S009457651731812X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBiological challenges of true space settlement - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S009457651731812X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S009457651731812X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological challenges of true space settlement - ScienceDirect...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1207.1498](https://arxiv.org/abs/1207.1498)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivStapledon&#x27;s Interplanetary Man: A Commonwealth of Worlds and the Ultimate Purpose of Space ColonisationJuly 6, 2012...</p></details>
+   Link: <a href="https://arxiv.org/abs/1207.1498" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1207.1498</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stapledon&#x27;s Interplanetary Man: A Commonwealth of Worlds and the Ultimate Purpose of Space ColonisationJuly 6, 2012...</p></details>
    Published: July 6, 2012  
 
 6. <a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Why space colonization will be fully automated  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162518317281](https://www.sciencedirect.com/science/article/abs/pii/S0040162518317281)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2019 — TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 143, June 2019, Pages 162-171 WHY SPACE COLONIZATION WILL...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518317281" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162518317281</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2019 — TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 143, June 2019, Pages 162-171 WHY SPACE COLONIZATION WILL...</p></details>
    Published: June 1, 2019  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
    Title: Why space colonization will be fully automated  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0040162518317281](https://www.sciencedirect.com/science/article/pii/S0040162518317281)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 143, June 2019, Pages 162-171 WHY SPACE COLONIZATION WILL BE FULLY AUTOMA...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0040162518317281" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0040162518317281</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TECHNOLOGICAL FORECASTING AND SOCIAL CHANGE Volume 143, June 2019, Pages 162-171 WHY SPACE COLONIZATION WILL BE FULLY AUTOMA...</p></details>
    Published: June 2019  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: The Martian: Possible Scenarios for a Future Human Society on Mars  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308](https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectSPACE POLICY Volume 54, November 2020, 101388 THE MARTIAN: POSSIBLE SCENARIOS FOR A FUTURE HUMAN SOCIETY ON MARS [https://doi...&quot;](https://doi...&quot;)...</p></details>
    Published: November 2020  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: The information catastrophe and space settlement  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001632872200163X](https://www.sciencedirect.com/science/article/abs/pii/S001632872200163X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S001632872200163X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S001632872200163X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectFUTURES Volume 145, January 2023, 103063 THE INFORMATION CATASTROPHE AND SPACE SETTLEMENT [https://doi.org/10.1016/j.futures...&quot;](https://doi.org/10.1016/j.futures...&quot;)...</p></details>
    Published: January 2023  
 
 10. <a id="endnote-10"></a>
    Source: thespacereview.com  
-   Link: [https://www.thespacereview.com/article/2915/1](https://www.thespacereview.com/article/2915/1)  
+   Link: <a href="https://www.thespacereview.com/article/2915/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/2915/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Space ReviewThe Space Review: Settling space is the only sustainable reason for humans to be in spaceFebruary 1, 2016...</p></details>
    Published: February 1, 2016  
 
 11. <a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547](https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Safely advancing a spacefaring humanity with artificial intelligenceJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
 12. <a id="endnote-12"></a>
    Source: scientificamerican.com  
-   Link: [https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/](https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/)  
+   Link: <a href="https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/an-evolutionary-biologist-imagines-the-future-traits-of-space-colonists/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanAn Evolutionary Biologist Imagines the Future Traits of Space Colonists | Scientific AmericanOctober 1, 2016...</p></details>
    Published: October 1, 2016  
 
 13. <a id="endnote-13"></a>
    Source: spj.science.org  
-   Link: [https://spj.science.org/doi/10.34133/space.0479](https://spj.science.org/doi/10.34133/space.0479)  
+   Link: <a href="https://spj.science.org/doi/10.34133/space.0479" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/space.0479</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Economic Framework for Space Immigration | Space: Science &amp; TechnologyMarch 24, 2026 — Main content starts here Open access Research Arti...</p></details>
    Published: March 24, 2026  
 
 14. <a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1725449/abstract](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1725449/abstract)  
+   Link: <a href="https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1725449/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1725449/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Technol., 08 January 2026 Sec. Space Exploration Volume 6 - 2025 | [https://doi.org/10.3389/frspt.2025.1725449](https://doi.org/10.3389/frspt.2025.1725449) FROM MOLECULES TO MIN...</p></details>
    Published: January 2026  
 
 15. <a id="endnote-15"></a>
    Source: frontiersin.org  
    Title: Frontiers | Safely advancing a spacefaring humanity with artificial intelligence  
-   Link: [https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547/full](https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547/full)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Technol., 15 June 2023 Sec. [Space Economy](&amp;#123;&amp;#123; &#x27;economic-sustainability/&#x27; | relative_url &amp;#125;&amp;#125;) Volume 4 - 2023 | [https://doi.org/10.3389/frspt.2023.1199547](https://doi.org/10.3389/frspt.2023.1199547) Published i...</p></details>
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/frspt.2023.1199547/full</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Technol., 15 June 2023 Sec. Space Economy Volume 4 - 2023 | [https://doi.org/10.3389/frspt.2023.1199547](https://doi.org/10.3389/frspt.2023.1199547) Published in Frontiers in Sp...</p></details>
    Published: June 2023  
 
 ### Additional References
@@ -869,60 +829,60 @@ The core challenge is not technology alone but ensuring that such expansion, if 
 16. <a id="endnote-16"></a>
    Source: nature.com  
    Title: Minimum Number of Settlers for Survival on Another Planet | Scientific Reports  
-   Link: [https://www.nature.com/articles/s41598-020-66740-0](https://www.nature.com/articles/s41598-020-66740-0)  
+   Link: <a href="https://www.nature.com/articles/s41598-020-66740-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-66740-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>June 16, 2020 — Minimum Number of Settlers for Survival on Another Planet Download PDF Download PDF * Article * Open access *...</p></details>
    Published: June 16, 2020  
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
-   Link: [https://www.britannica.com/procon/space-colonization-debate/1-minute-Survey](https://www.britannica.com/procon/space-colonization-debate/1-minute-Survey)  
+   Link: <a href="https://www.britannica.com/procon/space-colonization-debate/1-minute-Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/procon/space-colonization-debate/1-minute-Survey</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Colonization | Pros, Cons, Debate, Arguments, Mars, Moon, Human Settlements, &amp; Earth | BritannicaSpace Colonization * Introduction...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nss.org  
    Title: settling space is the only sustainable reason for humans to be in space  
-   Link: [https://nss.org/settling-space-is-the-only-sustainable-reason-for-humans-to-be-in-space/](https://nss.org/settling-space-is-the-only-sustainable-reason-for-humans-to-be-in-space/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NSSFebruary 1, 2016 — SETTLING SPACE IS THE ONLY SUSTAINABLE REASON FOR HUMANS TO BE IN SPACE * February 1, 2016 * Space Colonization, Sp...</p></details>
+   Link: <a href="https://nss.org/settling-space-is-the-only-sustainable-reason-for-humans-to-be-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/settling-space-is-the-only-sustainable-reason-for-humans-to-be-in-space/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2016 — SETTLING SPACE IS THE ONLY SUSTAINABLE REASON FOR HUMANS TO BE IN SPACE * February 1, 2016 * Space Colonization, Sp...</p></details>
    Published: February 1, 2016  
 
 19. <a id="endnote-19"></a>
    Source: nss.org  
    Title: space settlement roadmap 31 human survival  
-   Link: [https://nss.org/space-settlement-roadmap-31-human-survival/](https://nss.org/space-settlement-roadmap-31-human-survival/)  
+   Link: <a href="https://nss.org/space-settlement-roadmap-31-human-survival/" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/space-settlement-roadmap-31-human-survival/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NSS Roadmap to Space Settlement Milestone 31: Survival of the Human Species Via Space Settlement – NSSMay 19, 2021 — NSS ROADMAP TO SPACE...</p></details>
    Published: May 19, 2021  
 
 20. <a id="endnote-20"></a>
    Source: planet-futures.org  
    Title: We design forward-looking strate  
-   Link: [https://www.planet-futures.org/future-perspectives/](https://www.planet-futures.org/future-perspectives/)  
+   Link: <a href="https://www.planet-futures.org/future-perspectives/" target="_blank" rel="noopener noreferrer nofollow">https://www.planet-futures.org/future-perspectives/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future Perspectives – Space colonization | Planet FuturesFUTURE PERSPECTIVES FOR HUMANITY Planet Futures explores long-term perspectives...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Von Braun Wheel  
-   Link: [https://www.youtube.com/watch?v=kvc7uuuwldg](https://www.youtube.com/watch?v=kvc7uuuwldg)  
+   Link: <a href="https://www.youtube.com/watch?v=kvc7uuuwldg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kvc7uuuwldg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Escape, immortality, AI: Silicon Valley&#x27;s blueprint for the future | Front Burner...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11569-023-00440-7](https://link.springer.com/article/10.1007/s11569-023-00440-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11569-023-00440-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11569-023-00440-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Right Choice for Space Travel and Mars Colonisation? | Ethics and Society | Springer Nature LinkApril 22, 2023 — MODIFYING TH...</p></details>
    Published: April 22, 2023  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: The Next 200 Years of SPACE COLONIZATION (Timelapse)  
-   Link: [https://www.youtube.com/watch?v=rqUaaEsFW_M](https://www.youtube.com/watch?v=rqUaaEsFW_M)  
+   Link: <a href="https://www.youtube.com/watch?v=rqUaaEsFW_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rqUaaEsFW_M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Von Braun Wheel - Building Humanity&#x27;s First Rotating Space Station...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1089/ast.2024.0156?icid=int.sj-full-text.similar-articles.8](https://journals.sagepub.com/doi/10.1089/ast.2024.0156?icid=int.sj-full-text.similar-articles.8)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1089/ast.2024.0156?icid=int.sj-full-text.similar-articles.8" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1089/ast.2024.0156?icid=int.sj-full-text.similar-articles.8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sasselov, Sara Seager, Robert Wood, Peter Worden, 2025May 14, 2025 — APPLIED ASTROBIOLOGY: AN INTEGRATED APPROACH TO THE FUTURE OF LIFE I...</p></details>
    Published: May 14, 2025  
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BZwf28TqIYw](https://www.youtube.com/watch?v=BZwf28TqIYw)  
+   Link: <a href="https://www.youtube.com/watch?v=BZwf28TqIYw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BZwf28TqIYw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPACE COLONIES — Episode 1...</p></details>

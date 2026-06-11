@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /climate-twins/
 nav_short_title: Adaptation Twins
 title: Can Climate Twins Prevent Costly Infrastructure Mistakes?
-title_full: Can Climate Twins Prevent Costly Infrastructure Mistakes? | Climate Twins
+title_full: Can Climate Twins Prevent Costly Infrastructure Mistakes?
 display_title_short: Adaptation Twins
 display_title: Adaptation Twins
 heading_title: Can Climate Twins Prevent Costly Infrastructure Mistakes?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could AI Weather Twins Make Climate Disasters Less Deadly? | Resilience
+date: '2026-06-08 01:57:11'
+parent_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
 parent_permalink: /climate-twins/
 parent_nav_short_title: Climate Twins
 parent_heading_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
@@ -260,7 +261,6 @@ next_link:
   permalink: /destin-e-floods/
   short_title: Destin E Floods
   heading_title: Can Europe Simulate Flood Disasters Before They Happen?
-date: '2026-06-08 01:57:11 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-1.webp
@@ -271,7 +271,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae
 
 In a world where climate change will reshape landscapes, coastlines and cities over coming decades, **climate adaptation planning is no longer a one‑off engineering exercise**. Governments and planners must make *long‑term infrastructure decisions* — from sea‑defence investments to water systems and heat management — under deep uncertainty about future climate conditions. **Climate adaptation digital twins** are emerging as a powerful new tool in this context: *virtual replicas of environmental systems and infrastructure networks that allow policymakers to test, compare and stress‑test infrastructure choices decades into the future before committing funds or locking in designs*. These digital twin systems bring together high‑resolution climate simulations, real‑world data, and scenario modelling to reduce uncertainty, highlight trade‑offs, and support evidence‑led long‑term infrastructure planning. The result can be better adaptation pathways that are not only cost‑effective but resilient to a wide range of possible climate futures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://destination-earth.eu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">Destination EarthBUILDING A HIGHLY ACCURATE DIGITAL TWIN OF THE EARTH Join DestinE&#x27;s community Image DESTINATION EARTH Destination Earth...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-1-dark.svg" | relative_url }}" alt="Adaptation Twins illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Testing Coastal Defence and Water Management Scenarios
 
@@ -281,8 +280,7 @@ The European Union’s **DestinE Climate Change Adaptation Digital Twin (Climate
 
 By coupling high‑resolution climate output with *impact‑sector information* such as hydrology and flood risk indicators, climate adaptation digital twins allow **direct comparison of infrastructure options**: for example, evaluating whether a proposed sea wall would reduce flood frequency through the 2040s under high‑emissions trajectories, or whether an alternative “soft” defence like restored wetlands offers comparable protection at lower cost or greater co‑benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://platform.destine.eu/climate-dt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: platform.destine.eu">[DestinE Platform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">platform.destine.eu</span><span class="citation-popover-title">Destin E Platform Climate DT – Destin E Platform</span><span class="citation-popover-snippet">Destin E Platform Climate DT – Destin E Platform</span></span></span>
 
-In the UK, connected digital twins such as the **Climate [Resilience]({{ 'resilience/' | relative_url }}) Demonstrator (CReDo)** are working to integrate climate data with infrastructure models **across sectors** — including [energy]({{ 'energy/' | relative_url }}), water and telecoms — to assess how extreme weather may cascade through networks. These systems project the knock‑on effects of flooding or heat stress on entire service networks, helping infrastructure owners *test the resilience of proposed upgrades and prioritise investment where it yields the best long‑term robustness*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafni.ac.uk/credo-digital-twin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafni.ac.uk">[DAFNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafni.ac.uk</span><span class="citation-popover-title">DAFNICRe Do Digital Twin | Data &amp; Analytics Facility for National Infrastructure</span><span class="citation-popover-snippet">DAFNICReDo Digital Twin | Data &amp; Analytics Facility for National Infrastructure - DAFNI...</span></span></span>
-
+In the UK, connected digital twins such as the **Climate [Resilience]({{ 'resilience/' | relative_url }}) Demonstrator (CReDo)** are working to integrate climate data with infrastructure models **across sectors** — including [energy]({{ 'energy/' | relative_url }}), water and telecoms — to assess how extreme weather may cascade through networks. These systems project the knock‑on effects of flooding or heat stress on entire service networks, helping infrastructure owners *test the resilience of proposed upgrades and prioritise investment where it yields the best long‑term robustness*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafni.ac.uk/credo-digital-twin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafni.ac.uk">[DAFNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafni.ac.uk</span><span class="citation-popover-title">DAFNICRe Do Digital Twin &#124; Data &amp; Analytics Facility for National Infrastructure</span><span class="citation-popover-snippet">CReDo Digital Twin &#124; Data &amp; Analytics Facility for National Infrastructure - DAFNI...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bxEgh1jZtXA" title="DestinE Animation on the Climate Change Adaptation Digital Twin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bxEgh1jZtXA" target="_blank" rel="noopener noreferrer">DestinE Animation on the Climate Change Adaptation Digital Twin</a></p><p class="youtube-embed-meta">Channel: ECMWF &middot; Views: 922 &middot; Uploaded: March 2025 &middot; Length: 4 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bxEgh1jZtXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bxEgh1jZtXA">Open on YouTube</a></p></div></div></div>
 
@@ -290,17 +288,16 @@ In the UK, connected digital twins such as the **Climate [Resilience]({{ 'resili
 
 For national and regional adaptation planning, digital twins are beginning to enter formal policy processes by bridging climate science and decision‑making: they translate raw climate projections into **actionable indicators** that inform infrastructure choices over decades.
 
-The DestinE Climate DT, for example, is part of the *Destination Earth* platform — an EU flagship aimed at providing high‑resolution, interactive climate information to support evidence‑based policy across sectors including water management, urban planning and energy. By delivering updated global climate projections on a routine, annual basis, it offers planners dynamically updated views of climate risk that can be integrated into formal adaptation plans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-title">Destination Earth Climate Change Adaptation Digital Twin | Destination Earth</span><span class="citation-popover-snippet">Destination Earth Climate Change Adaptation Digital Twin | Destination Earth</span></span></span>
+The DestinE Climate DT, for example, is part of the *Destination Earth* platform — an EU flagship aimed at providing high‑resolution, interactive climate information to support evidence‑based policy across sectors including water management, urban planning and energy. By delivering updated global climate projections on a routine, annual basis, it offers planners dynamically updated views of climate risk that can be integrated into formal adaptation plans. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-title">Destination Earth Climate Change Adaptation Digital Twin &#124; Destination Earth</span><span class="citation-popover-snippet">Destination Earth Climate Change Adaptation Digital Twin &#124; Destination Earth</span></span></span>
 
 This capability is particularly useful for **national adaptation strategies** that must balance near‑term needs with long‑term climate uncertainty. Instead of relying on broad, low‑resolution climate projections produced every few years, planners can use digital twin outputs to stress‑test infrastructure portfolios against *multi‑decadal climate evolution and extreme event storylines*, helping to avoid lock‑in of brittle designs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://platform.destine.eu/climate-dt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: platform.destine.eu">[DestinE Platform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">platform.destine.eu</span><span class="citation-popover-title">Destin E Platform Climate DT – Destin E Platform</span><span class="citation-popover-snippet">Destin E Platform Climate DT – Destin E Platform</span></span></span>
 
-Similarly, academic frameworks for *urban digital twins* emphasise how real‑time data integration and [predictive]({{ 'failure-warnings/' | relative_url }}) analytics can support climate adaptation choices for *critical infrastructure* in cities — from transport networks to drainage systems — by enabling planners to forecast infrastructure performance under climate‑altered conditions and tailor solutions to local realities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cogitatiopress.com/urbanplanning/article/view/10109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cogitatiopress.com">[Cogitatio Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cogitatiopress.com</span><span class="citation-popover-snippet">Cogitatio PressData‐Driven Urban Digital Twins and Critical Infrastructure Under Climate Change: A Review of Frameworks and Applications...</span></span></span>
-
+Similarly, academic frameworks for *urban digital twins* emphasise how real‑time data integration and predictive analytics can support climate adaptation choices for *critical infrastructure* in cities — from transport networks to drainage systems — by enabling planners to forecast infrastructure performance under climate‑altered conditions and tailor solutions to local realities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cogitatiopress.com/urbanplanning/article/view/10109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cogitatiopress.com">[Cogitatio Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cogitatiopress.com</span><span class="citation-popover-snippet">Cogitatio PressData‐Driven Urban Digital Twins and Critical Infrastructure Under Climate Change: A Review of Frameworks and Applications...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-2-dark.svg" | relative_url }}" alt="Adaptation Twins illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Governance Risks from Biased or Incomplete Climate Data
 
-While adaptation digital twins promise better long‑term decision support, **[governance]({{ 'power/' | relative_url }}) and data integrity risks** must be managed to avoid misplaced confidence in their outputs.
+While adaptation digital twins promise better long‑term decision support, **governance and data integrity risks** must be managed to avoid misplaced confidence in their outputs.
 
 Digital twins depend on *vast, heterogeneous data sources* — from climate model simulations and sensor networks to infrastructure asset databases. If these inputs are biased, incomplete or incompatible across sectors, simulations can mischaracterise risks. Issues such as spatial data gaps, inconsistent quality controls and misaligned model assumptions may produce misleading results if planners treat digital twin outputs as definitive forecasts rather than scenario tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/infrastructure-digital-twins-data-requirements" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Infrastructure digital twins: data requirements</span><span class="citation-popover-snippet">Infrastructure digital twins: data requirements</span></span></span>
 
@@ -308,16 +305,13 @@ Governance frameworks need to ensure **transparency and interoperability**: clea
 
 Another governance concern is equitable access and relevance. High‑resolution digital twins often require access to HPC resources and specialist expertise, which can concentrate capacity within large states or institutions. Without thoughtful governance, smaller jurisdictions may be left without the tools needed to model their risks effectively. Designing shared access platforms and capacity‑building programmes is therefore a key policy requirement alongside technical development.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gHTu-L1cCSc" title="Towards Resilient Cities through Digital Coupled Human, nAture and INfrastructure Systems (CHAINS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gHTu-L1cCSc" target="_blank" rel="noopener noreferrer">Towards Resilient Cities through Digital Coupled Human, nAture and INfrastructure Systems (CHAINS)</a></p><p class="youtube-embed-meta">Channel: EPICentre UCL &middot; Views: 28 &middot; Uploaded: April 2026 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gHTu-L1cCSc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gHTu-L1cCSc">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XFglK6MVzrA" title="CReDo (March 2023 extended version, subtitled)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XFglK6MVzrA" target="_blank" rel="noopener noreferrer">CReDo (March 2023 extended version, subtitled)</a></p><p class="youtube-embed-meta">Channel: Digital Twin Hub at CPC &middot; Views: 462 &middot; Uploaded: April 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XFglK6MVzrA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XFglK6MVzrA">Open on YouTube</a></p></div></div></div>
 
 ## How Digital Twins Change Infrastructure Choices
 
-The promise of climate adaptation digital twins for long‑term infrastructure planning lies in **shifting decisions from reactive to [anticipatory]({{ 'anticipatory-gov/' | relative_url }})**. Instead of building for past climates or simplistic trend extrapolation, planners can use digital twins to:
-
+The promise of climate adaptation digital twins for long‑term infrastructure planning lies in **shifting decisions from reactive to anticipatory**. Instead of building for past climates or simplistic trend extrapolation, planners can use digital twins to:
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -328,10 +322,9 @@ The promise of climate adaptation digital twins for long‑term infrastructure p
 
 </div>
 
-In doing so, digital twins can help avoid *costly infrastructure mistakes* — such as over‑building brittle sea walls for one scenario while under‑investing in flood‑resilient drainage for another — by exposing trade‑offs and reinforcing decisions that are robust across a range of uncertain futures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafni.ac.uk/credo-digital-twin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafni.ac.uk">[DAFNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafni.ac.uk</span><span class="citation-popover-title">DAFNICRe Do Digital Twin | Data &amp; Analytics Facility for National Infrastructure</span><span class="citation-popover-snippet">DAFNICReDo Digital Twin | Data &amp; Analytics Facility for National Infrastructure - DAFNI...</span></span></span>
+In doing so, digital twins can help avoid *costly infrastructure mistakes* — such as over‑building brittle sea walls for one scenario while under‑investing in flood‑resilient drainage for another — by exposing trade‑offs and reinforcing decisions that are robust across a range of uncertain futures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dafni.ac.uk/credo-digital-twin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dafni.ac.uk">[DAFNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dafni.ac.uk</span><span class="citation-popover-title">DAFNICRe Do Digital Twin &#124; Data &amp; Analytics Facility for National Infrastructure</span><span class="citation-popover-snippet">CReDo Digital Twin &#124; Data &amp; Analytics Facility for National Infrastructure - DAFNI...</span></span></span>
 
 By connecting climate simulation science with the real‑world challenges of built infrastructure, adaptation digital twins become not just a technology but a **governance tool for long‑term resilience planning**, aligning detailed climate information with the practical needs of policymakers, engineers and communities facing the relentless march of climate change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/news/new-paper-highlights-capabilities-climate-change-digital-twin-destine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-snippet">Open source on ecmwf.int.</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-3-dark.svg" | relative_url }}" alt="Adaptation Twins illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_climate_adapt_3a3a25-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -732,122 +725,122 @@ By connecting climate simulation science with the real‑world challenges of bui
 1. <a id="endnote-1"></a>
    Source: destine.ecmwf.int  
    Title: Destination Earth Climate Change Adaptation Digital Twin | Destination Earth  
-   Link: [https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/](https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/)  
+   Link: <a href="https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/</a>  
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: Infrastructure digital twins: data requirements  
-   Link: [https://www.gov.uk/government/publications/infrastructure-digital-twins-data-requirements](https://www.gov.uk/government/publications/infrastructure-digital-twins-data-requirements)  
+   Link: <a href="https://www.gov.uk/government/publications/infrastructure-digital-twins-data-requirements" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/infrastructure-digital-twins-data-requirements</a>  
 
 3. <a id="endnote-3"></a>
    Source: destine.ecmwf.int  
-   Link: [https://destine.ecmwf.int/news/new-paper-highlights-capabilities-climate-change-digital-twin-destine/](https://destine.ecmwf.int/news/new-paper-highlights-capabilities-climate-change-digital-twin-destine/)  
+   Link: <a href="https://destine.ecmwf.int/news/new-paper-highlights-capabilities-climate-change-digital-twin-destine/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/news/new-paper-highlights-capabilities-climate-change-digital-twin-destine/</a>  
 
 4. <a id="endnote-4"></a>
    Source: platform.destine.eu  
    Title: Destin E Platform Climate DT – Destin E Platform  
-   Link: [https://platform.destine.eu/climate-dt/](https://platform.destine.eu/climate-dt/)  
+   Link: <a href="https://platform.destine.eu/climate-dt/" target="_blank" rel="noopener noreferrer nofollow">https://platform.destine.eu/climate-dt/</a>  
 
 5. <a id="endnote-5"></a>
    Source: ecmwf.int  
    Title: climate change adaptation digital twin climate adaptation dt  
-   Link: [https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt](https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ECMWFClimate Change Adaptation Digital Twin (Climate Adaptation DT) | ECMWFMay 8, 2026...</p></details>
+   Link: <a href="https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt" target="_blank" rel="noopener noreferrer nofollow">https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Climate Change Adaptation Digital Twin (Climate Adaptation DT) | ECMWFMay 8, 2026...</p></details>
    Published: May 8, 2026  
 
 6. <a id="endnote-6"></a>
    Source: ecmwf.int  
    Title: Climate Change Adaptation Digital Twin (Climate Adaptation DT)  
-   Link: [https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt-future](https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt-future)  
+   Link: <a href="https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt-future" target="_blank" rel="noopener noreferrer nofollow">https://www.ecmwf.int/en/forecasts/datasets/climate-change-adaptation-digital-twin-climate-adaptation-dt-future</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Future Projection - ICON | ECMWFMay 8, 2026 — CLIMATE CHANGE ADAPTATION DIGITAL TWIN (CLIMATE ADAPTATION DT) - FUTURE PROJECTION - ICON I...</p></details>
    Published: May 8, 2026  
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/digital-twin-of-an-industrial-cluster-a-proof-of-concept-on-the-humber-estuary/](https://www.gov.uk/government/publications/digital-twin-of-an-industrial-cluster-a-proof-of-concept-on-the-humber-estuary/)  
+   Link: <a href="https://www.gov.uk/government/publications/digital-twin-of-an-industrial-cluster-a-proof-of-concept-on-the-humber-estuary/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/digital-twin-of-an-industrial-cluster-a-proof-of-concept-on-the-humber-estuary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>twin of an industrial cluster: a proof of concept on the Humber Estuary - GOV.UKJanuary 15, 2024 — DIGITAL TWIN OF AN INDUSTRIAL CLUSTER...</p></details>
    Published: January 15, 2024  
 
 8. <a id="endnote-8"></a>
    Source: destine.ecmwf.int  
    Title: Digital twins of the Earth-system represent a gamechanger in our un  
-   Link: [https://destine.ecmwf.int/digital-twins/](https://destine.ecmwf.int/digital-twins/)  
+   Link: <a href="https://destine.ecmwf.int/digital-twins/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/digital-twins/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins | Destination EarthImage: The Digital Twins THE DIGITAL TWINS DIGITAL TWINS DestinE is centered around an ecosystem of Eart...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/](https://destination-earth.eu/)  
+   Link: <a href="https://destination-earth.eu/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthBUILDING A HIGHLY ACCURATE DIGITAL TWIN OF THE EARTH Join DestinE&#x27;s community Image DESTINATION EARTH Destination Earth...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dafni.ac.uk  
    Title: DAFNICRe Do Digital Twin | Data & Analytics Facility for National Infrastructure  
-   Link: [https://www.dafni.ac.uk/credo-digital-twin/](https://www.dafni.ac.uk/credo-digital-twin/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DAFNICReDo Digital Twin | Data &amp; Analytics Facility for National Infrastructure - DAFNI...</p></details>
+   Link: <a href="https://www.dafni.ac.uk/credo-digital-twin/" target="_blank" rel="noopener noreferrer nofollow">https://www.dafni.ac.uk/credo-digital-twin/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CReDo Digital Twin | Data &amp; Analytics Facility for National Infrastructure - DAFNI...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cogitatiopress.com  
-   Link: [https://www.cogitatiopress.com/urbanplanning/article/view/10109](https://www.cogitatiopress.com/urbanplanning/article/view/10109)  
+   Link: <a href="https://www.cogitatiopress.com/urbanplanning/article/view/10109" target="_blank" rel="noopener noreferrer nofollow">https://www.cogitatiopress.com/urbanplanning/article/view/10109</a>  
 
 12. <a id="endnote-12"></a>
    Source: iris.polito.it  
-   Link: [https://iris.polito.it/handle/11583/3010413](https://iris.polito.it/handle/11583/3010413)  
+   Link: <a href="https://iris.polito.it/handle/11583/3010413" target="_blank" rel="noopener noreferrer nofollow">https://iris.polito.it/handle/11583/3010413</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth digital twin for climate change adaptation2026 * * * ABSTRACT The Climate Change Adaptation Digital Twin (Climate DT)...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3417/15/4/1911/html](https://www.mdpi.com/2076-3417/15/4/1911/html)  
+   Link: <a href="https://www.mdpi.com/2076-3417/15/4/1911/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/15/4/1911/html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ns | MDPIFebruary 12, 2025 — 12 February 2025 DIGITAL TWIN TECHNOLOGY IN TRANSPORTATION INFRASTRUCTURE: A COMPREHENSIVE SURVEY OF CURRENT...</p></details>
    Published: February 12, 2025  
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/15623599.2021.1966980](https://www.tandfonline.com/doi/full/10.1080/15623599.2021.1966980)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15623599.2021.1966980" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15623599.2021.1966980</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>August 23, 2021 — DIGITAL TWINS IN INFRASTRUCTURE: DEFINITIONS, CURRENT PRACTICES, CHALLENGES AND STRATEGIES Didem Gürdür Brooa Centre fo...</p></details>
    Published: August 23, 2021  
 
 15. <a id="endnote-15"></a>
    Source: deloitte.com  
-   Link: [https://www.deloitte.com/global/en/Industries/government-public/perspectives/digital-twins-for-resilient-infrastructure.html](https://www.deloitte.com/global/en/Industries/government-public/perspectives/digital-twins-for-resilient-infrastructure.html)  
+   Link: <a href="https://www.deloitte.com/global/en/Industries/government-public/perspectives/digital-twins-for-resilient-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.deloitte.com/global/en/Industries/government-public/perspectives/digital-twins-for-resilient-infrastructure.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Where physical and digital meet: Digital Twins for Resilient Infrastructure | Deloitte GlobalPerspective: Perspective 5 minute read WHERE...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.chalmers.se  
-   Link: [https://research.chalmers.se/en/project/8256](https://research.chalmers.se/en/project/8256)  
+   Link: <a href="https://research.chalmers.se/en/project/8256" target="_blank" rel="noopener noreferrer nofollow">https://research.chalmers.se/en/project/8256</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin as a Decision-Making Support Tool for Resilience of Urban’s Infrastructure under Extreme Climatic EventsDIGITAL TWIN AS A DECISION-M...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eprints.gla.ac.uk  
-   Link: [https://eprints.gla.ac.uk/364522/](https://eprints.gla.ac.uk/364522/)  
+   Link: <a href="https://eprints.gla.ac.uk/364522/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/364522/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>gla.ac.ukData‐driven urban digital twins and critical infrastructure under climate change: a review of frameworks and applicationsAugust...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=gHTu-L1cCSc](https://www.youtube.com/watch?v=gHTu-L1cCSc)  
+   Link: <a href="https://www.youtube.com/watch?v=gHTu-L1cCSc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gHTu-L1cCSc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This video selection details how climate adaptation digital twins are engineered to guide long-term infrastructure decisions, spotlightin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cp.catapult.org.uk  
    Title: Connected Places Catapult Climate Resilience Demonstrator (CRe Do)  
-   Link: [https://cp.catapult.org.uk/project/climate-resilience-demonstrator-credo/](https://cp.catapult.org.uk/project/climate-resilience-demonstrator-credo/)  
+   Link: <a href="https://cp.catapult.org.uk/project/climate-resilience-demonstrator-credo/" target="_blank" rel="noopener noreferrer nofollow">https://cp.catapult.org.uk/project/climate-resilience-demonstrator-credo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Resilience Demonstrator (CReDo) - Connected Places CatapultOctober 30, 2024 — CLIMATE RESILIENCE DEMONSTRATOR (CREDO) The Climate Resilie...</p></details>
    Published: October 30, 2024  
 
 20. <a id="endnote-20"></a>
    Source: digitaltwinocean.mercator-ocean.eu  
-   Link: [https://digitaltwinocean.mercator-ocean.eu/](https://digitaltwinocean.mercator-ocean.eu/)  
+   Link: <a href="https://digitaltwinocean.mercator-ocean.eu/" target="_blank" rel="noopener noreferrer nofollow">https://digitaltwinocean.mercator-ocean.eu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Twin OceanDigital Twin Ocean Digital Twin Ocean A leap in ocean knowledge and sustainable action Overview Empowering citizens to make inf...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: ceh.ac.uk  
-   Link: [https://www.ceh.ac.uk/our-science/projects/land-insight-digital-twin](https://www.ceh.ac.uk/our-science/projects/land-insight-digital-twin)  
+   Link: <a href="https://www.ceh.ac.uk/our-science/projects/land-insight-digital-twin" target="_blank" rel="noopener noreferrer nofollow">https://www.ceh.ac.uk/our-science/projects/land-insight-digital-twin</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Land InSight digital twin | UK Centre for Ecology &amp; HydrologyLAND INSIGHT DIGITAL TWIN PROJECT OVERVIEW LAND INSIGHT: A DIGITAL TWIN FOR...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: The Destination Earth (Destin E  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/destination-earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/destination-earth" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/destination-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth (DestinE) - digital model of the earth | Shaping Europe’s digital futureJune 30, 2025 — DESTINATION EARTH (DESTINE) - DIGITAL MODEL...</p></details>
-   Published: June 30, 2025  
+   Published: June 30, 2025

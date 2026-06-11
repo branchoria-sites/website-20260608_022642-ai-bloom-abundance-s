@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-civilisationa/
 description: Focused pages that expand on Anticipatory Gov.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1
-parent_title: Anticipatory Gov | Resilience
+parent_title: Anticipatory Gov
 parent_nav_short_title: Anticipatory Gov
 parent_permalink: /anticipatory-gov/
 ---

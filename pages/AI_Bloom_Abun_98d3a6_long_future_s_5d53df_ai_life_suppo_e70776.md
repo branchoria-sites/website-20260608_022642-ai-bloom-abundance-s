@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /long-future/
 nav_short_title: Life support
 title: Who keeps a closed space habitat alive?
-title_full: Who keeps a closed space habitat alive? | Long Future
+title_full: Who keeps a closed space habitat alive?
 display_title_short: Life support
 display_title: Life support
 heading_title: Who keeps a closed space habitat alive?
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Big Could Humanity's Future Become? | AI Bloom
+date: '2026-06-08 01:31:29'
+parent_title: How Big Could Humanity's Future Become?
 parent_permalink: /long-future/
 parent_nav_short_title: Long Future
 parent_heading_title: How Big Could Humanity's Future Become?
@@ -279,7 +280,6 @@ next_link:
   permalink: /moon-and-mars/
   short_title: Moon and Mars
   heading_title: Are Moon and Mars bases the first step?
-date: '2026-06-08 01:31:29 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-1.webp
@@ -290,9 +290,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e7
 
 A long-term space settlement cannot survive by simply storing supplies and waiting for resupply missions from Earth. Whether the habitat is on Mars, beneath the lunar surface, or inside a large rotating space station, it must continuously recycle air, water, nutrients and waste while keeping thousands of interacting processes within safe limits. The challenge is not merely engineering hardware. It is maintaining an artificial ecosystem that remains stable for years or generations despite equipment failures, biological changes, unexpected human behaviour and external shocks.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-1-dark.svg" | relative_url }}" alt="Life support illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is where advanced AI becomes important. The optimistic case is not that AI magically solves life support, but that it could become the supervisory layer that watches millions of signals, predicts failures before humans notice them, coordinates recycling systems, manages food production and helps closed habitats operate with far less dependence on Earth. For advocates of a long-term human future in space, AI-managed life support is one of the key mechanisms that could turn fragile outposts into self-sustaining settlements. At the same time, it creates new questions about reliability, oversight and what happens when the system itself becomes difficult for humans to fully understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">NASAEnvironmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span>
+This is where advanced AI becomes important. The optimistic case is not that AI magically solves life support, but that it could become the supervisory layer that watches millions of signals, predicts failures before humans notice them, coordinates recycling systems, manages food production and helps closed habitats operate with far less dependence on Earth. For advocates of a long-term human future in space, AI-managed life support is one of the key mechanisms that could turn fragile outposts into self-sustaining settlements. At the same time, it creates new questions about reliability, oversight and what happens when the system itself becomes difficult for humans to fully understand. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span>
 
 ## Why closed-loop systems are hard
 
@@ -312,14 +311,13 @@ Modern habitats may contain tens of thousands of sensors measuring oxygen, carbo
 
 Several areas stand out.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TmcMoE3sFmU" title="Keeping Astronauts Alive: Life Support &amp; Next-Gen Spacesuits | OAP027 Prof. Claas Olthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TmcMoE3sFmU" target="_blank" rel="noopener noreferrer">Keeping Astronauts Alive: Life Support &amp; Next-Gen Spacesuits | OAP027 Prof. Claas Olthoff</a></p><p class="youtube-embed-meta">Channel: Omar Alayli &middot; Views: 11.1K &middot; Uploaded: February 2026 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TmcMoE3sFmU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TmcMoE3sFmU">Open on YouTube</a></p></div></div></div>
 
 ### Predicting failures before they become emergencies
 
 Traditional engineering often responds after alarms trigger. AI systems could instead look for subtle patterns that indicate a future failure.
 
-A slight decline in water-purification efficiency, an unusual microbial signature in a bioreactor or an unexpected shift in atmospheric chemistry might not immediately threaten the crew. However, machine-learning systems trained on years of operational data could identify these anomalies early and recommend interventions before safety margins shrink. Research into digital twins—virtual replicas of life-support systems updated from live sensor data—aims to support exactly this kind of [predictive]({{ 'failure-warnings/' | relative_url }}) management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 30 — The “physical asset” is the ECL...</span></span></span>
+A slight decline in water-purification efficiency, an unusual microbial signature in a bioreactor or an unexpected shift in atmospheric chemistry might not immediately threaten the crew. However, machine-learning systems trained on years of operational data could identify these anomalies early and recommend interventions before safety margins shrink. Research into digital twins—virtual replicas of life-support systems updated from live sensor data—aims to support exactly this kind of predictive management. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 30 — The “physical asset” is the ECL...</span></span></span>
 
 For a Mars settlement where expert engineers are months away, predictive maintenance may be more valuable than dramatic emergency responses.
 
@@ -329,7 +327,7 @@ The hardest part of closed habitats is that every subsystem affects every other 
 
 Food production influences oxygen generation. Waste processing affects nutrient availability. Water recovery influences humidity and thermal management. Small adjustments in one area can create unexpected consequences elsewhere.
 
-An AI controller could model the habitat as a single integrated system rather than a collection of separate machines. Instead of optimising water recovery, agriculture or air revitalisation independently, it could optimise overall habitat stability. Recent work on autonomous habitat management increasingly focuses on these integrated approaches rather than isolated subsystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2950616625000427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSpace habitation: Machine learning based evaluation and...by A Shafaghat · 2026 · Cited by 3 — The research provides a data...</span></span></span>
+An AI controller could model the habitat as a single integrated system rather than a collection of separate machines. Instead of optimising water recovery, agriculture or air revitalisation independently, it could optimise overall habitat stability. Recent work on autonomous habitat management increasingly focuses on these integrated approaches rather than isolated subsystems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2950616625000427" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Space habitation: Machine learning based evaluation and...by A Shafaghat · 2026 · Cited by 3 — The research provides a data...</span></span></span>
 
 ### Managing biological systems
 
@@ -339,7 +337,6 @@ Plants can produce food and oxygen. Microbial reactors can break down waste and 
 
 AI may help by monitoring growth rates, nutrient cycles, microbial populations and environmental conditions simultaneously. The MELiSSA project has already relied on advanced sensing and process control technologies to monitor biological processes inside experimental closed-loop systems. Future AI systems could extend this further, creating adaptive management that responds to changing ecosystem conditions rather than following fixed schedules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esa.int">[European Space Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esa.int</span><span class="citation-popover-title">European Space Agency ESA</span><span class="citation-popover-snippet">European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: webs.uab.cat">[Webs UAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">webs.uab.cat</span><span class="citation-popover-title">Webs UABMelissa: The European project of a closed life support system</span><span class="citation-popover-snippet">August 14, 2011 — by C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-support system) project is intended to be a tool to ga...</span><span class="citation-popover-meta">Published: August 14, 2011</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-2-dark.svg" | relative_url }}" alt="Life support illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Supporting settlement-scale autonomy
 
@@ -347,7 +344,7 @@ The International Space Station still depends heavily on ground controllers.
 
 A permanent settlement on Mars, an asteroid or a free-space habitat may not have that luxury. Communication delays, population growth and operational complexity could make continuous Earth supervision impractical.
 
-The long-term goal in many habitat studies is therefore increasing autonomy. AI systems could coordinate routine operations, diagnose faults, allocate resources, manage inventories and assist human crews in decision-making. Rather than requiring constant instructions from Earth, settlements might become capable of operating largely on local expertise and machine support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 30 — The “physical asset” is the ECL...</span></span></span>
+The long-term goal in many habitat studies is therefore increasing autonomy. AI systems could coordinate routine operations, diagnose faults, allocate resources, manage inventories and assist human crews in decision-making. Rather than requiring constant instructions from Earth, settlements might become capable of operating largely on local expertise and machine support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arc.aiaa.org">[AIAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arc.aiaa.org</span><span class="citation-popover-snippet">AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 30 — The “physical asset” is the ECL...</span></span></span>
 
 ## The experiments that hint at the future
 
@@ -360,7 +357,6 @@ NASA's Controlled Ecological Life Support System research programme and later re
 These projects suggest an important lesson: the challenge is not producing oxygen, recycling water or growing crops individually. The challenge is keeping the entire network stable when all of these processes interact continuously.
 
 That is exactly the kind of systems-management problem for which advanced AI may prove unusually valuable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MDk_wjv0nw8" title="AI and Space Computing: From innovation to real-world impact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MDk_wjv0nw8" target="_blank" rel="noopener noreferrer">AI and Space Computing: From innovation to real-world impact</a></p><p class="youtube-embed-meta">Channel: AI for Good &middot; Views: 358 &middot; Uploaded: January 2026 &middot; Length: 1 hour 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MDk_wjv0nw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MDk_wjv0nw8">Open on YouTube</a></p></div></div></div>
 
@@ -378,7 +374,6 @@ If operators become overly dependent on automation, they may lose the skills nee
 
 The practical solution may be layered control rather than full automation: AI handles monitoring, forecasting and optimisation, while humans retain authority over major decisions and emergency interventions.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-3-dark.svg" | relative_url }}" alt="Life support illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for humanity's long future
 
@@ -390,11 +385,9 @@ A civilisation that spreads beyond Earth must learn how to create miniature bios
 
 The broader AI bloom argument is that advanced [intelligence]({{ 'intelligence/' | relative_url }}) could help humanity manage forms of complexity that currently exceed our capabilities. Closed space habitats are a concrete example. They demand continuous balancing of physical, chemical, biological and social systems in environments where mistakes can be fatal.
 
-If future AI can reliably help keep those ecosystems stable, it would not merely improve a spacecraft. It would help create one of the essential conditions for a civilisation capable of surviving, flourishing and expanding far beyond a single planet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttu-ir.tdl.org">[TTU Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttu-ir.tdl.org</span><span class="citation-popover-snippet">TTU Institutional RepositoryFunctionally Aligning Emergent Technologies for Self-...by D Klaus · 2022 · Cited by 12 — Although not the f...</span></span></span>
-
+If future AI can reliably help keep those ecosystems stable, it would not merely improve a spacecraft. It would help create one of the essential conditions for a civilisation capable of surviving, flourishing and expanding far beyond a single planet. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ttu-ir.tdl.org">[TTU Institutional Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ttu-ir.tdl.org</span><span class="citation-popover-snippet">TTU Institutional RepositoryFunctionally Aligning Emergent Technologies for Self-...by D Klaus · 2022 · Cited by 12 — Although not the f...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WwComjepWQk" title="AI Moon Bases 2028: Self-Driving Habitats &amp; Rovers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WwComjepWQk" target="_blank" rel="noopener noreferrer">AI Moon Bases 2028: Self-Driving Habitats &amp; Rovers</a></p><p class="youtube-embed-meta">Channel: Tech Folk Insights &middot; Views: 7 &middot; Uploaded: April 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WwComjepWQk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WwComjepWQk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -408,23 +401,6 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8pqb0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
-        </h4>
-        <p class="fr-book-author">By DR. KELLY. WEINERSMITH WEINERSMITH (ZACH.)</p>
-        
-        <p class="fr-book-desc">Directly examines the practical, biological and social challenges of surviving in off-Earth settlements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -432,7 +408,7 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
         </h4>
         <p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Covers the broader vision of humanity living beyond Earth.</p>
+        <p class="fr-book-desc">Covers long-term human survival and settlement beyond Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -442,16 +418,33 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How We&#x27;ll Live on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XU4RCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How We&#x27;ll Live on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How We&#x27;ll Live on Mars">How We&#x27;ll Live on Mars</a>
+          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
         </h4>
-        <p class="fr-book-author">By Stephen Petranek</p>
+        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Discusses the systems and constraints involved in living on Mars.</p>
+        <p class="fr-book-desc">Examines practical barriers to living in closed off-Earth habitats.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars+by+Stephen+Petranek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
+        </h4>
+        <p class="fr-book-author">By Robert Zubrin</p>
+        
+        <p class="fr-book-desc">Argues for human expansion and practical settlement pathways.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -466,7 +459,7 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
         </h4>
         <p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explores the human and technical realities of surviving in space.</p>
+        <p class="fr-book-desc">Explores human survival constraints in space environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -476,7 +469,7 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+We%27ll+Live+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How We&#x27;ll Live on Mars</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -513,15 +506,15 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Terrarium Kit | giftbox | Cacti Succulent | UNIQUE PRESENT"><img src="{{ '/assets/images/marketplace-covers/2601f37aa7fbe3a37c1b.jpg' | relative_url }}" alt="Listing image for Terrarium Kit | giftbox | Cacti Succulent | UNIQUE PRESENT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375"><img src="https://i.ebayimg.com/images/g/fWUAAeSwQMdp1sYa/s-l225.jpg" alt="Listing image for Marius Sylvanen NASA x Habitat Skateboard Deck 8.375" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">Terrarium Kit | giftbox | Cacti Succulent | UNIQUE PRESENT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Marius Sylvanen NASA x Habitat Skateboard Deck 8.375</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -529,47 +522,15 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O"><img src="{{ '/assets/images/marketplace-covers/8b069002db3c1b3cf91f.jpg' | relative_url }}" alt="Listing image for Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5"><img src="https://i.ebayimg.com/images/g/9gEAAeSwERZn8apv/s-l225.jpg" alt="Listing image for Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">Delatorre NASA X Habitat Colab Collection Skateboard Skate Deck Space 8.0 x 31.5</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space habitat model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space habitat model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions"><img src="{{ '/assets/images/marketplace-covers/ddc99051294d4d07c150.jpg' | relative_url }}" alt="Listing image for DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Large Terrarium Basic Starter Kit with Gravel Soil Charcoal Perlite Pebbles"><img src="{{ '/assets/images/marketplace-covers/9985052a33334f90113e.jpg' | relative_url }}" alt="Listing image for DIY Large Terrarium Basic Starter Kit with Gravel Soil Charcoal Perlite Pebbles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Large Terrarium Basic Starter Kit with Gravel Soil Charcoal Perlite Pebbles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -577,7 +538,7 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="life-support-who-keeps-a-closed-space-habitat-alive-ai-bloom-abundance-superintelligence-and-hum-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+habitat+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-keeps-a-closed-space-habitat-alive-space-habitat-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space habitat model" data-ebay-reference="who-keeps-a-closed-space-habitat-alive-space-habitat-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -793,134 +754,134 @@ If future AI can reliably help keep those ecosystems stable, it would not merely
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: environmental control and life support systems eclss  
-   Link: [https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/](https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAEnvironmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
+   Link: <a href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2950616625000452](https://www.sciencedirect.com/science/article/pii/S2950616625000452)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2950616625000452</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — In the context of ECLSS, sustainability...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20190027321](https://ntrs.nasa.gov/citations/20190027321)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20190027321" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190027321</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerControls and Automation Research in Space Life Supportby HW Jones · 2019 · Cited by 10 — Since the ISS ECLSS...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20120008179/downloads/20120008179.pdf](https://ntrs.nasa.gov/api/citations/20120008179/downloads/20120008179.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20120008179/downloads/20120008179.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20120008179/downloads/20120008179.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerDeep Space Habitat ECLSS Design Conceptby S Curley · 2012 · Cited by 27 — Specifically, ESM quantifies the l...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: webs.uab.cat  
    Title: Webs UABMelissa: The European project of a closed life support system  
-   Link: [https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf](https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf)  
+   Link: <a href="https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webs.uab.cat/melissapilotplant/wp-content/uploads/sites/397/2023/11/Melissa_The_European_project_of_a_closed_life_supp-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 14, 2011 — by C Lasseur · Cited by 199 — The MELiSSA (Micro-ecological life-support system) project is intended to be a tool to ga...</p></details>
    Published: August 14, 2011  
 
 6. <a id="endnote-6"></a>
    Source: arc.aiaa.org  
-   Link: [https://arc.aiaa.org/doi/10.2514/1.I011320](https://arc.aiaa.org/doi/10.2514/1.I011320)  
+   Link: <a href="https://arc.aiaa.org/doi/10.2514/1.I011320" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/10.2514/1.I011320</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIAA JournalDigital Twin Technologies for Autonomous Environmental...by N Gratius · 2024 · Cited by 30 — The “physical asset” is the ECL...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2950616625000427](https://www.sciencedirect.com/science/article/pii/S2950616625000427)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSpace habitation: Machine learning based evaluation and...by A Shafaghat · 2026 · Cited by 3 — The research provides a data...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2950616625000427" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2950616625000427</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space habitation: Machine learning based evaluation and...by A Shafaghat · 2026 · Cited by 3 — The research provides a data...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Controlled ecological life-support system  
-   Link: [https://en.wikipedia.org/wiki/Controlled_ecological_life-support_system](https://en.wikipedia.org/wiki/Controlled_ecological_life-support_system)  
+   Link: <a href="https://en.wikipedia.org/wiki/Controlled_ecological_life-support_system" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Controlled_ecological_life-support_system</a>  
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Controlled Ecological Life Support System  
-   Link: [https://ntrs.nasa.gov/api/citations/19880004470/downloads/19880004470.pdf](https://ntrs.nasa.gov/api/citations/19880004470/downloads/19880004470.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/19880004470/downloads/19880004470.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/19880004470/downloads/19880004470.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0094576524003126](https://www.sciencedirect.com/science/article/abs/pii/S0094576524003126)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576524003126" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576524003126</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of dormancy on ECLSS design and operationby SP Eshima · 2024 · Cited by 4 — Results show that dormancy may have a larger impact on...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arc.aiaa.org  
    Title: 6.1990 3729  
-   Link: [https://arc.aiaa.org/doi/pdfplus/10.2514/6.1990-3729](https://arc.aiaa.org/doi/pdfplus/10.2514/6.1990-3729)  
+   Link: <a href="https://arc.aiaa.org/doi/pdfplus/10.2514/6.1990-3729" target="_blank" rel="noopener noreferrer nofollow">https://arc.aiaa.org/doi/pdfplus/10.2514/6.1990-3729</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(feceslwipes and trash), but will collect, stabilize, and store these wastes for return to...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/read/5826/chapter/4](https://www.nationalacademies.org/read/5826/chapter/4)  
+   Link: <a href="https://www.nationalacademies.org/read/5826/chapter/4" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/5826/chapter/4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Technology for Human Support in Space (1997)Closed-loop life support systems require an initial supply of resources but then pro...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support)  
+   Link: <a href="https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Life supportA sensor developed by MELiSSA controls the fermentation and monitors biological processes. The sam...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ttu-ir.tdl.org  
-   Link: [https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download](https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTU [Institutional](&amp;#123;&amp;#123; &#x27;institutional-gaps/&#x27; | relative_url &amp;#125;&amp;#125;) RepositoryFunctionally Aligning Emergent Technologies for Self-...by D Klaus · 2022 · Cited by 12 — Although not the f...</p></details>
+   Link: <a href="https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download" target="_blank" rel="noopener noreferrer nofollow">https://ttu-ir.tdl.org/bitstreams/1421f010-251a-4b03-a179-4fcfc9c71a01/download</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTU Institutional RepositoryFunctionally Aligning Emergent Technologies for Self-...by D Klaus · 2022 · Cited by 12 — Although not the f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ttu-ir.tdl.org  
-   Link: [https://ttu-ir.tdl.org/items/a103448c-5326-4302-913d-73d89d09779c](https://ttu-ir.tdl.org/items/a103448c-5326-4302-913d-73d89d09779c)  
+   Link: <a href="https://ttu-ir.tdl.org/items/a103448c-5326-4302-913d-73d89d09779c" target="_blank" rel="noopener noreferrer nofollow">https://ttu-ir.tdl.org/items/a103448c-5326-4302-913d-73d89d09779c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, regenerable ECLSS...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics](https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics)  
+   Link: <a href="https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251166953_Closed_Ecological_Systems_Space_Life_Support_and_Biospherics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Closed Ecological Systems, Space Life Support and...The chapter reviews the terminology of the field, the history and current work...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ui.adsabs.harvard.edu  
    Title: It is intended as a tool to gain understanding of closed life support  
-   Link: [https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract](https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2008cosp...37.1706L/abstract</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophysics Data SystemMelissa: The European project of a closed life support systemby C Lasseur · 2008 · Cited by 23 — The MELISSA (Mic...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/394217008_Overview_of_Environmental_Control_and_Life_Support_Systems_in_Human_Space_Missions](https://www.researchgate.net/publication/394217008_Overview_of_Environmental_Control_and_Life_Support_Systems_in_Human_Space_Missions)  
+   Link: <a href="https://www.researchgate.net/publication/394217008_Overview_of_Environmental_Control_and_Life_Support_Systems_in_Human_Space_Missions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394217008_Overview_of_Environmental_Control_and_Life_Support_Systems_in_Human_Space_Missions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Overview of Environmental Control and Life Support...30 Jul 2025 — This review explores the essential role of Environmental Contro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: spacesettlementprogress.com  
-   Link: [https://spacesettlementprogress.com/stability-and-limitations-of-ecological-closed-life-support-systems-for-space-habitats/](https://spacesettlementprogress.com/stability-and-limitations-of-ecological-closed-life-support-systems-for-space-habitats/)  
+   Link: <a href="https://spacesettlementprogress.com/stability-and-limitations-of-ecological-closed-life-support-systems-for-space-habitats/" target="_blank" rel="noopener noreferrer nofollow">https://spacesettlementprogress.com/stability-and-limitations-of-ecological-closed-life-support-systems-for-space-habitats/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Such a system needs to be reliably stable over long duration space missions.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nss.org  
-   Link: [https://nss.org/wp-content/uploads/2018/01/NSS-JOURNAL-Towards-Closed-ECLSS-for-Space-Habitats-Part-I.pdf](https://nss.org/wp-content/uploads/2018/01/NSS-JOURNAL-Towards-Closed-ECLSS-for-Space-Habitats-Part-I.pdf)  
+   Link: <a href="https://nss.org/wp-content/uploads/2018/01/NSS-JOURNAL-Towards-Closed-ECLSS-for-Space-Habitats-Part-I.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/2018/01/NSS-JOURNAL-Towards-Closed-ECLSS-for-Space-Habitats-Part-I.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>om airlocks will have to be replaced. Key words. Environmental...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/16431089/](https://pubmed.ncbi.nlm.nih.gov/16431089/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/16431089/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/16431089/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecology of the closed artificial ecosystem...by L Hendrickx · 2006 · Cited by 230 — MELiSSA is a bioregenerative life support system des...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TmcMoE3sFmU](https://www.youtube.com/watch?v=TmcMoE3sFmU)  
+   Link: <a href="https://www.youtube.com/watch?v=TmcMoE3sFmU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TmcMoE3sFmU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 AI for Space Exploration: Robots, Rovers, Satellites, and the Future of Humanity...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: acceleron.org.in  
-   Link: [https://acceleron.org.in/index.php/aaj/article/download/230/194](https://acceleron.org.in/index.php/aaj/article/download/230/194)  
+   Link: <a href="https://acceleron.org.in/index.php/aaj/article/download/230/194" target="_blank" rel="noopener noreferrer nofollow">https://acceleron.org.in/index.php/aaj/article/download/230/194</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Environmental Control and Life Support...by KT Saroja · 2025 — Abstract: This review explores the essential role of Environm...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: AI for Space Exploration: Robots, Rovers, Satellites, and the Future of Humanity  
-   Link: [https://www.youtube.com/watch?v=EAGw2UG5sK0](https://www.youtube.com/watch?v=EAGw2UG5sK0)  
+   Link: <a href="https://www.youtube.com/watch?v=EAGw2UG5sK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EAGw2UG5sK0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 AI Moon Bases 2028: Self-Driving Habitats &amp; Rovers...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: AI and Space Computing: From innovation to real-world impact  
-   Link: [https://www.youtube.com/watch?v=MDk_wjv0nw8](https://www.youtube.com/watch?v=MDk_wjv0nw8)  
+   Link: <a href="https://www.youtube.com/watch?v=MDk_wjv0nw8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MDk_wjv0nw8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>5 AI at NASA: Unlocking the Future of Exploration...</p></details>

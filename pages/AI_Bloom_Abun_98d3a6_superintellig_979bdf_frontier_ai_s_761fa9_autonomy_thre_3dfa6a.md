@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /safety-frameworks/
 nav_short_title: Autonomy gates
 title: When does AI autonomy become hard to control?
-title_full: When does AI autonomy become hard to control? | Safety Frameworks
+title_full: When does AI autonomy become hard to control?
 display_title_short: Autonomy gates
 display_title: Autonomy gates
 heading_title: When does AI autonomy become hard to control?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Labs Decide When AI Becomes Too Risky | Control
+date: '2026-06-08 02:20:37'
+parent_title: How Labs Decide When AI Becomes Too Risky
 parent_permalink: /safety-frameworks/
 parent_nav_short_title: Safety Frameworks
 parent_heading_title: How Labs Decide When AI Becomes Too Risky
@@ -260,7 +261,6 @@ next_link:
   permalink: /deep-mind-ccls/
   short_title: Deep Mind CCLs
   heading_title: Can warning signs catch dangerous AI early?
-date: '2026-06-08 02:20:37 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_76
 ## Introduction
 
 The point at which AI becomes difficult to control is not necessarily when it becomes superintelligent. It is when it becomes sufficiently autonomous that it can pursue goals over time, use tools, adapt to obstacles, and continue operating with limited human supervision. That is why frontier AI [safety frameworks]({{ 'safety-frameworks/' | relative_url }}) increasingly focus on autonomy thresholds rather than only raw [intelligence]({{ 'intelligence/' | relative_url }}) or benchmark scores.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy gates illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A chatbot that answers questions may produce harmful advice, but it remains largely dependent on human prompts. An autonomous agent can plan, search, write code, interact with software, manage resources, and pursue multi-step objectives. Once systems begin acting rather than merely responding, the traditional model of [AI governance]({{ 'ai-governance/' | relative_url }})—moderation filters, user instructions, and post-release monitoring—may no longer be enough. Major labs such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://deepmind.google" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-snippet">Open source on deepmind.google.</span></span></span> and <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Open source on anthropic.com.</span></span></span> have therefore built safety frameworks around capability thresholds that trigger stronger [control]({{ 'control/' | relative_url }}) measures before autonomy becomes difficult to supervise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
@@ -285,7 +284,6 @@ Researchers often describe this shift as movement from tool-like behaviour towar
 
 Several capabilities are especially important:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * **Long-horizon planning**: carrying out tasks that require dozens or hundreds of intermediate steps.
@@ -296,7 +294,7 @@ Several capabilities are especially important:
 
 </div>
 
-These capabilities can create enormous benefits. Scientific research assistants, autonomous laboratories, engineering agents and medical discovery systems could accelerate progress far beyond today's AI tools. Yet they also create a governance problem: human supervisors may no longer observe every decision the system makes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">AnthropicAnthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
+These capabilities can create enormous benefits. Scientific research assistants, autonomous laboratories, engineering agents and medical [discovery]({{ 'discovery/' | relative_url }}) systems could accelerate progress far beyond today's AI tools. Yet they also create a governance problem: human supervisors may no longer observe every decision the system makes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">s responsible scaling policy</span><span class="citation-popover-snippet">Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</span></span></span>
 
 A useful comparison comes from aviation. Autopilot systems can make flying safer, but regulators impose stricter standards as automation gains authority over critical decisions. Frontier AI frameworks apply a similar logic. Greater autonomy requires stronger safeguards because failures can compound over many actions instead of remaining isolated to a single output.
 
@@ -305,7 +303,6 @@ A useful comparison comes from aviation. Autopilot systems can make flying safer
 Traditional AI safety measures assume humans remain closely involved.
 
 Typical controls include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -321,7 +318,6 @@ These approaches work reasonably well when models mainly generate text. They bec
 
 Consider three increasingly autonomous scenarios:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. An AI drafts an email that a human reviews.
@@ -335,7 +331,6 @@ The third case creates a fundamentally different oversight challenge. Human revi
 Frontier safety frameworks therefore focus on identifying the point where supervision shifts from directing actions to merely monitoring outcomes. Once a model can perform lengthy sequences of actions without intervention, failures may occur before humans notice them.
 
 This concern is reflected in frontier evaluations that test whether systems can complete complex objectives, exploit opportunities, overcome obstacles, or continue pursuing goals despite changing conditions. The central question is not whether the model is intelligent in the abstract. It is whether it can reliably translate intelligence into independent action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/n5h1GNvzqIg" title="Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer">Anthropic’s Plan to Stop AI Bioweapons &amp; Autonomous Misuse</a></p><p class="youtube-embed-meta">Channel: AGI Is Living Intelligence &middot; Views: 43 &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=n5h1GNvzqIg">Open on YouTube</a></p></div></div></div>
 
@@ -351,13 +346,13 @@ The key idea is that autonomy becomes a governance trigger.
 
 Rather than waiting for an incident, the framework attempts to identify capabilities that would make future incidents possible. When warning thresholds are reached, additional governance review, testing and response procedures are supposed to activate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
 
-Recent framework updates have expanded attention to behaviours such as shutdown resistance and persuasive manipulation, reflecting concern that future systems may not merely execute instructions but may actively influence the conditions under which they operate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">ForbesGoogle DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
+Recent framework updates have expanded attention to behaviours such as shutdown resistance and persuasive manipulation, reflecting concern that future systems may not merely execute instructions but may actively influence the conditions under which they operate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
 
 ### Anthropic's AI Safety Levels
 
-[Anthropic]({{ 'anthropic-misalignment/' | relative_url }})'s Responsible Scaling Policy uses AI Safety Levels (ASLs), inspired by biosafety containment levels. Higher capability thresholds require stronger safety and security standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicScaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
+Anthropic's Responsible Scaling Policy uses AI Safety Levels (ASLs), inspired by biosafety containment levels. Higher capability thresholds require stronger safety and security standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
 
-A central concern is whether systems acquire what Anthropic calls "red line" capabilities: abilities that could enable catastrophic misuse or create major alignment risks. The framework links capability thresholds to deployment restrictions, security measures, evaluation requirements and governance processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">LessWrongAnthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+A central concern is whether systems acquire what Anthropic calls "red line" capabilities: abilities that could enable catastrophic misuse or create major alignment risks. The framework links capability thresholds to deployment restrictions, security measures, evaluation requirements and governance processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lesswrong.com">[LessWrong]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lesswrong.com</span><span class="citation-popover-snippet">Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Although many public discussions focus on cyber or biological risks, underlying autonomy is often what makes those risks operationally significant. A model that merely explains techniques is different from a model that can autonomously plan, coordinate, execute and adapt during a complex task.
 
@@ -365,20 +360,18 @@ Although many public discussions focus on cyber or biological risks, underlying 
 
 Across frameworks, autonomy is increasingly treated as a measurable property rather than a philosophical concept.
 
-Researchers have begun proposing structured autonomy scales that distinguish between systems acting as assistants, collaborators, consultants, approvers or largely independent operators. These frameworks attempt to separate raw intelligence from the degree of authority granted to the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">arXivLevels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
+Researchers have begun proposing structured autonomy scales that distinguish between systems acting as assistants, collaborators, consultants, approvers or largely independent operators. These frameworks attempt to separate raw intelligence from the degree of authority granted to the system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
 
 That distinction matters because a highly capable model may remain relatively safe if tightly supervised, while a less capable model could still create problems if given extensive authority and persistence.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-2-dark.svg" | relative_url }}" alt="Autonomy gates illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What autonomy evaluations actually test
 
-A common misconception is that autonomy testing means asking a model whether it wants power or independence.
+A common misconception is that autonomy testing means asking a model whether it wants [power]({{ 'power/' | relative_url }}) or independence.
 
 In practice, frontier evaluations focus on behaviour.
 
 Researchers test whether models can:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,7 +394,6 @@ Some safety researchers increasingly focus on "agentic misalignment": situations
 
 Most current systems remain far from the strongest versions of these concerns. Nevertheless, safety frameworks are designed around the possibility that such capabilities emerge gradually rather than suddenly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IpzhB_-LeCQ" title="Beyond Alignment: Navigating the Thresholds of Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IpzhB_-LeCQ" target="_blank" rel="noopener noreferrer">Beyond Alignment: Navigating the Thresholds of Artificial Intelligence</a></p><p class="youtube-embed-meta">Channel: XFO Intelligence &middot; Views: 2 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IpzhB_-LeCQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IpzhB_-LeCQ">Open on YouTube</a></p></div></div></div>
 
 ## What safeguards should trigger before deployment
@@ -416,15 +408,18 @@ Models approaching autonomy thresholds are typically subjected to specialised te
 
 These evaluations may examine:
 
-* Long-horizon task completion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicScaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* Long-horizon task completion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[anthropic.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</span></span></span>
 * Cyber capabilities.
 * Deception and strategic behaviour.
 * Ability to acquire resources.
 * Ability to evade oversight.
-* Ability to accelerate [AI research]({{ 'research-agents/' | relative_url }}) itself.
+* Ability to accelerate AI research itself.
+
+</div>
 
 The aim is to identify dangerous combinations of capabilities before public deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework 2.0</span><span class="citation-popover-snippet">Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-dark.svg" | relative_url }}" alt="Autonomy gates illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_autonomy_thre_3dfa6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Human approval requirements
@@ -432,7 +427,6 @@ The aim is to identify dangerous combinations of capabilities before public depl
 One response to increasing autonomy is preserving human authority over key decisions.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -450,8 +444,7 @@ This effectively creates autonomy ceilings even if underlying capabilities conti
 
 If a model becomes capable enough that theft itself creates serious risk, security standards must rise.
 
-Anthropic's framework explicitly links capability thresholds to stronger security requirements intended to prevent model exfiltration or misuse by external actors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicAgentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</span></span></span>
-
+Anthropic's framework explicitly links capability thresholds to stronger security requirements intended to prevent model exfiltration or misuse by external actors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JE9Mt9hn8Ls" title="Formal Guarantees for Frontier AI – Gagandeep Singh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JE9Mt9hn8Ls" target="_blank" rel="noopener noreferrer">Formal Guarantees for Frontier AI – Gagandeep Singh</a></p><p class="youtube-embed-meta">Channel: Horizon Omega &middot; Views: 96 &middot; Uploaded: May 2026 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JE9Mt9hn8Ls" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JE9Mt9hn8Ls">Open on YouTube</a></p></div></div></div>
 
@@ -461,13 +454,13 @@ Many proposals emphasise retaining the ability to observe, modify, interrupt or 
 
 This sounds straightforward but becomes harder as agents become more persistent, distributed and integrated into critical infrastructure.
 
-Recent discussions around shutdown resistance illustrate the concern. The question is not merely whether a model refuses a command in a laboratory test. It is whether increasingly autonomous systems could learn behaviours that make interruption or correction more difficult in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">ForbesGoogle DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
+Recent discussions around shutdown resistance illustrate the concern. The question is not merely whether a model refuses a command in a laboratory test. It is whether increasingly autonomous systems could learn behaviours that make interruption or correction more difficult in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-title">google deepmind warns of ai models resisting shutdown manipulating users</span><span class="citation-popover-snippet">Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</span></span></span>
 
 ## The hardest problem: capability growth may outrun governance
 
 The strongest criticism of autonomy thresholds is not that they are unnecessary. It is that they may be too vague, too voluntary, or too slow.
 
-Independent evaluations of frontier safety frameworks frequently argue that commitments remain under-specified. Critics note that many policies leave substantial discretion to companies regarding when thresholds are considered crossed and what responses are ultimately required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">arXivLevels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
+Independent evaluations of frontier safety frameworks frequently argue that commitments remain under-specified. Critics note that many policies leave substantial discretion to companies regarding when thresholds are considered crossed and what responses are ultimately required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Levels of Autonomy for AI Agents</span><span class="citation-popover-snippet">Levels of Autonomy for AI AgentsJune 14, 2025...</span><span class="citation-popover-meta">Published: June 14, 2025</span></span></span>
 
 Others worry that competitive pressure weakens threshold-based governance.
 
@@ -892,254 +885,254 @@ If humanity eventually creates systems capable of years of research, vast scient
 1. <a id="endnote-1"></a>
    Source: deepmind.google  
    Title: Google Deep Mind Introducing the Frontier Safety Framework  
-   Link: [https://deepmind.google/blog/introducing-the-frontier-safety-framework/](https://deepmind.google/blog/introducing-the-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/introducing-the-frontier-safety-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety FrameworkMay 17, 2024 — 17 May 2024 — Today, we are introducing our Frontier Safety Framew...</p></details>
    Published: May 17, 2024  
 
 2. <a id="endnote-2"></a>
    Source: anthropic.com  
    Title: s responsible scaling policy  
-   Link: [https://www.anthropic.com/news/anthropics-responsible-scaling-policy](https://www.anthropic.com/news/anthropics-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
+   Link: <a href="https://www.anthropic.com/news/anthropics-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/anthropics-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy19 Sept 2023 — Our RSP defines a framework called AI Safety Levels (ASL) for addressing ca...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/engineering/managed-agents](https://www.anthropic.com/engineering/managed-agents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicScaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</p></details>
+   Link: <a href="https://www.anthropic.com/engineering/managed-agents" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/engineering/managed-agents</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Managed Agents: Decoupling the brain from...Apr 8, 2026 — Managed Agents—our hosted service for long-horizon agent work...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: forbes.com  
    Title: google deepmind warns of ai models resisting shutdown manipulating users  
-   Link: [https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/](https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ForbesGoogle DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</p></details>
+   Link: <a href="https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/anishasircar/2025/09/23/google-deepmind-warns-of-ai-models-resisting-shutdown-manipulating-users/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Warns Of AI Models Resisting...23 Sept 2025 — Google DeepMind&#x27;s Frontier Safety Framework now evaluates AI models...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf](https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/files/4zrzovbb/website/bf04581e4f329735fd90634f6a1962c13c0bd351.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 3.1)2 Apr 2026 — Our Responsible Scaling Policy (RSP) is our voluntary frame...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: lesswrong.com  
-   Link: [https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy](https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LessWrongAnthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</p></details>
+   Link: <a href="https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/vAopGQhFPdjcA8CEh/anthropic-reflections-on-our-responsible-scaling-policy</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Reflections on our Responsible Scaling Policy19 May 2024 — We commit to develop and implement a new standard for safe...</p></details>
    Published: May 2024  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Levels of Autonomy for AI Agents  
-   Link: [https://arxiv.org/abs/2506.12469](https://arxiv.org/abs/2506.12469)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLevels of Autonomy for AI AgentsJune 14, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.12469" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.12469</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of Autonomy for AI AgentsJune 14, 2025...</p></details>
    Published: June 14, 2025  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.05748](https://arxiv.org/abs/2503.05748)  
+   Link: <a href="https://arxiv.org/abs/2503.05748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.05748</a>  
 
 9. <a id="endnote-9"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/agentic-misalignment](https://www.anthropic.com/research/agentic-misalignment)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAgentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</p></details>
+   Link: <a href="https://www.anthropic.com/research/agentic-misalignment" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/agentic-misalignment</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agentic Misalignment: How LLMs could be insider threats20 Jun 2025 — AI labs could perform more specialized safety research dedi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.01166v3](https://arxiv.org/html/2512.01166v3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Overall scores range from 34% (Anthropic) to 8% (Cohere), with a...</p></details>
+   Link: <a href="https://arxiv.org/html/2512.01166v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.01166v3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating AI Providers&#x27; Frontier AI Safety Frameworks26 Mar 2026 — Overall scores range from 34% (Anthropic) to 8% (Cohere), with a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: anthropic.com  
    Title: responsible scaling policy v3  
-   Link: [https://www.anthropic.com/news/responsible-scaling-policy-v3](https://www.anthropic.com/news/responsible-scaling-policy-v3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicResponsible Scaling Policy Version 3.024 Feb 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), t...</p></details>
+   Link: <a href="https://www.anthropic.com/news/responsible-scaling-policy-v3" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/responsible-scaling-policy-v3</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy Version 3.024 Feb 2026 — We&#x27;re releasing the third version of our Responsible Scaling Policy (RSP), t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/responsible-scaling-policy](https://www.anthropic.com/responsible-scaling-policy)  
+   Link: <a href="https://www.anthropic.com/responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>· We now clarify that, even if not required by the RSP, we remain free to take measures...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/news/chris-olah-pope-leo-encyclical](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)  
+   Link: <a href="https://www.anthropic.com/news/chris-olah-pope-leo-encyclical" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/news/chris-olah-pope-leo-encyclical</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic co-founder Chris Olah&#x27;s remarks on Pope Leo XIV&#x27;s encyclical &quot;Magnifica humanitas&quot;...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: www-cdn.anthropic.com  
-   Link: [https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf](https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/872c653b2d0501d6ab44cf87f43e1dc4853e4d37.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy (version 2.2)In September 2023, we released our Responsible Scaling Policy (RSP), a p...</p></details>
    Published: September 2023  
 
 15. <a id="endnote-15"></a>
    Source: www-cdn.anthropic.com  
    Title: responsible scaling policy  
-   Link: [https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf](https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf)  
+   Link: <a href="https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-cdn.anthropic.com/1adf000c8f675958c2ee23805d91aaade1cd4613/responsible-scaling-policy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>anthropic.comAnthropic&#x27;s Responsible Scaling Policy, Version 1.019 Sept 2023 — We define a series of AI capability thresholds that repres...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research](https://www.anthropic.com/research)  
+   Link: <a href="https://www.anthropic.com/research" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research</a>  
 
 17. <a id="endnote-17"></a>
    Source: governance.ai  
    Title: ‍.Read more  
-   Link: [https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections](https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections)  
+   Link: <a href="https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections" target="_blank" rel="noopener noreferrer nofollow">https://www.governance.ai/analysis/anthropics-rsp-v3-0-how-it-works-whats-changed-and-some-reflections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s RSP v3.0: How it Works, What&#x27;s Changed, and...17 Mar 2026 — Anthropic&#x27;s Responsible Scaling Policy (RSP) – its framework for...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Autonomous Agent Evaluation: How to Measure AI That Plans and Acts Independently  
-   Link: [https://www.youtube.com/watch?v=uSqvJEGqvQE](https://www.youtube.com/watch?v=uSqvJEGqvQE)  
+   Link: <a href="https://www.youtube.com/watch?v=uSqvJEGqvQE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uSqvJEGqvQE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Plan to Stop AI Bioweapons &amp; Autonomous Misuse...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Anthropic's Plan to Stop AI Bioweapons & Autonomous Misuse  
-   Link: [https://www.youtube.com/watch?v=n5h1GNvzqIg](https://www.youtube.com/watch?v=n5h1GNvzqIg)  
+   Link: <a href="https://www.youtube.com/watch?v=n5h1GNvzqIg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=n5h1GNvzqIg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Formal Guarantees for Frontier AI – Gagandeep Singh...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: storage.googleapis.com  
    Title: Google Cloud Storage Frontier Safety Framework 2.0  
-   Link: [https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf)  
+   Link: <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/updating-the-frontier-safety-framework/Frontier%20Safety%20Framework%202.0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageFrontier Safety Framework 2.0 - Googleapis.com4 Feb 2025 — For Google models, when alert thresholds are reached, the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4](https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4)  
+   Link: <a href="https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40uspeedoai/google-deepmind-updates-safety-framework-to-address-shutdown-resistance-in-ai-models-6e24a0b1d8c4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind Updates Safety Framework to Address...23 Sept 2025 — The addition of shutdown resistance and persuasiveness to the Criti...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: alignmentforum.org  
    Title: anthropic three sketches of asl 4 safety case components  
-   Link: [https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components](https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components)  
+   Link: <a href="https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/RveeCTcoApkAtd7oA/anthropic-three-sketches-of-asl-4-safety-case-components</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic: Three Sketches of ASL-4 Safety Case...6 Nov 2024 — Anthropic&#x27;s Responsible Scaling Policy (RSP) categorizes levels of risk of...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pcgamer.com  
-   Link: [https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/](https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/)  
+   Link: <a href="https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.pcgamer.com/software/ai/anthropic-ditches-its-defining-safety-promise-to-pause-dangerous-ai-development-because-its-basically-pointless-when-everybody-else-is-blazing-ahead/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Previously, under its Responsible Scaling Policy (RSP), Anthropic pledged to halt AI development should new systems reach dangerous capab...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: techradar.com  
    Title: anthropic drops its signature safety promise and rewrites ai [guardrails](&#123;&#123; 'guardrails/' | relative_url &#125;&#125;)  
-   Link: [https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails](https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails)  
+   Link: <a href="https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/ai-platforms-assistants/anthropic-drops-its-signature-safety-promise-and-rewrites-ai-guardrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marked a significant policy shift from its original 2023 pledge that emphasized strong preconditions for AI development in order to...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq](https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq)  
+   Link: <a href="https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lakshmananvelayutham_ai-ai-agenticai-activity-7432771461813006336-g4bq</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>kd.in/eYHZn7Sw, a significant reframing of how it governs...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB](https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB)  
+   Link: <a href="https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/miclchen_anthropics-responsible-scaling-policy-version-activity-7432196983748206592-ItDB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>No more implication of unilateral commitment to pause AI...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
    Title: Himanshu J  
-   Link: [https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04](https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04)  
+   Link: <a href="https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/himanshujoshimitsloan_anthropics-responsible-scaling-policy-v21-activity-7313326873994760192-VO04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s Responsible Scaling Policy V2.12 Apr 2025 — “Not all AI progress is equal—and neither should be our safeguards.” Anthropic AI...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/de/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It establishes commitments for...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: verifywise.ai  
-   Link: [https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy](https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy)  
+   Link: <a href="https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://verifywise.ai/ai-governance-library/policies-and-internal-governance/anthropic-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Responsible Scaling PolicyAnthropic&#x27;s Responsible Scaling Policy defines AI Safety Levels (ASL) based on model capabilities and...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ailabwatch.org  
-   Link: [https://ailabwatch.org/companies/anthropic](https://ailabwatch.org/companies/anthropic)  
+   Link: <a href="https://ailabwatch.org/companies/anthropic" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/companies/anthropic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic&#x27;s Responsible Scaling Policy describes its risk assessment practices and contains commitments about risk assessment an...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: alignmentforum.org  
    Title: anthropic s updated responsible scaling policy  
-   Link: [https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy](https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy)  
+   Link: <a href="https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.alignmentforum.org/posts/Q7caj7emnwWBxLECF/anthropic-s-updated-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s updated Responsible Scaling Policy15 Oct 2024 — Our updated policy defines two key Capability Thresholds that would require u...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: washingtonpost.com  
    Title: Anthropic aligns with Vatican over White House as Pope Leo stokes AI fears  
-   Link: [https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/](https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/)  
+   Link: <a href="https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/technology/2026/05/25/anthropic-aligns-with-vatican-over-white-house-pope-leo-stokes-ai-fears/</a>  
 
 34. <a id="endnote-34"></a>
    Source: forum.effectivealtruism.org  
    Title: anthropic announcing our updated responsible scaling policy  
-   Link: [https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy](https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/JoJwBsGJFWtq72omp/anthropic-announcing-our-updated-responsible-scaling-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rewrote its RSP16 Oct 2024 — This update introduces a more flexible and nuanced approach to assessing and managing AI risks while maintai...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: aisecurityandsafety.org  
    Title: google deepmind frontier safety framework  
-   Link: [https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/](https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Mar 2026 — Google DeepMind&#x27;s protocol for identifying Critical Capability Levels and applying proportional safeguards to frontier AI m...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: agora.eto.tech  
    Title: tech Anthropic Responsible Scaling Policy  
-   Link: [https://agora.eto.tech/instrument/768](https://agora.eto.tech/instrument/768)  
+   Link: <a href="https://agora.eto.tech/instrument/768" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/768</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Scaling Policy - ETO AGORAEstablishes AI Safety Level Standards (ASLs) for AI model testing, deployment and security. Require...</p></details>
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: metr.org  
-   Link: [https://metr.org/assets/common-elements-nov-2024.pdf](https://metr.org/assets/common-elements-nov-2024.pdf)  
+   Link: <a href="https://metr.org/assets/common-elements-nov-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/assets/common-elements-nov-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety PoliciesAnthropic&#x27;s Responsible Scaling Policy, page 17: We replaced our previous autonomous replic...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7](https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7)  
+   Link: <a href="https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/enkrypt-ai/frontier-safety-frameworks-a-comprehensive-picture-e070efb4d0a7</a>  
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3](https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3)  
+   Link: <a href="https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/niloykantipaul_google-expands-its-ai-safety-framework-activity-7376111460424347648-w1u3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Updates AI Safety Framework to Include Shutdown...Google DeepMind just released FSF 3.0 It&#x27;s the first AI governance framework th...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: agora.eto.tech  
-   Link: [https://agora.eto.tech/instrument/987](https://agora.eto.tech/instrument/987)  
+   Link: <a href="https://agora.eto.tech/instrument/987" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/987</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind Frontier Safety Framework Version 1.0Establishes protocols for identifying and mitigating severe AI risks from Critical Capabili...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf](https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf)  
+   Link: <a href="https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/wp-content/uploads/2025/11/Indicator-Risk_Treatment.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Framework includes only illustrative examples of safeguards against malicious users, against a misaligned model, and security controls It...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: forum.effectivealtruism.org  
    Title: we read every labs safety plan so you don t have to 2025  
-   Link: [https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025](https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/fHWtYTyahQoSsfzke/we-read-every-labs-safety-plan-so-you-don-t-have-to-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>read every labs safety plan so you don&#x27;t have to: 2025...29 Oct 2025 — Anthropic has a Responsible Scaling Policy, Google DeepMind has a...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: aionda.blog  
    Title: frontier ai safety framework autonomous agents  
-   Link: [https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents](https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents)  
+   Link: <a href="https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents" target="_blank" rel="noopener noreferrer nofollow">https://aionda.blog/en/posts/frontier-ai-safety-framework-autonomous-agents</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontier AI Safety Framework and Control for Autonomous...Jan 17, 2026 — Frontier AI Safety Frameworks, critical capability levels, and...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa](https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa)  
+   Link: <a href="https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fdegni_google-deepmind-frontier-safety-framework-activity-7377537446156075008-NgOa</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ents that hit critical capability levels. For risk...Read more...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: ailabwatch.org  
    Title: deepmind frontier safety framework  
-   Link: [https://ailabwatch.org/blog/deepmind-frontier-safety-framework](https://ailabwatch.org/blog/deepmind-frontier-safety-framework)  
+   Link: <a href="https://ailabwatch.org/blog/deepmind-frontier-safety-framework" target="_blank" rel="noopener noreferrer nofollow">https://ailabwatch.org/blog/deepmind-frontier-safety-framework</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...16 May 2024 — DeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and unambitious ·...</p></details>
    Published: May 2024  
 
 46. <a id="endnote-46"></a>
    Source: forum.effectivealtruism.org  
-   Link: [https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious](https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/LahLysfvsWGWAcNaz/deepmind-s-frontier-safety-framework-is-weak-and-unambitious</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgDeepMind&#x27;s &quot;​​Frontier Safety Framework&quot; is weak and...18 May 2024 — DeepMind&#x27;s FSF has three steps: Create model e...</p></details>
-   Published: May 2024  
+   Published: May 2024

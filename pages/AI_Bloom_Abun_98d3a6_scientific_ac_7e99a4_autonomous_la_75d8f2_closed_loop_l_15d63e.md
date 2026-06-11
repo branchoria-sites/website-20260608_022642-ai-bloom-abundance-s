@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /robot-labs/
 nav_short_title: Closed loop
 title: How robot labs learn what to test next
-title_full: How robot labs learn what to test next | Robot labs
+title_full: How robot labs learn what to test next
 display_title_short: Closed loop
 display_title: Closed loop
 heading_title: How robot labs learn what to test next
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When robot labs meet reality | Discovery
+date: '2026-06-08 02:14:57'
+parent_title: When robot labs meet reality
 parent_permalink: /robot-labs/
 parent_nav_short_title: Robot labs
 parent_heading_title: When robot labs meet reality
@@ -266,7 +267,6 @@ next_link:
   permalink: /proof-test/
   short_title: Proof test
   heading_title: When faster experiments still need proof
-date: '2026-06-08 02:14:57 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1.webp
@@ -277,15 +277,152 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75
 
 The central promise of a closed-loop laboratory is not that robots can run experiments faster. It is that the laboratory can learn from each result and use that information to decide what to test next.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-dark.svg" | relative_url }}" alt="Closed loop illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In a traditional research programme, scientists often spend days or weeks interpreting results, debating hypotheses, designing follow-up experiments and scheduling equipment. A closed-loop system attempts to compress that cycle. Software analyses the latest data, updates its model of the problem, chooses the most useful next experiment and sends instructions directly to laboratory equipment. The result is an adaptive [discovery]({{ 'discovery/' | relative_url }}) process in which every experiment influences the next one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
 
-This matters because many of the [scientific]({{ 'discovery/' | relative_url }}) challenges associated with an AI-enabled future involve enormous search spaces. There may be millions of possible battery materials, catalysts, drug candidates or synthesis conditions. The bottleneck is often not generating ideas but deciding which tiny fraction of possibilities deserve real-world testing. Closed-loop laboratories are an attempt to make that choice more systematically and more quickly than human researchers can manage alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
+This matters because many of the scientific challenges associated with an AI-enabled future involve enormous search spaces. There may be millions of possible battery materials, catalysts, drug candidates or synthesis conditions. The bottleneck is often not generating ideas but deciding which tiny fraction of possibilities deserve real-world testing. Closed-loop laboratories are an attempt to make that choice more systematically and more quickly than human researchers can manage alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
 
 ## The discovery loop from hypothesis to result
 
 A closed-loop laboratory is often described as a self-driving lab because it repeatedly cycles through the same sequence:
+
+1. Predict promising candidates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[2. Select experiments.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">Self-driving labs, or systems that select experiments...Read more...</span></span></span> 3. Run experiments with robotic equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</span></span></span>
+4. Measure outcomes.
+5. Update models.
+6. Choose the next experiments.
+
+The key step is the fifth. After receiving new data, the system does not simply record the result. It updates its beliefs about the scientific landscape it is exploring. A material that performed unexpectedly well may cause the system to search nearby chemical combinations. A failed synthesis may teach it to avoid an entire region of the search space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
+
+Researchers often compare this process to navigation. Imagine trying to find the highest mountain in a continent hidden by fog. Random searching wastes time. A closed-loop system instead uses each observation to estimate where the peaks might be and then decides where to look next. The goal is not only to find a good answer but to learn the shape of the landscape while searching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+
+This is why many autonomous laboratories are described as active learning systems. The experiment itself becomes part of the learning algorithm. Rather than treating experiments as isolated tests, the lab treats them as information-gathering actions that improve future decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+## Active learning and experimental choice
+
+The hardest question in a self-driving laboratory is often not "What happened?" but "What should we do next?"
+
+### Exploration versus exploitation
+
+Most autonomous laboratories face a classic dilemma.
+
+One option is exploitation: perform experiments that seem most likely to succeed according to current knowledge.
+
+The other is exploration: test uncertain possibilities that could reveal something entirely new.
+
+A laboratory that only exploits may get trapped in a local optimum, repeatedly improving a mediocre result. A laboratory that only explores may waste resources wandering through unlikely possibilities. The challenge is balancing both goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+
+This trade-off appears throughout scientific discovery. Human researchers make similar judgments intuitively. Closed-loop systems attempt to formalise the process mathematically.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNkRjByzeZg" title="Self-driving lab made super easy and inexpensive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNkRjByzeZg" target="_blank" rel="noopener noreferrer">Self-driving lab made super easy and inexpensive</a></p><p class="youtube-embed-meta">Channel: Taylor Sparks &middot; Views: 2.4K &middot; Uploaded: September 2022 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNkRjByzeZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNkRjByzeZg">Open on YouTube</a></p></div></div></div>
+
+### Bayesian optimisation
+
+One of the most common methods is Bayesian optimisation, which has become a core technique in self-driving laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-title">Publishing Atlas: a brain for self-driving laboratories</span><span class="citation-popover-snippet">RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</span></span></span>
+
+The basic idea is simple.
+
+Instead of assuming it already knows the best experiment, the system maintains a probability distribution over possible outcomes. It estimates both:
+
+* Which regions seem promising.
+* How uncertain those estimates are.
+
+An experiment can therefore be valuable for two different reasons. It might be predicted to produce excellent results, or it might reduce uncertainty in an important area. Bayesian optimisation attempts to balance these considerations automatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+
+In practice, this means a laboratory may deliberately choose an experiment that is not expected to be the best performer because the information gained could improve future decisions. This is one reason autonomous labs can sometimes outperform straightforward trial-and-error approaches while using fewer experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
+
+### Learning from failure
+
+An important feature of active learning systems is that negative results can be highly valuable.
+
+Human researchers often focus attention on successful experiments. Closed-loop systems instead treat every outcome as information. A failed synthesis, an unstable material or a poor-performing catalyst can narrow the search space and improve the model's understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</span></span></span>
+
+Researchers behind the CAMEO autonomous materials platform described this as helping scientists "fail smarter". The system continuously updates its model from both successes and failures, allowing it to learn faster from limited experimental budgets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</span></span></span>
+
+That feature matters for the broader scientific acceleration story. Many important research problems are dominated by failed experiments. If AI systems can extract more knowledge from each failure, the effective rate of scientific learning may increase even when experimental resources remain limited.
+
+## Why the next experiment is often more valuable than the current one
+
+A useful way to understand closed-loop laboratories is to think of experiments as investments.
+
+The immediate result matters, but the larger value may come from improving future choices.
+
+Suppose a materials laboratory has ten thousand candidate compounds. Testing one compound reveals something about that material. Testing a carefully chosen compound may reveal information about hundreds of related candidates. The second experiment has a larger informational return even if the material itself is not exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+
+This is one reason autonomous labs are often evaluated by efficiency rather than raw throughput. The question is not merely how many experiments they perform. It is how much useful knowledge they gain per experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+
+Supporters argue that this distinction is easy to miss. A robot that runs ten thousand random experiments may produce less scientific value than a system that runs one hundred carefully chosen experiments guided by active learning. The promise of closed-loop research is therefore [intelligence]({{ 'intelligence/' | relative_url }}) applied to experimentation, not automation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" alt="Closed loop illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Real examples of adaptive experiment selection
+
+Several prominent self-driving laboratory projects already use versions of this approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">self driving laboratories</span><span class="citation-popover-snippet">Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</span></span></span>
+
+The CAMEO materials-discovery platform combined real-time experiments with Bayesian active learning to identify promising phase-change materials. Rather than following a fixed experimental sequence, the system updated its search strategy after each measurement. Researchers reported that experimental cycles could occur within seconds or minutes, allowing rapid adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
+
+The A-Lab materials project integrated machine learning, [robotics]({{ 'robotics/' | relative_url }}), automated characterisation and active learning to guide synthesis decisions. Its goal was not simply automated production but iterative refinement of experimental choices as new evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
+
+Other chemistry and materials platforms increasingly use similar methods for reaction optimisation, catalyst design and process engineering. Reviews of self-driving laboratories consistently identify Bayesian optimisation and active learning as among the most widely adopted experimental planning methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+
+The broader pattern is that laboratories are becoming less like automated factories and more like adaptive decision-making systems.
+
+## Where automation helps and where humans still matter
+
+Despite the language of autonomous science, most closed-loop laboratories remain heavily dependent on human judgement.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Fs9INEtXBw" title="Closed-loop optimization of inexpensive functions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Fs9INEtXBw" target="_blank" rel="noopener noreferrer">Closed-loop optimization of inexpensive functions</a></p><p class="youtube-embed-meta">Channel: Taylor Sparks &middot; Views: 1.4K &middot; Uploaded: December 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Fs9INEtXBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Fs9INEtXBw">Open on YouTube</a></p></div></div></div>
+
+### Humans define the goal
+
+A laboratory cannot optimise everything simultaneously.
+
+Researchers still decide what counts as success:
+
+* Maximum battery lifetime.
+* Lowest manufacturing cost.
+* Highest catalytic efficiency.
+* Fastest reaction speed.
+* Safest drug candidate.
+
+These objectives shape the entire search process. An autonomous system may become extremely effective at optimisation while still pursuing a poorly chosen goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" alt="Closed loop illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Humans define the search space
+
+The machine usually explores within boundaries set by researchers.
+
+Scientists decide which chemicals are available, which measurements matter, which equipment can be used and which safety constraints apply. The laboratory's intelligence is therefore partly inherited from the design of the experimental space itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</span></span></span>
+
+This matters because real science often depends on reframing problems rather than merely optimising within them. A system may become very effective at searching a defined landscape while missing entirely new directions that a human researcher might notice.
+
+### Humans interpret meaning
+
+Even when a closed-loop laboratory finds something unusual, researchers still need to understand why it happened.
+
+A surprising catalyst or material can generate new scientific theories, not just new data points. Many scientists argue that explanation remains one of the most difficult parts of the discovery process to automate. The machine may identify patterns before researchers understand them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</span></span></span>
+
+For this reason, many current systems are better described as human-machine scientific partnerships than fully independent robot scientists.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4lQ9H4GQApg" title="Berlinguette Research Group, University of British Columbia | Self driving lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4lQ9H4GQApg" target="_blank" rel="noopener noreferrer">Berlinguette Research Group, University of British Columbia | Self driving lab</a></p><p class="youtube-embed-meta">Channel: TechBlick &middot; Views: 300 &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4lQ9H4GQApg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4lQ9H4GQApg">Open on YouTube</a></p></div></div></div>
+
+## The limits of choosing experiments well
+
+The next-experiment problem also reveals why scientific acceleration is difficult.
+
+Real laboratories contain noisy measurements, equipment failures, hidden variables and conflicting objectives. An algorithm can only learn from the information it receives. If measurements are unreliable or incomplete, the system may confidently move in the wrong direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
+
+There is also a risk of optimisation without understanding. A system may discover conditions that maximise a target metric while providing little insight into the underlying science. Critics worry that some autonomous workflows could become sophisticated search engines rather than generators of scientific explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+
+Recent research has also highlighted practical constraints. Many real experiments involve multiple stages, intermediate observations and changing workflows that are harder to represent in standard optimisation frameworks. New approaches are attempting to incorporate richer decision-making processes, but these remain active research problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+## Why this mechanism matters for AI bloom
+
+The significance of closed-loop experimentation is not that a robot can pipette chemicals overnight. Laboratories have used automation for decades.
+
+The deeper claim is that scientific learning itself may become partially automated. Each experiment can immediately influence the next. Models improve in real time. Search strategies adapt continuously. Knowledge accumulates faster because the cycle between observation and decision shrinks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
+
+If that approach scales across fields such as materials science, [energy]({{ 'energy/' | relative_url }}) storage, catalysis, biotechnology and medicine, it could help address one of the largest constraints on scientific progress: the limited rate at which humanity can test ideas against reality.
+
+That does not guarantee a future of abundance. Discovery still faces physical limits, funding constraints, safety requirements, manufacturing bottlenecks and political choices. Yet closed-loop laboratories point to a specific mechanism through which advanced AI could contribute to a larger scientific acceleration story. Their value lies less in running experiments automatically than in learning, from each result, what reality is most useful to test next. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -679,338 +816,195 @@ A closed-loop laboratory is often described as a self-driving lab because it rep
 </script>
 </section>
 
-1. Predict promising candidates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[2. Select experiments.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">Self-driving labs, or systems that select experiments...Read more...</span></span></span> 3. Run experiments with robotic equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</span></span></span>
-4. Measure outcomes.
-5. Update models.
-6. Choose the next experiments.
-
-The key step is the fifth. After receiving new data, the system does not simply record the result. It updates its beliefs about the scientific landscape it is exploring. A material that performed unexpectedly well may cause the system to search nearby chemical combinations. A failed synthesis may teach it to avoid an entire region of the search space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
-
-Researchers often compare this process to navigation. Imagine trying to find the highest mountain in a continent hidden by fog. Random searching wastes time. A closed-loop system instead uses each observation to estimate where the peaks might be and then decides where to look next. The goal is not only to find a good answer but to learn the shape of the landscape while searching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
-This is why many autonomous laboratories are described as active learning systems. The experiment itself becomes part of the learning algorithm. Rather than treating experiments as isolated tests, the lab treats them as information-gathering actions that improve future decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-## Active learning and experimental choice
-
-The hardest question in a self-driving laboratory is often not "What happened?" but "What should we do next?"
-
-### Exploration versus exploitation
-
-Most autonomous laboratories face a classic dilemma.
-
-One option is exploitation: perform experiments that seem most likely to succeed according to current knowledge.
-
-The other is exploration: test uncertain possibilities that could reveal something entirely new.
-
-A laboratory that only exploits may get trapped in a local optimum, repeatedly improving a mediocre result. A laboratory that only explores may waste resources wandering through unlikely possibilities. The challenge is balancing both goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
-This trade-off appears throughout scientific discovery. Human researchers make similar judgments intuitively. Closed-loop systems attempt to formalise the process mathematically.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNkRjByzeZg" title="Self-driving lab made super easy and inexpensive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNkRjByzeZg" target="_blank" rel="noopener noreferrer">Self-driving lab made super easy and inexpensive</a></p><p class="youtube-embed-meta">Channel: Taylor Sparks &middot; Views: 2.4K &middot; Uploaded: September 2022 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNkRjByzeZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNkRjByzeZg">Open on YouTube</a></p></div></div></div>
-
-### Bayesian optimisation
-
-One of the most common methods is Bayesian optimisation, which has become a core technique in self-driving laboratories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-title">Publishing Atlas: a brain for self-driving laboratories</span><span class="citation-popover-snippet">RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</span></span></span>
-
-The basic idea is simple.
-
-Instead of assuming it already knows the best experiment, the system maintains a probability distribution over possible outcomes. It estimates both:
-
-* Which regions seem promising.
-* How uncertain those estimates are.
-
-An experiment can therefore be valuable for two different reasons. It might be predicted to produce excellent results, or it might reduce uncertainty in an important area. Bayesian optimisation attempts to balance these considerations automatically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
-In practice, this means a laboratory may deliberately choose an experiment that is not expected to be the best performer because the information gained could improve future decisions. This is one reason autonomous labs can sometimes outperform straightforward trial-and-error approaches while using fewer experiments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
-
-### Learning from failure
-
-An important feature of active learning systems is that negative results can be highly valuable.
-
-Human researchers often focus attention on successful experiments. Closed-loop systems instead treat every outcome as information. A failed synthesis, an unstable material or a poor-performing catalyst can narrow the search space and improve the model's understanding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</span></span></span>
-
-Researchers behind the CAMEO autonomous materials platform described this as helping scientists "fail smarter". The system continuously updates its model from both successes and failures, allowing it to learn faster from limited experimental budgets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</span></span></span>
-
-That feature matters for the broader scientific acceleration story. Many important research problems are dominated by failed experiments. If AI systems can extract more knowledge from each failure, the effective rate of scientific learning may increase even when experimental resources remain limited.
-
-## Why the next experiment is often more valuable than the current one
-
-A useful way to understand closed-loop laboratories is to think of experiments as investments.
-
-The immediate result matters, but the larger value may come from improving future choices.
-
-Suppose a materials laboratory has ten thousand candidate compounds. Testing one compound reveals something about that material. Testing a carefully chosen compound may reveal information about hundreds of related candidates. The second experiment has a larger informational return even if the material itself is not exceptional. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
-This is one reason autonomous labs are often evaluated by efficiency rather than raw throughput. The question is not merely how many experiments they perform. It is how much useful knowledge they gain per experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
-
-Supporters argue that this distinction is easy to miss. A robot that runs ten thousand random experiments may produce less scientific value than a system that runs one hundred carefully chosen experiments guided by active learning. The promise of closed-loop research is therefore [intelligence]({{ 'intelligence/' | relative_url }}) applied to experimentation, not automation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
-
-
-<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" alt="Closed loop illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Real examples of adaptive experiment selection
-
-Several prominent self-driving laboratory projects already use versions of this approach. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: emergentmind.com">[emergentmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">emergentmind.com</span><span class="citation-popover-title">self driving laboratories</span><span class="citation-popover-snippet">Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</span></span></span>
-
-The CAMEO materials-discovery platform combined real-time experiments with Bayesian active learning to identify promising phase-change materials. Rather than following a fixed experimental sequence, the system updated its search strategy after each measurement. Researchers reported that experimental cycles could occur within seconds or minutes, allowing rapid adaptation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</span></span></span>
-
-The A-Lab materials project integrated machine learning, [robotics]({{ 'robotics/' | relative_url }}), automated characterisation and active learning to guide synthesis decisions. Its goal was not simply automated production but iterative refinement of experimental choices as new evidence accumulated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</span></span></span>
-
-Other chemistry and materials platforms increasingly use similar methods for reaction optimisation, catalyst design and process engineering. Reviews of self-driving laboratories consistently identify Bayesian optimisation and active learning as among the most widely adopted experimental planning methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
-
-The broader pattern is that laboratories are becoming less like automated factories and more like adaptive decision-making systems.
-
-## Where automation helps and where humans still matter
-
-Despite the language of autonomous science, most closed-loop laboratories remain heavily dependent on human judgement.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Fs9INEtXBw" title="Closed-loop optimization of inexpensive functions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Fs9INEtXBw" target="_blank" rel="noopener noreferrer">Closed-loop optimization of inexpensive functions</a></p><p class="youtube-embed-meta">Channel: Taylor Sparks &middot; Views: 1.4K &middot; Uploaded: December 2022 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Fs9INEtXBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Fs9INEtXBw">Open on YouTube</a></p></div></div></div>
-
-### Humans define the goal
-
-A laboratory cannot optimise everything simultaneously.
-
-Researchers still decide what counts as success:
-
-* Maximum battery lifetime.
-* Lowest manufacturing cost.
-* Highest catalytic efficiency.
-* Fastest reaction speed.
-* Safest drug candidate.
-
-These objectives shape the entire search process. An autonomous system may become extremely effective at optimisation while still pursuing a poorly chosen goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
-
-<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" alt="Closed loop illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_autonomous_la_75d8f2_closed_loop_l_15d63e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Humans define the search space
-
-The machine usually explores within boundaries set by researchers.
-
-Scientists decide which chemicals are available, which measurements matter, which equipment can be used and which safety constraints apply. The laboratory's intelligence is therefore partly inherited from the design of the experimental space itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</span></span></span>
-
-This matters because real science often depends on reframing problems rather than merely optimising within them. A system may become very effective at searching a defined landscape while missing entirely new directions that a human researcher might notice.
-
-### Humans interpret meaning
-
-Even when a closed-loop laboratory finds something unusual, researchers still need to understand why it happened.
-
-A surprising catalyst or material can generate new scientific theories, not just new data points. Many scientists argue that explanation remains one of the most difficult parts of the discovery process to automate. The machine may identify patterns before researchers understand them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</span></span></span>
-
-For this reason, many current systems are better described as human-machine scientific partnerships than fully independent robot scientists.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4lQ9H4GQApg" title="Berlinguette Research Group, University of British Columbia | Self driving lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4lQ9H4GQApg" target="_blank" rel="noopener noreferrer">Berlinguette Research Group, University of British Columbia | Self driving lab</a></p><p class="youtube-embed-meta">Channel: TechBlick &middot; Views: 300 &middot; Uploaded: October 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4lQ9H4GQApg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4lQ9H4GQApg">Open on YouTube</a></p></div></div></div>
-
-## The limits of choosing experiments well
-
-The next-experiment problem also reveals why scientific acceleration is difficult.
-
-Real laboratories contain noisy measurements, equipment failures, hidden variables and conflicting objectives. An algorithm can only learn from the information it receives. If measurements are unreliable or incomplete, the system may confidently move in the wrong direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureThe ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</span></span></span>
-
-There is also a risk of optimisation without understanding. A system may discover conditions that maximise a target metric while providing little insight into the underlying science. Critics worry that some autonomous workflows could become sophisticated search engines rather than generators of scientific explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
-
-Recent research has also highlighted practical constraints. Many real experiments involve multiple stages, intermediate observations and changing workflows that are harder to represent in standard optimisation frameworks. New approaches are attempting to incorporate richer decision-making processes, but these remain active research problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-## Why this mechanism matters for AI bloom
-
-The significance of closed-loop experimentation is not that a robot can pipette chemicals overnight. Laboratories have used automation for decades.
-
-The deeper claim is that scientific learning itself may become partially automated. Each experiment can immediately influence the next. Models improve in real time. Search strategies adapt continuously. Knowledge accumulates faster because the cycle between observation and decision shrinks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">This feedback loop is...</span></span></span>
-
-If that approach scales across fields such as materials science, [energy]({{ 'energy/' | relative_url }}) storage, catalysis, biotechnology and medicine, it could help address one of the largest constraints on scientific progress: the limited rate at which humanity can test ideas against reality.
-
-That does not guarantee a future of abundance. Discovery still faces physical limits, funding constraints, safety requirements, manufacturing bottlenecks and political choices. Yet closed-loop laboratories point to a specific mechanism through which advanced AI could contribute to a larger scientific acceleration story. Their value lies less in running experiments automatically than in learning, from each result, what reality is most useful to test next. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</span></span></span>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X](https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This feedback loop is...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>One of the most common strategies today for SDL experimental planning is Bayesian optimization (BO)...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...29 Nov 2023 — Here we present the A-Lab, an autonomous laboratory that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238524003229](https://www.sciencedirect.com/science/article/pii/S2590238524003229)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 82 — These SDLs have already shown si...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 82 — These SDLs have already shown si...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-020-19597-w](https://www.nature.com/articles/s41467-020-19597-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 505 — We demonstrate an autonomous materia...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2006.06141](https://arxiv.org/abs/2006.06141)  
+   Link: <a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
 
 7. <a id="endnote-7"></a>
    Source: pubs.rsc.org  
    Title: Publishing Atlas: a brain for self-driving laboratories  
-   Link: [https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j](https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2025/dd/d4dd00115j</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RSC PublishingAtlas: a brain for self-driving laboratories - RSC Publishingby RJ Hickman · 2025 · Cited by 50 — We report Atlas, an appli...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591](https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBenchmarking self-driving labsby AD Adesiji · 2025 · Cited by 10 — The keyword “Bayesian optimization” was chosen due to its...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2635098X25002591</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benchmarking self-driving labsby AD Adesiji · 2025 · Cited by 10 — The keyword “Bayesian optimization” was chosen due to its...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0](https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0)  
+   Link: <a href="https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/engage/coe/article-details/686d106b9f3a716b54a2f8b0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentA Flexible and Affordable Self-Driving Laboratory for...by S Pilon · 2025 · Cited by 4 — RoboChem...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11046582/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The automated lab of tomorrow - PMC - NIHby D Adam · 2024 · Cited by 13 — By combining automation and AI, labs could see big boosts in...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s42004-026-01932-9](https://www.nature.com/articles/s42004-026-01932-9)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureThe ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</p></details>
+   Link: <a href="https://www.nature.com/articles/s42004-026-01932-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42004-026-01932-9</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The ADePT framework for assessing autonomous...by P Salazar-Villacis · 2026 — Studies in robotics and chemical automation outline...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.15483](https://arxiv.org/abs/2512.15483)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMulti-stage Bayesian optimisation for dynamic decision-making in self-driving labsDecember 17, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2512.15483" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.15483</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-stage Bayesian optimisation for dynamic decision-making in self-driving labsDecember 17, 2025...</p></details>
    Published: December 17, 2025  
 
 13. <a id="endnote-13"></a>
    Source: self.inc  
-   Link: [https://www.self.inc/](https://www.self.inc/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self | Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed](https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed)  
+   Link: <a href="https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/closed</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.orgCLOSED中文(繁體)翻譯：劍橋詞典CLOSED翻譯：關閉, 關閉的，不開的, 關門的;不營業的, 結束的, 完成的；結束的, 僵化的，不接受新思想的;閉關排外的。了解更多。...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b](https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/mh/d5mh01984b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and materials...by H Lee · 2026 · Cited by 2 — This review synthesizes key developments in sel...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b](https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 · Cited by 2 — This review outlines the vision of SDL 2.0: a new generat...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g](https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2026/dd/d5dd00337g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs, or systems that select experiments...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d](https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlehtml/2024/dd/d4dd00040d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>future of self-driving laboratories: from human in the loop...by H Hysmith · 2024 · Cited by 94 — This paper provides a joint analysis o...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: self.com  
-   Link: [https://www.self.com/](https://www.self.com/)  
+   Link: <a href="https://www.self.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Magazine: Women&#x27;s Workouts, Health Advice &amp; Beauty...Discover new workout ideas, healthy-eating recipes, makeup looks, skin-care ad...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/jacsau.6c00213](https://pubs.acs.org/doi/10.1021/jacsau.6c00213)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/jacsau.6c00213" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/jacsau.6c00213</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemistry and Materials Innovation Driven by...1 day ago — In demonstrations of catalytic reaction optimization, the system achieved a c...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44160-026-01053-0](https://www.nature.com/articles/s44160-026-01053-0)  
+   Link: <a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Through this interface, users can select experi...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/collections/igbhhbedgi](https://www.nature.com/collections/igbhhbedgi)  
+   Link: <a href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/igbhhbedgi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs and automation software for chemistry and...7 Feb 2024 — This cross-journal collection is dedicated to the development...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2509.05351v1](https://arxiv.org/html/2509.05351v1)  
+   Link: <a href="https://arxiv.org/html/2509.05351v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.05351v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratory Optimizes the Lower Critical...2 Sept 2025 — Our system integrates robotic fluid-handling, on-line sensors, and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238522006385](https://www.sciencedirect.com/science/article/pii/S2590238522006385)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238522006385" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238522006385</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a minimal working example for a self-driving...by SG Baird · 2022 · Cited by 44 — We propose SDL-Demo: a low-cost “Hello, World...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Self](https://en.wikipedia.org/wiki/Self)  
+   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adu7426](https://www.science.org/doi/10.1126/sciadv.adu7426)  
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 13 — This study demonstrates real-time, autonomou...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: emergentmind.com  
    Title: self driving laboratories  
-   Link: [https://www.emergentmind.com/topics/self-driving-laboratories](https://www.emergentmind.com/topics/self-driving-laboratories)  
+   Link: <a href="https://www.emergentmind.com/topics/self-driving-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://www.emergentmind.com/topics/self-driving-laboratories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving LaboratoriesNov 21, 2025 — Self-driving laboratories use autonomous robotics and Bayesian optimization to rapidly design, ex...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery](https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...5 Nov 2025 — Next-generation autonomous laboratories that combine machine...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/](https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/)  
+   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2053869341853699/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous labs accelerate research with ai and roboticsThe automated laboratories use machine learning to design experiments, robotic sy...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: liverpool.ac.uk  
-   Link: [https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/](https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/)  
+   Link: <a href="https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/" target="_blank" rel="noopener noreferrer nofollow">https://www.liverpool.ac.uk/research/frontiers/ai-for-life/ai-innovation/future-economies/autonomous-robot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot | ResearchRobots that are used in chemistry research are typically hardwired to a specific experiment, limiting their ab...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV](https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV)  
+   Link: <a href="https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/fanli_self-driving-labs-are-often-deemed-futuristic-activity-7436750150229749760-myyV</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ORNL&#x27;s AI-Powered Self-Driving Labs Boost Chemical...The paper notes that they used a polymer with excellent solubility to make reaction...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/self](https://www.merriam-webster.com/dictionary/self)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: preprints.org  
-   Link: [https://www.preprints.org/manuscript/202509.1369/v1](https://www.preprints.org/manuscript/202509.1369/v1)  
+   Link: <a href="https://www.preprints.org/manuscript/202509.1369/v1" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.1369/v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...Autonomous laboratories represent a significant development in modern mat...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: self-help.org  
-   Link: [https://www.self-help.org/](https://www.self-help.org/)  
+   Link: <a href="https://www.self-help.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.self-help.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Help Credit Union | Community-Focused BankingGet personal and business banking, affordable home and auto loans, financial guidance...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: newatlas.com  
    Title: robot scientist experiments discovers catalyst  
-   Link: [https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/](https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/)  
+   Link: <a href="https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/" target="_blank" rel="noopener noreferrer nofollow">https://newatlas.com/robotics/robot-scientist-experiments-discovers-catalyst/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous robot scientist can choose its own experiments8 Jul 2020 — Engineers at the University of Liverpool have developed a robot sci...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/](https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/)  
+   Link: <a href="https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Chempros/comments/nflgzk/bayesian_optimization_for_chemical_synthesis_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a few number of experiments by balancing effectively extrapolation...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: aicompetence.org  
    Title: self driving labs autonomous science  
-   Link: [https://aicompetence.org/self-driving-labs-autonomous-science/](https://aicompetence.org/self-driving-labs-autonomous-science/)  
+   Link: <a href="https://aicompetence.org/self-driving-labs-autonomous-science/" target="_blank" rel="noopener noreferrer nofollow">https://aicompetence.org/self-driving-labs-autonomous-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Labs &amp; Autonomous Science16 Aug 2025 — These autonomous laboratories combine AI decision-making with robotic hardware to des...</p></details>

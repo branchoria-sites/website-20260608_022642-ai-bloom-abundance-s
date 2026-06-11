@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /anticipatory-gov/
 nav_short_title: Public Trust
 title: How Public Understanding Shapes Preventive Governance
-title_full: How Public Understanding Shapes Preventive Governance | Anticipatory Gov
+title_full: How Public Understanding Shapes Preventive Governance
 display_title_short: Public Trust
 display_title: Public Trust
 heading_title: How Public Understanding Shapes Preventive Governance
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Accurate AI Forecasts Still Fail to Prevent Crises | Resilience
+date: '2026-06-08 01:45:26'
+parent_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
 parent_permalink: /anticipatory-gov/
 parent_nav_short_title: Anticipatory Gov
 parent_heading_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
@@ -260,7 +261,6 @@ prev_link:
   permalink: /political-incentives/
   short_title: Political Incentives
   heading_title: How Short Term Politics Undermine Early Warning Responses
-date: '2026-06-08 01:45:26 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-1.webp
@@ -269,16 +269,14 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d60
 
 ## Introduction
 
-Public engagement and trust are central to whether [anticipatory]({{ 'anticipatory-gov/' | relative_url }}) governance — a planned, forward‑looking approach to public policy — actually *works* in practice. Anticipatory governance aims to use [early warnings]({{ 'early-warning/' | relative_url }}), foresight and strategic planning to prevent crises or steer technological change, rather than just react to problems after they emerge. Yet even excellent forecasts or scenario analyses fail to influence decisions if the public cannot grasp what is at stake or does not trust institutions to act on long‑term advice. This page explores how *futures literacy* (the ability of people to think constructively about the future) and *civic trust* (confidence in institutions’ capacity and intentions) shape citizens’ support for anticipatory policies, and how these factors affect the political uptake of preventive governance.
-
+Public engagement and trust are central to whether anticipatory governance — a planned, forward‑looking approach to public policy — actually *works* in practice. Anticipatory governance aims to use [early warnings]({{ 'early-warning/' | relative_url }}), foresight and strategic planning to prevent crises or steer technological change, rather than just react to problems after they emerge. Yet even excellent forecasts or scenario analyses fail to influence decisions if the public cannot grasp what is at stake or does not trust institutions to act on long‑term advice. This page explores how *futures literacy* (the ability of people to think constructively about the future) and *civic trust* (confidence in institutions’ capacity and intentions) shape citizens’ support for anticipatory policies, and how these factors affect the political uptake of preventive governance.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-1-dark.svg" | relative_url }}" alt="Public Trust illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Public Engagement Matters for Anticipatory Governance
 
-Anticipatory [governance]({{ 'power/' | relative_url }}) is not just a technical exercise; it is inherently social and political. Prominent research emphasises that anticipatory systems need inclusive, meaningful public engagement — from dialogues and workshops to foresight exercises — so that people recognise potential risks and opportunities and feel empowered to discuss them. Indeed, scenario‑based public deliberations have been shown to stimulate participants’ moral imagination, enabling them to envision how future technologies or risks might affect society and why early policy decisions matter. These activities help bridge the gap between expert foresight and lay understanding, making future possibilities *legible* to broader society.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
+Anticipatory governance is not just a technical exercise; it is inherently social and political. Prominent research emphasises that anticipatory systems need inclusive, meaningful public engagement — from dialogues and workshops to foresight exercises — so that people recognise potential risks and opportunities and feel empowered to discuss them. Indeed, scenario‑based public deliberations have been shown to stimulate participants’ moral imagination, enabling them to envision how future technologies or risks might affect society and why early policy decisions matter. These activities help bridge the gap between expert foresight and lay understanding, making future possibilities *legible* to broader society.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Anticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
 
-However, designing such public engagement is methodologically challenging. Lay audiences often find it hard to visualise abstract futures or unfamiliar technologies, meaning facilitators must create experiences that make possible outcomes more tangible and personally relevant. Without careful framing, public engagement can default to generic discussion rather than driving informed reflection that policymakers can act on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
-
+However, designing such public engagement is methodologically challenging. Lay audiences often find it hard to visualise abstract futures or unfamiliar technologies, meaning facilitators must create experiences that make possible outcomes more tangible and personally relevant. Without careful framing, public engagement can default to generic discussion rather than driving informed reflection that policymakers can act on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Anticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B-hkCQytRHU" title="Re Our Futures Game with Kathy Peach, John Sweeney, Jose Ramos + Laurie Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B-hkCQytRHU" target="_blank" rel="noopener noreferrer">Re Our Futures Game with Kathy Peach, John Sweeney, Jose Ramos + Laurie Smith</a></p><p class="youtube-embed-meta">Channel: CIVIC SQUARE &middot; Views: 151 &middot; Uploaded: September 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B-hkCQytRHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B-hkCQytRHU">Open on YouTube</a></p></div></div></div>
 
@@ -286,8 +284,7 @@ However, designing such public engagement is methodologically challenging. Lay a
 
 “Futures literacy” refers to the competencies that allow individuals and communities to understand how knowledge of the future can influence present decisions, and to critically reflect on alternative future scenarios. [Education]({{ 'education/' | relative_url }}) bodies like the **European Commission’s Strategic Foresight** initiative describe futures literacy as essential for innovative policymaking — equipping people to understand complexity, engage with uncertainty, and contribute to horizon‑scanning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://knowledge4policy.ec.europa.eu/foresight/topic/futures-literacy_en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: knowledge4policy.ec.europa.eu">[Knowledge for policy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">knowledge4policy.ec.europa.eu</span><span class="citation-popover-title">Knowledge for policy Futures Literacy</span><span class="citation-popover-snippet">Knowledge for policyFutures Literacy - Knowledge for policy - European Union11 Dec 2024 — Futures literacy helps people understand why an...</span></span></span>
 
-Futures literacy is more than awareness of trends; it encompasses *reflexivity* about our assumptions, biases and mental models of the future. Research in futures studies highlights that without this reflexive capacity, people can struggle to engage meaningfully with long‑term issues or to see how current choices shape future outcomes. Building futures literacy across civil society creates a more receptive environment for anticipatory governance by strengthening public understanding of why early action matters and broadening the pool of voices that can contribute to foresight dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
-
+Futures literacy is more than awareness of trends; it encompasses *reflexivity* about our assumptions, biases and mental models of the future. Research in futures studies highlights that without this reflexive capacity, people can struggle to engage meaningfully with long‑term issues or to see how current choices shape future outcomes. Building futures literacy across civil society creates a more receptive environment for anticipatory governance by strengthening public understanding of why early action matters and broadening the pool of voices that can contribute to foresight dialogue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Anticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ys70WCPEXZY" title="Futures Literacy - Dr Riel Miller Keynote Speech, Başlangıç Noktası (BN) Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ys70WCPEXZY" target="_blank" rel="noopener noreferrer">Futures Literacy - Dr Riel Miller Keynote Speech, Başlangıç Noktası (BN) Academy</a></p><p class="youtube-embed-meta">Channel: UNESCO &middot; Views: 3.1K &middot; Uploaded: March 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ys70WCPEXZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ys70WCPEXZY">Open on YouTube</a></p></div></div></div>
 
@@ -302,7 +299,6 @@ Trust matters for anticipatory governance in at least two ways: <span class="cit
 * **Legitimacy for long‑term planning:** Citizens who trust that institutions will balance present and future interests are more likely to support foresight‑based policy decisions, even when benefits are not immediate. Yet only about 37 % of surveyed OECD respondents believe their government balances the needs of current and future generations effectively.[OECD]
 * **Compliance and engagement:** Trust reduces the perceived risk of policy failure or misuse, making people more willing to engage with and follow preventive measures that might otherwise be seen as speculative or intrusive. When trust wanes, public scepticism can deepen divisions over long‑term strategies and reduce collective commitment to anticipatory measures.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-2-dark.svg" | relative_url }}" alt="Public Trust illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Trust, Inclusion and Political Participation
 
@@ -313,7 +309,6 @@ Interestingly, analysis of the **OECD Trust Survey** finds that those who report
 A critical challenge for anticipatory governance is ensuring that public engagement reflects diverse perspectives, not only those with the resources or confidence to participate. Participation barriers — whether linguistic, economic, educational or cultural — can skew foresight exercises toward dominant groups, leaving marginalised communities under‑represented in discussions about future risks and opportunities. When certain groups feel excluded, their trust in institutions erodes further, potentially deepening political polarisation and reducing the social legitimacy of anticipatory policies.
 
 Inclusive engagement means designing processes that actively reach out to under‑represented communities, tailor language and formats to different audiences, and integrate their lived experiences into futures thinking. When these practices are prioritised, they can broaden understanding of how future risks affect different groups and generate more robust, socially grounded anticipatory strategies.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cgitrfFtCIo" title="Re It Takes A Future To Fight A Future with Scott Smith + Susan Cox Smith" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cgitrfFtCIo" target="_blank" rel="noopener noreferrer">Re It Takes A Future To Fight A Future with Scott Smith + Susan Cox Smith</a></p><p class="youtube-embed-meta">Channel: CIVIC SQUARE &middot; Views: 157 &middot; Uploaded: September 2020 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cgitrfFtCIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cgitrfFtCIo">Open on YouTube</a></p></div></div></div>
 
@@ -326,7 +321,6 @@ To turn futures literacy and civic trust into concrete policy outcomes, governme
 * **Feedback loops:** Mechanisms that show how public input has shaped decisions reinforce the value of engagement and encourage ongoing participation, making anticipatory governance a dynamic, participatory process rather than an elite technical exercise.
 
 By strengthening public engagement and trust, societies stand a better chance of moving beyond short‑termism and embedding forward‑looking decisions into regular governance — a crucial prerequisite for steering emerging challenges towards human flourishing, [resilience]({{ 'resilience/' | relative_url }}) and long‑term wellbeing.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-3-dark.svg" | relative_url }}" alt="Public Trust illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_public_engage_d5e5dd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -342,16 +336,16 @@ By strengthening public engagement and trust, societies stand a better chance of
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Imaginable+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Imaginable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iMgyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Imaginable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+          <a href="https://www.amazon.com/s?k=Imaginable+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imaginable">Imaginable</a>
         </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+        <p class="fr-book-author">By Jane McGonigal</p>
         
-        <p class="fr-book-desc">Explains trust, values and public reactions to policy.</p>
+        <p class="fr-book-desc">Directly supports futures literacy and public engagement with long-term risks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Imaginable+by+Jane+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -359,16 +353,16 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Factfulness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpZNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Factfulness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signals Are Talking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gd1VDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Signals Are Talking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Factfulness">Factfulness</a>
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signals Are Talking">The Signals Are Talking</a>
         </h4>
-        <p class="fr-book-author">By Hans Rosling, Ola Rosling et al.</p>
+        <p class="fr-book-author">By Amy Webb</p>
         
-        <p class="fr-book-desc">Demonstrates how better public reasoning can improve policy discussions.</p>
+        <p class="fr-book-desc">Explains how people and institutions can identify future signals before crises emerge.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Factfulness+by+Hans+Rosling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -376,16 +370,16 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mcgtAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
         </h4>
-        <p class="fr-book-author">By Donella Meadows</p>
-        
-        <p class="fr-book-desc">Helps readers understand social and governance systems.</p>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 25 Google Books ratings</p>
+        <p class="fr-book-desc">Explains why institutions struggle with rare but high-impact events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -393,16 +387,16 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aMfnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
         </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+        <p class="fr-book-author">By Donella H. Meadows</p>
         
-        <p class="fr-book-desc">Supports evidence-based thinking about future risks.</p>
+        <p class="fr-book-desc">Helps readers understand complex social systems and preventive governance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -410,7 +404,7 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Righteous+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Righteous Mind</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Factfulness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Factfulness</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Imaginable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Imaginable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signals+Are+Talking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signals Are Talking</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -447,15 +441,15 @@ By strengthening public engagement and trust, societies stand a better chance of
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gleneagles Scratch Off World Map Poster With Flags - White, Extra Large 60x85 cm"><img src="{{ '/assets/images/marketplace-covers/0009e204dc9c945294db.jpg' | relative_url }}" alt="Listing image for Gleneagles Scratch Off World Map Poster With Flags - White, Extra Large 60x85 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Back To The Future Doc Marty Metal Sign Wall Poster Personalised Gift Plaque"><img src="https://i.ebayimg.com/images/g/aNAAAeSwyOlqIGSK/s-l225.jpg" alt="Listing image for Back To The Future Doc Marty Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">Gleneagles Scratch Off World Map Poster With Flags - White, Extra Large 60x85 cm</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer">Back To The Future Doc Marty Metal Sign Wall Poster Personalised Gift Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future studies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future studies poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -463,15 +457,15 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print"><img src="{{ '/assets/images/marketplace-covers/12dad9ae097197f16187.jpg' | relative_url }}" alt="Listing image for Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Movie Poster Back to the Future 2 Film Memorabilia Metal Sign Retro Cinema"><img src="https://i.ebayimg.com/images/g/ya4AAOSwy8RlzOO5/s-l225.jpg" alt="Listing image for Movie Poster Back to the Future 2 Film Memorabilia Metal Sign Retro Cinema" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">Gleason&#x27;s World Map • Azimuthal Flat Earth Giclée Fine Art Papers • Poster Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer">Movie Poster Back to the Future 2 Film Memorabilia Metal Sign Retro Cinema</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future studies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future studies poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -479,15 +473,15 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY"><img src="{{ '/assets/images/marketplace-covers/0d418763fd45199723b0.jpg' | relative_url }}" alt="Listing image for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Next To Normal Musical Metal Sign Wall Poster Personalised Gift Plaque"><img src="https://i.ebayimg.com/images/g/FtIAAeSwNINqIxd4/s-l225.jpg" alt="Listing image for Next To Normal Musical Metal Sign Wall Poster Personalised Gift Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer">Next To Normal Musical Metal Sign Wall Poster Personalised Gift Plaque</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future studies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future studies poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -495,15 +489,15 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More"><img src="{{ '/assets/images/marketplace-covers/1a45d30eb0462145598e.jpg' | relative_url }}" alt="Listing image for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 659160 Future Wall Art Print Decor Poster"><img src="https://i.ebayimg.com/images/g/6A8AAeSwD~JqDEKd/s-l225.jpg" alt="Listing image for 659160 Future Wall Art Print Decor Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer">659160 Future Wall Art Print Decor Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future studies poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future studies poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -511,7 +505,7 @@ By strengthening public engagement and trust, societies stand a better chance of
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="public-trust-how-public-understanding-shapes-preventive-governance-ai-bloom-abundance-superintel-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+studies+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-public-understanding-shapes-preventive-governance-future-studies-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future studies poster" data-ebay-reference="how-public-understanding-shapes-preventive-governance-future-studies-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -726,149 +720,149 @@ By strengthening public engagement and trust, societies stand a better chance of
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171](https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAnticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162518320171</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anticipatory governance and moral imagination: Methodological insights from a scenario-based public deliberation study - Sci...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328721001051](https://www.sciencedirect.com/science/article/pii/S0016328721001051)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectFutures literacy and the diversity of the futureby AC Mangnus · 2021 · Cited by 223 — In this paper, we argue that a key com...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328721001051" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328721001051</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures literacy and the diversity of the futureby AC Mangnus · 2021 · Cited by 223 — In this paper, we argue that a key com...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
    Title: oecd survey on drivers of trust in public institutions 2024 results 9a20554b en  
-   Link: [https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDOECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results_9a20554b-en.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Survey on Drivers of Trust in Public Institutions10 Jul 2024 — The second OECD Survey on Drivers of Trust in Public Institutions...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: oecd.org  
    Title: levels of trust in public institutions 62a3b94e  
-   Link: [https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/levels-of-trust-in-public-institutions_62a3b94e.html](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/levels-of-trust-in-public-institutions_62a3b94e.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/levels-of-trust-in-public-institutions_62a3b94e.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/levels-of-trust-in-public-institutions_62a3b94e.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Levels of trust in public institutions: Government at a...19 Jun 2025 — Across the OECD surveyed countries, about four in ten people (39...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html](https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDDrivers of trust in public institutions: Government at a...19 Jun 2025 — Trust in government and public institutions is driven by ma...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2025/06/government-at-a-glance-2025_70e14c6c/full-report/drivers-of-trust-in-public-institutions_fe2b7742.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drivers of trust in public institutions: Government at a...19 Jun 2025 — Trust in government and public institutions is driven by ma...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDLack of trust in institutions and political engagement (EN)June 3, 2025 — by M Prats · Cited by 27 — The paper draws on data from the...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/lack-of-trust-in-institutions-and-political-engagement_ae8a8673/83351a47-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lack of trust in institutions and political engagement (EN)June 3, 2025 — by M Prats · Cited by 27 — The paper draws on data from the...</p></details>
    Published: June 3, 2025  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590061719300584](https://www.sciencedirect.com/science/article/pii/S2590061719300584)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJanuary 1, 2020 — PROGRESS IN DISASTER SCIENCE Volume 5, January 2020, 100058 Review article A systematic review of Communit...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590061719300584" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590061719300584</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2020 — PROGRESS IN DISASTER SCIENCE Volume 5, January 2020, 100058 Review article A systematic review of Communit...</p></details>
    Published: January 1, 2020  
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
    Title: lack of trust in institutions and political engagement 83351a47 en  
-   Link: [https://www.oecd.org/en/publications/lack-of-trust-in-institutions-and-political-engagement_83351a47-en.html](https://www.oecd.org/en/publications/lack-of-trust-in-institutions-and-political-engagement_83351a47-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/lack-of-trust-in-institutions-and-political-engagement_83351a47-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/lack-of-trust-in-institutions-and-political-engagement_83351a47-en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lack of trust in institutions and political engagementby M Prats · 2024 · Cited by 28 — The paper draws on data from the OECD Survey on D...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/trust-and-public-policy_g1g74ea6/9789264268920-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/trust-and-public-policy_g1g74ea6/9789264268920-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/trust-and-public-policy_g1g74ea6/9789264268920-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/trust-and-public-policy_g1g74ea6/9789264268920-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>hat of trust or its absence. Governments.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/an-updated-oecd-framework-on-drivers-of-trust-in-public-institutions-to-meet-current-and-future-challenges_b6c5478c-en.html](https://www.oecd.org/en/publications/an-updated-oecd-framework-on-drivers-of-trust-in-public-institutions-to-meet-current-and-future-challenges_b6c5478c-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/an-updated-oecd-framework-on-drivers-of-trust-in-public-institutions-to-meet-current-and-future-challenges_b6c5478c-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/an-updated-oecd-framework-on-drivers-of-trust-in-public-institutions-to-meet-current-and-future-challenges_b6c5478c-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>across public institutions, across levels of government within countries, and...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
    Title: d7eb0bb6 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Anticipatory Capacity with Strategic Foresight in...5 May 2025 — This report examines factors influencing anticipatory governan...</p></details>
    Published: May 2025  
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
    Title: united kingdom cec47bf8 en  
-   Link: [https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results-country-notes_a8004759-en/united-kingdom_cec47bf8-en.html](https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results-country-notes_a8004759-en/united-kingdom_cec47bf8-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results-country-notes_a8004759-en/united-kingdom_cec47bf8-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-survey-on-drivers-of-trust-in-public-institutions-2024-results-country-notes_a8004759-en/united-kingdom_cec47bf8-en.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Survey on Drivers of Trust in Public Institutions 2024...10 Jul 2024 — The OECD Trust Survey explores people&#x27;s perceptions of diffe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Re_ It Takes A Future To Fight A Future with Scott Smith + Susan Cox Smith  
-   Link: [https://www.youtube.com/watch?v=cgitrfFtCIo](https://www.youtube.com/watch?v=cgitrfFtCIo)  
+   Link: <a href="https://www.youtube.com/watch?v=cgitrfFtCIo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cgitrfFtCIo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures Literacy - Dr Riel Miller Keynote Speech, Başlangıç Noktası (BN) Academy...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Futures Literacy  
-   Link: [https://www.youtube.com/watch?v=Ys70WCPEXZY](https://www.youtube.com/watch?v=Ys70WCPEXZY)  
+   Link: <a href="https://www.youtube.com/watch?v=Ys70WCPEXZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ys70WCPEXZY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Re_ Our Futures Game with Kathy Peach, John Sweeney, Jose Ramos + Laurie Smith...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: knowledge4policy.ec.europa.eu  
    Title: Knowledge for policy Futures Literacy  
-   Link: [https://knowledge4policy.ec.europa.eu/foresight/topic/futures-literacy_en](https://knowledge4policy.ec.europa.eu/foresight/topic/futures-literacy_en)  
+   Link: <a href="https://knowledge4policy.ec.europa.eu/foresight/topic/futures-literacy_en" target="_blank" rel="noopener noreferrer nofollow">https://knowledge4policy.ec.europa.eu/foresight/topic/futures-literacy_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowledge for policyFutures Literacy - Knowledge for policy - European Union11 Dec 2024 — Futures literacy helps people understand why an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: asu.elsevierpure.com  
    Title: understanding anticipatory governance  
-   Link: [https://asu.elsevierpure.com/en/publications/understanding-anticipatory-governance](https://asu.elsevierpure.com/en/publications/understanding-anticipatory-governance)  
+   Link: <a href="https://asu.elsevierpure.com/en/publications/understanding-anticipatory-governance" target="_blank" rel="noopener noreferrer nofollow">https://asu.elsevierpure.com/en/publications/understanding-anticipatory-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;anticipatory governance&#x27; - Arizona State UniversityUNDERSTANDING &#x27;ANTICIPATORY GOVERNANCE&#x27; * David Guston * Politics and Global Studies...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3263/13/5/137](https://www.mdpi.com/2076-3263/13/5/137)  
+   Link: <a href="https://www.mdpi.com/2076-3263/13/5/137" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3263/13/5/137</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modelling (ISM) AnalysisMay 8, 2023 — Open Access Editor’s Choice Article CRITICAL FAILURE FACTORS OF FLOOD [EARLY WARNING](&amp;#123;&amp;#123; &#x27;early-warning/&#x27; | relative_url &amp;#125;&amp;#125;) AND RESPONSE SY...</p></details>
    Published: May 8, 2023  
 
 18. <a id="endnote-18"></a>
    Source: tipconsortium.net  
-   Link: [https://www.tipconsortium.net/wp-content/uploads/2022/02/Futures-Literacy-Report.pdf](https://www.tipconsortium.net/wp-content/uploads/2022/02/Futures-Literacy-Report.pdf)  
+   Link: <a href="https://www.tipconsortium.net/wp-content/uploads/2022/02/Futures-Literacy-Report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tipconsortium.net/wp-content/uploads/2022/02/Futures-Literacy-Report.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas](https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas)  
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>traps and pitfalls of anticipatory governance: Comparative cases of South Korea and the United Kingdom - University of BristolSeptember 3...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: preventionweb.net  
-   Link: [https://www.preventionweb.net/publication/documents-and-publications/effect-likelihood-and-impact-information-public-response](https://www.preventionweb.net/publication/documents-and-publications/effect-likelihood-and-impact-information-public-response)  
+   Link: <a href="https://www.preventionweb.net/publication/documents-and-publications/effect-likelihood-and-impact-information-public-response" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/publication/documents-and-publications/effect-likelihood-and-impact-information-public-response</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of likelihood and impact information on public response to severe weather warnings | PreventionWebJanuary 1, 2023 — Author(s)...</p></details>
    Published: January 1, 2023  
 
 21. <a id="endnote-21"></a>
    Source: [discovery](&#123;&#123; 'discovery/' | relative_url &#125;&#125;). ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10209835/](https://discovery.ucl.ac.uk/id/eprint/10209835/)  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10209835/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10209835/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Warnings into Action – How We Can Improve Early Warning Systems to Protect Communities - UCL DiscoveryTRANSLATING WARNINGS INTO ACTION –...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: dspace.library.uu.nl  
    Title: nl Is anticipatory governance opening up or closing down future possibilities?  
-   Link: [https://dspace.library.uu.nl/handle/1874/435917](https://dspace.library.uu.nl/handle/1874/435917)  
+   Link: <a href="https://dspace.library.uu.nl/handle/1874/435917" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/handle/1874/435917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from diverse contexts in the Global SouthIS ANTICIPATORY GOVERNANCE OPENING UP OR CLOSING DOWN FUTURE POSSIBILITIES? FINDINGS FR...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: researchprofiles.ku.dk  
    Title: dk Energy Futures: Five Dilemmas of the Practice of Anticipatory Governance  
-   Link: [https://researchprofiles.ku.dk/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove/](https://researchprofiles.ku.dk/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove/)  
+   Link: <a href="https://researchprofiles.ku.dk/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove/" target="_blank" rel="noopener noreferrer nofollow">https://researchprofiles.ku.dk/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Futures: Five Dilemmas of the Practice of Anticipatory Governance - University of Copenhagen Research PortalENERGY FUTURES: FIVE DILEMMAS...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ucrisportal.univie.ac.at  
-   Link: [https://ucrisportal.univie.ac.at/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove](https://ucrisportal.univie.ac.at/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove)  
+   Link: <a href="https://ucrisportal.univie.ac.at/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove" target="_blank" rel="noopener noreferrer nofollow">https://ucrisportal.univie.ac.at/en/publications/energy-futures-five-dilemmas-of-the-practice-of-anticipatory-gove</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Davies (Corresponding author), Cynthia Selin Publications: Contribution to journal › Article › Peer Reviewed ABSTR...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: icscentre.org  
    Title: investing in futures literacy to thrive in a fragmented world  
-   Link: [https://icscentre.org/insight/investing-in-futures-literacy-to-thrive-in-a-fragmented-world/](https://icscentre.org/insight/investing-in-futures-literacy-to-thrive-in-a-fragmented-world/)  
+   Link: <a href="https://icscentre.org/insight/investing-in-futures-literacy-to-thrive-in-a-fragmented-world/" target="_blank" rel="noopener noreferrer nofollow">https://icscentre.org/insight/investing-in-futures-literacy-to-thrive-in-a-fragmented-world/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Mar 2026 — The report aims to support civil society actors by exploring opportunities and challenges that might otherwise be overlooke...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: capacity4dev.europa.eu  
    Title: eu OEC D Survey on Drivers in Trust in Public Institutions  
-   Link: [https://capacity4dev.europa.eu/library/oecd-survey-drivers-trust-public-institutions-2024-results_en](https://capacity4dev.europa.eu/library/oecd-survey-drivers-trust-public-institutions-2024-results_en)  
+   Link: <a href="https://capacity4dev.europa.eu/library/oecd-survey-drivers-trust-public-institutions-2024-results_en" target="_blank" rel="noopener noreferrer nofollow">https://capacity4dev.europa.eu/library/oecd-survey-drivers-trust-public-institutions-2024-results_en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Survey on Drivers in Trust in Public Institutions - 2024...20 Nov 2024 — The report emphasizes the need for governments to enhance citiz...</p></details>

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-energy-comput/
 description: Focused pages that expand on Power Demand.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb
-parent_title: Power Demand | Energy
+parent_title: Power Demand
 parent_nav_short_title: Power Demand
 parent_permalink: /power-demand/
 ---

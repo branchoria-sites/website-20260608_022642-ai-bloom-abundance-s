@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /public-compute/
 nav_short_title: Public Interest AI
 title: How Public Compute Unlocks Scientific and Public Interest AI Research
-title_full: How Public Compute Unlocks Scientific and Public Interest AI Research | Public Compute
+title_full: How Public Compute Unlocks Scientific and Public Interest AI Research
 display_title_short: Public Interest AI
 display_title: Public Interest AI
 heading_title: How Public Compute Unlocks Scientific and Public Interest AI Research
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Public Compute Can Democratize AI Access | Power
+date: '2026-06-08 02:05:07'
+parent_title: How Public Compute Can Democratize AI Access
 parent_permalink: /public-compute/
 parent_nav_short_title: Public Compute
 parent_heading_title: How Public Compute Can Democratize AI Access
@@ -266,7 +267,6 @@ next_link:
   permalink: /uk-airr-systems/
   short_title: UK AIRR Systems
   heading_title: How UK AIRR Supercomputers Strengthen AI Access
-date: '2026-06-08 02:05:07 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1.webp
@@ -275,11 +275,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e
 
 ## Introduction
 
-If advanced AI is going to help accelerate medicine, climate science, materials research and other fields that shape humanity’s long-term future, access to computing power cannot remain confined to a small number of technology companies. Modern [AI research]({{ 'research-agents/' | relative_url }}) increasingly depends on expensive graphics processing units (GPUs), large datasets and specialised infrastructure. [Public compute]({{ 'public-compute/' | relative_url }}) programmes aim to make some of those resources available to universities, non-profits, public laboratories and smaller research groups that would otherwise be locked out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
-
+If advanced AI is going to help accelerate medicine, climate science, materials research and other fields that shape humanity’s long-term future, access to computing [power]({{ 'power/' | relative_url }}) cannot remain confined to a small number of technology companies. Modern AI research increasingly depends on expensive graphics processing units (GPUs), large datasets and specialised infrastructure. [Public compute]({{ 'public-compute/' | relative_url }}) programmes aim to make some of those resources available to universities, non-profits, public laboratories and smaller research groups that would otherwise be locked out. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsf.gov">[NSF - U.S. National Science Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsf.gov</span><span class="citation-popover-snippet">National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-dark.svg" | relative_url }}" alt="Public Interest AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters see this as more than a fairness issue. They argue that many of the most socially valuable AI applications may not be the most commercially lucrative ones. Research on rare diseases, climate adaptation, public health, disaster resilience, scientific modelling and educational tools can struggle to compete with commercial incentives. Public compute is therefore often presented as a mechanism for directing AI capability towards broader human flourishing rather than only towards the most profitable markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
+Supporters see this as more than a fairness issue. They argue that many of the most socially valuable AI applications may not be the most commercially lucrative ones. Research on rare diseases, climate adaptation, public health, disaster [resilience]({{ 'resilience/' | relative_url }}), scientific modelling and educational tools can struggle to compete with commercial incentives. Public compute is therefore often presented as a mechanism for directing AI capability towards broader human flourishing rather than only towards the most profitable markets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 ## Why scientific AI increasingly depends on compute access
 
@@ -287,16 +286,15 @@ For much of modern science, access to laboratories and instruments has always ma
 
 This changes the structure of scientific opportunity. A university team may have a promising idea for modelling protein interactions, forecasting floods or designing new materials, yet still be unable to test it because the required compute budget exceeds available funding. In practice, this means that the direction of research can become shaped not only by scientific merit but also by who can obtain computational resources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
 
-Within the broader AI bloom vision, this matters because many of the most transformative possibilities depend on scientific acceleration. If AI can help researchers discover medicines faster, improve clean-energy technologies, model complex biological systems or understand climate risks more effectively, then widening access to compute becomes part of widening access to future discovery itself.
+Within the broader AI bloom vision, this matters because many of the most transformative possibilities depend on scientific acceleration. If AI can help researchers discover medicines faster, improve clean-[energy]({{ 'energy/' | relative_url }}) technologies, model complex biological systems or understand climate risks more effectively, then widening access to compute becomes part of widening access to future [discovery]({{ 'discovery/' | relative_url }}) itself.
 
 ## Accelerating scientific discovery with AI
 
 One reason governments are investing in public compute is the growing evidence that AI and high-performance computing together can significantly accelerate scientific work.
 
-Recent research examining millions of scientific papers found that projects combining AI methods with advanced computing infrastructure were substantially more likely to produce novel concepts and highly cited results than conventional approaches. The authors argue that AI and large-scale compute are becoming core drivers of modern scientific discovery across multiple disciplines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">arXivAI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
+Recent research examining millions of scientific papers found that projects combining AI methods with advanced computing infrastructure were substantially more likely to produce novel concepts and highly cited results than conventional approaches. The authors argue that AI and large-scale compute are becoming core drivers of modern scientific discovery across multiple disciplines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
 
 The mechanism is straightforward:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -307,10 +305,9 @@ The mechanism is straightforward:
 
 </div>
 
-Materials science provides a useful example. Researchers have demonstrated systems that combine AI models with large-scale cloud computing to screen tens of millions of possible materials and identify promising candidates for experimental [validation]({{ 'validation/' | relative_url }}). Instead of relying solely on slow laboratory trial and error, scientists can use computation to narrow the search dramatically before physical testing begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">arXivAI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
+Materials science provides a useful example. Researchers have demonstrated systems that combine AI models with large-scale cloud computing to screen tens of millions of possible materials and identify promising candidates for experimental [validation]({{ 'validation/' | relative_url }}). Instead of relying solely on slow laboratory trial and error, scientists can use computation to narrow the search dramatically before physical testing begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science</span><span class="citation-popover-snippet">AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</span><span class="citation-popover-meta">Published: November 16, 2025</span></span></span>
 
 The significance extends beyond any individual discovery. If AI-assisted research repeatedly shortens the time required to generate hypotheses, test possibilities and interpret results, scientific progress itself may accelerate. Advocates of AI abundance often point to this possibility as one of the strongest reasons advanced AI could have effects far larger than ordinary productivity growth.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-moQgySa-GQ" title="Requesting Resources via the National AI Research Resource Pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-moQgySa-GQ" target="_blank" rel="noopener noreferrer">Requesting Resources via the National AI Research Resource Pilot</a></p><p class="youtube-embed-meta">Channel: CaRCC &middot; Views: 608 &middot; Uploaded: April 2025 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-moQgySa-GQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-moQgySa-GQ">Open on YouTube</a></p></div></div></div>
 
@@ -332,19 +329,18 @@ Climate science provides another example of why public-interest research frequen
 
 Modern climate modelling involves enormous datasets, complex simulations and increasingly sophisticated machine-learning systems. Researchers use AI to improve weather prediction, analyse satellite imagery, model ecosystem change and identify patterns in environmental data that would be difficult to detect manually.
 
-These workloads are computationally intensive. Running them at meaningful scale often requires supercomputers or specialised AI systems that exceed the resources of many research groups. Public compute programmes therefore function as shared scientific infrastructure, comparable to national laboratories or major research telescopes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research | FeaturesAIRR is a national facility announced by th...</span></span></span>
+These workloads are computationally intensive. Running them at meaningful scale often requires supercomputers or specialised AI systems that exceed the resources of many research groups. Public compute programmes therefore function as shared scientific infrastructure, comparable to national laboratories or major research telescopes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
 
-The UK's AI Research Resource (AIRR), for example, explicitly links national AI computing capacity to scientific goals including climate research, fusion energy, medical science and other public-interest domains. Government-backed compute initiatives are increasingly framed not merely as technology investments but as tools for solving long-term societal challenges. UK Research and Innovation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research | FeaturesAIRR is a national facility announced by th...</span></span></span>
+The UK's AI Research Resource (AIRR), for example, explicitly links national AI computing capacity to scientific goals including climate research, fusion energy, medical science and other public-interest domains. Government-backed compute initiatives are increasingly framed not merely as technology investments but as tools for solving long-term societal challenges. UK Research and Innovation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maths.cam.ac.uk">[University of Cambridge Mathematics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maths.cam.ac.uk</span><span class="citation-popover-snippet">University of Cambridge MathematicsNew AI supercomputer to support climate research &#124; FeaturesAIRR is a national facility announced by th...</span></span></span>
 
 For readers interested in the larger AI bloom question, climate research illustrates an important point: some of the most valuable applications of advanced [intelligence]({{ 'intelligence/' | relative_url }}) may involve managing civilisation-scale systems rather than creating consumer products. Better forecasting, energy optimisation and environmental modelling could affect billions of people over decades.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-2-dark.svg" | relative_url }}" alt="Public Interest AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The NAIRR experiment and the democratisation of AI research
 
 The United States' National AI Research Resource (NAIRR) pilot has become one of the most important attempts to widen access to advanced AI infrastructure.
 
-The programme was launched to provide researchers and educators with access to computing resources, datasets, models, software and technical support. Rather than concentrating resources in a single government facility, it uses a federated model involving federal agencies, universities and private-sector partners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meritalk.com">[Meritalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meritalk.com</span><span class="citation-popover-title">nsf partners launch national ai research resource pilot</span><span class="citation-popover-snippet">MeritalkNSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</span></span></span>
+The programme was launched to provide researchers and educators with access to computing resources, datasets, models, software and technical support. Rather than concentrating resources in a single government facility, it uses a federated model involving federal agencies, universities and private-sector partners. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: meritalk.com">[Meritalk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">meritalk.com</span><span class="citation-popover-title">nsf partners launch national ai research resource pilot</span><span class="citation-popover-snippet">NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</span></span></span>
 
 A central goal is reducing the gap between elite technology organisations and the broader research community. Universities, non-profits, public-interest researchers and smaller institutions can apply for resources that would otherwise be difficult or impossible to obtain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hai.stanford.edu">[Stanford HAI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hai.stanford.edu</span><span class="citation-popover-title">HAINational AI Research Resource (NAIRR</span><span class="citation-popover-snippet">Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</span></span></span>
 
@@ -360,16 +356,19 @@ When access to frontier computing depends entirely on commercial providers, rese
 
 Shared public infrastructure can create space for different kinds of inquiry:
 
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Research with long time horizons rather than immediate commercial returns.
 * Projects aimed at public goods rather than marketable products.
 * Independent evaluation of powerful AI systems.
-* Research on AI safety, [governance]({{ 'power/' | relative_url }}) and societal impacts.
+* Research on AI safety, governance and societal impacts.
 * Work led by universities, non-profits and public laboratories.
+
+</div>
 
 The Ada Lovelace Institute has argued that public compute can increase public influence over the direction of AI development and reduce the risk that critical infrastructure becomes concentrated in a narrow set of actors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
 For those concerned with humanity's long-term future, this question becomes especially important if AI capabilities continue to grow. If increasingly powerful systems help drive scientific and economic progress, then who gets access to those systems may shape which problems civilisation chooses to solve.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/24U_B8Z8tDE" title="Requesting Resources via the National AI Research Resource Pilot (2025-09-29)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=24U_B8Z8tDE" target="_blank" rel="noopener noreferrer">Requesting Resources via the National AI Research Resource Pilot (2025-09-29)</a></p><p class="youtube-embed-meta">Channel: CaRCC &middot; Views: 60 &middot; Uploaded: September 2025 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=24U_B8Z8tDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=24U_B8Z8tDE">Open on YouTube</a></p></div></div></div>
 
@@ -377,25 +376,19 @@ For those concerned with humanity's long-term future, this question becomes espe
 
 The optimistic case for public compute has important caveats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[adalovelaceinstitute.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
-The largest technology companies still possess vastly greater resources than most public programmes. Frontier AI training runs can require investments measured in hundreds of millions or even billions of pounds. Public infrastructure may expand access without fully closing the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-title">compute infrastructure and the ai opportunities action plan</span><span class="citation-popover-snippet">TechUKCompute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The largest technology companies still possess vastly greater resources than most public programmes. Frontier AI training runs can require investments measured in hundreds of millions or even billions of pounds. Public infrastructure may expand access without fully closing the gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techuk.org">[TechUK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techuk.org</span><span class="citation-popover-title">compute infrastructure and the ai opportunities action plan</span><span class="citation-popover-snippet">Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 There are also practical challenges:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Building and maintaining advanced compute infrastructure is expensive.
 * AI hardware becomes obsolete quickly.
-* Public systems often face procurement and administrative constraints.
+* [Public systems]({{ 'public-systems/' | relative_url }}) often face procurement and administrative constraints.
 * Skilled engineers are needed alongside the hardware itself.
 * Access allocation can become politically contentious.
 
-</div>
-
-Another concern is that compute alone does not guarantee scientific success. Researchers also need talent, data, [institutional]({{ 'institutional-gaps/' | relative_url }}) support and pathways to translate discoveries into real-world outcomes.
+Another concern is that compute alone does not guarantee scientific success. Researchers also need talent, data, institutional support and pathways to translate discoveries into real-world outcomes.
 
 Some critics therefore argue that public compute should be viewed as one ingredient within a larger scientific ecosystem rather than as a standalone solution.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-3-dark.svg" | relative_url }}" alt="Public Interest AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_public_comput_ebe014-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for an AI-enabled human future
@@ -406,9 +399,7 @@ If advanced AI becomes a powerful engine of discovery, then limiting access to a
 
 The long-term AI bloom vision depends on more than faster software. It depends on whether intelligence-enhancing technologies can help humanity solve difficult problems, expand knowledge and improve life on a civilisational scale. Public compute does not guarantee that outcome. But it may help ensure that the search for breakthroughs in health, science, sustainability and human development is conducted by a broader community than the market alone would support. NSF - U.S. National Science Foundation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adalovelaceinstitute.org">[Ada Lovelace Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adalovelaceinstitute.org</span><span class="citation-popover-title">global public compute</span><span class="citation-popover-snippet">Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qt1ArjQw_dU" title="Accelerating the UK’s Technological Revolution with AI Supercomputing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qt1ArjQw_dU" target="_blank" rel="noopener noreferrer">Accelerating the UK’s Technological Revolution with AI Supercomputing</a></p><p class="youtube-embed-meta">Channel: NVIDIA Developer &middot; Views: 2.2K &middot; Uploaded: March 2024 &middot; Length: 3 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qt1ArjQw_dU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qt1ArjQw_dU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -806,113 +797,113 @@ The long-term AI bloom vision depends on more than faster software. It depends o
 
 1. <a id="endnote-1"></a>
    Source: nsf.gov  
-   Link: [https://www.nsf.gov/focus-areas/ai/nairr](https://www.nsf.gov/focus-areas/ai/nairr)  
+   Link: <a href="https://www.nsf.gov/focus-areas/ai/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.nsf.gov/focus-areas/ai/nairr</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Science FoundationNational Artificial Intelligence Research ResourceInitially established as a pilot in 2024, the NAIRR concept...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: hai.stanford.edu  
    Title: HAINational AI Research Resource (NAIRR)  
-   Link: [https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource](https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource)  
+   Link: <a href="https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://hai.stanford.edu/policy/policy-efforts/national-ai-research-resource</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford HAINational AI Research Resource (NAIRR) - Stanford HAIA National AI Research Resource (NAIRR) would provide academic and non-pr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv AI and Supercomputing are Powering the Next Wave of Breakthrough Science  
-   Link: [https://arxiv.org/abs/2511.12686](https://arxiv.org/abs/2511.12686)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2511.12686" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.12686</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and Supercomputing are Powering the Next Wave of Breakthrough Science - But at What Cost?November 16, 2025...</p></details>
    Published: November 16, 2025  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2401.04070](https://arxiv.org/abs/2401.04070)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAccelerating computational materials discovery with artificial intelligence and cloud high-performance computing: from large-scale s...</p></details>
+   Link: <a href="https://arxiv.org/abs/2401.04070" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.04070</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating computational materials discovery with artificial intelligence and cloud high-performance computing: from large-scale s...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: meritalk.com  
    Title: nsf partners launch national ai research resource pilot  
-   Link: [https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/](https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MeritalkNSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</p></details>
+   Link: <a href="https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nsf-partners-launch-national-ai-research-resource-pilot/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NSF, Partners Launch National AI Research Resource Pilot24 Jan 2024 — The pilot will provide US-based researchers and educators w...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: techuk.org  
    Title: compute infrastructure and the ai opportunities action plan  
-   Link: [https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html](https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TechUKCompute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</p></details>
+   Link: <a href="https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/compute-infrastructure-and-the-ai-opportunities-action-plan.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute infrastructure and the AI Opportunities Action Plan15 May 2025 — The AI Opportunities Action Plan states that, to build a s...</p></details>
    Published: May 2025  
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
 
 8. <a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/us/dictionary/english/national](https://dictionary.cambridge.org/us/dictionary/english/national)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/national" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/national</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryrelating to all parts of a nation or to a nation as a whole rather than to any part of it...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: adalovelaceinstitute.org  
    Title: global public compute  
-   Link: [https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/](https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/)  
+   Link: <a href="https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/" target="_blank" rel="noopener noreferrer nofollow">https://www.adalovelaceinstitute.org/policy-briefing/global-public-compute/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ada Lovelace InstituteMapping global approaches to public compute4 Nov 2024 — Exploration of a National AI Research Resource to provide p...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: maths.cam.ac.uk  
-   Link: [https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research](https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research)  
+   Link: <a href="https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research" target="_blank" rel="noopener noreferrer nofollow">https://www.maths.cam.ac.uk/features/new-ai-supercomputer-support-climate-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Cambridge MathematicsNew AI supercomputer to support climate research | FeaturesAIRR is a national facility announced by th...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: docs.ycrc.yale.edu  
-   Link: [https://docs.ycrc.yale.edu/ai/nairr/](https://docs.ycrc.yale.edu/ai/nairr/)  
+   Link: <a href="https://docs.ycrc.yale.edu/ai/nairr/" target="_blank" rel="noopener noreferrer nofollow">https://docs.ycrc.yale.edu/ai/nairr/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Resource (NAIRR)5 Feb 2026 — The National Artificial Intelligence Research Resource (NAIRR) provides researchers with hardwar...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: nps.gov  
-   Link: [https://www.nps.gov/](https://www.nps.gov/)  
+   Link: <a href="https://www.nps.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nps.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage (U.S. National Park Service)Discover America&#x27;s stories. Plan your visit and explore the diverse landscapes, national parks, and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: aicomputeaccess.com  
-   Link: [https://aicomputeaccess.com/](https://aicomputeaccess.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[AI Compute](&amp;#123;&amp;#123; &#x27;compute-control/&#x27; | relative_url &amp;#125;&amp;#125;) Access: Government Infrastructure, Commercial...This resource provides independent editorial coverage of AI compute access ac...</p></details>
+   Link: <a href="https://aicomputeaccess.com/" target="_blank" rel="noopener noreferrer nofollow">https://aicomputeaccess.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Compute Access: Government Infrastructure, Commercial...This resource provides independent editorial coverage of AI compute access ac...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cuit.columbia.edu  
-   Link: [https://www.cuit.columbia.edu/national-hpc-access/nairr](https://www.cuit.columbia.edu/national-hpc-access/nairr)  
+   Link: <a href="https://www.cuit.columbia.edu/national-hpc-access/nairr" target="_blank" rel="noopener noreferrer nofollow">https://www.cuit.columbia.edu/national-hpc-access/nairr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Columbia Information TechnologyNational Artificial Intelligence Research Resource (NAIRR)...The National Artificial Intelligence Researc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: microsoft.com  
-   Link: [https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/](https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/)  
+   Link: <a href="https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/project/national-ai-research-resource-nairr-pilot/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AI Research Resource (NAIRR) PilotThe mission of the NAIRR pilot aligns with our commitment to broaden AI research and spur inno...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalairlines.com  
-   Link: [https://www.nationalairlines.com/](https://www.nationalairlines.com/)  
+   Link: <a href="https://www.nationalairlines.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalairlines.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National AirlinesIt&#x27;s time to board world&#x27;s premiere air charter service. Welcome aboard a luxurious, comfortable and personalized journe...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nationalgridus.com  
-   Link: [https://www.nationalgridus.com/](https://www.nationalgridus.com/)  
+   Link: <a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H](https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s AIRR offers free AI computing [power](&amp;#123;&amp;#123; &#x27;power/&#x27; | relative_url &amp;#125;&amp;#125;) to universities...Get free access to the UK&#x27;s most powerful AI supercomputers with our AI Rese...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s AIRR offers free AI computing power to universities...Get free access to the UK&#x27;s most powerful AI supercomputers with our AI Rese...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation](https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation)  
+   Link: <a href="https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>supercomputer set to get 6 times more powerful...26 Jan 2026 — The AI Research Resource (AIRR) provides free compute access to UK rese...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: today.ucsd.edu  
-   Link: [https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot](https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot)  
+   Link: <a href="https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot" target="_blank" rel="noopener noreferrer nofollow">https://today.ucsd.edu/story/national-ai-researchers-have-the-chance-to-access-san-diego-supercomputer-center-resources-through-nsf-nairr-pilot</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Researchers Have the Chance to Access...7 May 2024 — The NSF has opened the next opportunity for researchers and educators to apply f...</p></details>
    Published: May 2024  
 
 21. <a id="endnote-21"></a>
    Source: nationaljournal.com  
-   Link: [https://www.nationaljournal.com/](https://www.nationaljournal.com/)  
+   Link: <a href="https://www.nationaljournal.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaljournal.com/</a>

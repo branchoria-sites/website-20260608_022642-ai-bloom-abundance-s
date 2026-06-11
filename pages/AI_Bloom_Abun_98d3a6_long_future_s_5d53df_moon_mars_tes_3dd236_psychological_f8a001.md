@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /moon-and-mars/
 nav_short_title: Crew Resilience
 title: Building Psychological Strength and AI Collaboration Off Earth
-title_full: Building Psychological Strength and AI Collaboration Off Earth | Moon and Mars
+title_full: Building Psychological Strength and AI Collaboration Off Earth
 display_title_short: Crew Resilience
 display_title: Crew Resilience
 heading_title: Building Psychological Strength and AI Collaboration Off Earth
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are Moon and Mars bases the first step? | Long Future
+date: '2026-06-08 02:08:16'
+parent_title: Are Moon and Mars bases the first step?
 parent_permalink: /moon-and-mars/
 parent_nav_short_title: Moon and Mars
 parent_heading_title: Are Moon and Mars bases the first step?
@@ -260,7 +261,6 @@ next_link:
   permalink: /lunar-life-support/
   short_title: Lunar Life Support
   heading_title: How Autonomous Systems Sustain Lunar Life Support
-date: '2026-06-08 02:08:16 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-1.webp
@@ -271,20 +271,18 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3d
 
 Long-duration bases on the [Moon and Mars]({{ 'moon-and-mars/' | relative_url }}) will test more than engineering. They will test whether small groups of people can remain mentally healthy, cooperative and effective while living for months or years in isolated, high-risk environments with limited contact with Earth. Within the broader vision of an AI-enabled human future, this question matters because advanced technology is only useful if people can reliably work with it under stress. A habitat filled with intelligent systems, autonomous robots and decision-support software still depends on human judgement, trust and [resilience]({{ 'resilience/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-1-dark.svg" | relative_url }}" alt="Crew Resilience illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research from the International Space Station, Antarctic stations and Mars simulation habitats suggests that isolation, confinement, communication delays and workload can affect mood, sleep, cognition and team cohesion. Future lunar and Martian crews will increasingly rely on AI-assisted systems to manage equipment, schedules, emergencies and [scientific]({{ 'discovery/' | relative_url }}) work. The challenge is therefore not only psychological survival. It is learning how humans and machines can form effective teams in environments where mistakes may have life-or-death consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHuman behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/directorates/esdmd/hhp/team-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">team risk</span><span class="citation-popover-snippet">Risk of In-Mission Performance and Behavioral Health...18 Mar 2025 — Prolonged exposure to isolation and confinement may lead to inadequ...</span></span></span>
+Research from the International Space Station, Antarctic stations and Mars simulation habitats suggests that isolation, confinement, communication delays and workload can affect mood, sleep, cognition and team cohesion. Future lunar and Martian crews will increasingly rely on AI-assisted systems to manage equipment, schedules, emergencies and scientific work. The challenge is therefore not only psychological survival. It is learning how humans and machines can form effective teams in environments where mistakes may have life-or-death consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Human behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/directorates/esdmd/hhp/team-risk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">team risk</span><span class="citation-popover-snippet">Risk of In-Mission Performance and Behavioral Health...18 Mar 2025 — Prolonged exposure to isolation and confinement may lead to inadequ...</span></span></span>
 
 ## Isolation and Stress Management
 
-The psychological pressures of deep-space missions differ from those of short orbital flights. Astronauts on a Mars mission could spend years away from Earth, unable to return quickly if problems emerge. Communication delays may stretch to more than twenty minutes each way, reducing the emotional support normally available from mission [control]({{ 'control/' | relative_url }}) and family. Researchers studying behavioural health in space repeatedly identify isolation, confinement and distance from Earth as central risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSpaceflight Standard Measures is a multidisciplinary study...by JG Hardy · 2025 · Cited by 1 — Spaceflight is an isolated, confined...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAHuman Factors and Behavioral PerformanceSimulated space missions conducted on Earth help NASA examine crew health and team dynamics w...</span></span></span>
+The psychological pressures of deep-space missions differ from those of short orbital flights. Astronauts on a Mars mission could spend years away from Earth, unable to return quickly if problems emerge. Communication delays may stretch to more than twenty minutes each way, reducing the emotional support normally available from mission [control]({{ 'control/' | relative_url }}) and family. Researchers studying behavioural health in space repeatedly identify isolation, confinement and distance from Earth as central risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Spaceflight Standard Measures is a multidisciplinary study...by JG Hardy · 2025 · Cited by 1 — Spaceflight is an isolated, confined...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Human Factors and Behavioral PerformanceSimulated space missions conducted on Earth help NASA examine crew health and team dynamics w...</span></span></span>
 
-One reason these pressures matter is that they interact. Sleep disruption can worsen mood. Social tensions can reduce cooperation. Stress can impair attention and decision-making. NASA's Human Factors and Behavioral Performance programme treats these issues as operational risks rather than secondary wellbeing concerns because degraded psychological performance can directly affect mission safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">HFBP Risks</span><span class="citation-popover-snippet">Human Factors and Behavioral…24 Feb 2026 — Isolation, radiation, distance from Earth, and other intense space stressors may all take a to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCPsychological and Behavioral Changes during Confinement...by M Basner · 2014 · Cited by 295 — We report on behavioral and psychologic...</span></span></span>
+One reason these pressures matter is that they interact. Sleep disruption can worsen mood. Social tensions can reduce cooperation. Stress can impair attention and decision-making. NASA's Human Factors and Behavioral Performance programme treats these issues as operational risks rather than secondary wellbeing concerns because degraded psychological performance can directly affect mission safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">HFBP Risks</span><span class="citation-popover-snippet">Human Factors and Behavioral…24 Feb 2026 — Isolation, radiation, distance from Earth, and other intense space stressors may all take a to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychological and Behavioral Changes during Confinement...by M Basner · 2014 · Cited by 295 — We report on behavioral and psychologic...</span></span></span>
 
 Analog missions on Earth provide a glimpse of these challenges. Programmes such as HI-SEAS in Hawaii, HERA in Texas and Russia's Mars-500 experiment place crews in isolated habitats for extended periods. These studies consistently find that confinement changes social dynamics, emotional states and behavioural patterns over time. Researchers observed shifts in sleep schedules, reduced activity levels and changes in crew interaction during the 520-day Mars-500 simulation, one of the longest high-fidelity Mars analog missions ever conducted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494059/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Analogs and Behavioral Health Performance Research...by GG De la Torre · 2024 · Cited by 20 — Space analogs may arise incidentally from...</span></span></span>
 
 A common misconception is that psychological resilience mainly means emotional toughness. In practice, resilience is often built through systems and routines rather than individual heroism. Effective crews tend to rely on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,17 +305,15 @@ Long periods of repetitive work, limited scenery and restricted social circles c
 
 For Moon and Mars bases, maintaining mental engagement may become a design challenge alongside [power]({{ 'power/' | relative_url }}) generation or life-support reliability. Virtual reality environments, adaptive entertainment systems, AI-supported [education]({{ 'education/' | relative_url }}) and creative projects could become important tools for sustaining wellbeing during long missions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/03Xe8O1e49s" title="Behavioral Health &amp; Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=03Xe8O1e49s" target="_blank" rel="noopener noreferrer">Behavioral Health &amp; Performance</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 2.1K &middot; Uploaded: April 2016 &middot; Length: 1 hour 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=03Xe8O1e49s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=03Xe8O1e49s">Open on YouTube</a></p></div></div></div>
 
 ## Team Coordination with AI Systems
 
 The next generation of space habitats will not simply contain astronauts. They will contain networks of robots, autonomous maintenance systems, planning software, environmental monitoring tools and AI assistants. Human-machine teamwork is therefore becoming a central design problem.
 
-The strongest argument for AI support in deep-space missions is not replacing humans. It is expanding crew autonomy when Earth cannot provide immediate assistance. Mars missions in particular face communication delays that make real-time supervision impossible. Astronauts will increasingly need local systems capable of monitoring equipment, identifying faults, organising information and supporting decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">arXivArtificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
+The strongest argument for AI support in deep-space missions is not replacing humans. It is expanding crew autonomy when Earth cannot provide immediate assistance. Mars missions in particular face communication delays that make real-time supervision impossible. Astronauts will increasingly need local systems capable of monitoring equipment, identifying faults, organising information and supporting decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">Artificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
 
 NASA's autonomy research already explores several forms of AI assistance:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -329,30 +325,28 @@ NASA's autonomy research already explores several forms of AI assistance:
 
 </div>
 
-The goal is often workload reduction rather than full automation. In hazardous environments, [cognitive]({{ 'broad-access/' | relative_url }}) overload can be as dangerous as equipment failure. AI systems may help crews focus attention on the most important tasks while handling routine monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">arXivArtificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
-
+The goal is often workload reduction rather than full automation. In hazardous environments, cognitive overload can be as dangerous as equipment failure. AI systems may help crews focus attention on the most important tasks while handling routine monitoring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">Artificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-2-dark.svg" | relative_url }}" alt="Crew Resilience illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Trust is harder than automation
 
 Building a capable AI system is only part of the challenge. Crews must also trust it appropriately.
 
-Too little trust means warnings and recommendations may be ignored. Too much trust can lead to automation bias, where people follow incorrect system advice without sufficient scrutiny. Researchers studying human-AI interaction in Mars analog environments increasingly focus on how crews interpret, question and collaborate with AI tools rather than simply measuring technical performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drops.dagstuhl.de">[DROPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drops.dagstuhl.de</span><span class="citation-popover-snippet">DROPSHuman-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</span></span></span>
+Too little trust means warnings and recommendations may be ignored. Too much trust can lead to automation bias, where people follow incorrect system advice without sufficient scrutiny. Researchers studying human-AI interaction in Mars analog environments increasingly focus on how crews interpret, question and collaborate with AI tools rather than simply measuring technical performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drops.dagstuhl.de">[DROPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drops.dagstuhl.de</span><span class="citation-popover-snippet">Human-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</span></span></span>
 
 This becomes especially important during emergencies. If an AI system recommends a repair procedure or habitat response, astronauts must understand why. Explainability, transparency and [human oversight]({{ 'human-oversight/' | relative_url }}) are therefore likely to remain important even if future systems become far more capable.
 
-The broader AI bloom argument often assumes that advanced intelligence can amplify human capability. Space missions offer a useful testing ground for that claim because outcomes are measurable. A successful human-machine team is not one where humans disappear from decision-making. It is one where human judgement and machine analysis complement each other under difficult conditions.
+The broader AI bloom argument often assumes that advanced [intelligence]({{ 'intelligence/' | relative_url }}) can amplify human capability. Space missions offer a useful testing ground for that claim because outcomes are measurable. A successful human-machine team is not one where humans disappear from decision-making. It is one where human judgement and machine analysis complement each other under difficult conditions.
 
 ### Communication delays change the balance of authority
 
 Current astronauts benefit from constant support from large teams on Earth. Future Mars crews will not.
 
-Studies examining delayed communication consistently find impacts on workload, coordination and team effectiveness. As delays increase, local crews must assume greater responsibility for planning, troubleshooting and operational decisions. This shift makes intelligent decision-support systems more valuable, but it also changes social dynamics inside the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerSeptember 18, 2014by LB Leveton · 2014 · Cited by 4 — Isolation studies are focused investigations of indivi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImpact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</span></span></span>
+Studies examining delayed communication consistently find impacts on workload, coordination and team effectiveness. As delays increase, local crews must assume greater responsibility for planning, troubleshooting and operational decisions. This shift makes intelligent decision-support systems more valuable, but it also changes social dynamics inside the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-snippet">NASA Technical Reports ServerSeptember 18, 2014by LB Leveton · 2014 · Cited by 4 — Isolation studies are focused investigations of indivi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Impact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</span></span></span>
 
-Researchers increasingly discuss "crew autonomy" as a core requirement for Mars exploration. Experiments with self-scheduling systems in Mars analog missions suggest that crews can successfully manage more of their own operations when supported by intelligent planning tools. Rather than waiting for instructions from Earth, astronauts can adapt schedules and priorities locally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">arXivArtificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
+Researchers increasingly discuss "crew autonomy" as a core requirement for Mars exploration. Experiments with self-scheduling systems in Mars analog missions suggest that crews can successfully manage more of their own operations when supported by intelligent planning tools. Rather than waiting for instructions from Earth, astronauts can adapt schedules and priorities locally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars</span><span class="citation-popover-snippet">Artificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</span><span class="citation-popover-meta">Published: October 7, 2019</span></span></span>
 
 This may foreshadow a broader transition in human-machine cooperation. As AI systems become more capable, the most effective arrangement may not be centralised command from distant experts but distributed teams in which humans and AI share operational responsibility.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nZe36MxceZU" title="Nasa’s Behavioural Health and Performance Services for long duration space missions - Charles Dukes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nZe36MxceZU" target="_blank" rel="noopener noreferrer">Nasa’s Behavioural Health and Performance Services for long duration space missions - Charles Dukes</a></p><p class="youtube-embed-meta">Channel: The British Neuropsychiatry Association &middot; Views: 386 &middot; Uploaded: June 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nZe36MxceZU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nZe36MxceZU">Open on YouTube</a></p></div></div></div>
 
@@ -360,14 +354,13 @@ This may foreshadow a broader transition in human-machine cooperation. As AI sys
 
 The psychological challenge of a multi-year Mars mission is unlikely to be solved by a single intervention. Most evidence points toward layered approaches that combine crew selection, habitat design, behavioural monitoring and ongoing support.
 
-Crew composition appears especially important. Research on long-duration missions highlights the role of personality compatibility, communication skills and conflict management. Technical competence alone is not enough. A crew member who performs brilliantly during training but destabilises group dynamics may represent a serious operational risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/35761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">EncyclopediaTeam Composition and Cohesion in Spaceflight MissionsNov 22, 2022 — Selection, training, cohesion and psychosocial adaptation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">amp0000260~teamwork and collaboration in long duration space missions</span><span class="citation-popover-snippet">OvidTeamwork and Collaboration in Long-Duration Space...by LB Landon · 2018 · Cited by 209 — Groups, particularly those in isolation, ten...</span></span></span>
+Crew composition appears especially important. Research on long-duration missions highlights the role of personality compatibility, communication skills and conflict management. Technical competence alone is not enough. A crew member who performs brilliantly during training but destabilises group dynamics may represent a serious operational risk. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopedia.pub/entry/35761" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopedia.pub">[Encyclopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopedia.pub</span><span class="citation-popover-snippet">Team Composition and Cohesion in Spaceflight MissionsNov 22, 2022 — Selection, training, cohesion and psychosocial adaptation...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ovid.com">[Ovid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ovid.com</span><span class="citation-popover-title">amp0000260~teamwork and collaboration in long duration space missions</span><span class="citation-popover-snippet">Teamwork and Collaboration in Long-Duration Space...by LB Landon · 2018 · Cited by 209 — Groups, particularly those in isolation, ten...</span></span></span>
 
-At the same time, there are concerns about excessive cohesion. Studies of simulated Mars missions have examined the risk of groupthink, where highly unified teams become less willing to challenge assumptions or consider alternative options. In dangerous environments, harmony can sometimes become a liability if it suppresses dissent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectImpact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</span></span></span>
+At the same time, there are concerns about excessive cohesion. Studies of simulated Mars missions have examined the risk of groupthink, where highly unified teams become less willing to challenge assumptions or consider alternative options. In dangerous environments, harmony can sometimes become a liability if it suppresses dissent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Impact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</span></span></span>
 
-Future habitats may increasingly use continuous behavioural monitoring to identify problems before they become crises. Researchers are exploring systems that track sleep quality, stress indicators, cognitive performance and social interaction patterns. NASA has developed standardised behavioural measurement frameworks to better understand these risks during long missions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&amp;action=public_query_taskbook_content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskbook.nasaprs.com">[NASA Task Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskbook.nasaprs.com</span><span class="citation-popover-snippet">NASA Task BookThe NASA Task BookTo evaluate astronaut behavioral health and performance, NASA developed “Standardized Behavioral Measures...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCHuman behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</span></span></span>
+Future habitats may increasingly use continuous behavioural monitoring to identify problems before they become crises. Researchers are exploring systems that track sleep quality, stress indicators, cognitive performance and social interaction patterns. NASA has developed standardised behavioural measurement frameworks to better understand these risks during long missions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&amp;action=public_query_taskbook_content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskbook.nasaprs.com">[NASA Task Book]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskbook.nasaprs.com</span><span class="citation-popover-snippet">NASA Task BookThe NASA Task BookTo evaluate astronaut behavioral health and performance, NASA developed “Standardized Behavioral Measures...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Human behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</span></span></span>
 
 This raises difficult questions about privacy and autonomy. Constant monitoring may improve safety, but it could also create new psychological pressures. A crew living under continuous observation by sensors and AI systems may experience stress differently from one monitored primarily by human supervisors.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CKgtoDymf4Q" title="Safeguarding Astronaut Health on the Journey to Mars | H2M2 2025 Panel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CKgtoDymf4Q" target="_blank" rel="noopener noreferrer">Safeguarding Astronaut Health on the Journey to Mars | H2M2 2025 Panel</a></p><p class="youtube-embed-meta">Channel: ExploreMars.Org &middot; Views: 154 &middot; Uploaded: June 2025 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CKgtoDymf4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CKgtoDymf4Q">Open on YouTube</a></p></div></div></div>
 
@@ -381,7 +374,6 @@ Mental-health researchers caution that reliability, transparency and safety rema
 
 The most plausible near-term role may be practical rather than therapeutic: helping crews maintain schedules, identify warning signs of stress, organise information and access relevant resources before problems escalate.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-3-dark.svg" | relative_url }}" alt="Crew Resilience illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_psychological_f8a001-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Lunar and Martian Bases Can Teach About Human Flourishing
 
@@ -393,7 +385,7 @@ In that sense, off-Earth settlements function as social laboratories as much as 
 
 For the wider AI bloom vision, this is a significant question. If advanced AI eventually helps create far greater material abundance, scientific capability and civilisational resilience, success will still depend on human psychology. The long-term future is not shaped only by smarter systems. It is shaped by whether people can remain cooperative, purposeful and mentally healthy while working alongside those systems.
 
-Moon and Mars crews may therefore become some of the earliest real-world experiments in a problem that extends far beyond space exploration: how humans and increasingly capable machines can form trustworthy partnerships that expand, rather than diminish, human flourishing. NASA 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drops.dagstuhl.de">[DROPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drops.dagstuhl.de</span><span class="citation-popover-snippet">DROPSHuman-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</span></span></span>
+Moon and Mars crews may therefore become some of the earliest real-world experiments in a problem that extends far beyond space exploration: how humans and increasingly capable machines can form trustworthy partnerships that expand, rather than diminish, human flourishing. NASA 3PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drops.dagstuhl.de">[DROPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drops.dagstuhl.de</span><span class="citation-popover-snippet">Human-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -791,234 +783,234 @@ Moon and Mars crews may therefore become some of the earliest real-world experim
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCHuman behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10063669/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human behavior and performance in deep space explorationby F Pagnini · 2023 · Cited by 54 — These include extended mission durations...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: team risk  
-   Link: [https://www.nasa.gov/directorates/esdmd/hhp/team-risk/](https://www.nasa.gov/directorates/esdmd/hhp/team-risk/)  
+   Link: <a href="https://www.nasa.gov/directorates/esdmd/hhp/team-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/directorates/esdmd/hhp/team-risk/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk of In-Mission Performance and Behavioral Health...18 Mar 2025 — Prolonged exposure to isolation and confinement may lead to inadequ...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/](https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAHuman Factors and Behavioral PerformanceSimulated space missions conducted on Earth help NASA examine crew health and team dynamics w...</p></details>
+   Link: <a href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Factors and Behavioral PerformanceSimulated space missions conducted on Earth help NASA examine crew health and team dynamics w...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
    Title: HFBP Risks  
-   Link: [https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/](https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/)  
+   Link: <a href="https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/hrp/human-factors-and-behavioral-performance/hfbp-risks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human Factors and Behavioral…24 Feb 2026 — Isolation, radiation, distance from Earth, and other intense space stressors may all take a to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSpaceflight Standard Measures is a multidisciplinary study...by JG Hardy · 2025 · Cited by 1 — Spaceflight is an isolated, confined...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12612093/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spaceflight Standard Measures is a multidisciplinary study...by JG Hardy · 2025 · Cited by 1 — Spaceflight is an isolated, confined...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCPsychological and Behavioral Changes during Confinement...by M Basner · 2014 · Cited by 295 — We report on behavioral and psychologic...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3968121/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological and Behavioral Changes during Confinement...by M Basner · 2014 · Cited by 295 — We report on behavioral and psychologic...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf](https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20140012415/downloads/20140012415.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerSeptember 18, 2014by LB Leveton · 2014 · Cited by 4 — Isolation studies are focused investigations of indivi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/reference/fundamentals-of-human-health/](https://www.nasa.gov/reference/fundamentals-of-human-health/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAFundamentals of Human HealthLong-duration missions can also affect the crews&#x27; behavioral health due to confinement, stress, and isola...</p></details>
+   Link: <a href="https://www.nasa.gov/reference/fundamentals-of-human-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/fundamentals-of-human-health/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fundamentals of Human HealthLong-duration missions can also affect the crews&#x27; behavioral health due to confinement, stress, and isola...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11494059/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11494059/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494059/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494059/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analogs and Behavioral Health Performance Research...by GG De la Torre · 2024 · Cited by 20 — Space analogs may arise incidentally from...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Artificial Intelligence: Powering Human Exploration of the Moon and Mars  
-   Link: [https://arxiv.org/abs/1910.03014](https://arxiv.org/abs/1910.03014)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivArtificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1910.03014" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.03014</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence: Powering Human Exploration of the Moon and MarsOctober 7, 2019...</p></details>
    Published: October 7, 2019  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.16397](https://arxiv.org/abs/2410.16397)  
+   Link: <a href="https://arxiv.org/abs/2410.16397" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.16397</a>  
 
 12. <a id="endnote-12"></a>
    Source: ar5iv.labs.arxiv.org  
    Title: ar5iv Powering Human Exploration of the Moon and Mars  
-   Link: [https://ar5iv.labs.arxiv.org/html/1910.03014](https://ar5iv.labs.arxiv.org/html/1910.03014)  
+   Link: <a href="https://ar5iv.labs.arxiv.org/html/1910.03014" target="_blank" rel="noopener noreferrer nofollow">https://ar5iv.labs.arxiv.org/html/1910.03014</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crew Autonomy gives astronauts tools to assist in the...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: drops.dagstuhl.de  
-   Link: [https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1](https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DROPSHuman-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</p></details>
+   Link: <a href="https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1" target="_blank" rel="noopener noreferrer nofollow">https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.SpaceCHI.2025.1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-AI Interaction in Space: Insights from a Mars Analog...by H Hilgers · 2025 · Cited by 2 — We report empirical results from an...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X](https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectImpact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S009457651630697X</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of communication delays to and from the...by NM Kintz · 2016 · Cited by 58 — Deep space explorations will involve si...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ntrs.nasa.gov  
    Title: NASA TM20250003885  
-   Link: [https://ntrs.nasa.gov/api/citations/20250003885/downloads/NASA%20TM20250003885.pdf](https://ntrs.nasa.gov/api/citations/20250003885/downloads/NASA%20TM20250003885.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20250003885/downloads/NASA%20TM20250003885.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250003885/downloads/NASA%20TM20250003885.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerAssessment of the State of Communication Delay...by LB Landon · 2025 · Cited by 7 — Fischer &amp; Mosier (2015)...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2301.08248](https://arxiv.org/abs/2301.08248)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnabling Astronaut Self-Scheduling using a Robust Advanced Modelling and Scheduling system: an assessment during a Mars analogue mis...</p></details>
+   Link: <a href="https://arxiv.org/abs/2301.08248" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2301.08248</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enabling Astronaut Self-Scheduling using a Robust Advanced Modelling and Scheduling system: an assessment during a Mars analogue mis...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: encyclopedia.pub  
-   Link: [https://encyclopedia.pub/entry/35761](https://encyclopedia.pub/entry/35761)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EncyclopediaTeam Composition and Cohesion in Spaceflight MissionsNov 22, 2022 — Selection, training, cohesion and psychosocial adaptation...</p></details>
+   Link: <a href="https://encyclopedia.pub/entry/35761" target="_blank" rel="noopener noreferrer nofollow">https://encyclopedia.pub/entry/35761</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Team Composition and Cohesion in Spaceflight MissionsNov 22, 2022 — Selection, training, cohesion and psychosocial adaptation...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ovid.com  
    Title: amp0000260~teamwork and collaboration in long duration space missions  
-   Link: [https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions](https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OvidTeamwork and Collaboration in Long-Duration Space...by LB Landon · 2018 · Cited by 209 — Groups, particularly those in isolation, ten...</p></details>
+   Link: <a href="https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/ampsy/fulltext/10.1037/amp0000260~teamwork-and-collaboration-in-long-duration-space-missions</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teamwork and Collaboration in Long-Duration Space...by LB Landon · 2018 · Cited by 209 — Groups, particularly those in isolation, ten...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ntrs.nasa.gov  
    Title: Evidence Report Team 2022 FINAL4PUB rev 1.docx  
-   Link: [https://ntrs.nasa.gov/api/citations/20220007465/downloads/Evidence%20Report%20-%20Team%202022%20FINAL4PUB%20rev%201.docx.pdf](https://ntrs.nasa.gov/api/citations/20220007465/downloads/Evidence%20Report%20-%20Team%202022%20FINAL4PUB%20rev%201.docx.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20220007465/downloads/Evidence%20Report%20-%20Team%202022%20FINAL4PUB%20rev%201.docx.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20220007465/downloads/Evidence%20Report%20-%20Team%202022%20FINAL4PUB%20rev%201.docx.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>team performance during spaceflight is important for mission success and to maintain crew health.... cohesion, team performance, group l...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0094576511000464](https://www.sciencedirect.com/science/article/abs/pii/S0094576511000464)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectResults from a 105 days simulated space missionby GM Sandal · 2011 · Cited by 98 — This paper addresses two aspects of “grou...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576511000464" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576511000464</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Results from a 105 days simulated space missionby GM Sandal · 2011 · Cited by 98 — This paper addresses two aspects of “grou...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: formative.jmir.org  
-   Link: [https://formative.jmir.org/2023/1/e37784](https://formative.jmir.org/2023/1/e37784)  
+   Link: <a href="https://formative.jmir.org/2023/1/e37784" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2023/1/e37784</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronauts in isolated and confined conditions, experiencing the psychological and physical stressors of LDSE missions, are at risk...Re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nasa.gov  
    Title: the human body in space  
-   Link: [https://www.nasa.gov/humans-in-space/the-human-body-in-space/](https://www.nasa.gov/humans-in-space/the-human-body-in-space/)  
+   Link: <a href="https://www.nasa.gov/humans-in-space/the-human-body-in-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/humans-in-space/the-human-body-in-space/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 Feb 2021 — However, NASA-funded Antarctic analog studies could provide insight into how certain spaceflight stressors may affect the hu...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/humans-in-space/conquering-the-challenge-of-isolation-in-space-nasas-human-research-program-director-receives-national-recognition/](https://www.nasa.gov/humans-in-space/conquering-the-challenge-of-isolation-in-space-nasas-human-research-program-director-receives-national-recognition/)  
+   Link: <a href="https://www.nasa.gov/humans-in-space/conquering-the-challenge-of-isolation-in-space-nasas-human-research-program-director-receives-national-recognition/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/humans-in-space/conquering-the-challenge-of-isolation-in-space-nasas-human-research-program-director-receives-national-recognition/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conquering the Challenge of Isolation in Space14 Aug 2018 — NASA&#x27;s Human Research Program, or HRP, pursues the best methods and technolog...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nasa.gov  
    Title: jsc behavioral health  
-   Link: [https://www.nasa.gov/reference/jsc-behavioral-health/](https://www.nasa.gov/reference/jsc-behavioral-health/)  
+   Link: <a href="https://www.nasa.gov/reference/jsc-behavioral-health/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-behavioral-health/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Health &amp; Performance22 Jan 2026 — JSC&#x27;s behavioral health and performance experts are an integral part of advancing human spac...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0094576525002802](https://www.sciencedirect.com/science/article/pii/S0094576525002802)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576525002802" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576525002802</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How isolated and confined-environment missions shape...by W Migaki · 2025 — This study investigated the dynamics of human interactions a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0094576514002252](https://www.sciencedirect.com/science/article/abs/pii/S0094576514002252)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576514002252" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576514002252</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychosocial issues during an expedition to Marsby N Kanas · 2014 · Cited by 37 — Psychological stresses may arise from isolation and liv...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844022007022](https://www.sciencedirect.com/science/article/pii/S2405844022007022)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844022007022" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844022007022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Affective health and countermeasures in long-duration...by M Gatti · 2022 · Cited by 44 — In long-duration missions, stress can jeopardi...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIBehavioral Health and Performance  
-   Link: [https://www.ncbi.nlm.nih.gov/books/NBK223770/](https://www.ncbi.nlm.nih.gov/books/NBK223770/)  
+   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK223770/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK223770/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Health and Performance - Safe Passage - NCBIby JR Ball · 2001 · Cited by 3 — The imperatives of behavioral health and performance effecti...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: asc-csa.gc.ca  
    Title: how space and isolation affect astronauts mental health.asp  
-   Link: [https://www.asc-csa.gc.ca/eng/youth-educators/toolkits/mental-health-and-isolation/how-space-and-isolation-affect-astronauts-mental-health.asp](https://www.asc-csa.gc.ca/eng/youth-educators/toolkits/mental-health-and-isolation/how-space-and-isolation-affect-astronauts-mental-health.asp)  
+   Link: <a href="https://www.asc-csa.gc.ca/eng/youth-educators/toolkits/mental-health-and-isolation/how-space-and-isolation-affect-astronauts-mental-health.asp" target="_blank" rel="noopener noreferrer nofollow">https://www.asc-csa.gc.ca/eng/youth-educators/toolkits/mental-health-and-isolation/how-space-and-isolation-affect-astronauts-mental-health.asp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Canadian Space AgencyHow space and isolation affect astronauts&#x27; mental healthOct 27, 2022 — They can also feel isolated, bored and lonely...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: taskbook.nasaprs.com  
-   Link: [https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&action=public_query_taskbook_content](https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&action=public_query_taskbook_content)  
+   Link: <a href="https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&amp;action=public_query_taskbook_content" target="_blank" rel="noopener noreferrer nofollow">https://taskbook.nasaprs.com/tbp/index.cfm?TASKID=15880&amp;action=public_query_taskbook_content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Task BookThe NASA Task BookTo evaluate astronaut behavioral health and performance, NASA developed “Standardized Behavioral Measures...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Astronaut](https://en.wikipedia.org/wiki/Astronaut)  
+   Link: <a href="https://en.wikipedia.org/wiki/Astronaut" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Astronaut</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronauta person trained, equipped, and deployed by a human spaceflight program to serve as a commander or crew member of a spacecraf...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Mars](https://en.wikipedia.org/wiki/Mars)  
+   Link: <a href="https://en.wikipedia.org/wiki/Mars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MarsMars is the fourth planet from the Sun. It is also known as the &quot;Red Planet&quot;, for its orange-red appearance. Mars is a desert-like...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nZe36MxceZU](https://www.youtube.com/watch?v=nZe36MxceZU)  
+   Link: <a href="https://www.youtube.com/watch?v=nZe36MxceZU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nZe36MxceZU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>missions - Charles Dukes. 379 views · 10 months ago...more. The...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1391331/full](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1391331/full)  
+   Link: <a href="https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1391331/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2025.1391331/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimise behavioural health and human factors research...by KK Schlosser · 2025 · Cited by 3 — This paper takes a behavioural health app...</p></details>
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: labxchange.org  
-   Link: [https://www.labxchange.org/library/pathway/lx-pathway%3A13ea4f36-1e3a-4fd9-b4c1-5ecfe8761be5/items/lb%3ALabXchange%3A8abffc86%3Ahtml%3A1/112755](https://www.labxchange.org/library/pathway/lx-pathway%3A13ea4f36-1e3a-4fd9-b4c1-5ecfe8761be5/items/lb%3ALabXchange%3A8abffc86%3Ahtml%3A1/112755)  
+   Link: <a href="https://www.labxchange.org/library/pathway/lx-pathway%3A13ea4f36-1e3a-4fd9-b4c1-5ecfe8761be5/items/lb%3ALabXchange%3A8abffc86%3Ahtml%3A1/112755" target="_blank" rel="noopener noreferrer nofollow">https://www.labxchange.org/library/pathway/lx-pathway%3A13ea4f36-1e3a-4fd9-b4c1-5ecfe8761be5/items/lb%3ALabXchange%3A8abffc86%3Ahtml%3A1/112755</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>22. Behavioral HealthThe Behavioral Health and Performance (BHP) capability is responsible for understanding how the conditions of spacef...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: scriptiebank.be  
-   Link: [https://scriptiebank.be/file/10274/download?token=QUbJPEKf](https://scriptiebank.be/file/10274/download?token=QUbJPEKf)  
+   Link: <a href="https://scriptiebank.be/file/10274/download?token=QUbJPEKf" target="_blank" rel="noopener noreferrer nofollow">https://scriptiebank.be/file/10274/download?token=QUbJPEKf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BATTLING HOMESICKNESS ON MARSAbstract. During a Mars mission, crew will simultaneously be confined to small shared living quarters, and w...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/371040471_Communication_quality_in_extreme_environments_affects_performance_of_astronauts_and_their_support_teams_through_increases_in_workload_Insights_from_the_AMADEE-20_analog_Mars_mission](https://www.researchgate.net/publication/371040471_Communication_quality_in_extreme_environments_affects_performance_of_astronauts_and_their_support_teams_through_increases_in_workload_Insights_from_the_AMADEE-20_analog_Mars_mission)  
+   Link: <a href="https://www.researchgate.net/publication/371040471_Communication_quality_in_extreme_environments_affects_performance_of_astronauts_and_their_support_teams_through_increases_in_workload_Insights_from_the_AMADEE-20_analog_Mars_mission" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371040471_Communication_quality_in_extreme_environments_affects_performance_of_astronauts_and_their_support_teams_through_increases_in_workload_Insights_from_the_AMADEE-20_analog_Mars_mission</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from the AMADEE-20 analog Mars missionWe stress that specific (team) communication training for astronauts and support personnel...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: med.upenn.edu  
-   Link: [https://www.med.upenn.edu/uep/astronaut.html](https://www.med.upenn.edu/uep/astronaut.html)  
+   Link: <a href="https://www.med.upenn.edu/uep/astronaut.html" target="_blank" rel="noopener noreferrer nofollow">https://www.med.upenn.edu/uep/astronaut.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Perelman School of MedicineAstronaut Behavioral HealthAstronaut Behavioral Health. During spaceflight, astronauts face a unique set of co...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/101507172/Psychological_countermeasures_in_manned_space_missions_EARTH_system_for_the_Mars_500_project](https://www.academia.edu/101507172/Psychological_countermeasures_in_manned_space_missions_EARTH_system_for_the_Mars_500_project)  
+   Link: <a href="https://www.academia.edu/101507172/Psychological_countermeasures_in_manned_space_missions_EARTH_system_for_the_Mars_500_project" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101507172/Psychological_countermeasures_in_manned_space_missions_EARTH_system_for_the_Mars_500_project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological countermeasures in manned space missionsSpaceflights missions have revealed that exist critical psychological problems. The...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/282001256_Control_locus_stress_resistance_and_personal_growth_of_the_participants_in_experiment_Mars-500](https://www.researchgate.net/publication/282001256_Control_locus_stress_resistance_and_personal_growth_of_the_participants_in_experiment_Mars-500)  
+   Link: <a href="https://www.researchgate.net/publication/282001256_Control_locus_stress_resistance_and_personal_growth_of_the_participants_in_experiment_Mars-500" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/282001256_Control_locus_stress_resistance_and_personal_growth_of_the_participants_in_experiment_Mars-500</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Control locus, stress resistance and personal growth of the...Feb 9, 2026 — Several confinement studies have been conducted to simulate...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: aerospaceamerica.aiaa.org  
-   Link: [https://aerospaceamerica.aiaa.org/year-in-review/human-machine-teaming-involved-in-current-and-future-challenges-on-earth-and-on-mars/](https://aerospaceamerica.aiaa.org/year-in-review/human-machine-teaming-involved-in-current-and-future-challenges-on-earth-and-on-mars/)  
+   Link: <a href="https://aerospaceamerica.aiaa.org/year-in-review/human-machine-teaming-involved-in-current-and-future-challenges-on-earth-and-on-mars/" target="_blank" rel="noopener noreferrer nofollow">https://aerospaceamerica.aiaa.org/year-in-review/human-machine-teaming-involved-in-current-and-future-challenges-on-earth-and-on-mars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aiaa.orgHuman-machine teaming involved in current and future...1 Dec 2021 — The Human-Machine Teaming Technical Committee fosters the de...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: hubertshum.com  
-   Link: [https://hubertshum.com/publications/spacechi2025communication/files/spacechi2025communication.pdf](https://hubertshum.com/publications/spacechi2025communication/files/spacechi2025communication.pdf)  
+   Link: <a href="https://hubertshum.com/publications/spacechi2025communication/files/spacechi2025communication.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hubertshum.com/publications/spacechi2025communication/files/spacechi2025communication.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep space missions face significant communication delays that disrupt both operational workflows and psychological support for crew memb...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: durham-repository.worktribe.com  
    Title: integrating human in the loop ai to tackle space communication delay challenges  
-   Link: [https://durham-repository.worktribe.com/output/3967282/integrating-human-in-the-loop-ai-to-tackle-space-communication-delay-challenges](https://durham-repository.worktribe.com/output/3967282/integrating-human-in-the-loop-ai-to-tackle-space-communication-delay-challenges)  
+   Link: <a href="https://durham-repository.worktribe.com/output/3967282/integrating-human-in-the-loop-ai-to-tackle-space-communication-delay-challenges" target="_blank" rel="noopener noreferrer nofollow">https://durham-repository.worktribe.com/output/3967282/integrating-human-in-the-loop-ai-to-tackle-space-communication-delay-challenges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-in-the-loop AI to Tackle Space...This position paper examines how human-in-the-loop AI, digital twins, and edge AI can be integrat...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=03Xe8O1e49s](https://www.youtube.com/watch?v=03Xe8O1e49s)  
+   Link: <a href="https://www.youtube.com/watch?v=03Xe8O1e49s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=03Xe8O1e49s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Health &amp; PerformanceOur goal is to identify characterize um and prevent mitigate Behavioral Health and performance risk associ...</p></details>

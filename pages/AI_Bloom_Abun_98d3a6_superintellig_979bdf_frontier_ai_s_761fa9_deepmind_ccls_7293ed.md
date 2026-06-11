@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /safety-frameworks/
 nav_short_title: Deep Mind CCLs
 title: Can warning signs catch dangerous AI early?
-title_full: Can warning signs catch dangerous AI early? | Safety Frameworks
+title_full: Can warning signs catch dangerous AI early?
 display_title_short: Deep Mind CCLs
 display_title: Deep Mind CCLs
 heading_title: Can warning signs catch dangerous AI early?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Labs Decide When AI Becomes Too Risky | Control
+date: '2026-06-08 02:20:53'
+parent_title: How Labs Decide When AI Becomes Too Risky
 parent_permalink: /safety-frameworks/
 parent_nav_short_title: Safety Frameworks
 parent_heading_title: How Labs Decide When AI Becomes Too Risky
@@ -266,7 +267,6 @@ next_link:
   permalink: /lab-pressure/
   short_title: Lab pressure
   heading_title: Will voluntary AI safety rules survive competition?
-date: '2026-06-08 02:20:53 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-1.webp
@@ -275,12 +275,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_76
 
 ## Introduction
 
-One of the most concrete mechanisms emerging in [frontier AI]({{ 'safety-frameworks/' | relative_url }}) safety is the use of **Critical Capability Levels (CCLs)** by <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework — Google Deep Mind</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety Framework — Google DeepMindMay 17, 2024...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span> labs like Google DeepMind to act as **early‑warning safety gates** for increasingly capable systems. CCLs are predefined thresholds of capability that, according to DeepMind’s Frontier Safety Framework (FSF), mark when a model could — without strong safeguards in place — pose a **heightened risk of severe harm**. These thresholds serve as internal tripwires: models are evaluated periodically against them, and if an evaluation signals that a model is nearing a CCL, stronger security controls, deployment restrictions, or development pauses are triggered. This approach aims to provide a structured, [anticipatory]({{ 'anticipatory-gov/' | relative_url }}) way for developers to “catch” dangerous capabilities early, long before they are publicly deployed or integrated into critical infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework — Google Deep Mind</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety Framework — Google DeepMindMay 17, 2024...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
-
+One of the most concrete mechanisms emerging in frontier AI safety is the use of **Critical Capability Levels (CCLs)** by <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework — Google Deep Mind</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety Framework — Google DeepMindMay 17, 2024...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span> labs like Google DeepMind to act as **early‑warning safety gates** for increasingly capable systems. CCLs are predefined thresholds of capability that, according to DeepMind’s Frontier Safety Framework (FSF), mark when a model could — without strong safeguards in place — pose a **heightened risk of severe harm**. These thresholds serve as internal tripwires: models are evaluated periodically against them, and if an evaluation signals that a model is nearing a CCL, stronger security controls, deployment restrictions, or development pauses are triggered. This approach aims to provide a structured, anticipatory way for developers to “catch” dangerous capabilities early, long before they are publicly deployed or integrated into critical infrastructure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">Google Deep Mind Introducing the Frontier Safety Framework — Google Deep Mind</span><span class="citation-popover-snippet">Google DeepMindIntroducing the Frontier Safety Framework — Google DeepMindMay 17, 2024...</span><span class="citation-popover-meta">Published: May 17, 2024</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-1-dark.svg" | relative_url }}" alt="Deep Mind CCLs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In the context of **Frontier AI [safety frameworks]({{ 'safety-frameworks/' | relative_url }}) for autonomy and control**, DeepMind’s CCLs represent an attempt to connect the technical progress of AI capabilities with **risk governance actions** — creating measurable, graded thresholds that guide decision‑making during development. From the perspective of the AI Bloom frame, these early‑warning gates are a response to the challenge of harnessing potentially world‑transforming [intelligence]({{ 'intelligence/' | relative_url }}) while retaining **human control and oversight**, ensuring that benefits do not outpace society’s ability to govern emerging risks.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8tu4Ws8O5_4" title="It Begins: AI Models Have Started Forming Alliances Against Us" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8tu4Ws8O5_4" target="_blank" rel="noopener noreferrer">It Begins: AI Models Have Started Forming Alliances Against Us</a></p><p class="youtube-embed-meta">Channel: TERMINUS | The AGI Endgame &middot; Views: 28.5K &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8tu4Ws8O5_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8tu4Ws8O5_4">Open on YouTube</a></p></div></div></div>
 
@@ -293,8 +291,7 @@ Two defining features of CCLs as early‑warning safety gates are:
 * **Domain‑specific thresholds:** CCLs are not generic “[power]({{ 'power/' | relative_url }}) scores” but are scoped to specific domains of risk — such as autonomy, biosecurity, cyberattacks, machine‑learning research acceleration, harmful manipulation or misalignment with operator intentions. Each domain has its own CCLs that map onto the kinds of capability developments that matter for that domain’s risks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: storage.googleapis.com">[Google Cloud Storage]</a><span class="citation-popover" role="note"><span class="citation-popover-source">storage.googleapis.com</span><span class="citation-popover-title">Google Cloud Storage Frontier Safety Framework Yesterday</span><span class="citation-popover-snippet">Google Cloud Storage Frontier Safety Framework Yesterday</span></span></span>
 * **[Early warning]({{ 'early-warning/' | relative_url }}) evaluations:** DeepMind’s framework calls for **periodic evaluations** of frontier models against these CCLs using suites of tests designed to signal whether a model is **approaching** a threshold. These are referred to as “early warning evaluations” and are intended to give teams notice *before* a full‑blown CCL is reached. The frequency and timing of these evaluations — for example tied to increases in compute or changes in fine‑tuning — are structured so that there is a **buffer zone** between detection and threshold crossing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ai-safety-atlas.com">[AI Safety Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ai-safety-atlas.com</span><span class="citation-popover-title">AI Safety Atlas Evaluation Frameworks</span><span class="citation-popover-snippet">AI Safety AtlasEvaluation Frameworks - Chapter 5 - AI Safety Atlas...</span></span></span>
 
-This design aims to prevent “end‑of‑pipeline” surprises by embedding checks into the development lifecycle itself. In effect, CCLs act like **guardrails**: if a model starts to look as though it could meaningfully implement certain autonomous behaviours, generate effective cyber‑attack code, or substantially accelerate AI research without controls, the evaluation flags this in time to adjust the development plan or impose mitigations.
-
+This design aims to prevent “end‑of‑pipeline” surprises by embedding checks into the development lifecycle itself. In effect, CCLs act like **[guardrails]({{ 'guardrails/' | relative_url }})**: if a model starts to look as though it could meaningfully implement certain autonomous behaviours, generate effective cyber‑attack code, or substantially accelerate AI research without controls, the evaluation flags this in time to adjust the development plan or impose mitigations.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6e_LgAu_QIw" title="How Google DeepMind Tests AI Before It Goes Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer">How Google DeepMind Tests AI Before It Goes Wrong</a></p><p class="youtube-embed-meta">Channel: CNBC International &middot; Views: 4.4K &middot; Uploaded: January 2026 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6e_LgAu_QIw">Open on YouTube</a></p></div></div></div>
 
@@ -312,31 +309,28 @@ The importance of these buffers can be understood in three ways:
 
 In these ways, CCL‑based gating recognises that we may not be able to predict every harmful outcome in advance, but we *can* monitor specific capability vectors and impose controls before conditions worsen.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-2-dark.svg" | relative_url }}" alt="Deep Mind CCLs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Voluntary Warning Systems May Fall Short
 
-While DeepMind’s CCLs represent a more systematic approach than ad‑hoc safety judgements, they also have limitations worth understanding in the broader context of frontier AI governance.
+While DeepMind’s CCLs represent a more systematic approach than ad‑hoc safety judgements, they also have limitations worth understanding in the broader context of frontier [AI governance]({{ 'ai-governance/' | relative_url }}).
 
 **Uncertainty in Capability‑to‑Risk Mapping:** Defining what minimal combination of capabilities constitutes a real risk is inherently speculative. Critics point out that there may be **multiple different capability configurations** that could result in similar harms, some of which might not be captured by the predefined CCL tests. DeepMind’s framework itself admits that CCLs evolve as understanding improves. A narrow focus on certain domains could miss other harm vectors not yet well modelled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://intelligence.org/2025/04/09/existing-safety-frameworks-imply-unreasonable-confidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: intelligence.org">[Machine Intelligence Research Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">intelligence.org</span><span class="citation-popover-snippet">Machine Intelligence Research InstituteExisting Safety Frameworks Imply Unreasonable Confidence - Machine Intelligence Research Institute...</span></span></span>
 
-**[Predictive]({{ 'failure-warnings/' | relative_url }}) Limits:** Early warning evaluations assume that models exhibiting partial or near‑threshold behaviours are a reliable indicator of future risk. But because modern AI systems can surprise researchers with unexpected combinations of skills, CCLs may under‑ or over‑estimate real risk in some cases.
+**Predictive Limits:** Early warning evaluations assume that models exhibiting partial or near‑threshold behaviours are a reliable indicator of future risk. But because modern AI systems can surprise researchers with unexpected combinations of skills, CCLs may under‑ or over‑estimate real risk in some cases.
 
-**Voluntary Adoption and Comparability:** As a **voluntary, lab‑internal policy**, CCLs lack external enforcement and standardisation. Different organisations may define thresholds differently or evaluate at divergent intervals, making **collective risk governance** harder. Although DeepMind has shared its framework publicly in hopes of standardising practice, adoption outside a few labs remains uneven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">google deepmind frontier safety framework</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryGoogle DeepMind Frontier Safety Framework (International, 2026): | AI Safety DirectoryMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+**Voluntary Adoption and Comparability:** As a **voluntary, lab‑internal policy**, CCLs lack external enforcement and standardisation. Different organisations may define thresholds differently or evaluate at divergent intervals, making **collective risk governance** harder. Although DeepMind has shared its framework publicly in hopes of standardising practice, adoption outside a few labs remains uneven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aisecurityandsafety.org">[AI Security &amp; Safety Directory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aisecurityandsafety.org</span><span class="citation-popover-title">google deepmind frontier safety framework</span><span class="citation-popover-snippet">AI Security &amp; Safety DirectoryGoogle DeepMind Frontier Safety Framework (International, 2026): &#124; AI Safety DirectoryMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
 **Focus on Capability Rather Than Motivation or Deployment Context:** CCLs primarily evaluate *what a model could do*, not *how it will be used* or *how intentions behind deployment could shape outcomes*. This means that even models below certain CCLs could be misused in harmful ways if combined with human intent or operational settings not covered by the classifications.
 
 Despite these caveats, CCLs are significant because they formalise for the first time how a leading frontier lab tries to **translate technical capability growth into structured safety decisions**, tying model evaluations directly to governance actions rather than relying solely on judgement calls at the end of development.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ToYhh_jU9n0" title="A Crash Course on AI Standards with Google DeepMind&#x27;s Owen Larter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ToYhh_jU9n0" target="_blank" rel="noopener noreferrer">A Crash Course on AI Standards with Google DeepMind&#x27;s Owen Larter</a></p><p class="youtube-embed-meta">Channel: Center for Strategic &amp; International Studies &middot; Views: 1.4K &middot; Uploaded: March 2026 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ToYhh_jU9n0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ToYhh_jU9n0">Open on YouTube</a></p></div></div></div>
 
 ## CCLs and the Broader AI Bloom Question
 
-From the perspective of humanity’s long‑term future, early warning safety gates like CCLs are a response to the tension between **transformative potential and systemic risk**. Advanced AI holds enormous promise — accelerating science, solving complex global problems and enhancing human capabilities — but that promise is tied to systems whose capabilities could outstrip our ability to control them.
+From the perspective of humanity’s long‑term future, early warning safety gates like CCLs are a response to the tension between **transformative potential and systemic risk**. Advanced AI holds enormous promise — accelerating science, solving complex global problems and enhancing human capabilities — but that promise is tied to systems whose capabilities could outstrip our ability to [control]({{ 'control/' | relative_url }}) them.
 
 CCLs attempt to bridge that gap by embedding **anticipatory checks and mitigations** into the development lifecycle of frontier models. They do not guarantee safety, nor are they a complete solution to alignment challenges, but they represent an **operational attempt to keep powerful capabilities on a trajectory where benefits can be realised while risks remain manageable**. In doing so, they align with a central question of the AI Bloom project: how to reap the transformative benefits of AI while preserving human direction, agency and governance over powerful technologies.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-3-dark.svg" | relative_url }}" alt="Deep Mind CCLs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9_deepmind_ccls_7293ed-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -737,65 +731,65 @@ CCLs attempt to bridge that gap by embedding **anticipatory checks and mitigatio
 1. <a id="endnote-1"></a>
    Source: deepmind.google  
    Title: Google Deep Mind Introducing the Frontier Safety Framework — Google Deep Mind  
-   Link: [https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/](https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/discover/blog/introducing-the-frontier-safety-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindIntroducing the Frontier Safety Framework — Google DeepMindMay 17, 2024...</p></details>
    Published: May 17, 2024  
 
 2. <a id="endnote-2"></a>
    Source: ai-safety-atlas.com  
    Title: AI Safety Atlas Evaluation Frameworks  
-   Link: [https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/](https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/)  
+   Link: <a href="https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/" target="_blank" rel="noopener noreferrer nofollow">https://ai-safety-atlas.com/chapters/v1/evaluations/evaluation-frameworks/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety AtlasEvaluation Frameworks - Chapter 5 - AI Safety Atlas...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: intelligence.org  
-   Link: [https://intelligence.org/2025/04/09/existing-safety-frameworks-imply-unreasonable-confidence/](https://intelligence.org/2025/04/09/existing-safety-frameworks-imply-unreasonable-confidence/)  
+   Link: <a href="https://intelligence.org/2025/04/09/existing-safety-frameworks-imply-unreasonable-confidence/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2025/04/09/existing-safety-frameworks-imply-unreasonable-confidence/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Intelligence Research InstituteExisting Safety Frameworks Imply Unreasonable Confidence - Machine Intelligence Research Institute...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: deepmind.google  
    Title: Google Deep Mind strengthens the Frontier Safety Framework — Google Deep Mind  
-   Link: [https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/](https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/discover/blog/strengthening-our-frontier-safety-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind strengthens the Frontier Safety Framework — Google DeepMindSeptember 22, 2025 — September 22, 2025 Responsibility &amp; Safet...</p></details>
    Published: September 22, 2025  
 
 5. <a id="endnote-5"></a>
    Source: deepmind.google  
    Title: Updating the Frontier Safety Framework — Google Deep Mind  
-   Link: [https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/](https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/)  
+   Link: <a href="https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/discover/blog/updating-the-frontier-safety-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updating the Frontier Safety Framework — Google DeepMindFebruary 4, 2025 — February 4, 2025 Responsibility &amp; Safety UPDATING THE FRONTIER...</p></details>
    Published: February 4, 2025  
 
 6. <a id="endnote-6"></a>
    Source: deepmind.google  
    Title: evaluating frontier models for dangerous capabilities  
-   Link: [https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/](https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/)  
+   Link: <a href="https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/research/publications/evaluating-frontier-models-for-dangerous-capabilities/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMarch 21, 2024 — March 21, 2024 EVALUATING FRONTIER MODELS FOR DANGEROUS CAPABILITIES View publication Download ABSTRACT T...</p></details>
    Published: March 21, 2024  
 
 7. <a id="endnote-7"></a>
    Source: storage.googleapis.com  
    Title: Google Cloud Storage Frontier Safety Framework Yesterday  
-   Link: [https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf)  
+   Link: <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/introducing-the-frontier-safety-framework/fsf-technical-report.pdf</a>  
 
 8. <a id="endnote-8"></a>
    Source: storage.googleapis.com  
    Title: frontier safety framework 3 1  
-   Link: [https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3-1.pdf](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3-1.pdf)  
+   Link: <a href="https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3-1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Cloud StorageFrontier Safety Framework 3.1May 16, 2026...</p></details>
    Published: May 16, 2026  
 
 9. <a id="endnote-9"></a>
    Source: aisecurityandsafety.org  
    Title: google deepmind frontier safety framework  
-   Link: [https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/](https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/en/frameworks/google-deepmind-frontier-safety-framework/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Security &amp; Safety DirectoryGoogle DeepMind Frontier Safety Framework (International, 2026): | AI Safety DirectoryMarch 10, 2026...</p></details>
    Published: March 10, 2026  
 
 10. <a id="endnote-10"></a>
    Source: aisecurityandsafety.org  
    Title: google deepmind frontier safety framework  
-   Link: [https://aisecurityandsafety.org/frameworks/google-deepmind-frontier-safety-framework/](https://aisecurityandsafety.org/frameworks/google-deepmind-frontier-safety-framework/)  
+   Link: <a href="https://aisecurityandsafety.org/frameworks/google-deepmind-frontier-safety-framework/" target="_blank" rel="noopener noreferrer nofollow">https://aisecurityandsafety.org/frameworks/google-deepmind-frontier-safety-framework/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(International, 2026): | AI Safety DirectoryMarch 10, 2026 — GOOGLE DEEPMIND FRONTIER SAFETY FRAMEWORK best practice active Last updated...</p></details>
    Published: March 10, 2026  
 
@@ -803,60 +797,60 @@ CCLs attempt to bridge that gap by embedding **anticipatory checks and mitigatio
 
 11. <a id="endnote-11"></a>
    Source: metr.org  
-   Link: [https://metr.org/common-elements](https://metr.org/common-elements)  
+   Link: <a href="https://metr.org/common-elements" target="_blank" rel="noopener noreferrer nofollow">https://metr.org/common-elements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Common Elements of Frontier AI Safety Policies - METRDecember 16, 2025 — CAPABILITY THRESHOLDS Descriptions of AI capability levels which...</p></details>
    Published: December 16, 2025  
 
 12. <a id="endnote-12"></a>
    Source: arstechnica.com  
    Title: Deep Mind AI safety report explores the perils of “misaligned” AI  
-   Link: [https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/](https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/)  
+   Link: <a href="https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/google/2025/09/deepmind-ai-safety-report-explores-the-perils-of-misaligned-ai/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DEEPMIND AI SAFETY REPORT EXPLORES THE PERILS OF “MISALIGNED” AI DeepMind releases version 3.0 of its AI Frontier Safety Framework with n...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/868635487/Fsf-Technical-Report](https://www.scribd.com/document/868635487/Fsf-Technical-Report)  
+   Link: <a href="https://www.scribd.com/document/868635487/Fsf-Technical-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/868635487/Fsf-Technical-Report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRITICAL CAPABILITY LEVELS: The Framework is built around capability thresholds called “Critical Capability Levels.” These are capability...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: lesswrong.com  
    Title: Deep Mind: Frontier Safety Framework — Less Wrong  
-   Link: [https://www.lesswrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework](https://www.lesswrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework)  
+   Link: <a href="https://www.lesswrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.lesswrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind: Frontier Safety Framework — LessWrongMay 17, 2024 — DeepMind: Frontier Safety Framework 3 min read • Excerpt AIFrontpage 64 DEE...</p></details>
    Published: May 17, 2024  
 
 15. <a id="endnote-15"></a>
    Source: greaterwrong.com  
    Title: Deep Mind: Frontier Safety Framework  
-   Link: [https://www.greaterwrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework](https://www.greaterwrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework)  
+   Link: <a href="https://www.greaterwrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.greaterwrong.com/posts/AFQt6uByLYNrNgyBb/deepmind-frontier-safety-framework</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind: Frontier Safety Framework - LessWrong 2.0 viewerMay 17, 2024 — EXCERPT &gt; Today, we are introducing our Frontier Safety Framewor...</p></details>
    Published: May 17, 2024  
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=nbnTvNEumZI](https://www.youtube.com/watch?v=nbnTvNEumZI)  
+   Link: <a href="https://www.youtube.com/watch?v=nbnTvNEumZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nbnTvNEumZI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It Begins: AI Models Have Started Forming Alliances Against Us...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: A Crash Course on AI Standards with Google Deep Mind's Owen Larter  
-   Link: [https://www.youtube.com/watch?v=ToYhh_jU9n0](https://www.youtube.com/watch?v=ToYhh_jU9n0)  
+   Link: <a href="https://www.youtube.com/watch?v=ToYhh_jU9n0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToYhh_jU9n0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutorial on AI Alignment (part 1 of 2): Safety Vulnerabilities of Current Frontier Models...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: It Begins: AI Models Have Started Forming Alliances Against Us  
-   Link: [https://www.youtube.com/watch?v=8tu4Ws8O5_4](https://www.youtube.com/watch?v=8tu4Ws8O5_4)  
+   Link: <a href="https://www.youtube.com/watch?v=8tu4Ws8O5_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8tu4Ws8O5_4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind frontier safety | Mary Phuong | EAG London: 2024...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: The Risks That Really Worry Deep Mind — And How They Test  
-   Link: [https://www.youtube.com/watch?v=6e_LgAu_QIw](https://www.youtube.com/watch?v=6e_LgAu_QIw)  
+   Link: <a href="https://www.youtube.com/watch?v=6e_LgAu_QIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6e_LgAu_QIw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Crash Course on AI Standards with Google DeepMind&#x27;s Owen Larter...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: agora.eto.tech  
-   Link: [https://agora.eto.tech/instrument/2040](https://agora.eto.tech/instrument/2040)  
+   Link: <a href="https://agora.eto.tech/instrument/2040" target="_blank" rel="noopener noreferrer nofollow">https://agora.eto.tech/instrument/2040</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind Frontier Safety Framework Version 2.0 – ETO AGORAFebruary 4, 2025 — GOOGLE DEEPMIND FRONTIER SAFETY FRAMEWORK VERSION 2.0 Propos...</p></details>
-   Published: February 4, 2025  
+   Published: February 4, 2025

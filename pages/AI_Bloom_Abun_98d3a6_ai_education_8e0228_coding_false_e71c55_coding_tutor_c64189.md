@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /false-mastery/
 nav_short_title: Guardrails
 title: Can guardrails stop AI answer copying?
-title_full: Can guardrails stop AI answer copying? | False Mastery
+title_full: Can guardrails stop AI answer copying?
 display_title_short: Guardrails
 display_title: Guardrails
 heading_title: Can guardrails stop AI answer copying?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Does Chat GPT help coders learn or coast? | Education
+date: '2026-06-08 01:37:54'
+parent_title: Does Chat GPT help coders learn or coast?
 parent_permalink: /false-mastery/
 parent_nav_short_title: False Mastery
 parent_heading_title: Does Chat GPT help coders learn or coast?
@@ -266,7 +267,6 @@ next_link:
   permalink: /working-code/
   short_title: Working code
   heading_title: Why working code can fool learners
-date: '2026-06-08 01:37:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-1.webp
@@ -275,29 +275,26 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c
 
 ## Introduction
 
-As generative models like ChatGPT become common helpers in introductory coding courses and online learning, educators and researchers are increasingly focused on a core question: **can AI be shaped to support real learning rather than just deliver answers?** Without careful design, these systems can encourage students to copy [working code]({{ 'working-code/' | relative_url }}) without understanding the concepts behind it. That risk — often framed as *[false mastery]({{ 'false-mastery/' | relative_url }})* — arises when learners complete tasks using AI‑provided solutions but fail to build durable problem‑solving skills. Contemporary research suggests that well‑designed *guardrails* — structural, behavioural, and pedagogical constraints — can redirect these powerful tools from answer machines into genuine tutors that provoke reflection, hint at reasoning processes, and support independent thinking. Here we explore how such guardrails function, what forms they take, and why they matter in turning ChatGPT‑style assistants into effective coding tutors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">ScienceStackSocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
-
+As generative models like ChatGPT become common helpers in introductory coding courses and online learning, educators and researchers are increasingly focused on a core question: **can AI be shaped to support real learning rather than just deliver answers?** Without careful design, these systems can encourage students to copy [working code]({{ 'working-code/' | relative_url }}) without understanding the concepts behind it. That risk — often framed as *[false mastery]({{ 'false-mastery/' | relative_url }})* — arises when learners complete tasks using AI‑provided solutions but fail to build durable problem‑solving skills. Contemporary research suggests that well‑designed *guardrails* — structural, behavioural, and pedagogical constraints — can redirect these powerful tools from answer machines into genuine tutors that provoke reflection, hint at reasoning processes, and support independent thinking. Here we explore how such guardrails function, what forms they take, and why they matter in turning ChatGPT‑style assistants into effective coding tutors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-1-dark.svg" | relative_url }}" alt="Guardrails illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Guardrails Changed in Tutoring Research
 
-The growing literature on AI in programming [education]({{ 'education/' | relative_url }}) makes a clear distinction between unconstrained code generation and *guided* AI support. A recent system called **SocraticAI** illustrates this shift: rather than allowing open‑ended solution requests, it enforces structured dialogue, limits on daily queries, and requirements for students to reflect on their own thinking before the model answers. In early deployments in undergraduate computer science classes, students began with vague requests but, after a few weeks under these constraints, moved toward more sophisticated problem decomposition and self‑questioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">ScienceStackSocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
+The growing literature on AI in programming [education]({{ 'education/' | relative_url }}) makes a clear distinction between unconstrained code generation and *guided* AI support. A recent system called **SocraticAI** illustrates this shift: rather than allowing open‑ended solution requests, it enforces structured dialogue, limits on daily queries, and requirements for students to reflect on their own thinking before the model answers. In early deployments in undergraduate computer science classes, students began with vague requests but, after a few weeks under these constraints, moved toward more sophisticated problem decomposition and self‑questioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
 
 Another line of enquiry has emerged from participatory design with beginners. In work on **SocratiCode**, researchers iteratively refined an adaptive tutor for K‑12 learners by reducing directive solutions and instead embedding *guided questions, reflection prompts, misconception checks, incremental hints*, and enforced pauses for learner input. Participants appeared more engaged in problem‑solving as the system moved further from direct answer delivery toward dialogue resembling tutor‑student interaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.cool/arxiv/2605.17857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.cool">[Cool Papers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.cool</span><span class="citation-popover-snippet">Cool PapersTowards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design...</span></span></span>
 
 These designs reflect a broader consensus from computational‑learning research: guardrails are not merely technical filters or policy rules but **pedagogical scaffolds** — structured interactions that reshape how learners use AI. Research on generative AI in computation education stresses that when AI “answers directly,” students can fall into passive use modes that bypass the mental effort central to coding skill development. Conversely, systems that intentionally *avoid direct solutions*, instead prompting learners to explain, hypothesise, and debug, are more aligned with active learning goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X26000706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectGenerative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines -...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Erxh0dx4nts" title="This AI Taught Me Calculus in 5 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Erxh0dx4nts" target="_blank" rel="noopener noreferrer">This AI Taught Me Calculus in 5 Minutes</a></p><p class="youtube-embed-meta">Channel: Siraj Raval &middot; Views: 160.1K &middot; Uploaded: February 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Erxh0dx4nts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Erxh0dx4nts">Open on YouTube</a></p></div></div></div>
 
 ## Socratic Hints, Code Tracing, and Delayed Answers
 
-A central theme in guardrail research is the *Socratic method*: guiding learners through questions that prompt them to articulate reasoning and detect errors themselves. In studies comparing generative AI that uses structured questioning versus direct answer giving, learners exposed to Socratic prompts showed better engagement with problem structure and reported clearer conceptual understanding than their peers receiving unfiltered solutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scilove.app/article/10.1002/jcal.70210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scilove.app">[SciLove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scilove.app</span><span class="citation-popover-snippet">SciLoveWhen Generative AI Meets Socratic Method: Investigating Programming Learning Dynamics Through Behaviours, Interaction Qualities an...</span></span></span>
+A central theme in guardrail research is the *Socratic method*: guiding learners through questions that prompt them to articulate reasoning and detect errors themselves. In studies comparing generative AI that uses structured questioning versus direct answer giving, learners exposed to Socratic prompts showed better engagement with problem structure and reported clearer conceptual understanding than their peers receiving unfiltered solutions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scilove.app/article/10.1002/jcal.70210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scilove.app">[SciLove]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scilove.app</span><span class="citation-popover-snippet">When Generative AI Meets Socratic Method: Investigating Programming Learning Dynamics Through Behaviours, Interaction Qualities an...</span></span></span>
 
-This approach complements traditional [cognitive]({{ 'broad-access/' | relative_url }}) techniques such as **code tracing** — stepping through the execution of a program to predict output and uncover bugs. Classic tutoring research has shown that scaffolding assistance at key moments in code tracing helps learners build stronger mental models. When applied to AI systems, guardrails that deliver incremental hints about code behaviour rather than whole solutions encourage the same process, helping learners practise the deduction and [verification]({{ 'verification/' | relative_url }}) skills foundational to programming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X26000706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectGenerative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines -...</span></span></span>
+This approach complements traditional cognitive techniques such as **code tracing** — stepping through the execution of a program to predict output and uncover bugs. Classic tutoring research has shown that scaffolding assistance at key moments in code tracing helps learners build stronger mental models. When applied to AI systems, guardrails that deliver incremental hints about code behaviour rather than whole solutions encourage the same process, helping learners practise the deduction and [verification]({{ 'verification/' | relative_url }}) skills foundational to programming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666920X26000706" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectGenerative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines -...</span></span></span>
 
-Delaying answers or providing them only after learners have articulated their own hypotheses is another key guardrail. Versions of GPT‑based math tutoring that include explicit instructions to *avoid giving away the answer* and instead offer step‑by‑step guided reasoning have been shown to mitigate the “crutch” effect — where students lean on the model rather than grapple with the task. Although that work focuses on mathematics, the mechanism — delaying full solutions until students exhibit engagement — is directly relevant to programming education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJuly 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
-
+Delaying answers or providing them only after learners have articulated their own hypotheses is another key guardrail. Versions of GPT‑based math tutoring that include explicit instructions to *avoid giving away the answer* and instead offer step‑by‑step guided reasoning have been shown to mitigate the “crutch” effect — where students lean on the model rather than grapple with the task. Although that work focuses on mathematics, the mechanism — delaying full solutions until students exhibit engagement — is directly relevant to programming education. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">July 1, 2025...</span><span class="citation-popover-meta">Published: July 1, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-2-dark.svg" | relative_url }}" alt="Guardrails illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Coding Courses Could Test Real Independence
@@ -310,16 +307,13 @@ Guardrails not only change how AI responds but also how courses assess student i
 
 Together, these approaches shift assessment from a binary correctness paradigm toward a richer picture of competence — where students must demonstrate internalisation of concepts and not just external [validation]({{ 'validation/' | relative_url }}) by an AI engine.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RYd30mc8vmg" title="Build Your Own ChatGPT: Input and Output Guardrails | Advanced RAG Series #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RYd30mc8vmg" target="_blank" rel="noopener noreferrer">Build Your Own ChatGPT: Input and Output Guardrails | Advanced RAG Series #6</a></p><p class="youtube-embed-meta">Channel: Coding Adda &middot; Views: 858 &middot; Uploaded: February 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RYd30mc8vmg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RYd30mc8vmg">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TPLPpz6dD3A" title="Oxford Researchers Discovered How to Use AI To Learn Like A Genius" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TPLPpz6dD3A" target="_blank" rel="noopener noreferrer">Oxford Researchers Discovered How to Use AI To Learn Like A Genius</a></p><p class="youtube-embed-meta">Channel: Python Programmer &middot; Views: 321.4K &middot; Uploaded: January 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TPLPpz6dD3A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TPLPpz6dD3A">Open on YouTube</a></p></div></div></div>
 
 ## Summary
 
-Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers or prompt templates — they are **pedagogical frameworks** that reshape the learner‑AI interaction toward reflection, hypothesis testing, and guided problem solving. Through structured questioning, delayed answers, scaffolded hints, and assessment practices that focus on deep engagement rather than output, guardrails can help avoid the false mastery trap where students *produce functioning code* without genuine understanding. Early research like SocraticAI and adaptive studies such as SocratiCode points toward designs that uphold educational integrity while harnessing AI’s potential to broaden access to programming knowledge. This contributes to the broader *AI Bloom* vision by empowering learners to build authentic capability rather than superficial performance, helping cultivate a generation of programmers who can leverage — rather than be overshadowed by — powerful AI tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">ScienceStackSocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
-
+Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers or prompt templates — they are **pedagogical frameworks** that reshape the learner‑AI interaction toward reflection, hypothesis testing, and guided problem solving. Through structured questioning, delayed answers, scaffolded hints, and assessment practices that focus on deep engagement rather than output, guardrails can help avoid the false mastery trap where students *produce functioning code* without genuine understanding. Early research like SocraticAI and adaptive studies such as SocratiCode points toward designs that uphold educational integrity while harnessing AI’s potential to broaden access to programming knowledge. This contributes to the broader *AI Bloom* vision by empowering learners to build authentic capability rather than superficial performance, helping cultivate a generation of programmers who can leverage — rather than be overshadowed by — powerful AI tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencestack.ai">[ScienceStack]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencestack.ai</span><span class="citation-popover-snippet">SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-3-dark.svg" | relative_url }}" alt="Guardrails illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55_coding_tutor_c64189-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -335,14 +329,31 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AI Classroom on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=femd0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The AI Classroom" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AI Classroom">The AI Classroom</a>
+        </h4>
+        <p class="fr-book-author">By Dan Fitzpatrick, Amanda Fox et al.</p>
+        
+        <p class="fr-book-desc">Directly addresses how AI tools can be structured to support learning.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+AI+Classroom+by+Dan+Fitzpatrick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
         </h4>
         <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Explains why delayed answers, retrieval and effortful practice are better for learning than instant solutions.</p>
+        <p class="fr-book-desc">Supports the case for guardrails, retrieval practice and guided learning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -359,7 +370,7 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
         </h4>
         <p class="fr-book-author">By V. Anton Spraul</p>
         
-        <p class="fr-book-desc">Emphasises problem decomposition and independent reasoning, the skills guardrails are meant to protect.</p>
+        <p class="fr-book-desc">Reinforces independent problem decomposition and reasoning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Think+Like+a+Programmer+by+V.+Anton+Spraul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -369,33 +380,16 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Learning Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6nGaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for How Learning Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pragmatic Programmer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5wBQEp6ruIAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Pragmatic Programmer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Learning Works">How Learning Works</a>
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pragmatic Programmer">The Pragmatic Programmer</a>
         </h4>
-        <p class="fr-book-author">By Susan A. Ambrose, Michael W. Bridges et al.</p>
-        
-        <p class="fr-book-desc">Provides teaching principles relevant to Socratic hints, scaffolding and assessing real independence.</p>
+        <p class="fr-book-author">By Andrew Hunt, David Thomas</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 7 Google Books ratings</p>
+        <p class="fr-book-desc">Emphasises thinking, debugging and judgement rather than answer-copying.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Learning+Works+by+Susan+A.+Ambrose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Programmer&#x27;s Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnk8EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Programmer&#x27;s Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Programmer&#x27;s Brain">The Programmer&#x27;s Brain</a>
-        </h4>
-        <p class="fr-book-author">By Felienne Hermans</p>
-        
-        <p class="fr-book-desc">Supports the argument that coding tutors should build mental models rather than provide answer-copying shortcuts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Programmer%27s+Brain+by+Felienne+Hermans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Pragmatic+Programmer+by+Andrew+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -403,7 +397,7 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Learning+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Learning Works</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AI+Classroom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AI Classroom</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Think+Like+a+Programmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Think Like a Programmer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -440,15 +434,15 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Hate Programming - It Works! - I Love Programming - Coding Mug"><img src="{{ '/assets/images/marketplace-covers/baf810c325ece9397c4c.jpg' | relative_url }}" alt="Listing image for I Hate Programming - It Works! - I Love Programming - Coding Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clementoni RoboMaker Coding Lab Educational Robot Kit Bluetooth STEM Toy 8+ NEW"><img src="https://i.ebayimg.com/images/g/WhMAAeSwG4ppyqFk/s-l225.jpg" alt="Listing image for Clementoni RoboMaker Coding Lab Educational Robot Kit Bluetooth STEM Toy 8+ NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer">I Hate Programming - It Works! - I Love Programming - Coding Mug</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Clementoni RoboMaker Coding Lab Educational Robot Kit Bluetooth STEM Toy 8+ NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for programming mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: programming mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -456,15 +450,15 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I&#x27;d Rather Be Programming Mug"><img src="{{ '/assets/images/marketplace-covers/d333a9ed7f88d83c385c.jpg' | relative_url }}" alt="Listing image for I&#x27;d Rather Be Programming Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4WD ESP32 Robot Car Kit WiFi Camera Smart Coding Learning for Arduino"><img src="https://i.ebayimg.com/images/g/JgQAAeSwlcZp01th/s-l225.jpg" alt="Listing image for 4WD ESP32 Robot Car Kit WiFi Camera Smart Coding Learning for Arduino" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer">I&#x27;d Rather Be Programming Mug</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">4WD ESP32 Robot Car Kit WiFi Camera Smart Coding Learning for Arduino</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for programming mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: programming mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -472,15 +466,15 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Hate Programming Funny Coffee Mug Tea Cup"><img src="{{ '/assets/images/marketplace-covers/a95e245c3da5d10e51aa.jpg' | relative_url }}" alt="Listing image for I Hate Programming Funny Coffee Mug Tea Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW"><img src="https://i.ebayimg.com/images/g/THcAAOSwyJZnnOUe/s-l225.jpg" alt="Listing image for Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer">I Hate Programming Funny Coffee Mug Tea Cup</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Binarybots Build and Code Your Own Robot Kit UFO STEM Toy- NEW</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for programming mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: programming mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -488,15 +482,15 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Programming coffee mug, talk about programming mug, funny mug quotes"><img src="{{ '/assets/images/marketplace-covers/513b91b820192954b10f.jpg' | relative_url }}" alt="Listing image for Programming coffee mug, talk about programming mug, funny mug quotes" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build"><img src="https://i.ebayimg.com/images/g/exsAAeSwZLZpxZs2/s-l225.jpg" alt="Listing image for Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer">Programming coffee mug, talk about programming mug, funny mug quotes</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot Ranger 3 in 1 Robot Toys, Coding Robot Kit STEM Educational Build</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for programming mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: programming mug</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coding robot kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: coding robot kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -504,7 +498,7 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=programming+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="programming mug" data-ebay-reference="guardrails-can-guardrails-stop-ai-answer-copying-ai-bloom-abundance-superintelligence-and-humani-programming-mug" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coding+robot+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-guardrails-stop-ai-answer-copying-coding-robot-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="coding robot kit" data-ebay-reference="can-guardrails-stop-ai-answer-copying-coding-robot-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -719,116 +713,116 @@ Guardrails that turn ChatGPT into a coding tutor are more than safety wrappers o
 
 1. <a id="endnote-1"></a>
    Source: sciencestack.ai  
-   Link: [https://www.sciencestack.ai/paper/2512.03501](https://www.sciencestack.ai/paper/2512.03501)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceStackSocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</p></details>
+   Link: <a href="https://www.sciencestack.ai/paper/2512.03501" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencestack.ai/paper/2512.03501</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SocraticAI: Transforming LLMs into Guided CS Tutors Through Scaffolded Interaction (arXiv:2512.03501v1) - ScienceStackDecembe...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: papers.cool  
-   Link: [https://papers.cool/arxiv/2605.17857](https://papers.cool/arxiv/2605.17857)  
+   Link: <a href="https://papers.cool/arxiv/2605.17857" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2605.17857</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool PapersTowards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666920X26000706](https://www.sciencedirect.com/science/article/pii/S2666920X26000706)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666920X26000706" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X26000706</a>  
 
 4. <a id="endnote-4"></a>
    Source: scilove.app  
-   Link: [https://www.scilove.app/article/10.1002/jcal.70210](https://www.scilove.app/article/10.1002/jcal.70210)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SciLoveWhen Generative AI Meets Socratic Method: Investigating Programming Learning Dynamics Through Behaviours, Interaction Qualities an...</p></details>
+   Link: <a href="https://www.scilove.app/article/10.1002/jcal.70210" target="_blank" rel="noopener noreferrer nofollow">https://www.scilove.app/article/10.1002/jcal.70210</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Generative AI Meets Socratic Method: Investigating Programming Learning Dynamics Through Behaviours, Interaction Qualities an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1560429226001861](https://www.sciencedirect.com/science/article/pii/S1560429226001861)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectWhen Does Scaffolding Provide Too Much Assistance? A Code-Tracing Tutor Investigation - ScienceDirect...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1560429226001861" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1560429226001861</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Does Scaffolding Provide Too Much Assistance? A Code-Tracing Tutor Investigation - ScienceDirect...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCJuly 1, 2025...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12232635/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2025...</p></details>
    Published: July 1, 2025  
 
 7. <a id="endnote-7"></a>
    Source: papers.cool  
    Title: Do Agent Rules Shape or Distort?  
-   Link: [https://papers.cool/arxiv/2604.11088](https://papers.cool/arxiv/2604.11088)  
+   Link: <a href="https://papers.cool/arxiv/2604.11088" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2604.11088</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guardrails Beat Guidance in Coding Agents | Cool Papers - Immersive Paper DiscoveryApril 13, 2026 — 2604.11088 Total: 1 #1 DO AGENT RULES...</p></details>
    Published: April 13, 2026  
 
 8. <a id="endnote-8"></a>
    Source: papers.cool  
    Title: S. Santos, Marcos Zampieri  
-   Link: [https://papers.cool/arxiv/2602.02509](https://papers.cool/arxiv/2602.02509)  
+   Link: <a href="https://papers.cool/arxiv/2602.02509" target="_blank" rel="noopener noreferrer nofollow">https://papers.cool/arxiv/2602.02509</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CodeGuard: Improving LLM Guardrails in CS Education | Cool Papers - Immersive Paper DiscoveryJanuary 22, 2026 — 2602.02509 Total: 1 #1 CO...</p></details>
    Published: January 22, 2026  
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666920X24001127](https://www.sciencedirect.com/science/article/pii/S2666920X24001127)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666920X24001127" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666920X24001127</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing python learning with PyTutor: Efficacy of a ChatGPT-Based intelligent tutoring system in programming education - ScienceDirectC...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1877050921024984](https://www.sciencedirect.com/science/article/pii/S1877050921024984)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectPROCEDIA COMPUTER SCIENCE Volume 198, 2022, Pages 391-396 COMPARATIVE STUDY BETWEEN AUTOMATIC HINT GENERATION APPROACHES IN...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1877050921024984" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1877050921024984</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PROCEDIA COMPUTER SCIENCE Volume 198, 2022, Pages 391-396 COMPARATIVE STUDY BETWEEN AUTOMATIC HINT GENERATION APPROACHES IN...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: scale.stanford.edu  
-   Link: [https://scale.stanford.edu/genai/repository/exploring-student-behaviors-and-motivations-when-using-ai-teaching-assistants](https://scale.stanford.edu/genai/repository/exploring-student-behaviors-and-motivations-when-using-ai-teaching-assistants)  
+   Link: <a href="https://scale.stanford.edu/genai/repository/exploring-student-behaviors-and-motivations-when-using-ai-teaching-assistants" target="_blank" rel="noopener noreferrer nofollow">https://scale.stanford.edu/genai/repository/exploring-student-behaviors-and-motivations-when-using-ai-teaching-assistants</a>  
 
 12. <a id="endnote-12"></a>
    Source: scale.stanford.edu  
-   Link: [https://scale.stanford.edu/ai/repository/automating-human-tutor-style-programming-feedback-leveraging-gpt-4-tutor-model-hint](https://scale.stanford.edu/ai/repository/automating-human-tutor-style-programming-feedback-leveraging-gpt-4-tutor-model-hint)  
+   Link: <a href="https://scale.stanford.edu/ai/repository/automating-human-tutor-style-programming-feedback-leveraging-gpt-4-tutor-model-hint" target="_blank" rel="noopener noreferrer nofollow">https://scale.stanford.edu/ai/repository/automating-human-tutor-style-programming-feedback-leveraging-gpt-4-tutor-model-hint</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[Human Tutor](&amp;#123;&amp;#123; &#x27;human-role/&#x27; | relative_url &amp;#125;&amp;#125;)-Style Programming Feedback: Leveraging GPT-4 Tutor Model for Hint Generation and GPT-3.5 Student Model for Hint Validation |...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2227-7102/14/2/120](https://www.mdpi.com/2227-7102/14/2/120)  
+   Link: <a href="https://www.mdpi.com/2227-7102/14/2/120" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-7102/14/2/120</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) Supporting Independent Student Learning: An Evaluative Case Study of ChatGPT and Learning to Code | MDPIJanuary 2...</p></details>
 
 14. <a id="endnote-14"></a>
-   Source: discovery.ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/id/eprint/10198256/](https://discovery.ucl.ac.uk/id/eprint/10198256/)  
+   Source: [discovery](&#123;&#123; 'discovery/' | relative_url &#125;&#125;). ucl.ac.uk  
+   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10198256/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10198256/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical Study of the Non-determinism of ChatGPT in Code Generation - UCL DiscoveryAN EMPIRICAL STUDY OF THE NON-DETERMINISM OF CHATGPT...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: mdpi.com  
    Title: Beyond Answers: Pedagogical Design Rationale for Multi-Persona AI Tutors  
-   Link: [https://www.mdpi.com/2571-5577/9/1/17](https://www.mdpi.com/2571-5577/9/1/17)  
+   Link: <a href="https://www.mdpi.com/2571-5577/9/1/17" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2571-5577/9/1/17</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BACKGROUND AND RELATED WORK 2.1. ONE-TO-ONE TUTORING AND ITS IMPLICATIONS FOR AI AGENTS Classic work on tutoring foregrounds the potentia...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: scholars.iwu.edu  
    Title: codehelp using large language models with guardrails for scalable 2  
-   Link: [https://scholars.iwu.edu/en/publications/codehelp-using-large-language-models-with-guardrails-for-scalable-2](https://scholars.iwu.edu/en/publications/codehelp-using-large-language-models-with-guardrails-for-scalable-2)  
+   Link: <a href="https://scholars.iwu.edu/en/publications/codehelp-using-large-language-models-with-guardrails-for-scalable-2" target="_blank" rel="noopener noreferrer nofollow">https://scholars.iwu.edu/en/publications/codehelp-using-large-language-models-with-guardrails-for-scalable-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>iwu.eduCodeHelp: Using Large Language Models with Guardrails for Scalable Support in Programming Classes - Illinois Wesleyan UniversityNo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchtrend.ai  
    Title: Do Agent Rules Shape or Distort?  
-   Link: [https://researchtrend.ai/papers/2604.11088](https://researchtrend.ai/papers/2604.11088)  
+   Link: <a href="https://researchtrend.ai/papers/2604.11088" target="_blank" rel="noopener noreferrer nofollow">https://researchtrend.ai/papers/2604.11088</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guardrails Beat Guidance in Coding Agents | ResearchTrend.AIApril 13, 2026 — DO AGENT RULES SHAPE OR DISTORT? GUARDRAILS BEAT GUIDANCE IN...</p></details>
    Published: April 13, 2026  
 
 19. <a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11528-024-00939-0](https://link.springer.com/article/10.1007/s11528-024-00939-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11528-024-00939-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11528-024-00939-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Educational Affordances and Challenges of ChatGPT: State of the Field | TechTrends | Springer Nature LinkFebruary 17, 2024 — THE EDUCATIO...</p></details>
    Published: February 17, 2024  
 
 20. <a id="endnote-20"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s44163-024-00203-7](https://link.springer.com/article/10.1007/s44163-024-00203-7)  
+   Link: <a href="https://link.springer.com/article/10.1007/s44163-024-00203-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s44163-024-00203-7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>chatbots in programming education: guiding success or encouraging plagiarism | Discover Artificial Intelligence | Springer Nature LinkNov...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/abs/10.1177/07356331241240460](https://journals.sagepub.com/doi/abs/10.1177/07356331241240460)  
+   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/07356331241240460" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/07356331241240460</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Human Paired Programming: A Review of the Educational Applications and Research on Artificial Intelligence Code-G...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: This AI Taught Me Calculus in 5 Minutes  
-   Link: [https://www.youtube.com/watch?v=Erxh0dx4nts](https://www.youtube.com/watch?v=Erxh0dx4nts)  
+   Link: <a href="https://www.youtube.com/watch?v=Erxh0dx4nts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Erxh0dx4nts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Your Own ChatGPT: Input and Output Guardrails | Advanced RAG Series #6...</p></details>

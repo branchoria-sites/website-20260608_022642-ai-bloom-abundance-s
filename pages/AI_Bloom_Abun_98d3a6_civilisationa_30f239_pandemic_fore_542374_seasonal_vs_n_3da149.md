@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /pandemic-ai/
 nav_short_title: Seasonal Limits
 title: Why Flu Models Work Better Than Novel Virus Warnings
-title_full: Why Flu Models Work Better Than Novel Virus Warnings | Pandemic AI
+title_full: Why Flu Models Work Better Than Novel Virus Warnings
 display_title_short: Seasonal Limits
 display_title: Seasonal Limits
 heading_title: Why Flu Models Work Better Than Novel Virus Warnings
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Really Warn US Before the Next Pandemic? | Resilience
+date: '2026-06-08 01:59:51'
+parent_title: Can AI Really Warn US Before the Next Pandemic?
 parent_permalink: /pandemic-ai/
 parent_nav_short_title: Pandemic AI
 parent_heading_title: Can AI Really Warn US Before the Next Pandemic?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /data-failures/
   short_title: Data Failures
   heading_title: Can Pandemic AI Work With Incomplete Data?
-date: '2026-06-08 01:59:51 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1.webp
@@ -269,12 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 
 ## Introduction
 
-Forecasting patterns of **seasonal diseases** such as influenza is now a relatively mature area of infectious disease modelling, with mathematical and AI‑augmented models routinely used to predict peak timing, intensity, and short‑term dynamics for each year’s expected outbreaks. In contrast, **predicting the emergence and early trajectory of entirely novel pathogens** — those with little or no historical data — remains substantially harder. The key difference lies not in simply how good the algorithms are, but in the nature of the signals these models try to predict and the availability of reliable training data. Seasonal diseases exhibit recurrent, structured behaviour that models can learn from, whereas novel outbreaks break the very patterns these models depend on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">PMC - NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
-
+Forecasting patterns of **seasonal diseases** such as influenza is now a relatively mature area of infectious disease modelling, with mathematical and AI‑augmented models routinely used to predict peak timing, intensity, and short‑term dynamics for each year’s expected outbreaks. In contrast, **predicting the emergence and early trajectory of entirely novel pathogens** — those with little or no historical data — remains substantially harder. The key difference lies not in simply how good the algorithms are, but in the nature of the signals these models try to predict and the availability of reliable training data. Seasonal diseases exhibit recurrent, structured behaviour that models can learn from, whereas novel outbreaks break the very patterns these models depend on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Here, we explain **why seasonal disease forecasting consistently outperforms prediction of novel outbreaks** and what mechanisms underlie this gap — a crucial nuance for understanding both the practical value and limits of pandemic forecasting AI within the broader context of AI‑enabled health [resilience]({{ 'resilience/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4J9Y-ReN7EE" title="Data-Driven Disease Forecasting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4J9Y-ReN7EE" target="_blank" rel="noopener noreferrer">Data-Driven Disease Forecasting</a></p><p class="youtube-embed-meta">Channel: Los Alamos National Lab &middot; Views: 9.3K &middot; Uploaded: August 2017 &middot; Length: 2 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4J9Y-ReN7EE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4J9Y-ReN7EE">Open on YouTube</a></p></div></div></div>
 
@@ -282,12 +280,11 @@ Here, we explain **why seasonal disease forecasting consistently outperforms pre
 
 Seasonal diseases like influenza or respiratory syncytial virus follow **regular cycles** driven by environmental, behavioural and immunological factors: lower absolute humidity and more indoor contact in winter, predictable patterns of immunity, and consistent surveillance data create a time‑series with **repeating structure** year after year. Models — whether statistical time‑series methods, mechanistic compartmental frameworks, or machine learning systems — exploit this regularity to forecast future incidence based on past seasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Empirical work in infectious disease forecasting confirms this: when disease incidence has clear periodicity and sufficient data volume, models outperform simple baselines by reliably predicting characteristics like peak timing and magnitude weeks in advance. Retrospective seasonal influenza forecasts, for example, have demonstrated meaningful skill relative to historical baselines over multiple years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Forecasting seasonal outbreaks of influenza</span><span class="citation-popover-snippet">PubMedForecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
+Empirical work in infectious disease forecasting confirms this: when disease incidence has clear periodicity and sufficient data volume, models outperform simple baselines by reliably predicting characteristics like peak timing and magnitude weeks in advance. Retrospective seasonal influenza forecasts, for example, have demonstrated meaningful skill relative to historical baselines over multiple years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Forecasting seasonal outbreaks of influenza</span><span class="citation-popover-snippet">Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</span><span class="citation-popover-meta">Published: December 11, 2012</span></span></span>
 
-This relative success is not just anecdotal; quantitative research shows that **forecastability — a measure of how predictable a time series is — tends to be higher for seasonal disease signals** with strong periodic components and substantial data history. In statistical terms, such time series have lower spectral entropy and more concentrated frequency patterns, which models can learn from more effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSForecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
+This relative success is not just anecdotal; quantitative research shows that **forecastability — a measure of how predictable a time series is — tends to be higher for seasonal disease signals** with strong periodic components and substantial data history. In statistical terms, such time series have lower spectral entropy and more concentrated frequency patterns, which models can learn from more effectively. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
 
-Because seasonal forecasts draw on **thousands of past weeks of structured data**, models can learn the characteristic shape and drivers of seasonal epidemics. In epidemiological practice this makes them **useful for planning hospital resources, vaccination timing and public health messaging** during predictable peak months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluenza Forecasting in Human Populations: A Scoping Review</span><span class="citation-popover-snippet">PMCApril 8, 2014...</span><span class="citation-popover-meta">Published: April 8, 2014</span></span></span>
-
+Because seasonal forecasts draw on **thousands of past weeks of structured data**, models can learn the characteristic shape and drivers of seasonal epidemics. In epidemiological practice this makes them **useful for planning hospital resources, vaccination timing and public health messaging** during predictable peak months. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluenza Forecasting in Human Populations: A Scoping Review</span><span class="citation-popover-snippet">April 8, 2014...</span><span class="citation-popover-meta">Published: April 8, 2014</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/93W4f5mdoCM" title="How Short-Term Disease Forecasting Works Using Rt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=93W4f5mdoCM" target="_blank" rel="noopener noreferrer">How Short-Term Disease Forecasting Works Using Rt</a></p><p class="youtube-embed-meta">Channel: Centers for Disease Control and Prevention (CDC) &middot; Views: 572 &middot; Uploaded: March 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=93W4f5mdoCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=93W4f5mdoCM">Open on YouTube</a></p></div></div></div>
 
@@ -295,14 +292,13 @@ Because seasonal forecasts draw on **thousands of past weeks of structured data*
 
 By contrast, novel pathogens start without any historical record: there are no past outbreaks with the same characteristics for a model to learn. This absence has several consequences:
 
-* **Lack of structured patterns**: Novel outbreaks do not follow established periodic cycles or seasonality. Their dynamics depend on unknown biological parameters — transmission rates, immune cross‑protection, incubation periods — which cannot be deduced from past seasonal disease patterns. Models trained on seasonal data are effectively predicting outside their training domain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSIndividual versus superensemble forecasts of seasonal influenza outbreaks in the United States | PLOS Computational BiologyNovember 6...</span></span></span>
+* **Lack of structured patterns**: Novel outbreaks do not follow established periodic cycles or seasonality. Their dynamics depend on unknown biological parameters — transmission rates, immune cross‑protection, incubation periods — which cannot be deduced from past seasonal disease patterns. Models trained on seasonal data are effectively predicting outside their training domain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States &#124; PLOS Computational BiologyNovember 6...</span></span></span>
 * **High uncertainty early on**: In the initial phase of a novel outbreak, surveillance data are sparse, inconsistent and potentially delayed. Machine learning methods that require volume and continuity in training data struggle when the signal is short, noisy and changing rapidly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astho.org">[astho.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astho.org</span><span class="citation-popover-title">Defining Disease Forecasting and Modeling</span><span class="citation-popover-snippet">September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</span><span class="citation-popover-meta">Published: September 24, 2024</span></span></span>
 * **Structural changes in disease dynamics**: A new pathogen might elicit behavioural changes (e.g. lockdowns, novel vaccines) that feed back into its transmission dynamics — another layer of uncertainty absent in historical seasonal behaviour.
 
 These factors mean that **models have inherently limited preview of true future dynamics in a new outbreak**, and prediction can devolve into guesswork grounded more in mechanistic assumptions than learned patterns. In some settings, mechanistic models such as Susceptible–Infectious–Recovered (SIR) frameworks can help, but even they depend on accurate estimation of new disease parameters — and such estimates are often unavailable early in a novel epidemic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</span></span></span>
 
 Because of this, so‑called *novel outbreak prediction* is less a forecasting problem and more an **early detection or scenario exploration task**, where identifying emerging anomalies or high‑risk conditions is possible, but making accurate numerical forecasts far into the future is not. This is a structural constraint: the very definition of forecasting presupposes some measure of regularity to exploit.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Short‑Range Forecasts Still Do Well
@@ -312,10 +308,9 @@ It is important to stress that **near‑term forecasts** — even for novel outb
 In contrast, **seasonal forecasts** achieve longer useful horizons precisely because the underlying signal itself behaves semi‑predictably. As a result:
 
 * **Medium‑term seasonal forecasts** (several weeks to months ahead) remain reliable as long as the season follows historically typical patterns.
-* **Adaptive ensemble methods**, which combine many forecasting models, further improve resilience by smoothing model‑specific errors and capturing a broader set of plausible futures when patterns repeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOSForecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
+* **Adaptive ensemble methods**, which combine many forecasting models, further improve resilience by smoothing model‑specific errors and capturing a broader set of plausible futures when patterns repeat. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</span></span></span>
 
 By leveraging historical cycles and combining diverse model perspectives, these ensembles can often beat individual models even on seasonal dynamics, reinforcing why seasonal disease forecasting is more robust than general [early warning]({{ 'early-warning/' | relative_url }}) for novel outbreaks.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e5CLt60Agro" title="&quot;Forecasting Infectious Disease Epidemics Using Dynamic Modeling: Ebola and Zika as Case Studies&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e5CLt60Agro" target="_blank" rel="noopener noreferrer">&quot;Forecasting Infectious Disease Epidemics Using Dynamic Modeling: Ebola and Zika as Case Studies&quot;</a></p><p class="youtube-embed-meta">Channel: BBVA Foundation &middot; Views: 9.8K &middot; Uploaded: August 2017 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e5CLt60Agro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e5CLt60Agro">Open on YouTube</a></p></div></div></div>
 
@@ -323,8 +318,7 @@ By leveraging historical cycles and combining diverse model perspectives, these 
 
 Seasonal disease forecasting generally **outperforms novel outbreak prediction** because it builds on deep, structured historical signals rather than trying to extrapolate from an unknown start point. The regular periodicity of seasonal diseases and the rich volume of past data make them much more predictable in statistical terms. Novel pathogens, in contrast, break the core assumptions of forecasting models — they lack reliable patterns and often change in response to interventions and behavioural shifts.
 
-Understanding this distinction matters for both public health practice and broader narratives about AI’s role in pandemic preparedness: AI and models can provide substantial value for planning responses to recurring disease patterns, but expecting them to **predict the path of truly new pathogens early and with high confidence** is, given current data realities, fundamentally constrained by the available information rather than by [algorithmic]({{ 'algorithmic-risks/' | relative_url }}) creativity alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">PMC - NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
-
+Understanding this distinction matters for both public health practice and broader narratives about AI’s role in pandemic preparedness: AI and models can provide substantial value for planning responses to recurring disease patterns, but expecting them to **predict the path of truly new pathogens early and with high confidence** is, given current data realities, fundamentally constrained by the available information rather than by algorithmic creativity alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCForecastability of infectious disease time series</span><span class="citation-popover-snippet">NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-dark.svg" | relative_url }}" alt="Seasonal Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374_seasonal_vs_n_3da149-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -725,130 +719,130 @@ Understanding this distinction matters for both public health practice and broad
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCForecastability of infectious disease time series  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13102302/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby LA White · 2026 · Cited by 2 — For infectious disease forecasting challenges, individual model performance typically varies a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Forecasting](https://en.wikipedia.org/wiki/Forecasting)  
+   Link: <a href="https://en.wikipedia.org/wiki/Forecasting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Forecasting</a>  
 
 3. <a id="endnote-3"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&rev=1](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&rev=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSForecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</p></details>
+   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175&amp;rev=1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecastability of infectious disease time seriesHere we characterize a time series&#x27; future predictability using a forecastability me...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfluenza Forecasting in Human Populations: A Scoping Review  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/](https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCApril 8, 2014...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3979760/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 8, 2014...</p></details>
    Published: April 8, 2014  
 
 5. <a id="endnote-5"></a>
    Source: astho.org  
    Title: Defining Disease Forecasting and Modeling  
-   Link: [https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf](https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf)  
+   Link: <a href="https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.astho.org/49ac5a/globalassets/brief/defining-disease-forecasting-and-modeling.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 24, 2024 — Disease forecasting is important in describing potential future outbreaks that will affect the population and demand...</p></details>
    Published: September 24, 2024  
 
 6. <a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOSIndividual versus superensemble forecasts of seasonal influenza outbreaks in the United States | PLOS Computational BiologyNovember 6...</p></details>
+   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1005801</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individual versus superensemble forecasts of seasonal influenza outbreaks in the United States | PLOS Computational BiologyNovember 6...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-017-01033-1](https://www.nature.com/articles/s41467-017-01033-1)  
+   Link: <a href="https://www.nature.com/articles/s41467-017-01033-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-017-01033-1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 13, 2017 — Counteracting structural errors in ensemble forecast of influenza outbreaks Download PDF Download PDF * Article * Open...</p></details>
    Published: October 13, 2017  
 
 8. <a id="endnote-8"></a>
    Source: journals.plos.org  
-   Link: [https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175)  
+   Link: <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1014175</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time seriesby LA White · 2026 · Cited by 2 — Forecastability increased with increasing population size of the forec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-024-63573-z](https://www.nature.com/articles/s41598-024-63573-z)  
+   Link: <a href="https://www.nature.com/articles/s41598-024-63573-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-024-63573-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting seasonal influenza outbreaks with regime shift...by M Kim · 2024 · Cited by 2 — In this study, we propose a novel approach th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Forecasting seasonal outbreaks of influenza  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/23184969/](https://pubmed.ncbi.nlm.nih.gov/23184969/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedForecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23184969/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23184969/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting seasonal outbreaks of influenza - PubMedDecember 11, 2012...</p></details>
    Published: December 11, 2012  
 
 11. <a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Seasonal outbreaks of influe  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/30647115/](https://pubmed.ncbi.nlm.nih.gov/30647115/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30647115/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30647115/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>collaborative multiyear, multimodel assessment of seasonal influenza forecasting in the United States - PubMedFebruary 19, 2019 — ABSTRAC...</p></details>
    Published: February 19, 2019  
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&ff=20260416112902&v=2.19.0.post6+133c1fe](https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&ff=20260416112902&v=2.19.0.post6+133c1fe)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41984926/?fc=20230823191336&amp;ff=20260416112902&amp;v=2.19.0.post6+133c1fe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of infectious disease time series15 Apr 2026 — Forecastability increased with increasing population size of the forecasting target, and f...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: documents.ncsl.org  
    Title: Disease Forecasting  
-   Link: [https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf](https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf)  
+   Link: <a href="https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.ncsl.org/wwwncsl/Health/Disease-Forecasting.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting Tools Can Support Policymaking...During infectious disease outbreaks, policymakers need to make de- cisions quickly to preve...</p></details>
 
 ### Additional References
 
 14. <a id="endnote-14"></a>
    Source: applications.emro.who.int  
-   Link: [https://applications.emro.who.int/docs/em_RC46_8_en.pdf](https://applications.emro.who.int/docs/em_RC46_8_en.pdf)  
+   Link: <a href="https://applications.emro.who.int/docs/em_RC46_8_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://applications.emro.who.int/docs/em_RC46_8_en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IN COMMUNICABLE DISEASESForecasting has been used to predict epidemics to project incidence and mortality of specific diseases, to select...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast](https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast)  
+   Link: <a href="https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391334200_Forecastability_of_infectious_disease_time_series_are_some_seasons_and_pathogens_intrinsically_more_difficult_to_forecast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Forecastability of infectious disease time seriesForecastability increased with increasing population size of the forecasting targe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques](https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques)  
+   Link: <a href="https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383874211_Improving_Seasonal_Influenza_Forecasting_Using_Time_Series_Machine_Learning_Techniques</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Seasonal Influenza Forecasting Using Time...9 Sept 2024 — This study compares the accuracy of the XGBoost model with ARIMA and...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciety.org  
-   Link: [https://sciety.org/articles/activity/10.1101/2025.04.29.25326677](https://sciety.org/articles/activity/10.1101/2025.04.29.25326677)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| ScietyApril 30, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICULT T...</p></details>
+   Link: <a href="https://sciety.org/articles/activity/10.1101/2025.04.29.25326677" target="_blank" rel="noopener noreferrer nofollow">https://sciety.org/articles/activity/10.1101/2025.04.29.25326677</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScietyApril 30, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICULT T...</p></details>
    Published: April 30, 2025  
 
 18. <a id="endnote-18"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2](https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| medRxivSeptember 9, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICU...</p></details>
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.04.29.25326677v2</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medRxivSeptember 9, 2025 — FORECASTABILITY OF INFECTIOUS DISEASE TIME SERIES: ARE SOME SEASONS AND PATHOGENS INTRINSICALLY MORE DIFFICU...</p></details>
    Published: September 9, 2025  
 
 19. <a id="endnote-19"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text](https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text)  
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2025.07.20.25331802v1.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They acquire value through their ability to influence decisions made by users of the forecasts [1].” Allan H. Murphy Infectious disease f...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pnas.org  
-   Link: [https://www.pnas.org/doi/10.1073/pnas.2508575122](https://www.pnas.org/doi/10.1073/pnas.2508575122)  
+   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2508575122" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2508575122</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving outbreak forecasts through model augmentationAccurate forecasts of disease outbreaks are critical for effective public health r...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text](https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text)  
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2024.06.24.24309416v2.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multi-model ensembles in infectious disease and public health: Methods, interpretation, and implementation in R | medRxivMay 5, 2025 — 2...</p></details>
    Published: May 5, 2025  
 
 22. <a id="endnote-22"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full](https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full)  
+   Link: <a href="https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.64898/2026.05.11.26352889v1.full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From naive to foundation: benchmarking models for epidemic forecasting | medRxivMay 13, 2026 — FROM NAIVE TO FOUNDATION: BENCHMARKING MOD...</p></details>
    Published: May 13, 2026  
 
 23. <a id="endnote-23"></a>
    Source: medrxiv.org  
-   Link: [https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full](https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full)  
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2023.06.29.23291793.full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, early warning of the timing and magnitude of peak activity during seasonal epidemics can provide i...</p></details>

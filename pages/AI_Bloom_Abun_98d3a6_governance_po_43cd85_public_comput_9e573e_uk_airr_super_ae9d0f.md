@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /public-compute/
 nav_short_title: UK AIRR Systems
 title: How UK AIRR Supercomputers Strengthen AI Access
-title_full: How UK AIRR Supercomputers Strengthen AI Access | Public Compute
+title_full: How UK AIRR Supercomputers Strengthen AI Access
 display_title_short: UK AIRR Systems
 display_title: UK AIRR Systems
 heading_title: How UK AIRR Supercomputers Strengthen AI Access
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Public Compute Can Democratize AI Access | Power
+date: '2026-06-08 02:05:31'
+parent_title: How Public Compute Can Democratize AI Access
 parent_permalink: /public-compute/
 parent_nav_short_title: Public Compute
 parent_heading_title: How Public Compute Can Democratize AI Access
@@ -260,7 +261,6 @@ prev_link:
   permalink: /public-interest-ai/
   short_title: Public Interest AI
   heading_title: How Public Compute Unlocks Scientific and Public Interest AI Research
-date: '2026-06-08 02:05:31 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-1.webp
@@ -269,8 +269,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e
 
 ## Introduction
 
-The UK’s [AI Research]({{ 'research-agents/' | relative_url }}) Resource (AIRR) is an attempt to answer a question that is becoming increasingly important as AI systems grow more powerful: who gets access to the computing infrastructure needed to build and use advanced AI? Rather than leaving cutting-edge [AI compute]({{ 'compute-control/' | relative_url }}) entirely to large technology companies, the AIRR programme funds national supercomputers that universities, researchers, startups and public-interest projects can use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai research resource</span><span class="citation-popover-snippet">17 Jul 2025 — The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to rese...</span></span></span>
-
+The UK’s AI Research Resource (AIRR) is an attempt to answer a question that is becoming increasingly important as AI systems grow more powerful: who gets access to the computing infrastructure needed to build and use advanced AI? Rather than leaving cutting-edge AI compute entirely to large technology companies, the AIRR programme funds national supercomputers that universities, researchers, startups and public-interest projects can use. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ai research resource</span><span class="citation-popover-snippet">17 Jul 2025 — The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to rese...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-1-dark.svg" | relative_url }}" alt="UK AIRR Systems illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 At the centre of this effort are two major systems: Isambard-AI in Bristol and Dawn in Cambridge. Together they form the backbone of the UK's public AI compute strategy. Supporters see them as a way to widen participation in AI development, strengthen scientific research and give Britain a degree of technological independence in a world where access to advanced chips and computing power is increasingly concentrated. Critics question whether [public systems]({{ 'public-systems/' | relative_url }}) can keep pace with the investment levels of the largest private AI companies. Either way, AIRR represents one of the clearest examples of [public compute]({{ 'public-compute/' | relative_url }}) infrastructure being treated as a strategic national asset rather than merely a research tool. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukri.org">[UK Research and Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukri.org</span><span class="citation-popover-title">isambard ai and dawn airr supercomputers innovator route</span><span class="citation-popover-snippet">UK Research and InnovationIsambard-AI and Dawn AIRR supercomputers: Innovator...6 Nov 2025 — The AIRR programme intends to address the s...</span></span></span>
@@ -285,12 +284,11 @@ Within the broader debate about AI-enabled abundance, this matters because compu
 
 ## Isambard-AI: Britain's Flagship AI Supercomputer
 
-The most prominent AIRR system is Isambard-AI, operated through the Bristol Centre for Supercomputing. Announced with £225 million of government funding, it was designed specifically for AI workloads rather than as a traditional [scientific]({{ 'discovery/' | relative_url }}) supercomputer adapted for machine learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: find-tender.service.gov.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">find-tender.service.gov.uk</span><span class="citation-popover-title">AIR R Expansion AI Cloud Compute</span><span class="citation-popover-snippet">The UK...Read more...</span></span></span>
+The most prominent AIRR system is Isambard-AI, operated through the Bristol Centre for Supercomputing. Announced with £225 million of government funding, it was designed specifically for AI workloads rather than as a traditional scientific supercomputer adapted for machine learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: find-tender.service.gov.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">find-tender.service.gov.uk</span><span class="citation-popover-title">AIR R Expansion AI Cloud Compute</span><span class="citation-popover-snippet">The UK...Read more...</span></span></span>
 
 By 2025, Isambard-AI had become the UK's most powerful AI-focused supercomputer. The full system was built around more than 5,400 NVIDIA Grace Hopper superchips and designed to deliver roughly 21 exaflops of AI performance, placing it among the most powerful AI systems in Europe. NVIDIA Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.11199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Several design choices are notable:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -301,8 +299,7 @@ Several design choices are notable:
 
 </div>
 
-Researchers involved in the project have argued that one of its most important features is not simply raw power but usability. The software environment was designed to feel more familiar to researchers already working with cloud-based AI tools, lowering barriers for groups without extensive supercomputing experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.11199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
+Researchers involved in the project have argued that one of its most important features is not simply raw [power]({{ 'power/' | relative_url }}) but usability. The software environment was designed to feel more familiar to researchers already working with cloud-based AI tools, lowering barriers for groups without extensive supercomputing experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.11199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adh7D7EQzUM" title="Inside the UK’s Most Powerful Supercomputer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adh7D7EQzUM" target="_blank" rel="noopener noreferrer">Inside the UK’s Most Powerful Supercomputer</a></p><p class="youtube-embed-meta">Channel: Ellie Sleightholm &middot; Views: 80.5K &middot; Uploaded: March 2026 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adh7D7EQzUM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adh7D7EQzUM">Open on YouTube</a></p></div></div></div>
 
@@ -338,16 +335,14 @@ This matters because many smaller organisations cannot justify the cost of maint
 
 In practical terms, AIRR is trying to widen the circle of institutions able to experiment with frontier-scale AI systems. That does not eliminate inequality in access, but it does create an alternative route besides securing backing from a major technology company.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-2-dark.svg" | relative_url }}" alt="UK AIRR Systems illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Researchers Are Using the Systems For
 
-The strongest argument for public AI infrastructure is not the hardware itself but what it enables.
+The strongest argument for [public AI]({{ 'public-ai/' | relative_url }}) infrastructure is not the hardware itself but what it enables.
 
 Early projects associated with Isambard-AI and the wider AIRR ecosystem include medical diagnostics, cancer screening, climate and environmental modelling, language models and public-service applications. Researchers have used the system to explore improved skin-cancer detection, NHS-related health modelling and AI tools intended to work more effectively across different British languages and communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/2025/jul/17/ai-supercomputer-isambard-bristol-launches" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Equipped with 5,400 Nvidia superchips, this high-performance machine runs 100,000 times faster than an average laptop and ranks as the 11...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/technology/artificial-intelligence/uk-government-targets-sovereign-ai-gains-with-new-gbp500-million-startup-funding-scheme" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-snippet">This initiative aims to bridge the gap between cutting-edge AI research and large-scale commercial deployment. A newly established Sovere...</span></span></span>
 
 Examples frequently highlighted by universities and government agencies include:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -359,8 +354,7 @@ Examples frequently highlighted by universities and government agencies include:
 
 </div>
 
-These are still early-stage projects, and many will not lead to transformative outcomes. Yet they illustrate the broader rationale behind public compute. If AI contributes to faster scientific discovery, better medicine or more capable public services, public access to infrastructure could influence which problems receive attention and who benefits from the resulting systems.
-
+These are still early-stage projects, and many will not lead to transformative outcomes. Yet they illustrate the broader rationale behind public compute. If AI contributes to faster scientific discovery, better medicine or more capable public services, public access to infrastructure could influence which problems receive attention and [who benefits]({{ 'who-benefits/' | relative_url }}) from the resulting systems.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChcHZDE21Ts" title="The Rise of Dawn for Science - A Scalable System Powered by Intel® | Intel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChcHZDE21Ts" target="_blank" rel="noopener noreferrer">The Rise of Dawn for Science - A Scalable System Powered by Intel® | Intel</a></p><p class="youtube-embed-meta">Channel: Intel &middot; Views: 614 &middot; Uploaded: May 2024 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChcHZDE21Ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChcHZDE21Ts">Open on YouTube</a></p></div></div></div>
 
@@ -373,7 +367,6 @@ Governments increasingly view advanced computing infrastructure as strategically
 British policymakers have increasingly framed AIRR as part of a wider effort to build domestic AI capability. Public statements have linked Isambard-AI and Dawn to goals such as supporting home-grown AI companies, retaining scientific talent and strengthening national technological resilience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukri.org">[UK Research and Innovation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukri.org</span><span class="citation-popover-title">isambard ai and dawn airr supercomputers innovator route</span><span class="citation-popover-snippet">UK Research and InnovationIsambard-AI and Dawn AIRR supercomputers: Innovator...6 Nov 2025 — The AIRR programme intends to address the s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/infrastructure/inside-isambard-ai-the-uks-most-powerful-supercomputer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-snippet">Named after engineer Isambard Kingdom Brunel, the system offers 21 exaflops of AI performance and is ranked 11th globally. It was rapidly...</span></span></span>
 
 From an AI bloom perspective, this reflects a broader tension. If advanced AI eventually becomes a major driver of scientific progress and economic abundance, societies may not want access to that capability controlled entirely by a small number of private organisations or foreign infrastructure providers. Public compute programmes are one attempt to maintain some public influence over a resource that may become increasingly central to innovation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MAFUEwuPWKA" title="A Sneak Peek Inside Isambard AI - the UK’s most powerful supercomputer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MAFUEwuPWKA" target="_blank" rel="noopener noreferrer">A Sneak Peek Inside Isambard AI - the UK’s most powerful supercomputer</a></p><p class="youtube-embed-meta">Channel: AI UK &middot; Views: 735 &middot; Uploaded: November 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MAFUEwuPWKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MAFUEwuPWKA">Open on YouTube</a></p></div></div></div>
 
@@ -391,7 +384,6 @@ Other challenges include:
 * **Technological obsolescence:** AI chips can become outdated within a few years, requiring continuous reinvestment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2410.11199" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 There is also a deeper question about governance. Expanding access to compute may broaden participation, but it does not automatically ensure that AI's benefits are widely shared. Questions about ownership, regulation, safety, labour transition and public accountability remain.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-3-dark.svg" | relative_url }}" alt="UK AIRR Systems illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_public_comput_9e573e_uk_airr_super_ae9d0f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AIRR Matters for the Long-Term AI Future
@@ -799,193 +791,193 @@ Whether the programme succeeds will depend on factors beyond hardware performanc
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: ai research resource  
-   Link: [https://www.gov.uk/government/publications/ai-research-resource](https://www.gov.uk/government/publications/ai-research-resource)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-research-resource" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-research-resource</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Jul 2025 — The AI Research Resource (AIRR) is a suite of advanced supercomputers that provides AI-specialised compute capacity to rese...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: GOV.UK  
    Title: airr advanced supercomputers for the uk  
-   Link: [https://www.gov.uk/government/publications/ai-research-resource/airr-advanced-supercomputers-for-the-uk](https://www.gov.uk/government/publications/ai-research-resource/airr-advanced-supercomputers-for-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-research-resource/airr-advanced-supercomputers-for-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-research-resource/airr-advanced-supercomputers-for-the-uk</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Nov 2025 — The government is investing significantly in the Isambard- AI and Dawn AIRR clusters and will have invested over c.£350milli...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/uk/britain-boosts-computing-power-13-billion-ai-drive-2025-07-17/](https://www.reuters.com/world/uk/britain-boosts-computing-power-13-billion-ai-drive-2025-07-17/)  
+   Link: <a href="https://www.reuters.com/world/uk/britain-boosts-computing-power-13-billion-ai-drive-2025-07-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/uk/britain-boosts-computing-power-13-billion-ai-drive-2025-07-17/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This investment aims to increase public computing power twentyfold over the next five years. Prime Minister Keir Starmer unveiled the pla...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: hpe.com  
-   Link: [https://www.hpe.com/us/en/newsroom/press-release/2023/11/uk-government-invests-225m-to-create-uks-most-powerful-ai-supercomputer-with-university-of-bristol-and-hewlett-packard-enterprise.html](https://www.hpe.com/us/en/newsroom/press-release/2023/11/uk-government-invests-225m-to-create-uks-most-powerful-ai-supercomputer-with-university-of-bristol-and-hewlett-packard-enterprise.html)  
+   Link: <a href="https://www.hpe.com/us/en/newsroom/press-release/2023/11/uk-government-invests-225m-to-create-uks-most-powerful-ai-supercomputer-with-university-of-bristol-and-hewlett-packard-enterprise.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hpe.com/us/en/newsroom/press-release/2023/11/uk-government-invests-225m-to-create-uks-most-powerful-ai-supercomputer-with-university-of-bristol-and-hewlett-packard-enterprise.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hewlett Packard EnterpriseUK Government invests £225m to create UK&#x27;s most...1 Nov 2023 — Isambard-AI will be built using the HPE Cray EX...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: blogs.nvidia.com  
    Title: isambard ai  
-   Link: [https://blogs.nvidia.com/blog/isambard-ai/](https://blogs.nvidia.com/blog/isambard-ai/)  
+   Link: <a href="https://blogs.nvidia.com/blog/isambard-ai/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.nvidia.com/blog/isambard-ai/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NVIDIA BlogIsambard-AI, the UK&#x27;s Most Powerful AI Supercomputer...17 Jul 2025 — The University of Bristol&#x27;s Isambard-AI, powered by NVI...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.11199](https://arxiv.org/abs/2410.11199)  
+   Link: <a href="https://arxiv.org/abs/2410.11199" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.11199</a>  
 
 7. <a id="endnote-7"></a>
    Source: hpc.cam.ac.uk  
-   Link: [https://www.hpc.cam.ac.uk/d-w-n](https://www.hpc.cam.ac.uk/d-w-n)  
+   Link: <a href="https://www.hpc.cam.ac.uk/d-w-n" target="_blank" rel="noopener noreferrer nofollow">https://www.hpc.cam.ac.uk/d-w-n</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research Computing Services - University of CambridgeThe UK&#x27;s fastest artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) supercomputer has been built by the Univers...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation](https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation)  
+   Link: <a href="https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/cambridge-supercomputer-set-to-get-6-times-more-powerful-as-government-backs-british-ai-innovation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge supercomputer set to get 6 times more powerful...26 Jan 2026 — £36 million investment to increase the AI Research Resource sup...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: techradar.com  
    Title: Tech Radar Nvidia is powering the UK's fastest supercomputer yet  
-   Link: [https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do](https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do)  
+   Link: <a href="https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/nvidia-is-powering-the-uks-fastest-superocmputer-yet-heres-what-it-can-do</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking 11th on the global Top 500 list and fourth on the Green500 for energy efficiency, it outperforms all UK supercomputers combined a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: hpe.com  
-   Link: [https://www.hpe.com/us/en/collaterals/collateral.a00094635enw.html](https://www.hpe.com/us/en/collaterals/collateral.a00094635enw.html)  
+   Link: <a href="https://www.hpe.com/us/en/collaterals/collateral.a00094635enw.html" target="_blank" rel="noopener noreferrer nofollow">https://www.hpe.com/us/en/collaterals/collateral.a00094635enw.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HPE Cray Supercomputing EX QuickSpecsHPE Cray Supercomputing EX4000 System Details... – 4 power shelves with a maximum of 8 rectifiers p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: GOV.UK  
    Title: airr compute opportunity ai for science  
-   Link: [https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science](https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science)  
+   Link: <a href="https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/airr-compute-opportunity-ai-for-science/airr-compute-opportunity-ai-for-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compute Opportunity: AI for Science21 Nov 2025 — This call is open to high-ambition researchers with AI -focused project proposals in the...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: find-tender.service.gov.uk  
    Title: AIR R Expansion AI Cloud Compute  
-   Link: [https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227](https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227)  
+   Link: <a href="https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227" target="_blank" rel="noopener noreferrer nofollow">https://www.find-tender.service.gov.uk/procurement/ocds-h6vhtk-05a227</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: find-tender.service.gov.uk  
    Title: AIR R Expansion AI Cloud Compute  
-   Link: [https://www.find-tender.service.gov.uk/Notice/081657-2025](https://www.find-tender.service.gov.uk/Notice/081657-2025)  
+   Link: <a href="https://www.find-tender.service.gov.uk/Notice/081657-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.find-tender.service.gov.uk/Notice/081657-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AIRR Expansion AI Cloud Compute - Find a Tender - GOV.UK21 Nov 2025 — To significantly increase the UK&#x27;s AI research infrastructure by ex...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ukri.org  
    Title: isambard ai and dawn airr supercomputers innovator route  
-   Link: [https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/](https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/)  
+   Link: <a href="https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukri.org/opportunity/isambard-ai-and-dawn-airr-supercomputers-innovator-route/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Research and InnovationIsambard-AI and Dawn AIRR supercomputers: Innovator...6 Nov 2025 — The AIRR programme intends to address the s...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: itpro.com  
-   Link: [https://www.itpro.com/technology/artificial-intelligence/uk-government-targets-sovereign-ai-gains-with-new-gbp500-million-startup-funding-scheme](https://www.itpro.com/technology/artificial-intelligence/uk-government-targets-sovereign-ai-gains-with-new-gbp500-million-startup-funding-scheme)  
+   Link: <a href="https://www.itpro.com/technology/artificial-intelligence/uk-government-targets-sovereign-ai-gains-with-new-gbp500-million-startup-funding-scheme" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/technology/artificial-intelligence/uk-government-targets-sovereign-ai-gains-with-new-gbp500-million-startup-funding-scheme</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This initiative aims to bridge the gap between cutting-edge AI research and large-scale commercial deployment. A newly established Sovere...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bristol.ac.uk  
    Title: supercomputer announcement  
-   Link: [https://www.bristol.ac.uk/news/2023/november/supercomputer-announcement.html](https://www.bristol.ac.uk/news/2023/november/supercomputer-announcement.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2023/november/supercomputer-announcement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2023/november/supercomputer-announcement.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolUnprecedented £225m investment to create UK&#x27;s most...1 Nov 2023 — Isambard-AI will be built using the HPE Cray EX s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: itpro.com  
-   Link: [https://www.itpro.com/infrastructure/inside-isambard-ai-the-uks-most-powerful-supercomputer](https://www.itpro.com/infrastructure/inside-isambard-ai-the-uks-most-powerful-supercomputer)  
+   Link: <a href="https://www.itpro.com/infrastructure/inside-isambard-ai-the-uks-most-powerful-supercomputer" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/infrastructure/inside-isambard-ai-the-uks-most-powerful-supercomputer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Named after engineer Isambard Kingdom Brunel, the system offers 21 exaflops of AI performance and is ranked 11th globally. It was rapidly...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ukri.org  
-   Link: [https://www.ukri.org/opportunity/access-to-isambard-ai-and-dawn-airr-supercomputers-gateway-route/](https://www.ukri.org/opportunity/access-to-isambard-ai-and-dawn-airr-supercomputers-gateway-route/)  
+   Link: <a href="https://www.ukri.org/opportunity/access-to-isambard-ai-and-dawn-airr-supercomputers-gateway-route/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukri.org/opportunity/access-to-isambard-ai-and-dawn-airr-supercomputers-gateway-route/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Research and InnovationIsambard-AI and Dawn AIRR supercomputers: Gateway route18 Aug 2025 — This access route is open to UK-based rese...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ukri.org  
    Title: airr compute opportunity ai for science  
-   Link: [https://www.ukri.org/opportunity/airr-compute-opportunity-ai-for-science/](https://www.ukri.org/opportunity/airr-compute-opportunity-ai-for-science/)  
+   Link: <a href="https://www.ukri.org/opportunity/airr-compute-opportunity-ai-for-science/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukri.org/opportunity/airr-compute-opportunity-ai-for-science/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Research and InnovationAIRR compute opportunity: AI for Science21 Nov 2025 — Apply for between 200,000 and 1,000,000 graphics processi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/jul/17/ai-supercomputer-isambard-bristol-launches](https://www.theguardian.com/technology/2025/jul/17/ai-supercomputer-isambard-bristol-launches)  
+   Link: <a href="https://www.theguardian.com/technology/2025/jul/17/ai-supercomputer-isambard-bristol-launches" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/jul/17/ai-supercomputer-isambard-bristol-launches</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Equipped with 5,400 Nvidia superchips, this high-performance machine runs 100,000 times faster than an average laptop and ranks as the 11...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bristol.ac.uk  
    Title: isambard ai supercomputer powers 500m uk sovereign ai fund  
-   Link: [https://www.bristol.ac.uk/research/centres/bristol-supercomputing/articles/2025/isambard-ai-supercomputer-powers-500m-uk-sovereign-ai-fund.html](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/articles/2025/isambard-ai-supercomputer-powers-500m-uk-sovereign-ai-fund.html)  
+   Link: <a href="https://www.bristol.ac.uk/research/centres/bristol-supercomputing/articles/2025/isambard-ai-supercomputer-powers-500m-uk-sovereign-ai-fund.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/research/centres/bristol-supercomputing/articles/2025/isambard-ai-supercomputer-powers-500m-uk-sovereign-ai-fund.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 April 2026. Sovereign AI is the UK Government&#x27;s bet to back homegrown AI...Read more...</p></details>
    Published: April 2026  
 
 22. <a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates](https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates)  
+   Link: <a href="https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates</a>  
 
 23. <a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates](https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates)  
+   Link: <a href="https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates</a>  
 
 24. <a id="endnote-24"></a>
    Source: grantedai.com  
    Title: ai research resource airr innovator route uk research and innovation f18a5fcb  
-   Link: [https://grantedai.com/grants/ai-research-resource-airr-innovator-route-uk-research-and-innovation-f18a5fcb](https://grantedai.com/grants/ai-research-resource-airr-innovator-route-uk-research-and-innovation-f18a5fcb)  
+   Link: <a href="https://grantedai.com/grants/ai-research-resource-airr-innovator-route-uk-research-and-innovation-f18a5fcb" target="_blank" rel="noopener noreferrer nofollow">https://grantedai.com/grants/ai-research-resource-airr-innovator-route-uk-research-and-innovation-f18a5fcb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Research Resource (AIRR) Innovator Route (2026)AIRR is a partnership between: UK Research and Innovation (UKRI) Hewlett Packard Enterp...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: top500.org  
    Title: Isambard-AI phase 1  
-   Link: [https://top500.org/system/180257/](https://top500.org/system/180257/)  
+   Link: <a href="https://top500.org/system/180257/" target="_blank" rel="noopener noreferrer nofollow">https://top500.org/system/180257/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HPE Cray EX254n, NVIDIA Grace...Isambard-AI phase 1 - HPE Cray EX254n, NVIDIA Grace 72C 3.1GHz, NVIDIA GH200 Superchip, Slingshot-11; 1...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: docs.isambard.ac.uk  
-   Link: [https://docs.isambard.ac.uk/specs/](https://docs.isambard.ac.uk/specs/)  
+   Link: <a href="https://docs.isambard.ac.uk/specs/" target="_blank" rel="noopener noreferrer nofollow">https://docs.isambard.ac.uk/specs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>System SpecificationsIsambard-AI Phase 1 consists of 42 nodes based on aarch64 architecture. Each node has 4 NVIDIA GH200 Grace Hopper Su...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H](https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H)  
+   Link: <a href="https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/scitechgovuk_get-free-access-to-the-uks-most-powerful-activity-7381629916859121664-Ti3H</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK&#x27;s AIRR offers free AI computing power to universities...Get free access to the UK&#x27;s most powerful AI supercomputers with our AI Rese...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: docs.isambard.ac.uk  
-   Link: [https://docs.isambard.ac.uk/](https://docs.isambard.ac.uk/)  
+   Link: <a href="https://docs.isambard.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://docs.isambard.ac.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Along with the above, the centre is responsible for its related services, such as the BriCS Portal and BriCS Helpdesk.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: bristol.ac.uk  
    Title: ai minister takes the stage with tech giants at university of bristol summit  
-   Link: [https://www.bristol.ac.uk/news/2026/march/ai-minister-takes-the-stage-with-tech-giants-at-university-of-bristol-summit.html](https://www.bristol.ac.uk/news/2026/march/ai-minister-takes-the-stage-with-tech-giants-at-university-of-bristol-summit.html)  
+   Link: <a href="https://www.bristol.ac.uk/news/2026/march/ai-minister-takes-the-stage-with-tech-giants-at-university-of-bristol-summit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/news/2026/march/ai-minister-takes-the-stage-with-tech-giants-at-university-of-bristol-summit.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Minister takes the stage with global tech giants as UK AI...24 Mar 2026 — Many are already using the UK&#x27;s AI Research Resource – incl...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=adh7D7EQzUM](https://www.youtube.com/watch?v=adh7D7EQzUM)  
+   Link: <a href="https://www.youtube.com/watch?v=adh7D7EQzUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=adh7D7EQzUM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the UK&#x27;s Most Powerful SupercomputerDiscover Isambard AI, the UK&#x27;s most powerful supercomputer, built in Bristol in just 13 months...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: dareuk.org.uk  
    Title: fridge unlocking ai supercomputing for secure sensitive data research  
-   Link: [https://dareuk.org.uk/news-and-events/fridge-unlocking-ai-supercomputing-for-secure-sensitive-data-research/](https://dareuk.org.uk/news-and-events/fridge-unlocking-ai-supercomputing-for-secure-sensitive-data-research/)  
+   Link: <a href="https://dareuk.org.uk/news-and-events/fridge-unlocking-ai-supercomputing-for-secure-sensitive-data-research/" target="_blank" rel="noopener noreferrer nofollow">https://dareuk.org.uk/news-and-events/fridge-unlocking-ai-supercomputing-for-secure-sensitive-data-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FRIDGE: Unlocking AI supercomputing for secure sensitive...13 Oct 2025 — FRIDGE is helping the UK&#x27;s AI Research Resource (AIRR) support...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: bristol.ac.uk  
    Title: Bristol Centre for Supercomputing (Bri CS) | Research Isambard-AI  
-   Link: [https://www.bristol.ac.uk/research/centres/bristol-supercomputing/](https://www.bristol.ac.uk/research/centres/bristol-supercomputing/)  
+   Link: <a href="https://www.bristol.ac.uk/research/centres/bristol-supercomputing/" target="_blank" rel="noopener noreferrer nofollow">https://www.bristol.ac.uk/research/centres/bristol-supercomputing/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isambard-AI is the UK&#x27;s fastest and most powerful supercomputer, purpose-built for AI research. Designed to provide open-source intellige...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: grantedai.com  
    Title: For universities & research institutions. Deadline: August 18,  
-   Link: [https://grantedai.com/grants/isambard-ai-and-dawn-airr-supercomputers-gateway-route-innovate-uk-cef3a9db](https://grantedai.com/grants/isambard-ai-and-dawn-airr-supercomputers-gateway-route-innovate-uk-cef3a9db)  
+   Link: <a href="https://grantedai.com/grants/isambard-ai-and-dawn-airr-supercomputers-gateway-route-innovate-uk-cef3a9db" target="_blank" rel="noopener noreferrer nofollow">https://grantedai.com/grants/isambard-ai-and-dawn-airr-supercomputers-gateway-route-innovate-uk-cef3a9db</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Isambard-AI and Dawn AIRR supercomputers: Gateway routeIsambard-AI and Dawn AIRR supercomputers: Gateway route: funding available from In...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: aicerts.ai  
    Title: uk ai supercomputing investment gets 1 34 billion boost  
-   Link: [https://www.aicerts.ai/news/uk-ai-supercomputing-investment-gets-1-34-billion-boost/](https://www.aicerts.ai/news/uk-ai-supercomputing-investment-gets-1-34-billion-boost/)  
+   Link: <a href="https://www.aicerts.ai/news/uk-ai-supercomputing-investment-gets-1-34-billion-boost/" target="_blank" rel="noopener noreferrer nofollow">https://www.aicerts.ai/news/uk-ai-supercomputing-investment-gets-1-34-billion-boost/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK AI Supercomputing Investment Gets £1.34 Billion BoostJul 8, 2025 — The UK government launches a £1.34B AI supercomputing investment to...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: digit.fyi  
    Title: U K opens up national AI research resource to startups  
-   Link: [https://www.digit.fyi/uk-opens-up-national-ai-research-resource-to-startups/](https://www.digit.fyi/uk-opens-up-national-ai-research-resource-to-startups/)  
+   Link: <a href="https://www.digit.fyi/uk-opens-up-national-ai-research-resource-to-startups/" target="_blank" rel="noopener noreferrer nofollow">https://www.digit.fyi/uk-opens-up-national-ai-research-resource-to-startups/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK opens up national AI research resource to startups - Digit.fyi4 days ago — The government is investing significantly in the Isambard-A...</p></details>

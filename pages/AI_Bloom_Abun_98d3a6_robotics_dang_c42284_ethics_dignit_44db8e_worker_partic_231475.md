@@ -26,7 +26,7 @@ sidebar_expanded_urls:
 - /ethics-dignity/
 nav_short_title: Worker Participation
 title: How Worker Involvement Shapes Robot Automation Ethically
-title_full: How Worker Involvement Shapes Robot Automation Ethically | Ethics & Dignity
+title_full: How Worker Involvement Shapes Robot Automation Ethically
 display_title_short: Worker Participation
 display_title: Worker Participation
 heading_title: How Worker Involvement Shapes Robot Automation Ethically
@@ -201,7 +201,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Ensuring Human Dignity in Automated Dangerous Work | Robotics
+date: '2026-06-08 02:10:42'
+parent_title: Ensuring Human Dignity in Automated Dangerous Work
 parent_permalink: /ethics-dignity/
 parent_nav_short_title: Ethics & Dignity
 parent_heading_title: Ensuring Human Dignity in Automated Dangerous Work
@@ -258,7 +259,6 @@ prev_link:
   permalink: /reskilling-programs/
   short_title: Reskilling Programs
   heading_title: How Training Preserves Purpose in an Automated Workplace
-date: '2026-06-08 02:10:42 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1.webp
@@ -269,15 +269,14 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44
 
 Robot automation is often presented as a technical or economic decision: a company installs machines, productivity rises, and workers adapt. Yet one of the most important ethical questions is who gets a voice before those decisions are made. Worker participation in robot deployment is not mainly about slowing innovation. It is about whether people affected by automation retain agency, recognition and influence over changes that reshape their daily working lives.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-dark.svg" | relative_url }}" alt="Worker Participation illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters both in today's factories, warehouses and service workplaces and in broader discussions about an AI-enabled future. If advanced [robotics]({{ 'robotics/' | relative_url }}) eventually removes much dangerous, repetitive or physically exhausting labour, that could support a more flourishing society. But the route to that future matters. Automation imposed without consultation can leave workers feeling replaceable and controlled. Automation designed with worker involvement is more likely to preserve dignity, improve trust and produce systems that actually work in practice. Research across human-robot collaboration, workplace [governance]({{ 'power/' | relative_url }}) and occupational safety increasingly suggests that participation is not a peripheral concern. It is part of what makes automation ethically legitimate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+This matters both in today's factories, warehouses and service workplaces and in broader discussions about an AI-enabled future. If advanced [robotics]({{ 'robotics/' | relative_url }}) eventually removes much dangerous, repetitive or physically exhausting labour, that could support a more flourishing society. But the route to that future matters. Automation imposed without consultation can leave workers feeling replaceable and controlled. Automation designed with worker involvement is more likely to preserve dignity, improve trust and produce systems that actually work in practice. Research across human-robot collaboration, workplace governance and occupational safety increasingly suggests that participation is not a peripheral concern. It is part of what makes automation ethically legitimate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 ## Why Worker Voice Matters Beyond Efficiency
 
 Many debates about automation focus on jobs gained or lost. Workers, however, often raise a different concern: loss of [control]({{ 'control/' | relative_url }}) over how work is organised. A robot may not eliminate a role entirely, yet it can still reduce autonomy if workers are forced to match machine timings, follow rigid instructions or accept decisions made without their input.
 
-Studies of workplace robotics repeatedly find that implementation choices shape workers' experiences as much as the technology itself. Researchers reviewing human-robot collaboration note that communication practices, implementation strategies and inclusion in decision-making strongly influence whether workers experience automation as supportive or alienating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+Studies of workplace robotics repeatedly find that implementation choices shape workers' experiences as much as the technology itself. Researchers reviewing human-robot collaboration note that communication practices, implementation strategies and inclusion in decision-making strongly influence whether workers experience automation as supportive or alienating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 This is especially important because workers possess knowledge that managers and technology vendors often lack. Front-line employees understand informal workflows, bottlenecks, safety risks and practical realities that may not appear in technical specifications. Participation therefore serves two purposes at once:
 
@@ -292,10 +291,9 @@ The strongest participation models move beyond consultation after decisions have
 
 ### Designing the System With Workers Rather Than For Them
 
-In human-centred robotics, co-design means involving workers in identifying problems, evaluating possible robotic solutions and testing prototypes before full deployment. Researchers studying collaborative robotics increasingly argue that workers should participate in the design and deployment of human-robot work configurations because technical performance, safety and wellbeing are tightly connected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+In human-centred robotics, co-design means involving workers in identifying problems, evaluating possible robotic solutions and testing prototypes before full deployment. Researchers studying collaborative robotics increasingly argue that workers should participate in the design and deployment of human-robot work configurations because technical performance, safety and wellbeing are tightly connected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 This can include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,14 +307,13 @@ This can include:
 
 Such approaches recognise that the workplace is a socio-technical system. A robot does not merely perform a task. It changes routines, responsibilities, communication patterns and expectations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ewmoMwmwq3U" title="AI, job quality and worker voice: Conditions for mutual gains in the digital economy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ewmoMwmwq3U" target="_blank" rel="noopener noreferrer">AI, job quality and worker voice: Conditions for mutual gains in the digital economy</a></p><p class="youtube-embed-meta">Channel: AI for Good &middot; Views: 255 &middot; Uploaded: October 2024 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ewmoMwmwq3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ewmoMwmwq3U">Open on YouTube</a></p></div></div></div>
 
 ### Preventing the "Automation Surprise"
 
 One common source of resistance is what workers sometimes experience as an automation surprise: major technological changes announced after key decisions have already been made.
 
-Evidence from manufacturing studies suggests that successful human-robot collaboration often requires ongoing adaptation rather than a one-off installation process. Researchers examining Industry 5.0 transitions describe implementation as a continuing negotiation between efficiency goals, worker wellbeing and organisational realities rather than a straightforward technical upgrade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
+Evidence from manufacturing studies suggests that successful human-robot collaboration often requires ongoing adaptation rather than a one-off installation process. Researchers examining Industry 5.0 transitions describe implementation as a continuing negotiation between efficiency goals, worker wellbeing and organisational realities rather than a straightforward technical upgrade. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>
 
 When workers are involved earlier, organisations can identify problems before they become sources of conflict. This may reduce fear, improve adoption and help employees understand how their roles will change.
 
@@ -326,10 +323,9 @@ Not every participation programme genuinely shifts [power]({{ 'power/' | relativ
 
 ### Collective Representation
 
-Trade unions, works councils and employee committees have historically provided channels through which workers can influence technological change. Research on digitalisation and worker voice suggests that institutions representing workers can affect how advanced technologies are introduced and governed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-title">GLO DP 1038</span><span class="citation-popover-snippet">EconstorRobots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</span></span></span>
+Trade unions, works councils and employee committees have historically provided channels through which workers can influence technological change. Research on digitalisation and worker voice suggests that institutions representing workers can affect how advanced technologies are introduced and governed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: econstor.eu">[Econstor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">econstor.eu</span><span class="citation-popover-title">GLO DP 1038</span><span class="citation-popover-snippet">Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</span></span></span>
 
 Collective representation becomes particularly important when individual workers fear speaking openly about concerns regarding workload, surveillance or job redesign.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-2-dark.svg" | relative_url }}" alt="Worker Participation illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Participatory Risk Assessment
@@ -339,7 +335,6 @@ Robots are often introduced partly to improve safety. Yet workers frequently not
 European workplace safety research on advanced robotics highlights the importance of involving employees when evaluating occupational safety and health impacts. Case studies show that implementation decisions influence not only productivity but also stress levels, ergonomics and workplace wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 A participatory assessment typically asks workers:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -351,7 +346,6 @@ A participatory assessment typically asks workers:
 </div>
 
 This process treats workers as experts in their own work environments.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N6RvIQ1cBRE" title="Let the Robots do the Work | Pete Rogers | TEDxStCloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N6RvIQ1cBRE" target="_blank" rel="noopener noreferrer">Let the Robots do the Work | Pete Rogers | TEDxStCloud</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.5K &middot; Uploaded: November 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N6RvIQ1cBRE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N6RvIQ1cBRE">Open on YouTube</a></p></div></div></div>
 
@@ -369,15 +363,14 @@ Several studies of collaborative robots, or "cobots", illustrate why worker invo
 
 ### Factory Workers Asking for More Adaptive Robots
 
-A study of automotive assembly-line workers using a robotic prototype found that employees often felt constrained by rigid machine behaviour. Workers reported that predefined robotic actions reduced flexibility and interfered with their own preferred working methods. Rather than rejecting automation entirely, they asked for robots that could adapt more effectively to human needs and varying work rhythms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivUser Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</span><span class="citation-popover-meta">Published: June 13, 2016</span></span></span>
+A study of automotive assembly-line workers using a robotic prototype found that employees often felt constrained by rigid machine behaviour. Workers reported that predefined robotic actions reduced flexibility and interfered with their own preferred working methods. Rather than rejecting automation entirely, they asked for robots that could adapt more effectively to human needs and varying work rhythms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</span><span class="citation-popover-meta">Published: June 13, 2016</span></span></span>
 
 This is a revealing finding. The problem was not simply the presence of a robot. It was the absence of sufficient worker influence over how the collaboration was designed.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-dark.svg" | relative_url }}" alt="Worker Participation illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e_worker_partic_231475-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Lessons From Early Cobot Deployments
 
-Research on collaborative robots in manufacturing found that many deployments initially assigned robots narrow repetitive tasks while workers performed loading, unloading and error correction. In these settings, collaboration often remained shallow, limiting opportunities for workers to shape workflows or develop new capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Working Together with Collaborative Robots in Flexible</span><span class="citation-popover-snippet">ResearchGateWorking Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</span><span class="citation-popover-meta">Published: April 9, 2020</span></span></span>
+Research on collaborative robots in manufacturing found that many deployments initially assigned robots narrow repetitive tasks while workers performed loading, unloading and error correction. In these settings, collaboration often remained shallow, limiting opportunities for workers to shape workflows or develop new capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Working Together with Collaborative Robots in Flexible</span><span class="citation-popover-snippet">Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</span><span class="citation-popover-meta">Published: April 9, 2020</span></span></span>
 
 This highlights a broader ethical question. Is automation being used to augment human capabilities or merely to reorganise workers around machine requirements?
 
@@ -391,10 +384,9 @@ Employees are more likely to trust automation when they understand why it is bei
 
 A worker may accept substantial workplace change if the process feels fair. Conversely, even a technically successful system can generate resentment if workers feel excluded.
 
-This becomes especially relevant as AI systems increasingly combine robotics with [algorithmic]({{ 'algorithmic-risks/' | relative_url }}) management. The International Labour Organization has warned that AI is being used not only to automate tasks but also managerial functions, creating new concerns about surveillance, autonomy and control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
+This becomes especially relevant as AI systems increasingly combine robotics with algorithmic management. The International Labour Organization has warned that AI is being used not only to automate tasks but also managerial functions, creating new concerns about surveillance, autonomy and control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
 
 Worker participation can act as a safeguard against these risks by creating opportunities to challenge intrusive monitoring, unrealistic productivity targets or opaque decision-making systems before they become embedded.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tv4rmWFn0D4" title="Lifelong Robot Adaptation with Task-Driven Co-Design and Integration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tv4rmWFn0D4" target="_blank" rel="noopener noreferrer">Lifelong Robot Adaptation with Task-Driven Co-Design and Integration</a></p><p class="youtube-embed-meta">Channel: Texas Robotics &middot; Views: 147 &middot; Uploaded: March 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tv4rmWFn0D4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tv4rmWFn0D4">Open on YouTube</a></p></div></div></div>
 
@@ -402,11 +394,11 @@ Worker participation can act as a safeguard against these risks by creating oppo
 
 Organisations that aim to preserve dignity during automation tend to share several characteristics.
 
-They communicate early rather than presenting automation as a completed decision. They explain the goals of deployment, including safety, quality or workload reduction objectives. They provide workers with opportunities to influence implementation details. They invest in [retraining]({{ 'retraining/' | relative_url }}) and career development rather than treating labour displacement as an external problem. And they evaluate success using measures beyond productivity alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>, dignity-preserving implementation does not require rejecting automation. In many industries, workers themselves often support robots that remove dangerous lifting, repetitive strain injuries or hazardous exposures. The ethical issue is whether workers participate in defining the terms of that transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
+They communicate early rather than presenting automation as a completed decision. They explain the goals of deployment, including safety, quality or workload reduction objectives. They provide workers with opportunities to influence implementation details. They invest in [retraining]({{ 'retraining/' | relative_url }}) and career development rather than treating labour displacement as an external problem. And they evaluate success using measures beyond productivity alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthy-workplaces.osha.europa.eu">[healthy-workplaces.osha.europa.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthy-workplaces.osha.europa.eu</span><span class="citation-popover-snippet">Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</span></span></span>, dignity-preserving implementation does not require rejecting automation. In many industries, workers themselves often support robots that remove dangerous lifting, repetitive strain injuries or hazardous exposures. The ethical issue is whether workers participate in defining the terms of that transition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ilo.org">[International Labour Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ilo.org</span><span class="citation-popover-title">revolutionizing health and safety role ai and digitalization work</span><span class="citation-popover-snippet">International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</span></span></span>
 
 ## Why This Question Matters for an AI-Abundant Future
 
-Long-term visions of AI abundance often assume that increasingly capable robots could perform much of the dangerous, monotonous and physically demanding work that humans currently undertake. If realised, that could free people for education, creativity, caregiving, [scientific]({{ 'discovery/' | relative_url }}) work and other activities that many find more meaningful.
+Long-term visions of AI abundance often assume that increasingly capable robots could perform much of the dangerous, monotonous and physically demanding work that humans currently undertake. If realised, that could free people for [education]({{ 'education/' | relative_url }}), creativity, caregiving, scientific work and other activities that many find more meaningful.
 
 Yet the transition toward such a future is unlikely to be judged solely by output statistics or economic growth rates. It will also be judged by whether people feel respected during the process.
 
@@ -531,15 +523,15 @@ A future in which robots remove drudgery while workers retain voice, influence a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame #"><img src="{{ '/assets/images/marketplace-covers/d4e7fb09d6aceafda895.jpg' | relative_url }}" alt="Listing image for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame #" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable Robot Toy"><img src="https://i.ebayimg.com/images/g/BkgAAeSw8Ghp7erM/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame #</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable Robot Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,15 +539,15 @@ A future in which robots remove drudgery while workers retain voice, influence a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:4 YUMI Industrial Robot Six-axis Model Manipulator Robot Arm 3D Model Gift *"><img src="{{ '/assets/images/marketplace-covers/5bf64d03d05a3acb3154.jpg' | relative_url }}" alt="Listing image for 1:4 YUMI Industrial Robot Six-axis Model Manipulator Robot Arm 3D Model Gift *" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy"><img src="https://i.ebayimg.com/images/g/FbkAAeSwdJBp9lem/s-l225.jpg" alt="Listing image for Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:4 YUMI Industrial Robot Six-axis Model Manipulator Robot Arm 3D Model Gift *</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Transforming Car Robot Toy One Step Deformation Action Figure Anime Model Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +555,15 @@ A future in which robots remove drudgery while workers retain voice, influence a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:4 YUMI Industrial Robot Model Six Axis Arm 3D Model #ty"><img src="{{ '/assets/images/marketplace-covers/333bb321a4c46068bbd8.jpg' | relative_url }}" alt="Listing image for 1:4 YUMI Industrial Robot Model Six Axis Arm 3D Model #ty" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot"><img src="https://i.ebayimg.com/images/g/7CIAAOSwdTlnJHrd/s-l225.jpg" alt="Listing image for Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">1:4 YUMI Industrial Robot Model Six Axis Arm 3D Model #ty</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Tobot V Galaxy Detectives 8&quot; Transform Figure Boys Toy Car Truck Vehicle Robot</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +571,15 @@ A future in which robots remove drudgery while workers retain voice, influence a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New"><img src="{{ '/assets/images/marketplace-covers/67c2a9c67e11b4decec7.jpg' | relative_url }}" alt="Listing image for 6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy"><img src="https://i.ebayimg.com/images/g/wigAAOSw0JlnVdKL/s-l225.jpg" alt="Listing image for Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">6-Axis Industrial Mechanical Robot Arm Model Aluminum Manipulator Only Frame New</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">Titan 13 Articulated Action Figure - Poseable 3D Printed Robot Toy</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for industrial robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: industrial robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot figure</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,7 +587,7 @@ A future in which robots remove drudgery while workers retain voice, influence a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=industrial+robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="industrial robot model" data-ebay-reference="worker-participation-how-worker-involvement-shapes-robot-automation-ethically-ai-bloom-abundance-industrial-robot-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-worker-involvement-shapes-robot-automation-ethically-robot-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot figure" data-ebay-reference="how-worker-involvement-shapes-robot-automation-ethically-robot-figure" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -810,156 +802,156 @@ A future in which robots remove drudgery while workers retain voice, influence a
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949882126000265](https://www.sciencedirect.com/science/article/pii/S2949882126000265)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHuman-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949882126000265" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949882126000265</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human-robot collaboration at work: A review of workers&#x27;...by S Skavron · 2026 · Cited by 2 — At the organisational level, w...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Realising human-robot collaboration in manufacturing?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S004016252500280X](https://www.sciencedirect.com/science/article/pii/S004016252500280X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S004016252500280X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S004016252500280X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>TC Callari · 2025 · Cited by 22 — To this end, workers should be involved in the effective design and deployment of human-robot w...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: laborcenter.berkeley.edu  
    Title: data algorithms at work  
-   Link: [https://laborcenter.berkeley.edu/data-algorithms-at-work/](https://laborcenter.berkeley.edu/data-algorithms-at-work/)  
+   Link: <a href="https://laborcenter.berkeley.edu/data-algorithms-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://laborcenter.berkeley.edu/data-algorithms-at-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley Labor CenterData and Algorithms at Work: The Case for Worker...3 Nov 2021 — Ultimately, the goal is that workers fully parti...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: econstor.eu  
    Title: GLO DP 1038  
-   Link: [https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf](https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EconstorRobots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</p></details>
+   Link: <a href="https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.econstor.eu/bitstream/10419/249341/1/GLO-DP-1038.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots, Digitalization, and Worker Voiceby F Belloc · 2022 · Cited by 12 — In this paper, we study whether the firm-level adoptio...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: healthy-workplaces.osha.europa.eu  
-   Link: [https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf](https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf)  
+   Link: <a href="https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://healthy-workplaces.osha.europa.eu/sites/hwc/files/hwc/publication/Advanced-robotic-automation-case-studies-summary_en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced robotic automation: comparative case study reportMay 29, 2023 — This document summarises the results of 11 case studies on the i...</p></details>
    Published: May 29, 2023  
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13347-019-00377-4](https://link.springer.com/article/10.1007/s13347-019-00377-4)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00377-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkRobots in the Workplace: a Threat to—or Opportunity for...by J Smids · 2020 · Cited by 445 — The paper investigates both wa...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1606.03846](https://arxiv.org/abs/1606.03846)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivUser Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</p></details>
+   Link: <a href="https://arxiv.org/abs/1606.03846" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1606.03846</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>User Experience of a Smart Factory Robot: Assembly Line Workers Demand Adaptive RobotsJune 13, 2016...</p></details>
    Published: June 13, 2016  
 
 8. <a id="endnote-8"></a>
    Source: researchgate.net  
    Title: Research Gate Working Together with Collaborative Robots in Flexible  
-   Link: [https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study](https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateWorking Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/340527842_Working_Together_with_Collaborative_Robots_in_Flexible_Manufacturing_Systems_An_Exploratory_Study</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Together with Collaborative Robots in Flexible...April 9, 2020 — 9 Apr 2020 — Cobots were shallowly introduced to pr...</p></details>
    Published: April 9, 2020  
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability](https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability)  
+   Link: <a href="https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343602742_Employees%27_Perceptions_of_the_Implementation_of_Robotics_Artificial_Intelligence_and_Automation_RAIA_on_Job_Satisfaction_Job_Security_and_Employability</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>mentation of robotics, artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) (AI), and automation (RAIA)Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: link.springer.com  
    Title: case-study: One collaborative robot in cooperation with two workers.Read more  
-   Link: [https://link.springer.com/article/10.1007/s10845-023-02137-w](https://link.springer.com/article/10.1007/s10845-023-02137-w)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10845-023-02137-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10845-023-02137-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>robots in manufacturing and assembly systemsby A Keshvarparast · 2024 · Cited by 289 — Refining dynamics identification for co-bots: Case...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0040162524004463](https://www.sciencedirect.com/science/article/pii/S0040162524004463)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0040162524004463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0040162524004463</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Working with robots: Trends and future directionsby S Wang · 2025 · Cited by 30 — This study aims to review and consolidate the extant li...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ilo.org  
    Title: revolutionizing health and safety role ai and digitalization work  
-   Link: [https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work](https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work)  
+   Link: <a href="https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/publications/revolutionizing-health-and-safety-role-ai-and-digitalization-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationThe role of AI and digitalization at work23 Apr 2025 — Digitalization and automation are transforming mi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ilo.org  
    Title: International Labour Organization Artificial intelligence  
-   Link: [https://www.ilo.org/topics-and-sectors/artificial-intelligence](https://www.ilo.org/topics-and-sectors/artificial-intelligence)  
+   Link: <a href="https://www.ilo.org/topics-and-sectors/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/topics-and-sectors/artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationArtificial intelligenceApril 23, 2024 — The first is directed at automating tasks that workers perform...</p></details>
    Published: April 23, 2024  
 
 14. <a id="endnote-14"></a>
    Source: webapps.ilo.org  
-   Link: [https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html](https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html)  
+   Link: <a href="https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html" target="_blank" rel="noopener noreferrer nofollow">https://webapps.ilo.org/static/english/intserv/working-papers/wp170/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systems at Work: A Changing Psychosocial...AI Systems at Work. A Changing Psychosocial Work Environment. Tahmina Karimova. Abstract. The...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ilo.org  
    Title: ai driven intrusive surveillance and loss autonomy work linked psychosocial  
-   Link: [https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial](https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial)  
+   Link: <a href="https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/resource/news/ai-driven-intrusive-surveillance-and-loss-autonomy-work-linked-psychosocial</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI-driven intrusive surveillance and loss of autonomy at...30 Apr 2026 — The findings are based on new...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ilo.org  
    Title: International Labour Organization AI Systems at Work A very short  
-   Link: [https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf](https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf)  
+   Link: <a href="https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2026-05/9789220434086_PDF_Web_EN.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Labour OrganizationAI Systems at WorkA very short introduction to advanced robotics, AI-based AM and smart digital systems...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ifr.org  
    Title: Case Studies  
-   Link: [https://ifr.org/case-studies/case-studies-collaborative-robots](https://ifr.org/case-studies/case-studies-collaborative-robots)  
+   Link: <a href="https://ifr.org/case-studies/case-studies-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://ifr.org/case-studies/case-studies-collaborative-robots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative RobotsCollaborative industrial robots are designed to perform tasks in collaboration with workers in industrial sectors.Rea...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: humanresourcesonline.net  
-   Link: [https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries](https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries)  
+   Link: <a href="https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries" target="_blank" rel="noopener noreferrer nofollow">https://www.humanresourcesonline.net/ilo-details-the-role-of-ai-in-improving-workplace-safety-health-risks-across-industries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILO details the role of AI in improving workplace safety &amp;...25 Apr 2025 — Automation and advanced robotics are revolutionising workplac...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: the report of ilo director general gilbert f houngbo to ilc2026 examines how ai  
-   Link: [https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/](https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/)  
+   Link: <a href="https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ILO.ORG/posts/the-report-of-ilo-director-general-gilbert-f-houngbo-to-ilc2026-examines-how-ai-/1404261365067176/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report of ILO Director-General Gilbert F Houngbo...The report of ILO Director-General Gilbert F Houngbo to #ILC2026 examines how #AI...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: iuk-business-connect.org.uk  
-   Link: [https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf](https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf)  
+   Link: <a href="https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iuk-business-connect.org.uk/wp-content/uploads/2024/07/NMIS-Findings-Report-July-2024.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>alysis based on data from international datasets and workshops conducted from...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: safety4sea.com  
    Title: ilo how digitalization and automation shape workplaces  
-   Link: [https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/](https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/)  
+   Link: <a href="https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/" target="_blank" rel="noopener noreferrer nofollow">https://safety4sea.com/ilo-how-digitalization-and-automation-shape-workplaces/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ILO: How digitalization and automation shape workplaces29 Apr 2025 — A new ILO report examines how AI, digitalization, robotics, and auto...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: repositum.tuwien.at  
    Title: at Collaborative Robotics in Industry 5.0  
-   Link: [https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf](https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reposiTUmby M Doyle-Kent · 2021 · Cited by 32 — Collaborative Robotics in Industry 5.0. Carried out for the purpose of obtaining Dr.-Stud...</p></details>
+   Link: <a href="https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repositum.tuwien.at/bitstream/20.500.12708/17416/1/Doyle-Kent%20Mary%20-%202021%20-%20Collaborative%20robotics%20in%20industry%2050.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Doyle-Kent · 2021 · Cited by 32 — Collaborative Robotics in Industry 5.0. Carried out for the purpose of obtaining Dr.-Stud...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925](https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09585192.2022.2043925</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of robotization in work design: a comparative case...by HA Berkers · 2023 · Cited by 77 — In this comparative case study, we ex...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ewmoMwmwq3U](https://www.youtube.com/watch?v=ewmoMwmwq3U)  
+   Link: <a href="https://www.youtube.com/watch?v=ewmoMwmwq3U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ewmoMwmwq3U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots Will Replace Factory Workers by 2028 — No One Voted on It...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Lifelong Robot Adaptation with Task-Driven Co-Design and Integration  
-   Link: [https://www.youtube.com/watch?v=Tv4rmWFn0D4](https://www.youtube.com/watch?v=Tv4rmWFn0D4)  
+   Link: <a href="https://www.youtube.com/watch?v=Tv4rmWFn0D4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Tv4rmWFn0D4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, job quality and worker voice: Conditions for mutual gains in the digital economy...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: oecd.org  
    Title: 2247ce58 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_b4c2c6ee/2247ce58-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from OECD case studies of AI implementationby A Milanez · 2023 · Cited by 133 — However, across all case studies, there is good...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-86255-w](https://www.nature.com/articles/s41598-025-86255-w)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-86255-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-86255-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Human–robot interactions and experiences of staff...by V Macalupu · 2025 · Cited by 28 — This study investigates how 34 staff interacted...</p></details>

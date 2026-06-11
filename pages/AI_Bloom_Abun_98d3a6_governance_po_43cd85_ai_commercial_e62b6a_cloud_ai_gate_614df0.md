@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-concentration/
 nav_short_title: Cloud Gateways
 title: Who controls the roads to advanced AI?
-title_full: Who controls the roads to advanced AI? | AI Concentration
+title_full: Who controls the roads to advanced AI?
 display_title_short: Cloud Gateways
 display_title: Cloud Gateways
 heading_title: Who controls the roads to advanced AI?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Controls AI Platforms and Why It Matters | Power
+date: '2026-06-08 02:02:43'
+parent_title: Who Controls AI Platforms and Why It Matters
 parent_permalink: /ai-concentration/
 parent_nav_short_title: AI Concentration
 parent_heading_title: Who Controls AI Platforms and Why It Matters
@@ -266,7 +267,6 @@ next_link:
   permalink: /lock-in/
   short_title: Lock In
   heading_title: Can anyone leave the AI ecosystem?
-date: '2026-06-08 02:02:43 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1.webp
@@ -275,11 +275,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e6
 
 ## Introduction
 
-Advanced AI is often described as a software revolution, but its development increasingly depends on something more physical: access to vast amounts of computing power. Training and running [frontier AI]({{ 'safety-frameworks/' | relative_url }}) models requires specialised chips, large [data centres]({{ 'power-demand/' | relative_url }}), high-speed networking, energy infrastructure and cloud platforms that can coordinate them at scale. As a result, a small number of cloud providers have become critical intermediaries between AI developers and the computational resources they need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
-
+Advanced AI is often described as a software revolution, but its development increasingly depends on something more physical: access to vast amounts of computing [power]({{ 'power/' | relative_url }}). Training and running frontier AI models requires specialised chips, large data centres, high-speed networking, [energy]({{ 'energy/' | relative_url }}) infrastructure and cloud platforms that can coordinate them at scale. As a result, a small number of cloud providers have become critical intermediaries between AI developers and the computational resources they need. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Gateways illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This has turned cloud infrastructure into a central [governance]({{ 'power/' | relative_url }}) question. If AI contributes to scientific acceleration, medical breakthroughs, automation, education and long-term human flourishing, then the firms controlling access to advanced compute may influence who can participate in that future. The issue is not simply market concentration in the ordinary business sense. It is whether a handful of companies effectively control the roads that lead to advanced AI, and what that means for innovation, competition, public research and democratic oversight.
+This has turned cloud infrastructure into a central governance question. If AI contributes to scientific acceleration, medical breakthroughs, automation, [education]({{ 'education/' | relative_url }}) and long-term human flourishing, then the firms controlling access to advanced compute may influence who can participate in that future. The issue is not simply market concentration in the ordinary business sense. It is whether a handful of companies effectively [control]({{ 'control/' | relative_url }}) the roads that lead to advanced AI, and what that means for innovation, competition, public research and democratic oversight.
 
 ## Who controls the roads to advanced AI?
 
@@ -288,7 +287,6 @@ For much of computing history, organisations could buy their own servers and ope
 Training a frontier model can require tens of thousands of high-performance AI accelerators operating together for weeks or months. Building facilities capable of supporting those systems demands enormous investments in power delivery, cooling, networking and engineering. Few organisations can afford to replicate this infrastructure independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">annual report and accounts 2024 to 2025</span><span class="citation-popover-snippet">Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</span></span></span>
 
 As a result, the dominant cloud providers have become the practical gateway to advanced AI development:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ As a result, the dominant cloud providers have become the practical gateway to a
 Together, these firms consistently account for roughly two-thirds of global cloud infrastructure spending, depending on the measurement period. Multiple industry analyses place their combined market share above 60%, with AWS maintaining the largest share and Microsoft and Google following behind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aag-it.com">[AAG IT Services]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aag-it.com</span><span class="citation-popover-title">the latest cloud computing statistics</span><span class="citation-popover-snippet">Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crn.com">[CRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crn.com</span><span class="citation-popover-title">global cloud market share q4 2025 google grows aws lead narrows</span><span class="citation-popover-snippet">Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</span></span></span>
 
 This concentration matters because cloud providers are no longer merely renting servers. They increasingly control:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +322,7 @@ Several technical and economic forces reinforce the importance of cloud provider
 
 The most obvious factor is cost.
 
-Frontier AI systems require enormous quantities of computation. The infrastructure needed to support them is measured not in millions but often billions of pounds of capital expenditure. Data centres must secure electricity, cooling systems, networking equipment and specialised processors that are themselves produced through highly concentrated [supply chains]({{ 'risky-elements/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">artificial intelligence sector study 2024</span><span class="citation-popover-snippet">Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</span></span></span>
+Frontier AI systems require enormous quantities of computation. The infrastructure needed to support them is measured not in millions but often billions of pounds of capital expenditure. Data centres must secure electricity, cooling systems, networking equipment and specialised processors that are themselves produced through highly concentrated supply chains. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">artificial intelligence sector study 2024</span><span class="citation-popover-snippet">Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</span></span></span>
 
 Cloud providers already possess many of these assets. They can spread costs across thousands of customers and continuously reinvest revenue into larger facilities.
 
@@ -341,7 +338,6 @@ This gives cloud providers substantial influence over who receives computing res
 
 During periods of hardware scarcity, access can become a strategic bottleneck rather than a routine commercial service.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yHBjG8umPcM" title="NVIDIA vs Cloud Providers - AWS, Azure, GCP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yHBjG8umPcM" target="_blank" rel="noopener noreferrer">NVIDIA vs Cloud Providers - AWS, Azure, GCP</a></p><p class="youtube-embed-meta">Channel: Future of AI &amp; Data &middot; Views: 820 &middot; Uploaded: April 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yHBjG8umPcM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yHBjG8umPcM">Open on YouTube</a></p></div></div></div>
 
 ### AI services are increasingly bundled
@@ -350,14 +346,13 @@ The cloud market is evolving from infrastructure rental towards integrated AI ec
 
 Instead of simply providing compute, cloud providers increasingly offer:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Proprietary foundation models. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 * Model hosting services.
 * AI development environments.
 * Fine-tuning tools.
-* Data management systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">OECDMarket features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
+* Data management systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
 * Enterprise software integrations.
 
 </div>
@@ -372,7 +367,7 @@ One reason regulators pay attention to cloud infrastructure is that concentratio
 
 Many leading AI firms are increasingly linked to major cloud providers through investments, partnerships and distribution agreements.
 
-Microsoft's relationship with OpenAI became one of the most prominent examples. Azure provides critical infrastructure for OpenAI services while OpenAI products help drive demand for Azure. Similar dynamics emerged around Amazon's multibillion-dollar partnership with [Anthropic]({{ 'anthropic-misalignment/' | relative_url }}), which included commitments to use AWS infrastructure for major workloads. The UK's Competition and Markets Authority (CMA) investigated aspects of these arrangements because of concerns about their potential impact on competition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</span></span></span>
+Microsoft's relationship with OpenAI became one of the most prominent examples. Azure provides critical infrastructure for OpenAI services while OpenAI products help drive demand for Azure. Similar dynamics emerged around Amazon's multibillion-dollar partnership with Anthropic, which included commitments to use AWS infrastructure for major workloads. The UK's Competition and Markets Authority (CMA) investigated aspects of these arrangements because of concerns about their potential impact on competition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</span></span></span>
 
 These relationships are not necessarily anti-competitive. They can provide AI developers with funding, engineering support and access to infrastructure that would otherwise be difficult to obtain.
 
@@ -385,7 +380,6 @@ But they also create a more vertically integrated ecosystem in which cloud provi
 * Competitors.
 
 The concern is not that any single relationship automatically creates monopoly power. It is that repeated partnerships could gradually make a small number of infrastructure firms unavoidable intermediaries throughout the AI supply chain.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-2-dark.svg" | relative_url }}" alt="Cloud Gateways illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How bottlenecks affect researchers, startups and public institutions
@@ -401,7 +395,6 @@ Advanced AI changes the scale of the challenge.
 Many academic groups cannot easily match the computational budgets available to large technology firms. This can limit their ability to reproduce results, conduct independent safety research or compete at the frontier of model development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">cma ai strategic update</span><span class="citation-popover-snippet">AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</span></span></span>
 
 The result may be a shift in where cutting-edge knowledge is produced. Research that once occurred primarily in universities increasingly moves into private organisations with access to large-scale infrastructure.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TUrdWb7ugA0" title="AI Unleashed: Wes Cummins on Supercomputing-as-a-Service and the Future of AI Infrastructure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TUrdWb7ugA0" target="_blank" rel="noopener noreferrer">AI Unleashed: Wes Cummins on Supercomputing-as-a-Service and the Future of AI Infrastructure</a></p><p class="youtube-embed-meta">Channel: The AI-First Business Podcast &middot; Views: 540 &middot; Uploaded: January 2024 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TUrdWb7ugA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TUrdWb7ugA0">Open on YouTube</a></p></div></div></div>
 
@@ -423,8 +416,7 @@ That creates practical benefits. Major cloud providers offer reliability, securi
 
 However, dependence on a small number of providers can also create strategic vulnerabilities.
 
-A government deploying AI in healthcare, education, scientific research or public administration may discover that crucial capabilities depend on commercial infrastructure controlled by foreign firms. Questions of sovereignty, [resilience]({{ 'resilience/' | relative_url }}) and bargaining power become more significant as AI becomes embedded in state functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">OECDMarket features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
-
+A government deploying AI in healthcare, education, scientific research or public administration may discover that crucial capabilities depend on commercial infrastructure controlled by foreign firms. Questions of sovereignty, [resilience]({{ 'resilience/' | relative_url }}) and bargaining power become more significant as AI becomes embedded in state functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 6</span><span class="citation-popover-snippet">Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-dark.svg" | relative_url }}" alt="Cloud Gateways illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_commercial_e62b6a_cloud_ai_gate_614df0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Does concentration speed progress or slow it?
@@ -433,7 +425,7 @@ One of the most important disagreements concerns whether concentration is mainly
 
 Supporters of large-scale infrastructure argue that frontier AI would advance more slowly without hyperscale cloud providers.
 
-Building advanced data centres requires extraordinary capital investment. Large firms can finance projects that universities, governments and startups might struggle to fund. Shared infrastructure may also reduce duplication and allow innovations to spread more quickly across industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDMeasuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</span></span></span>
+Building advanced data centres requires extraordinary capital investment. Large firms can finance projects that universities, governments and startups might struggle to fund. Shared infrastructure may also reduce duplication and allow innovations to spread more quickly across industries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</span></span></span>
 
 From this perspective, concentration is partly a consequence of technological reality. If advanced AI requires immense resources, then some degree of scale may be unavoidable.
 
@@ -441,7 +433,7 @@ Critics do not necessarily dispute the value of scale. Their concern is that inf
 
 If the largest providers control compute, attract the most customers, secure the largest AI partnerships and earn the highest revenues, they may gain advantages that become increasingly difficult for rivals to challenge. Innovation can continue while competitive pressure weakens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openloop.org">[Open Loop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openloop.org</span><span class="citation-popover-title">competition in ai foundation models and the cma ai principles</span><span class="citation-popover-snippet">Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">A I Foundation Models: initial review</span><span class="citation-popover-snippet">AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</span><span class="citation-popover-meta">Published: May 4, 2023</span></span></span>
 
-The debate is therefore less about whether cloud giants create value and more about whether the benefits of scale can coexist with meaningful competition and broad access.
+The debate is therefore less about whether cloud giants create value and more about whether the benefits of scale can coexist with meaningful competition and [broad access]({{ 'broad-access/' | relative_url }}).
 
 ## Governance choices that could widen access
 
@@ -451,7 +443,7 @@ The central policy question is not whether cloud infrastructure should exist. It
 
 Competition authorities have focused on making it easier for customers to move between providers.
 
-Technical standards, data portability requirements and interoperability measures could reduce dependence on a single platform. If organisations can switch providers more easily, cloud firms may face stronger competitive pressure on pricing and service quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDCompetition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</span><span class="citation-popover-meta">Published: June 2025</span></span></span>
+Technical standards, data portability requirements and interoperability measures could reduce dependence on a single platform. If organisations can switch providers more easily, cloud firms may face stronger competitive pressure on pricing and service quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</span><span class="citation-popover-meta">Published: June 2025</span></span></span>
 
 ### Public-interest compute
 
@@ -460,7 +452,6 @@ Some researchers advocate public or publicly supported compute resources.
 The idea is not necessarily to replace commercial clouds but to ensure that universities, independent researchers and public-interest projects can access advanced computing resources without relying entirely on private gatekeepers.
 
 Such proposals resemble earlier investments in scientific infrastructure, where governments funded facilities too expensive for individual institutions to build alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AuSDbKIf314" title="Compute to Compete: Cloud, AI, and Strategic Competition over Digital Infrastructure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AuSDbKIf314" target="_blank" rel="noopener noreferrer">Compute to Compete: Cloud, AI, and Strategic Competition over Digital Infrastructure</a></p><p class="youtube-embed-meta">Channel: natoccdcoe &middot; Views: 224 &middot; Uploaded: June 2024 &middot; Length: 1 hour 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AuSDbKIf314" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AuSDbKIf314">Open on YouTube</a></p></div></div></div>
 
@@ -474,7 +465,7 @@ The concern is that investments, exclusive agreements or preferential access arr
 
 Another concern is geographic concentration.
 
-Advanced cloud infrastructure is unevenly distributed around the world. Countries without significant domestic compute capacity may become dependent on infrastructure located elsewhere. OECD work has highlighted the importance of understanding where cloud compute is physically available and who controls it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</span></span></span>
+Advanced cloud infrastructure is unevenly distributed around the world. Countries without significant domestic compute capacity may become dependent on infrastructure located elsewhere. OECD work has highlighted the importance of understanding where cloud compute is physically available and who controls it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</span></span></span>
 
 If advanced AI becomes a key driver of scientific and economic progress, unequal access to compute could reinforce global inequalities rather than reduce them.
 
@@ -482,7 +473,7 @@ If advanced AI becomes a key driver of scientific and economic progress, unequal
 
 The optimistic case for AI is not merely that companies become more productive. It is that [intelligence]({{ 'intelligence/' | relative_url }}) itself becomes more abundant.
 
-In that vision, advanced AI could accelerate medicine, scientific discovery, education, engineering, climate mitigation and many other activities that expand human flourishing. The long-term promise of an AI-enabled civilisation depends on the widespread availability of those capabilities rather than their confinement to a small number of organisations.
+In that vision, advanced AI could accelerate medicine, scientific [discovery]({{ 'discovery/' | relative_url }}), education, engineering, climate mitigation and many other activities that expand human flourishing. The long-term promise of an AI-enabled civilisation depends on the widespread availability of those capabilities rather than their confinement to a small number of organisations.
 
 Cloud infrastructure sits near the centre of that question.
 
@@ -889,208 +880,208 @@ The future of AI abundance is therefore not only a question of algorithms. It is
 1. <a id="endnote-1"></a>
    Source: GOV.UK  
    Title: A I Foundation Models: initial review  
-   Link: [https://www.gov.uk/cma-cases/ai-foundation-models-initial-review](https://www.gov.uk/cma-cases/ai-foundation-models-initial-review)  
+   Link: <a href="https://www.gov.uk/cma-cases/ai-foundation-models-initial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/ai-foundation-models-initial-review</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Foundation Models: initial reviewMay 4, 2023 — This initial review will help create an early understanding of the market for foundatio...</p></details>
    Published: May 4, 2023  
 
 2. <a id="endnote-2"></a>
    Source: assets.publishing.service.gov.uk  
    Title: AI Foundation Models technical update report  
-   Link: [https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf](https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/661e5a4c7469198185bd3d62/AI_Foundation_Models_technical_update_report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Foundation Models - Technical update reportApr 16, 2024 — 153 NVIDIA (2023) Google Cloud and NVIDIA Expand Partnership to Advance AI Comp...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aag-it.com  
    Title: the latest cloud computing statistics  
-   Link: [https://aag-it.com/the-latest-cloud-computing-statistics/](https://aag-it.com/the-latest-cloud-computing-statistics/)  
+   Link: <a href="https://aag-it.com/the-latest-cloud-computing-statistics/" target="_blank" rel="noopener noreferrer nofollow">https://aag-it.com/the-latest-cloud-computing-statistics/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft Azure had a market share of 22% in Q1 2022, with Google at 10...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: crn.com  
    Title: global cloud market share q4 2025 google grows aws lead narrows  
-   Link: [https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows](https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows)  
+   Link: <a href="https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/global-cloud-market-share-q4-2025-google-grows-aws-lead-narrows</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share Q4 2025; Google Grows, AWS...11 Feb 2026 — Combined, AWS, Microsoft and Google Cloud achieved 68 percent share...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
    Title: component 6  
-   Link: [https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDMarket features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-6.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Market features in AI infrastructure: Competition in artificial...14 Nov 2025 — In the context of AI infrastructure, such competitio...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html](https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDMeasuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/measuring-domestic-public-cloud-compute-availability-for-artificial-intelligence_8602a322-en.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring domestic public cloud compute availability for...by V Lehdonvirta · 2025 · Cited by 1 — This Working Paper develops a meth...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: annual report and accounts 2024 to 2025  
-   Link: [https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025](https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025)  
+   Link: <a href="https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-annual-report-and-accounts-2024-to-2025/annual-report-and-accounts-2024-to-2025</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report and Accounts 2024 to 2025Jul 10, 2025 — The CMA will shortly conclude our market investigation into the cloud services market, whi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html](https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDCompetition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</p></details>
+   Link: <a href="https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/06/competition-in-the-provision-of-cloud-computing-services.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Competition in the Provision of Cloud Computing ServicesIn June 2025, the OECD held a roundtable to discuss recent developments in cl...</p></details>
    Published: June 2025  
 
 9. <a id="endnote-9"></a>
    Source: crn.com  
    Title: cloud market share q1 2026 aws microsoft google battling in ai era  
-   Link: [https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era](https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era)  
+   Link: <a href="https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era" target="_blank" rel="noopener noreferrer nofollow">https://www.crn.com/news/cloud/2026/cloud-market-share-q1-2026-aws-microsoft-google-battling-in-ai-era</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Market Share Q1 2026: AWS, Microsoft, Google Battling...4 May 2026 — Global enterprise spending on cloud infrastructure services r...</p></details>
    Published: May 2026  
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: [https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html](https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html)  
+   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-competitive-dynamics-in-downstream-markets_ccf0624a-en/full-report/component-5.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of AI adoption on market dynamics14 Nov 2025 — This paper examines how the adoption of artificial intelligence (AI), particula...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: oecd.org  
    Title: competition in artificial intelligence infrastructure  
-   Link: [https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html](https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html)  
+   Link: <a href="https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/events/2025/12/competition-in-artificial-intelligence-infrastructure.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In December 2025, the OECD held a discussion on Competition in artificial intelligence infrastructure. This page contains all related mat...</p></details>
    Published: December 2025  
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
    Title: component 5  
-   Link: [https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html](https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html)  
+   Link: <a href="https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/competition-in-artificial-intelligence-infrastructure_623d1874-en/full-report/component-5.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the AI supply chain: Competition in artificial...14 Nov 2025 — 4 The most recently reported market share estimates for the c...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: GOV.UK  
    Title: artificial intelligence sector study 2024  
-   Link: [https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024](https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024)  
+   Link: <a href="https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/artificial-intelligence-sector-study-2024/artificial-intelligence-sector-study-2024</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence sector study 20243 Sept 2025 — In 2024, there were 51 AI related inward investment projects into the UK, representing more t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/cma-cases/cloud-services-market-investigation](https://www.gov.uk/cma-cases/cloud-services-market-investigation)  
+   Link: <a href="https://www.gov.uk/cma-cases/cloud-services-market-investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/cma-cases/cloud-services-market-investigation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>services market investigationThe Competition and Markets Authority (CMA) investigated the supply of public cloud infrastructure services...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
    Title: cma ai strategic update  
-   Link: [https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update](https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update)  
+   Link: <a href="https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/cma-ai-strategic-update/cma-ai-strategic-update</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI strategic updateApr 29, 2024 — This document provides a strategic update on the CMA&#x27;s approach to AI. This is set out through the foll...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: state.gov  
-   Link: [https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd](https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd)  
+   Link: <a href="https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.state.gov/the-organization-for-economic-co-operation-and-development-oecd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>common challenges, identify good practices, and develop high standards...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: aws.amazon.com  
    Title: global infrastructure  
-   Link: [https://aws.amazon.com/about-aws/global-infrastructure/](https://aws.amazon.com/about-aws/global-infrastructure/)  
+   Link: <a href="https://aws.amazon.com/about-aws/global-infrastructure/" target="_blank" rel="noopener noreferrer nofollow">https://aws.amazon.com/about-aws/global-infrastructure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Web Services (AWS) was named a Leader in the 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services (SCPS) report for t...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment](https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment)  
+   Link: <a href="https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/article/2024/aug/08/anthropic-ai-startup-uk-regulator-cma-amazon-investment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The CMA aims to determine whether the partnership constitutes a &quot;relevant merger situation&quot; that could warrant an in-depth review. Announ...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: uk.practicallaw.thomsonreuters.com  
-   Link: [https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&originationContext=knowHow&transitionType=KnowHowItem](https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&originationContext=knowHow&transitionType=KnowHowItem)  
+   Link: <a href="https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem" target="_blank" rel="noopener noreferrer nofollow">https://uk.practicallaw.thomsonreuters.com/w-042-9673?contextData=%28sc.Default%29&amp;originationContext=knowHow&amp;transitionType=KnowHowItem</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>publishes update paper in initial review of AI foundation...On 11 April 2024, the CMA published an update paper in its initial review of...</p></details>
    Published: April 2024  
 
 21. <a id="endnote-21"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10](https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10)  
+   Link: <a href="https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/amazon-ai-startups-delaying-aws-spending-2025-10</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditionally, AWS was a go-to platform for startups due to its scalable compute and storage offerings. However, the rise of generative A...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: openloop.org  
    Title: competition in ai foundation models and the cma ai principles  
-   Link: [https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf](https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf)  
+   Link: <a href="https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openloop.org/reports/2025/02/competition-in-ai-foundation-models-and-the-cma-ai-principles.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Open LoopCompetition in AI Foundation Models and the CMA AI PrinciplesFeb 12, 2025 — This report presents the findings and recommendation...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/OECD](https://en.wikipedia.org/wiki/OECD)  
+   Link: <a href="https://en.wikipedia.org/wiki/OECD" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/OECD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDIt is a forum whose member countries describe themselves as committed to democracy and the market economy, providing a platform to...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco](https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco)  
+   Link: <a href="https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD - OCDEThe Organisation for Economic Co-operation and Development (OECD) is an international organisation that works to build better...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theOECD/](https://www.facebook.com/theOECD/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD | ParisApply now for current vacancies at the #OECD! Explore exciting opportunities in: ➡️ International [Energy](&amp;#123;&amp;#123; &#x27;energy/&#x27; | relative_url &amp;#125;&amp;#125;) Agency (IEA) ➡️ The...</p></details>
+   Link: <a href="https://www.facebook.com/theOECD/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theOECD/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD | ParisApply now for current vacancies at the #OECD! Explore exciting opportunities in: ➡️ International Energy Agency (IEA) ➡️ The...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/oecd](https://www.youtube.com/oecd)  
+   Link: <a href="https://www.youtube.com/oecd" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/oecd</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDThe OECD is a global forum covering a diverse range of topics, from inequality and climate change to the gender gap and migrant integ...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fortunebusinessinsights.com  
    Title: cloud computing market 102697  
-   Link: [https://www.fortunebusinessinsights.com/cloud-computing-market-102697](https://www.fortunebusinessinsights.com/cloud-computing-market-102697)  
+   Link: <a href="https://www.fortunebusinessinsights.com/cloud-computing-market-102697" target="_blank" rel="noopener noreferrer nofollow">https://www.fortunebusinessinsights.com/cloud-computing-market-102697</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud Computing Market Size, Share &amp; Growth Report, 203420 Apr 2026 — The global cloud computing market size was valued at USD 781.27 bil...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD](https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD)  
+   Link: <a href="https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/mark-haranas-98758667_global-cloud-market-share-q3-2025-aws-lowers-activity-7392270591216529409-EtSD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Cloud Market Share: AWS, Microsoft, Google...AWS, Google Cloud and Microsoft—combined—won 62 percent share of the global enterpri...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/the_oecd/?hl=en](https://www.instagram.com/the_oecd/?hl=en)  
+   Link: <a href="https://www.instagram.com/the_oecd/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/the_oecd/?hl=en</a>  
 
 30. <a id="endnote-30"></a>
    Source: nortonrosefulbright.com  
-   Link: [https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report](https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report)  
+   Link: <a href="https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report" target="_blank" rel="noopener noreferrer nofollow">https://www.nortonrosefulbright.com/en/knowledge/publications/8ca8f277/the-uk-cmas-ai-foundation-models-initial-report</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK CMA&#x27;s review of AI Foundation ModelsThe CMA published its Initial Report (Initial Report) on AI Foundation Models (FM), supplement...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: windowscentral.com  
-   Link: [https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well](https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well)  
+   Link: <a href="https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well" target="_blank" rel="noopener noreferrer nofollow">https://www.windowscentral.com/microsoft/as-microsoft-posts-usd75b-in-azure-revenue-uks-cma-says-competition-is-not-working-well</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These two companies each hold up to 40% of the market, creating a highly concentrated environment that hampers smaller competitors. Micro...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH](https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH)  
+   Link: <a href="https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/charles-henry-monchau-cfa-cmt-caia-4003096_cloud-market-share-q1-2025-aws-29-activity-7325278131760603136-5DCH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud market share: AWS, Azure, Google Cloud Q1 2025 - LinkedInMay 5, 2025 — Cloud market share — Q1 2025: AWS 29%. Azure 22%. Google Clo...</p></details>
    Published: May 5, 2025  
 
 33. <a id="endnote-33"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp](https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp)  
+   Link: <a href="https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/kadir-tas-a1106a22_competition-in-artificial-intelligence-infrastructure-activity-7422611242634125313-Y6Pp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Report: AI Infrastructure Competition and Market...Competition in Artificial Intelligence Infrastructure | prepared by OECD - OCDE...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj](https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj)  
+   Link: <a href="https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/back-off-regulators-big-tech-buying-into-ai-isnt-a-bad-thing-nzd2klrqj</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially, the CMA had a positive outlook on the AI market, noting its vibrancy and diversity, with numerous AI models developed by both...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4](https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4)  
+   Link: <a href="https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/swastis_cloudcomputing-digitaltransformation-aws-activity-7401926607164071937-iHk4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloud 2026: AWS, Azure, GCP Market Share &amp; TrendsCloud 2026: A Strategic Comparison The cloud computing landscape in 2026 is more competi...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: bruegel.org  
    Title: why artificial intelligence creating fundamental challenges competition policy  
-   Link: [https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy](https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy)  
+   Link: <a href="https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.bruegel.org/policy-brief/why-artificial-intelligence-creating-fundamental-challenges-competition-policy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why artificial intelligence is creating fundamental...by B Martens — The UK Competition and Markets Authority (2024) noted that the grow...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: drcf.org.uk  
    Title: harnessing innovation and growth opportunities from ai foundation models  
-   Link: [https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models](https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models)  
+   Link: <a href="https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/publications/blogs/harnessing-innovation-and-growth-opportunities-from-ai-foundation-models</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Innovation and Growth Opportunities from AI...25 Mar 2025 — How UK data protection, competition and consumer protection laws...</p></details>

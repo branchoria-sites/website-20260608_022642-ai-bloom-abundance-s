@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-education/
 description: Focused pages that expand on False Mastery.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_education_8e0228_coding_false_e71c55
-parent_title: False Mastery | Education
+parent_title: False Mastery
 parent_nav_short_title: False Mastery
 parent_permalink: /false-mastery/
 ---

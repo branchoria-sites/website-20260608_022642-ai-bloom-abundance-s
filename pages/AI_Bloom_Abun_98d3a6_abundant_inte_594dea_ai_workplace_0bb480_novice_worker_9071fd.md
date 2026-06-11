@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /skill-gaps/
 nav_short_title: Novice gains
 title: Why beginners may gain most from AI help
-title_full: Why beginners may gain most from AI help | Skill Gaps
+title_full: Why beginners may gain most from AI help
 display_title_short: Novice gains
 display_title: Novice gains
 heading_title: Why beginners may gain most from AI help
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Help Beginners Catch Up? | Intelligence
+date: '2026-06-08 01:41:37'
+parent_title: Can AI Help Beginners Catch Up?
 parent_permalink: /skill-gaps/
 parent_nav_short_title: Skill Gaps
 parent_heading_title: Can AI Help Beginners Catch Up?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /live-coaching/
   short_title: Live coaching
   heading_title: Can AI spread expert judgement in real time?
-date: '2026-06-08 01:41:37 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-1.webp
@@ -271,17 +271,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb
 
 One of the most striking findings from early workplace AI deployments is that beginners often gain more than experts. In several studies, the largest productivity improvements have appeared among newer, less experienced, or lower-performing workers rather than among top performers. That does not mean AI turns novices into masters overnight. It does suggest that AI assistants can compress part of the learning curve by providing guidance that previously depended on mentoring, accumulated experience, or access to particularly skilled colleagues.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-1-dark.svg" | relative_url }}" alt="Novice gains illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters well beyond customer support centres. If advanced AI makes practical knowledge easier to access, one effect could be a reduction in the scarcity of expertise. Workers who start with less experience may spend less time stuck, less time waiting for help, and less time learning through costly trial and error. In the broader AI bloom vision, this raises a larger possibility: [intelligence]({{ 'intelligence/' | relative_url }}) becoming more widely available as a service, allowing more people to participate in complex work, learning, and problem-solving. The evidence remains early and task-specific, but it offers a concrete example of how AI might distribute capabilities that were once concentrated in small groups.
 
 ## What the customer support evidence shows
 
-The strongest evidence comes from a widely discussed study by Erik Brynjolfsson, Danielle Li and Lindsey Raymond, who analysed the introduction of a generative AI assistant across more than 5,000 customer-support agents at a Fortune 500 software company. The system provided real-time suggestions during customer interactions. Researchers found that access to the assistant increased productivity by roughly 14–15% on average. More importantly, the gains were highly uneven. Novice and lower-skilled workers improved by about one-third, while experienced and highly skilled workers saw much smaller benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/qje/article/140/2/889/7990658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicGenerative AI at Work* | The Quarterly Journal of Economicsby E Brynjolfsson · 2025 · Cited by 3397 — We study the effect of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">NBERGenerative AI at Workby E Brynjolfsson · 2023 · Cited by 3397 — In this paper, we study the staggered introduction of a generative AI...</span></span></span>
+The strongest evidence comes from a widely discussed study by Erik Brynjolfsson, Danielle Li and Lindsey Raymond, who analysed the introduction of a generative AI assistant across more than 5,000 customer-support agents at a Fortune 500 software company. The system provided real-time suggestions during customer interactions. Researchers found that access to the assistant increased productivity by roughly 14–15% on average. More importantly, the gains were highly uneven. Novice and lower-skilled workers improved by about one-third, while experienced and highly skilled workers saw much smaller benefits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/qje/article/140/2/889/7990658" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicGenerative AI at Work* &#124; The Quarterly Journal of Economicsby E Brynjolfsson · 2025 · Cited by 3397 — We study the effect of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Generative AI at Workby E Brynjolfsson · 2023 · Cited by 3397 — In this paper, we study the staggered introduction of a generative AI...</span></span></span>
 
 The pattern was not simply a matter of working faster. The study found that less experienced workers often improved both speed and quality. Customer satisfaction remained stable or improved, and workers became better at handling difficult interactions. The researchers also found evidence that AI assistance improved English fluency and communication, especially for international employees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI at Work</span><span class="citation-popover-snippet">arXiv Generative AI at Work</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessGenerative AI at Work - Stanford Graduate School of BusinessWe also find evidence that AI assistance...</span></span></span> School of Business
 
-The central finding was that AI narrowed performance gaps. Instead of amplifying differences between the strongest and weakest workers, the tool appeared to reduce them. In economic terms, that is notable because many previous technologies have been described as "skill-biased", meaning they reward workers who already possess scarce expertise. This deployment often looked more like skill diffusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://siepr.stanford.edu/publications/working-paper/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siepr.stanford.edu">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siepr.stanford.edu</span><span class="citation-popover-snippet">SIEPRGenerative AI at Work | Stanford Institute for Economic Policy...In this paper, we study the staggered introduction of a generative...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">generative ai and worker productivity</span><span class="citation-popover-snippet">MIT SloanGenerative AI and Worker Productivity16 Apr 2024 — Access to the new tool increased worker productivity by about 14% on average...</span></span></span>
+The central finding was that AI narrowed performance gaps. Instead of amplifying differences between the strongest and weakest workers, the tool appeared to reduce them. In economic terms, that is notable because many previous technologies have been described as "skill-biased", meaning they reward workers who already possess scarce expertise. This deployment often looked more like skill diffusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://siepr.stanford.edu/publications/working-paper/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: siepr.stanford.edu">[SIEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">siepr.stanford.edu</span><span class="citation-popover-snippet">Generative AI at Work &#124; Stanford Institute for Economic Policy...In this paper, we study the staggered introduction of a generative...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">generative ai and worker productivity</span><span class="citation-popover-snippet">MIT SloanGenerative AI and Worker Productivity16 Apr 2024 — Access to the new tool increased worker productivity by about 14% on average...</span></span></span>
 
 ## How real-time suggestions shorten the learning curve
 
@@ -292,7 +291,6 @@ In traditional workplaces, much valuable knowledge is tacit. High performers oft
 Generative AI systems can sometimes extract patterns from huge numbers of past interactions and surface them in real time. Instead of waiting for a supervisor to review their work days later, a novice worker receives immediate suggestions while the task is happening. Brynjolfsson described this as capturing forms of tacit knowledge that had never been formally written down. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6302984/ai-jobs-career/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Make AI Work for You, at Work</span><span class="citation-popover-snippet">She pursued this interest by taking the Elements of AI, an online course by MinnaLearn and the University of Helsinki, which enhanced her...</span></span></span>
 
 Several mechanisms help explain why the gains are concentrated among beginners:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -306,7 +304,6 @@ Several mechanisms help explain why the gains are concentrated among beginners:
 
 The result is that beginners move down the experience curve more quickly. Researchers associated with the study explicitly argued that the technology helped newer workers acquire capabilities that would otherwise have taken longer to develop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mitsloan.mit.edu">[MIT Sloan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mitsloan.mit.edu</span><span class="citation-popover-title">generative ai and worker productivity</span><span class="citation-popover-snippet">MIT SloanGenerative AI and Worker Productivity16 Apr 2024 — Access to the new tool increased worker productivity by about 14% on average...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xXzKM-FcXp4" title="AI Automation, Job Loss Fears and Where New Work Emerges" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xXzKM-FcXp4" target="_blank" rel="noopener noreferrer">AI Automation, Job Loss Fears and Where New Work Emerges</a></p><p class="youtube-embed-meta">Channel: Bloomberg Television &middot; Views: 9.8K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xXzKM-FcXp4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xXzKM-FcXp4">Open on YouTube</a></p></div></div></div>
 
 ## Why experts often benefit less
@@ -318,7 +315,6 @@ If the AI has learned from historical examples, many of its recommendations may 
 In some cases, experts may even find generic recommendations mildly constraining. The customer-support study found small declines in quality among the highest-skilled workers despite modest speed gains. One interpretation is that experts possess contextual judgement that standardised suggestions cannot fully replicate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI at Work</span><span class="citation-popover-snippet">arXiv Generative AI at Work</span></span></span>
 
 This points to an important distinction. AI can help transfer established best practices, but expertise is not only the application of known rules. Experts often:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -334,7 +330,6 @@ Those capabilities are harder to compress into a suggestion engine.
 
 The finding therefore does not imply that expertise becomes irrelevant. It suggests that part of what organisations call expertise consists of accumulated procedural knowledge that can increasingly be shared rather than hoarded.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-2-dark.svg" | relative_url }}" alt="Novice gains illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where productivity gains stop short of expertise
 
@@ -348,7 +343,6 @@ Researchers reviewing broader evidence on AI and work have noted that novice gai
 
 This creates a tension that many organisations are beginning to confront. If AI makes workers more productive without requiring them to develop underlying expertise, companies may become more dependent on the tool itself. The immediate productivity gains are real, but long-term skill formation may become more complicated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/owFqgMcmDbA" title="Why AI Leads to More Work, Not Less" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=owFqgMcmDbA" target="_blank" rel="noopener noreferrer">Why AI Leads to More Work, Not Less</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 7.7K &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=owFqgMcmDbA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=owFqgMcmDbA">Open on YouTube</a></p></div></div></div>
 
 ## The risk of creating capable beginners but fewer masters
@@ -359,10 +353,9 @@ Historically, junior workers often learned by performing simpler versions of tas
 
 This concern appears in emerging research on AI and work transformation. Workers increasingly delegate routine elements of jobs to AI while taking on new responsibilities focused on checking, correcting, and managing outputs. That can improve efficiency, but it also changes how expertise develops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generative AI at Work</span><span class="citation-popover-snippet">arXiv Generative AI at Work</span></span></span>
 
-The question is especially important in professions that rely on apprenticeship models. Law, software engineering, medicine, consulting, and [scientific]({{ 'discovery/' | relative_url }}) research all depend partly on newcomers learning from gradual exposure to increasingly difficult work. If AI handles much of the routine training ground, organisations may need deliberate strategies to prevent the erosion of future expertise.
+The question is especially important in professions that rely on apprenticeship models. Law, software engineering, medicine, consulting, and scientific research all depend partly on newcomers learning from gradual exposure to increasingly difficult work. If AI handles much of the routine training ground, organisations may need deliberate strategies to prevent the erosion of future expertise.
 
 The evidence today is too limited to resolve this question. Most studies track months rather than decades. They reveal how AI changes immediate performance, not how entire professions evolve.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-3-dark.svg" | relative_url }}" alt="Novice gains illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480_novice_worker_9071fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for a larger AI bloom future
@@ -375,13 +368,11 @@ AI assistants hint at a world in which some forms of guidance become dramaticall
 
 If similar patterns extend into [education]({{ 'education/' | relative_url }}), healthcare, engineering, science, entrepreneurship, and public services, the implications could be much larger than a modest productivity increase. People who currently lack access to elite training or expert support could gain tools that help them perform closer to the level of experienced practitioners.
 
-That does not automatically produce equality, nor does it eliminate the need for human judgement. Access, [governance]({{ 'power/' | relative_url }}), incentives, training quality, and concentration of power remain crucial questions. The same systems that spread expertise could also concentrate [control]({{ 'control/' | relative_url }}) if only a small number of organisations own the most capable models.
+That does not automatically produce equality, nor does it eliminate the need for human judgement. Access, governance, incentives, training quality, and concentration of [power]({{ 'power/' | relative_url }}) remain crucial questions. The same systems that spread expertise could also concentrate [control]({{ 'control/' | relative_url }}) if only a small number of organisations own the most capable models.
 
 Even so, the novice-worker evidence matters because it provides a concrete example of a larger claim often made by advocates of AI abundance: that one of AI's most important effects may be making useful intelligence less scarce. The strongest early workplace studies do not show everyone becoming an expert. They do suggest that many people can become competent much faster than before, and that may be one of the first visible steps toward a world where access to knowledge is far less limited by who already possesses it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bS5IFTX6gPk" title="Key Drivers Redefining Work in the Age of AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bS5IFTX6gPk" target="_blank" rel="noopener noreferrer">Key Drivers Redefining Work in the Age of AI</a></p><p class="youtube-embed-meta">Channel: Bloomberg Live &middot; Views: 5.0K &middot; Uploaded: January 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bS5IFTX6gPk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bS5IFTX6gPk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -402,7 +393,7 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
         </h4>
         <p class="fr-book-author">By Ethan Mollick</p>
         
-        <p class="fr-book-desc">Explains how novices and experts can use AI differently as a practical assistant.</p>
+        <p class="fr-book-desc">Directly relevant to how AI helps less experienced workers improve.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Co-Intelligence+by+Ethan+Mollick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -412,16 +403,16 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Working+with+AI+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Working with AI on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CqxWEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Working with AI" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
+          <a href="https://www.amazon.com/s?k=Working+with+AI+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Working with AI">Working with AI</a>
         </h4>
-        <p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
+        <p class="fr-book-author">By Thomas H. Davenport, Steven M. Miller</p>
         
-        <p class="fr-book-desc">Frames how digital tools can raise productivity and alter the value of skills.</p>
+        <p class="fr-book-desc">Explores AI as an on-the-job assistant and coach.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Working+with+AI+by+Thomas+H.+Davenport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -429,16 +420,16 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oneWAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Range on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1ZyaDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Range" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Range">Range</a>
         </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+        <p class="fr-book-author">By David Epstein</p>
         
-        <p class="fr-book-desc">Helps distinguish short-term AI-assisted performance from genuine novice learning.</p>
+        <p class="fr-book-desc">Discusses how people acquire expertise across domains.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Range+by+David+Epstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -446,14 +437,14 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o9AeswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
         </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+        <p class="fr-book-author">By Anders Ericsson</p>
         
-        <p class="fr-book-desc">Explains how deliberate practice develops expertise and where AI coaching could shorten feedback loops.</p>
+        <p class="fr-book-desc">Explains how deliberate practice develops high-level skills.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -463,7 +454,7 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Co+Intelligence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Co Intelligence</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Working+with+AI&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Working with AI</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Range&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Range</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -500,15 +491,15 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray"><img src="{{ '/assets/images/marketplace-covers/3c3ecd285cbeae3cd708.jpg' | relative_url }}" alt="Listing image for AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage Microphone Robot Desk Lamp, Vintage Microphone Robot Dimmer2367"><img src="https://i.ebayimg.com/images/g/mygAAeSw8VxqKqTA/s-l225.jpg" alt="Listing image for Retro Vintage Microphone Robot Desk Lamp, Vintage Microphone Robot Dimmer2367" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI - Artificial Intelligence (Poster + Slipcase) Blu-Ray</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage Microphone Robot Desk Lamp, Vintage Microphone Robot Dimmer2367</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +507,47 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD"><img src="{{ '/assets/images/marketplace-covers/5af1ce80d93e60e8d871.jpg' | relative_url }}" alt="Listing image for AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mini Robot Vacuum Cleaner – Cute Portable USB Rechargeable Desk Crumb &amp; Dust -UK"><img src="https://i.ebayimg.com/images/g/MAQAAeSwur5p13a6/s-l225.jpg" alt="Listing image for Mini Robot Vacuum Cleaner – Cute Portable USB Rechargeable Desk Crumb &amp; Dust -UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">AI ARTIFICIAL INTELLIGENCE . 2001 ORIGINAL MOVIE POSTER vintage 24 YEARS OLD</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer">Mini Robot Vacuum Cleaner – Cute Portable USB Rechargeable Desk Crumb &amp; Dust -UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for AI poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: AI poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk robot</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life-Size Robot Hand Phone Holder - Phone Stand - Various Colours - 3D Printed"><img src="https://i.ebayimg.com/images/g/eawAAOSw7AtmkjUa/s-l225.jpg" alt="Listing image for Life-Size Robot Hand Phone Holder - Phone Stand - Various Colours - 3D Printed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer">Life-Size Robot Hand Phone Holder - Phone Stand - Various Colours - 3D Printed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk robot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lavira Desk Robot Clock Freestanding Kids Novelty Home Decor Study Bedroom Gift"><img src="https://i.ebayimg.com/images/g/yF8AAeSwPABqFW8P/s-l225.jpg" alt="Listing image for Lavira Desk Robot Clock Freestanding Kids Novelty Home Decor Study Bedroom Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer">Lavira Desk Robot Clock Freestanding Kids Novelty Home Decor Study Bedroom Gift</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk robot">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk robot</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,7 +555,7 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI poster -book -books" data-ebay-reference="novice-gains-why-beginners-may-gain-most-from-ai-help-ai-bloom-abundance-superintelligence-and-h-ai-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+robot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-beginners-may-gain-most-from-ai-help-desk-robot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="desk robot" data-ebay-reference="why-beginners-may-gain-most-from-ai-help-desk-robot" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -747,176 +770,176 @@ Even so, the novice-worker evidence matters because it provides a concrete examp
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/qje/article/140/2/889/7990658](https://academic.oup.com/qje/article/140/2/889/7990658)  
+   Link: <a href="https://academic.oup.com/qje/article/140/2/889/7990658" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/qje/article/140/2/889/7990658</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicGenerative AI at Work* | The Quarterly Journal of Economicsby E Brynjolfsson · 2025 · Cited by 3397 — We study the effect of...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/papers/w31161](https://www.nber.org/papers/w31161)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERGenerative AI at Workby E Brynjolfsson · 2023 · Cited by 3397 — In this paper, we study the staggered introduction of a generative AI...</p></details>
+   Link: <a href="https://www.nber.org/papers/w31161" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w31161</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI at Workby E Brynjolfsson · 2023 · Cited by 3397 — In this paper, we study the staggered introduction of a generative AI...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Generative AI at Work  
-   Link: [https://arxiv.org/abs/2304.11771](https://arxiv.org/abs/2304.11771)  
+   Link: <a href="https://arxiv.org/abs/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2304.11771</a>  
 
 4. <a id="endnote-4"></a>
    Source: gsb.stanford.edu  
-   Link: [https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work](https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work)  
+   Link: <a href="https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/faculty-research/publications/generative-ai-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessGenerative AI at Work - Stanford Graduate School of BusinessWe also find evidence that AI assistance...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: danielle.li  
    Title: GENERATIVE AI AT WORK˚  
-   Link: [https://danielle.li/assets/docs/GenerativeAIatWork.pdf](https://danielle.li/assets/docs/GenerativeAIatWork.pdf)  
+   Link: <a href="https://danielle.li/assets/docs/GenerativeAIatWork.pdf" target="_blank" rel="noopener noreferrer nofollow">https://danielle.li/assets/docs/GenerativeAIatWork.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>by E Brynjolfsson · 2024 · Cited by 2808 — We also find evidence that AI assistance facilitates worker learning and improves E...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: siepr.stanford.edu  
-   Link: [https://siepr.stanford.edu/publications/working-paper/generative-ai-work](https://siepr.stanford.edu/publications/working-paper/generative-ai-work)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIEPRGenerative AI at Work | Stanford Institute for Economic Policy...In this paper, we study the staggered introduction of a generative...</p></details>
+   Link: <a href="https://siepr.stanford.edu/publications/working-paper/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://siepr.stanford.edu/publications/working-paper/generative-ai-work</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI at Work | Stanford Institute for Economic Policy...In this paper, we study the staggered introduction of a generative...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: mitsloan.mit.edu  
    Title: generative ai and worker productivity  
-   Link: [https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity](https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity)  
+   Link: <a href="https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity" target="_blank" rel="noopener noreferrer nofollow">https://mitsloan.mit.edu/centers-initiatives/institute-work-and-employment-research/generative-ai-and-worker-productivity</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT SloanGenerative AI and Worker Productivity16 Apr 2024 — Access to the new tool increased worker productivity by about 14% on average...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: time.com  
    Title: How to Make AI Work for You, at Work  
-   Link: [https://time.com/6302984/ai-jobs-career/](https://time.com/6302984/ai-jobs-career/)  
+   Link: <a href="https://time.com/6302984/ai-jobs-career/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6302984/ai-jobs-career/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>She pursued this interest by taking the Elements of AI, an online course by MinnaLearn and the University of Helsinki, which enhanced her...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: digitaleconomy.stanford.edu  
    Title: Digital Economy Lab Generative AI at Work  
-   Link: [https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/](https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/)  
+   Link: <a href="https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://digitaleconomy.stanford.edu/publication/generative-ai-at-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Digital Economy LabGenerative AI at Work - Stanford Digital Economy LabLess experienced and lower-skilled workers improve both t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv AI and jobs. A review of theory, estimates, and evidence  
-   Link: [https://arxiv.org/abs/2509.15265](https://arxiv.org/abs/2509.15265)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAI and jobs. A review of theory, estimates, and evidenceSeptember 18, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2509.15265" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.15265</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and jobs. A review of theory, estimates, and evidenceSeptember 18, 2025...</p></details>
    Published: September 18, 2025  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2502.08854](https://arxiv.org/abs/2502.08854)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivGenerative AI &amp; Changing Work: Systematic Review of Practitioner-led Work Transformations through the Lens of Job CraftingFebruary 1...</p></details>
+   Link: <a href="https://arxiv.org/abs/2502.08854" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.08854</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI &amp; Changing Work: Systematic Review of Practitioner-led Work Transformations through the Lens of Job CraftingFebruary 1...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/system/files/working_papers/w31161/w31161.pdf](https://www.nber.org/system/files/working_papers/w31161/w31161.pdf)  
+   Link: <a href="https://www.nber.org/system/files/working_papers/w31161/w31161.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w31161/w31161.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NBER WORKING PAPER SERIES GENERATIVE AI AT...by E Brynjolfsson · 2023 · Cited by 3306 — We find that access to AI assistance increases t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nber.org  
    Title: measuring productivity impact generative ai  
-   Link: [https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai](https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai)  
+   Link: <a href="https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/digest/20236/measuring-productivity-impact-generative-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Productivity Impact of Generative AIJun 1, 2023 — Customer support agents using an AI tool to guide their conversations saw...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/digest/202412/workplace-adoption-generative-ai](https://www.nber.org/digest/202412/workplace-adoption-generative-ai)  
+   Link: <a href="https://www.nber.org/digest/202412/workplace-adoption-generative-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/digest/202412/workplace-adoption-generative-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace Adoption of Generative AIDec 1, 2024 — The researchers found that 39.4 percent of respondents had used generative AI...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nber.org  
    Title: Erik Brynjolfsson The Economics of Transformative AI. Book  
-   Link: [https://www.nber.org/people/erik_brynjolfsson](https://www.nber.org/people/erik_brynjolfsson)  
+   Link: <a href="https://www.nber.org/people/erik_brynjolfsson" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/people/erik_brynjolfsson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erik BrynjolfssonThe Economics of Transformative AI. Book - Conference Volume. editors - Ajay K. Agrawal, Erik Brynjolfsson &amp; Anton Korin...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: brynjolfsson.com  
-   Link: [https://www.brynjolfsson.com/](https://www.brynjolfsson.com/)  
+   Link: <a href="https://www.brynjolfsson.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.brynjolfsson.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erik BrynjolfssonErik Brynjolfsson is the Jerry Yang and Akiko Yamazaki Professor and Senior Fellow at the Stanford Institute for Human-C...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ideas.repec.org  
-   Link: [https://ideas.repec.org/p/ecl/stabus/4141.html](https://ideas.repec.org/p/ecl/stabus/4141.html)  
+   Link: <a href="https://ideas.repec.org/p/ecl/stabus/4141.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/ecl/stabus/4141.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI at Workby E Brynjolfsson · 2023 · Cited by 3397 — In this paper, we study the staggered introduction of a generative AI-based conversa...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: economics.stanford.edu  
    Title: erik brynjolfsson  
-   Link: [https://economics.stanford.edu/people/erik-brynjolfsson](https://economics.stanford.edu/people/erik-brynjolfsson)  
+   Link: <a href="https://economics.stanford.edu/people/erik-brynjolfsson" target="_blank" rel="noopener noreferrer nofollow">https://economics.stanford.edu/people/erik-brynjolfsson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the Jerry Yang and Akiko Yamazaki Professor and Senior Fellow at the Stanford Institute for Human-Centered AI (HAI), and Director of...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: gsb.stanford.edu  
    Title: generative ai work  
-   Link: [https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work](https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work)  
+   Link: <a href="https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/faculty-research/working-papers/generative-ai-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI at Work - Stanford Graduate School of BusinessAccess to the tool increases productivity, as measured by issues resolved per hour, by 1...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2304.11771](https://arxiv.org/pdf/2304.11771)  
+   Link: <a href="https://arxiv.org/pdf/2304.11771" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2304.11771</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative AI at Workby E Brynjolfsson · 2023 · Cited by 2856 — Access to AI assistance increases worker productivity, as measured by iss...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Erik Brynjolfsson  
-   Link: [https://en.wikipedia.org/wiki/Erik_Brynjolfsson](https://en.wikipedia.org/wiki/Erik_Brynjolfsson)  
+   Link: <a href="https://en.wikipedia.org/wiki/Erik_Brynjolfsson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Erik_Brynjolfsson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erik BrynjolfssonErik Brynjolfsson is an American academic, author and inventor. He is the Jerry Yang and Akiko Yamazaki Professor and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: linkedin.com  
    Title: Erik Brynjolfsson  
-   Link: [https://www.linkedin.com/in/erikbrynjolfsson](https://www.linkedin.com/in/erikbrynjolfsson)  
+   Link: <a href="https://www.linkedin.com/in/erikbrynjolfsson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/erikbrynjolfsson</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor, Writer, Speaker, InventorErik Brynjolfsson is the Jerry Yang and Akiko Yamazaki Professor and Senior Fellow at the Stanford In...</p></details>
 
 ### Additional References
 
 23. <a id="endnote-23"></a>
    Source: bitter-sweet.ai  
-   Link: [https://www.bitter-sweet.ai/articles/generative-ai-at-work-brynjolfsson-2023/](https://www.bitter-sweet.ai/articles/generative-ai-at-work-brynjolfsson-2023/)  
+   Link: <a href="https://www.bitter-sweet.ai/articles/generative-ai-at-work-brynjolfsson-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.bitter-sweet.ai/articles/generative-ai-at-work-brynjolfsson-2023/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>14% Productivity Boost for Customer Service AgentsThe gains were largest for novice and low-skilled workers (34% improvement) — AI effect...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sternstrategy.com  
-   Link: [https://sternstrategy.com/speakers/erik-brynjolfsson/](https://sternstrategy.com/speakers/erik-brynjolfsson/)  
+   Link: <a href="https://sternstrategy.com/speakers/erik-brynjolfsson/" target="_blank" rel="noopener noreferrer nofollow">https://sternstrategy.com/speakers/erik-brynjolfsson/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erik Brynjolfsson AI and Economist SpeakerErik Brynjolfsson, an optimistic economist, explores how technological advances, like AI, impac...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: analysisgroup.com  
-   Link: [https://www.analysisgroup.com/people/affiliated-experts/erik-brynjolfsson/](https://www.analysisgroup.com/people/affiliated-experts/erik-brynjolfsson/)  
+   Link: <a href="https://www.analysisgroup.com/people/affiliated-experts/erik-brynjolfsson/" target="_blank" rel="noopener noreferrer nofollow">https://www.analysisgroup.com/people/affiliated-experts/erik-brynjolfsson/</a>  
 
 26. <a id="endnote-26"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/erikbrynjolfsson_great-to-see-generative-ai-at-work-my-activity-7297390624809357312-HX0R](https://www.linkedin.com/posts/erikbrynjolfsson_great-to-see-generative-ai-at-work-my-activity-7297390624809357312-HX0R)  
+   Link: <a href="https://www.linkedin.com/posts/erikbrynjolfsson_great-to-see-generative-ai-at-work-my-activity-7297390624809357312-HX0R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/erikbrynjolfsson_great-to-see-generative-ai-at-work-my-activity-7297390624809357312-HX0R</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Erik Brynjolfsson&#x27;s PostGreat to see &quot;Generative AI at Work&quot;, my paper with Lindsey Raymond and Danielle Li published in the Quarterly Jo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/generative](https://www.merriam-webster.com/dictionary/generative)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GENERATIVE Definition &amp; Meaning6 days ago —: having the [power](&amp;#123;&amp;#123; &#x27;power/&#x27; | relative_url &amp;#125;&amp;#125;) or function of generating, originating, producing, or reproducing; Elizabe...</p></details>
+   Link: <a href="https://www.merriam-webster.com/dictionary/generative" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/generative</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GENERATIVE Definition &amp; Meaning6 days ago —: having the power or function of generating, originating, producing, or reproducing; Elizabe...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/dejan-kovacevic1_w31161pdf-activity-7362723477138677760-MypQ](https://www.linkedin.com/posts/dejan-kovacevic1_w31161pdf-activity-7362723477138677760-MypQ)  
+   Link: <a href="https://www.linkedin.com/posts/dejan-kovacevic1_w31161pdf-activity-7362723477138677760-MypQ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/dejan-kovacevic1_w31161pdf-activity-7362723477138677760-MypQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NBER paper on generative AI boosts productivity by 14%... AI at Work by Erik Brynjolfsson It studied the rollout of a generative AI assis...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: itif.org  
-   Link: [https://itif.org/publications/2023/07/10/customer-support-agents-using-ai-gpt-tool-saw-nearly-14-percent-increase-in-productivity/](https://itif.org/publications/2023/07/10/customer-support-agents-using-ai-gpt-tool-saw-nearly-14-percent-increase-in-productivity/)  
+   Link: <a href="https://itif.org/publications/2023/07/10/customer-support-agents-using-ai-gpt-tool-saw-nearly-14-percent-increase-in-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://itif.org/publications/2023/07/10/customer-support-agents-using-ai-gpt-tool-saw-nearly-14-percent-increase-in-productivity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact of the Week: Customer Support Agents Using an AI...10 Jul 2023 — They found that customer support agents using the AI tool to guide...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/joemckendrick_great-analysis-of-the-nber-working-paper-activity-7056978668945842177-6AWv](https://www.linkedin.com/posts/joemckendrick_great-analysis-of-the-nber-working-paper-activity-7056978668945842177-6AWv)  
+   Link: <a href="https://www.linkedin.com/posts/joemckendrick_great-analysis-of-the-nber-working-paper-activity-7056978668945842177-6AWv" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/joemckendrick_great-analysis-of-the-nber-working-paper-activity-7056978668945842177-6AWv</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe McKendrick&#x27;s Post26 Apr 2023 — ✓ High-skill workers have less to gain from AI assistance because AI recommendations are based on thei...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: laweconcenter.org  
    Title: ai productivity and labor markets a review of the empirical evidence  
-   Link: [https://laweconcenter.org/resources/ai-productivity-and-labor-markets-a-review-of-the-empirical-evidence/](https://laweconcenter.org/resources/ai-productivity-and-labor-markets-a-review-of-the-empirical-evidence/)  
+   Link: <a href="https://laweconcenter.org/resources/ai-productivity-and-labor-markets-a-review-of-the-empirical-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://laweconcenter.org/resources/ai-productivity-and-labor-markets-a-review-of-the-empirical-evidence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Productivity, and Labor Markets: A Review of the...5 Feb 2026 — One view holds that AI delivers modest aggregate gains even after di...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: cfodive.com  
    Title: ai boosts productivity nber case study generative workforce  
-   Link: [https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/](https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/)  
+   Link: <a href="https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/" target="_blank" rel="noopener noreferrer nofollow">https://www.cfodive.com/news/ai-boosts-productivity-nber-case-study-generative-workforce/649110/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI boosts productivity 14%: NBER case study1 May 2023 — Generative artificial intelligence boosted worker productivity 13.8% at a Fortune...</p></details>
-   Published: May 2023  
+   Published: May 2023

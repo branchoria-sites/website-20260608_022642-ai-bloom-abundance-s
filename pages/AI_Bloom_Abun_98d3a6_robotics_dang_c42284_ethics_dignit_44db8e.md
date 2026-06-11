@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /robotics/
 nav_short_title: Ethics & Dignity
 title: Ensuring Human Dignity in Automated Dangerous Work
-title_full: Ensuring Human Dignity in Automated Dangerous Work | Robotics
+title_full: Ensuring Human Dignity in Automated Dangerous Work
 display_title_short: Ethics & Dignity
 display_title: Ethics & Dignity
 heading_title: Ensuring Human Dignity in Automated Dangerous Work
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could Robots End Dangerous Drudgery? | AI Bloom
+date: '2026-06-08 01:32:58'
+parent_title: Could Robots End Dangerous Drudgery?
 parent_permalink: /robotics/
 parent_nav_short_title: Robotics
 parent_heading_title: Could Robots End Dangerous Drudgery?
@@ -271,7 +272,6 @@ next_link:
   permalink: /industrial-robotics/
   short_title: Industrial Robotics
   heading_title: How AI Robots Are Reducing Risk in Dangerous Industries
-date: '2026-06-08 01:32:58 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-1.webp
@@ -280,8 +280,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44
 
 ## Introduction
 
-In discussions about **AI‑enabled automation of dangerous work**, public attention often centres on safety, efficiency and economic change. Yet there is a deeper, more subtle debate about **human dignity** — about what it means for people’s sense of purpose, identity and self‑worth if robots take over tasks that were once central to human labour. Would automation in dangerous, repetitive or physical jobs enhance human flourishing, or risk devaluing the role of work in people’s lives? And how should policy, [governance]({{ 'power/' | relative_url }}) and workplace design protect dignity even as machines do more of the physical risk? This page explores those ethical and dignity considerations, grounded in research on autonomy, meaningful work and labour transitions in an era of [robotics]({{ 'robotics/' | relative_url }}) and AI.
-
+In discussions about **AI‑enabled automation of dangerous work**, public attention often centres on safety, efficiency and economic change. Yet there is a deeper, more subtle debate about **human dignity** — about what it means for people’s sense of purpose, identity and self‑worth if robots take over tasks that were once central to human labour. Would automation in dangerous, repetitive or physical jobs enhance human flourishing, or risk devaluing the role of work in people’s lives? And how should policy, governance and workplace design protect dignity even as machines do more of the physical risk? This page explores those ethical and dignity considerations, grounded in research on autonomy, meaningful work and labour transitions in an era of [robotics]({{ 'robotics/' | relative_url }}) and AI.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-1-dark.svg" | relative_url }}" alt="Ethics &amp; Dignity illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Dignity Means in the Context of Work
@@ -295,7 +294,6 @@ In the shift to automated systems, such as robots handling hazardous tasks or AI
 
 Understanding these dynamics helps clarify why dignity — and not just efficiency — should be a central concern in automation policy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4cMut0nidrI" title="John Danaher - Ethics of Automation and Utopia for Human Flourishing in World Without Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4cMut0nidrI" target="_blank" rel="noopener noreferrer">John Danaher - Ethics of Automation and Utopia for Human Flourishing in World Without Work</a></p><p class="youtube-embed-meta">Channel: The Disruptors - Science, Technology and Ethics &middot; Views: 242 &middot; Uploaded: December 2019 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4cMut0nidrI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4cMut0nidrI">Open on YouTube</a></p></div></div></div>
 
 ## How Automation Can Affect Identity and Recognition
@@ -306,14 +304,12 @@ Philosophers argue that robots in the workplace may change the *meaningfulness* 
 
 Preserving dignity in this transition involves recognising that meaningful work is not just about avoiding harm or risk; it also involves *social relationships, autonomy and skill use*, all of which contribute to a person’s sense of agency and self‑worth.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-3-dark.svg" | relative_url }}" alt="Ethics &amp; Dignity illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public Trust and Acceptance of Robotics
 
 Public acceptance of robots in hazardous jobs — from construction to offshore work — ties directly to ethical perceptions of dignity and fairness. People are more likely to embrace automated systems if they see them as **tools that enhance human wellbeing rather than replace human worth**. High‑profile voices, such as recent commentary from religious and civil society leaders, have emphasised that while AI can help remove dangerous work, it should not be deployed in ways that leave people feeling surplus to society’s needs or undermine their dignity as workers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/technology/tech-news/ai-job-cuts-could-trigger-a-social-calamity-pope-leo-warns-against-unchecked-automation-in-first-encyclical/articleshow/131308505.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">He stresses that while AI has the potential to enhance safety and efficiency by performing dangerous or repetitive tasks, it must not com...</span></span></span>
 
-Transparency and accountability in how automation decisions are made also matter for trust. When workplaces use [algorithmic]({{ 'algorithmic-risks/' | relative_url }}) management — systems that assign tasks, evaluate performance or monitor productivity — workers may experience a **loss of autonomy and understanding** of how decisions about their labour are reached. This can foster perceptions of being *objects* of optimisation rather than *participants* in work life. Ethical frameworks drawn from human‑centred design and labour law emphasise that autonomy and clarity about decision processes contribute to trust and dignity in the workplace.
-
+Transparency and accountability in how automation decisions are made also matter for trust. When workplaces use algorithmic management — systems that assign tasks, evaluate performance or monitor productivity — workers may experience a **loss of autonomy and understanding** of how decisions about their labour are reached. This can foster perceptions of being *objects* of optimisation rather than *participants* in work life. Ethical frameworks drawn from human‑centred design and labour law emphasise that autonomy and clarity about decision processes contribute to trust and dignity in the workplace.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-2-dark.svg" | relative_url }}" alt="Ethics &amp; Dignity illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_ethics_dignit_44db8e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy Options for Equitable Transition and Reskilling
@@ -328,14 +324,13 @@ When automation replaces dangerous physical tasks, policy can support workers to
 
 Involving employees in how automation is deployed — from safety protocols to task reallocation — helps maintain a sense of ownership and respect. Ethical design frameworks argue that systems should be co‑designed with people whose lives they affect, rather than imposed top‑down.
 
-**3. Legal and [institutional]({{ 'institutional-gaps/' | relative_url }}) protections.**
+**3. Legal and institutional protections.**
 
 Governments and labour institutions can enact standards that protect worker dignity through regulation of algorithmic management, requirements for explainability in automated decision‑making, and protections for fair wages and career development opportunities. These measures help prevent scenarios where workers feel like *mere inputs* to an automated machine.
 
 **4. Human‑centred metrics of success.**
 
 Organisations may broaden performance metrics beyond productivity and safety to include measures of worker satisfaction, autonomy and wellbeing. Such metrics align automation outcomes with dignity‑affirming goals rather than purely economic ones.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iwgFm87vu78" title="Rescuing human dignity from the AI interview | Kevin Sakamoto | TEDxUTA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iwgFm87vu78" target="_blank" rel="noopener noreferrer">Rescuing human dignity from the AI interview | Kevin Sakamoto | TEDxUTA</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 54 &middot; Uploaded: May 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iwgFm87vu78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iwgFm87vu78">Open on YouTube</a></p></div></div></div>
 
@@ -345,9 +340,7 @@ Advanced robotics and AI promise a future where dangerous, dull or dirty jobs ar
 
 Ultimately, dignity in the age of automation is not a side issue — it is a foundational measure of whether new technologies are advancing human flourishing, not just efficiency. Aligning automation with dignity requires intentional design, inclusive governance, and policies that put people’s *agency and worth* at the centre of technological change.[Springer]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xAkOR1WDRW0" title="The social and ethical implications of robotics and AI - Interview with Kate Devlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xAkOR1WDRW0" target="_blank" rel="noopener noreferrer">The social and ethical implications of robotics and AI - Interview with Kate Devlin</a></p><p class="youtube-embed-meta">Channel: Robot Talk &middot; Views: 292 &middot; Uploaded: October 2023 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xAkOR1WDRW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xAkOR1WDRW0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -361,16 +354,16 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Automation and the Future of Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDf_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Automation and the Future of Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Automation and the Future of Work">Automation and the Future of Work</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Aaron Benanav</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Focuses on work, inequality and what automation means for human purpose.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work+by+Aaron+Benanav&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -378,16 +371,16 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Big Nine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-9RtDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Big Nine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
+          <a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Big Nine">The Big Nine</a>
         </h4>
-        <p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
+        <p class="fr-book-author">By Amy Webb</p>
         
-        <p class="fr-book-desc">Links automation to productivity, inequality and institutional choices.</p>
+        <p class="fr-book-desc">Directly discusses power among major AI companies and their strategic influence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Big+Nine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,16 +388,16 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explains how robotics and AI can displace or redesign human work.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,16 +405,16 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Globotics+Upheaval+by+Richard+Baldwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Globotics Upheaval on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DSBlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Globotics Upheaval" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chip War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fUVdEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Chip War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Globotics+Upheaval+by+Richard+Baldwin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Globotics Upheaval">The Globotics Upheaval</a>
+          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chip War">Chip War</a>
         </h4>
-        <p class="fr-book-author">By Richard Baldwin</p>
+        <p class="fr-book-author">By Chris Miller</p>
         
-        <p class="fr-book-desc">Explores how automation and remote intelligence reshape jobs and social stability.</p>
+        <p class="fr-book-desc">Explains hardware and infrastructure dependencies behind AI partnerships.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Globotics+Upheaval+by+Richard+Baldwin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Chip+War+by+Chris+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -429,7 +422,7 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Automation+and+the+Future+of+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Automation and the Future of Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Big+Nine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Big Nine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -466,15 +459,15 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mysterious Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/460e10ba3eae5095fb91.jpg' | relative_url }}" alt="Listing image for Mysterious Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mr. Robot TV Show Series Poster Art Print"><img src="https://i.ebayimg.com/images/g/uNYAAOSwCNBm9XhJ/s-l225.jpg" alt="Listing image for Mr. Robot TV Show Series Poster Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Mysterious Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">Mr. Robot TV Show Series Poster Art Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -482,15 +475,15 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Inside Robot Inside Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/e294e408f0242507a545.jpg' | relative_url }}" alt="Listing image for Robot Inside Robot Inside Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCIFI WAR POSTER FUTURE FUTURISTIC ROBOT GUNFIRE COMBAT PRINT IMAGE"><img src="https://i.ebayimg.com/images/g/GzEAAOSwVvtiOOqY/s-l225.jpg" alt="Listing image for SCIFI WAR POSTER FUTURE FUTURISTIC ROBOT GUNFIRE COMBAT PRINT IMAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Robot Inside Robot Inside Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">SCIFI WAR POSTER FUTURE FUTURISTIC ROBOT GUNFIRE COMBAT PRINT IMAGE</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -498,15 +491,15 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Armor Robot Mecha Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5755178534d0772e9cfa.jpg' | relative_url }}" alt="Listing image for Black Armor Robot Mecha Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A3 SIZE - Transformers Optimus Prime ROBOT GIFT/WALL DECOR ART POSTER"><img src="https://i.ebayimg.com/images/g/Tj8AAOSw1DtXLmt9/s-l225.jpg" alt="Listing image for A3 SIZE - Transformers Optimus Prime ROBOT GIFT/WALL DECOR ART POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Black Armor Robot Mecha Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">A3 SIZE - Transformers Optimus Prime ROBOT GIFT/WALL DECOR ART POSTER</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -514,15 +507,15 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Forbidden Planet, Robby the Robot, Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ec116b2886b427c8e606.jpg' | relative_url }}" alt="Listing image for Forbidden Planet, Robby the Robot, Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FANGORIA # 4 magazine Feb 1980 (Caroline Munro, Salem&#x27;s Lot, Robot poster)"><img src="https://i.ebayimg.com/images/g/OIsAAeSwNUBqKsSs/s-l225.jpg" alt="Listing image for FANGORIA # 4 magazine Feb 1980 (Caroline Munro, Salem&#x27;s Lot, Robot poster)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Forbidden Planet, Robby the Robot, Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">FANGORIA # 4 magazine Feb 1980 (Caroline Munro, Salem&#x27;s Lot, Robot poster)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -530,7 +523,7 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster -book -books" data-ebay-reference="ethics-dignity-ensuring-human-dignity-in-automated-dangerous-work-ai-bloom-abundance-superintell-robot-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ensuring-human-dignity-in-automated-dangerous-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="ensuring-human-dignity-in-automated-dangerous-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -745,44 +738,44 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
 
 1. <a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13347-019-00377-4](https://link.springer.com/article/10.1007/s13347-019-00377-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerRobots in the Workplace: a Threat to—or Opportunity for—Meaningful Work? | Philosophy &amp; Technology | Springer Nature LinkNovember...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s13347-019-00377-4" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-019-00377-4</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots in the Workplace: a Threat to—or Opportunity for—Meaningful Work? | Philosophy &amp; Technology | Springer Nature LinkNovember...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10676-022-09637-y](https://link.springer.com/article/10.1007/s10676-022-09637-y)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerA Capability Approach to worker dignity under Algorithmic Management | Ethics and Information Technology | Springer Nature LinkFe...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10676-022-09637-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10676-022-09637-y</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Capability Approach to worker dignity under Algorithmic Management | Ethics and Information Technology | Springer Nature LinkFe...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13347-022-00604-5](https://link.springer.com/article/10.1007/s13347-022-00604-5)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13347-022-00604-5" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13347-022-00604-5</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethics and the Future of Work: a Different Voice | Philosophy &amp; Technology | Springer Nature LinkJanuary 26, 2023 — CARE ETHICS AND THE F...</p></details>
    Published: January 26, 2023  
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11019-021-10054-z](https://link.springer.com/article/10.1007/s11019-021-10054-z)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11019-021-10054-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11019-021-10054-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>concept of social dignity as a yardstick to delimit ethical use of robotic assistance in the care of older persons | Medicine, Health Car...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11023-019-09514-6](https://link.springer.com/article/10.1007/s11023-019-09514-6)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11023-019-09514-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11023-019-09514-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.com“Oh, Dignity too?” Said the Robot: Human Dignity as the Basis for the Governance of Robotics | Minds and Machines | Springer...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10676-018-9494-0](https://link.springer.com/article/10.1007/s10676-018-9494-0)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10676-018-9494-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10676-018-9494-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>weapons systems, killer robots and human dignity | Ethics and Information Technology | Springer Nature LinkDecember 6, 2018 — CRITICISMS...</p></details>
    Published: December 6, 2018  
 
 7. <a id="endnote-7"></a>
    Source: timesofindia.indiatimes.com  
-   Link: [https://timesofindia.indiatimes.com/technology/tech-news/ai-job-cuts-could-trigger-a-social-calamity-pope-leo-warns-against-unchecked-automation-in-first-encyclical/articleshow/131308505.cms](https://timesofindia.indiatimes.com/technology/tech-news/ai-job-cuts-could-trigger-a-social-calamity-pope-leo-warns-against-unchecked-automation-in-first-encyclical/articleshow/131308505.cms)  
+   Link: <a href="https://timesofindia.indiatimes.com/technology/tech-news/ai-job-cuts-could-trigger-a-social-calamity-pope-leo-warns-against-unchecked-automation-in-first-encyclical/articleshow/131308505.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/technology/tech-news/ai-job-cuts-could-trigger-a-social-calamity-pope-leo-warns-against-unchecked-automation-in-first-encyclical/articleshow/131308505.cms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He stresses that while AI has the potential to enhance safety and efficiency by performing dangerous or repetitive tasks, it must not com...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: springerlink.fh-diploma.de  
-   Link: [https://springerlink.fh-diploma.de/article/10.1007/s10676-018-9494-0](https://springerlink.fh-diploma.de/article/10.1007/s10676-018-9494-0)  
+   Link: <a href="https://springerlink.fh-diploma.de/article/10.1007/s10676-018-9494-0" target="_blank" rel="noopener noreferrer nofollow">https://springerlink.fh-diploma.de/article/10.1007/s10676-018-9494-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>weapons systems, killer robots and human dignity | Ethics and Information Technology | Springer Nature LinkDecember 6, 2018 — AUTONOMOUS...</p></details>
    Published: December 6, 2018  
 
@@ -790,57 +783,57 @@ Ultimately, dignity in the age of automation is not a side issue — it is a fou
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0040162521001189](https://www.sciencedirect.com/science/article/pii/S0040162521001189)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJune 1, 2021 — TENSIONS AND ANTAGONISTIC INTERACTIONS OF RISKS AND ETHICS OF USING ROBOTICS AND AUTONOMOUS SYSTEMS IN LONG-T...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0040162521001189" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0040162521001189</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 1, 2021 — TENSIONS AND ANTAGONISTIC INTERACTIONS OF RISKS AND ETHICS OF USING ROBOTICS AND AUTONOMOUS SYSTEMS IN LONG-T...</p></details>
    Published: June 1, 2021  
 
 10. <a id="endnote-10"></a>
    Source: pureportal.bcu.ac.uk  
-   Link: [https://pureportal.bcu.ac.uk/en/publications/human-dignity-in-an-age-of-autonomous-weapons-are-we-in-danger-of/](https://pureportal.bcu.ac.uk/en/publications/human-dignity-in-an-age-of-autonomous-weapons-are-we-in-danger-of/)  
+   Link: <a href="https://pureportal.bcu.ac.uk/en/publications/human-dignity-in-an-age-of-autonomous-weapons-are-we-in-danger-of/" target="_blank" rel="noopener noreferrer nofollow">https://pureportal.bcu.ac.uk/en/publications/human-dignity-in-an-age-of-autonomous-weapons-are-we-in-danger-of/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Birmingham City UniversityDecember 20, 2020 — HUMAN DIGNITY IN AN AGE OF AUTONOMOUS WEAPONS: ARE WE IN DANGER OF LOSING AN &#x27;ELEMENTARY CO...</p></details>
    Published: December 20, 2020  
 
 11. <a id="endnote-11"></a>
    Source: institut-fuer-menschenrechte.de  
-   Link: [https://www.institut-fuer-menschenrechte.de/menschenrechtsschutz/datenbanken/datenbank-fuer-menschenrechte-und-behinderung/detail/the-impact-of-assistive-and-robotics-technology-artificial-[intelligence](https://www.institut-fuer-menschenrechte.de/menschenrechtsschutz/datenbanken/datenbank-fuer-menschenrechte-und-behinderung/detail/the-impact-of-assistive-and-robotics-technology-artificial-[intelligence)  
+   Link: <a href="https://www.institut-fuer-menschenrechte.de/menschenrechtsschutz/datenbanken/datenbank-fuer-menschenrechte-und-behinderung/detail/the-impact-of-assistive-and-robotics-technology-artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.institut-fuer-menschenrechte.de/menschenrechtsschutz/datenbanken/datenbank-fuer-menschenrechte-und-behinderung/detail/the-impact-of-assistive-and-robotics-technology-artificial-[intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DIGNITY AND HUMAN RIGHTS 40. Dignity is the founding principle of human rights law and underpins international policy documentson ageing...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: paperity.org  
-   Link: [https://paperity.org/p/282953512/a-capability-approach-to-worker-dignity-under-algorithmic-management](https://paperity.org/p/282953512/a-capability-approach-to-worker-dignity-under-algorithmic-management)  
+   Link: <a href="https://paperity.org/p/282953512/a-capability-approach-to-worker-dignity-under-algorithmic-management" target="_blank" rel="noopener noreferrer nofollow">https://paperity.org/p/282953512/a-capability-approach-to-worker-dignity-under-algorithmic-management</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>February 1, 2022 — A CAPABILITY APPROACH TO WORKER DIGNITY UNDER ALGORITHMIC MANAGEMENT Ethics and Information Technology, Feb 2022 &gt; Thi...</p></details>
    Published: February 1, 2022  
 
 13. <a id="endnote-13"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/handle/1874/408284](https://dspace.library.uu.nl/handle/1874/408284)  
+   Link: <a href="https://dspace.library.uu.nl/handle/1874/408284" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/handle/1874/408284</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots in the Workplace: a Threat to—or Opportunity for—Meaningful Work? Smids, Jilles; Nyholm, Sven; Berkers, Hannah (20...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: inters.org  
    Title: Human dignity, individual freedom and solidarity are foundational to th  
-   Link: [https://inters.org/node/1791](https://inters.org/node/1791)  
+   Link: <a href="https://inters.org/node/1791" target="_blank" rel="noopener noreferrer nofollow">https://inters.org/node/1791</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotisation of Life: Ethics in View of New Challenges | Inters.orgThe existing European legal framework states that work is a human righ...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: pure.psu.edu  
    Title: Wagner * Aerospace Engineering Research ou  
-   Link: [https://pure.psu.edu/en/publications/moral-decision-making-in-autonomous-systems-enforcement-moral-emo/](https://pure.psu.edu/en/publications/moral-decision-making-in-autonomous-systems-enforcement-moral-emo/)  
+   Link: <a href="https://pure.psu.edu/en/publications/moral-decision-making-in-autonomous-systems-enforcement-moral-emo/" target="_blank" rel="noopener noreferrer nofollow">https://pure.psu.edu/en/publications/moral-decision-making-in-autonomous-systems-enforcement-moral-emo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>decision making in autonomous systems: Enforcement, moral emotions, dignity, trust, and deception - Penn StateMarch 1, 2012 — MORAL DECIS...</p></details>
    Published: March 1, 2012  
 
 16. <a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/35136379/](https://pubmed.ncbi.nlm.nih.gov/35136379/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35136379/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35136379/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2022;24(1):10. doi: 10.1007/s10676-022-09637-y. Epub 2022 Feb 3. A CAPABILITY APPROACH TO WORKER DIGNITY UNDER ALGORITHMIC MANAGEMENT Lau...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=y6To9x9Dbyk](https://www.youtube.com/watch?v=y6To9x9Dbyk)  
+   Link: <a href="https://www.youtube.com/watch?v=y6To9x9Dbyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6To9x9Dbyk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The social and ethical implications of robotics and AI - Interview with Kate Devlin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Ethics of Automation and Utopia for Human Flourishing in World Without Work  
-   Link: [https://www.youtube.com/watch?v=4cMut0nidrI](https://www.youtube.com/watch?v=4cMut0nidrI)  
+   Link: <a href="https://www.youtube.com/watch?v=4cMut0nidrI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4cMut0nidrI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic Leadership Without Dehumanization: Building Human-Centered Management Systems in the Age of AI...</p></details>

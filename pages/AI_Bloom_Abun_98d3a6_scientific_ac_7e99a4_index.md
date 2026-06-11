@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-scientific-ac/
 description: Focused pages that expand on Discovery.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4
-parent_title: Discovery | AI Bloom Abundance Superintelligence and Humanity
+parent_title: Discovery
 parent_nav_short_title: Discovery
 parent_permalink: /discovery/
 ---

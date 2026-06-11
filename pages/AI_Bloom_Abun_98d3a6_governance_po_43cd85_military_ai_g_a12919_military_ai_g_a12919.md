@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /military-ai/
 nav_short_title: AI Governance
 title: Global Rules and Policies for Military AI Control
-title_full: Global Rules and Policies for Military AI Control | Military AI
+title_full: Global Rules and Policies for Military AI Control
 display_title_short: AI Governance
 display_title: AI Governance
 heading_title: Global Rules and Policies for Military AI Control
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Balancing AI Power and Global Security Risks | Power
+date: '2026-06-08 02:04:49'
+parent_title: Balancing AI Power and Global Security Risks
 parent_permalink: /military-ai/
 parent_nav_short_title: Military AI
 parent_heading_title: Balancing AI Power and Global Security Risks
@@ -260,7 +261,6 @@ next_link:
   permalink: /ai-intelligence/
   short_title: AI Intelligence
   heading_title: AI in Military Intelligence and Strategic Planning
-date: '2026-06-08 02:04:49 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-1.webp
@@ -269,11 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a1
 
 ## Introduction
 
-The debate over military AI [governance]({{ 'power/' | relative_url }}) is no longer about a distant future. AI-assisted targeting, autonomous drones, battlefield decision-support systems, and military large language models are already appearing in real conflicts. Governments increasingly see AI as a source of strategic advantage, creating pressure to deploy systems quickly before rivals do. That dynamic raises a central question: can the world gain the defensive, stabilising, and potentially civilisation-protecting benefits of advanced AI without triggering an uncontrolled military arms race?
-
+The debate over military AI governance is no longer about a distant future. AI-assisted targeting, autonomous drones, battlefield decision-support systems, and military large language models are already appearing in real conflicts. Governments increasingly see AI as a source of strategic advantage, creating pressure to deploy systems quickly before rivals do. That dynamic raises a central question: can the world gain the defensive, stabilising, and potentially civilisation-protecting benefits of advanced AI without triggering an uncontrolled military arms race?
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-1-dark.svg" | relative_url }}" alt="AI Governance illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For advocates of a broader AI-enabled human flourishing, or “AI bloom”, this question matters far beyond defence policy. A future of [scientific]({{ 'discovery/' | relative_url }}) acceleration, abundance, longer lives, and greater human capability depends on avoiding catastrophic conflict and preserving international cooperation. If advanced AI becomes primarily a tool of military competition, the technologies that might expand humanity's long-term future could instead intensify instability and mistrust. The challenge for governance is therefore not simply to regulate weapons, but to create conditions in which powerful AI systems are developed under rules, oversight, and norms that reduce incentives for reckless escalation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRIImpact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRIArtificial Intelligence, Strategic Stability and Nuclear RiskThis report aims to offer the reader a concrete understanding of how th...</span></span></span>
+For advocates of a broader AI-enabled human flourishing, or “AI bloom”, this question matters far beyond defence policy. A future of scientific acceleration, abundance, longer lives, and greater human capability depends on avoiding catastrophic conflict and preserving international cooperation. If advanced AI becomes primarily a tool of military competition, the technologies that might expand humanity's long-term future could instead intensify instability and mistrust. The challenge for governance is therefore not simply to regulate weapons, but to create conditions in which powerful AI systems are developed under rules, oversight, and norms that reduce incentives for reckless escalation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Impact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Artificial Intelligence, Strategic Stability and Nuclear RiskThis report aims to offer the reader a concrete understanding of how th...</span></span></span>
 
 ## International Treaties and the Search for Global Rules
 
@@ -281,7 +280,7 @@ For advocates of a broader AI-enabled human flourishing, or “AI bloom”, this
 
 Traditional arms [control]({{ 'control/' | relative_url }}) treaties were designed around identifiable physical systems: nuclear warheads, chemical agents, missile launchers, or specific categories of weapons. Military AI is different. It is largely software-based, often dual-use, and frequently embedded within broader systems rather than existing as a standalone weapon.
 
-The same machine-learning techniques that help doctors analyse scans or scientists model proteins can also help militaries process surveillance data, coordinate drone swarms, or identify targets. This makes [verification]({{ 'verification/' | relative_url }}) difficult. Unlike nuclear materials, AI models can be copied, modified, and distributed rapidly across borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRIArtificial intelligenceSIPRI&#x27;s research on AI explores themes such as (a) how AI may find uses in conventional, cyber and nuclear fo...</span></span></span>
+The same machine-learning techniques that help doctors analyse scans or scientists model proteins can also help militaries process surveillance data, coordinate drone swarms, or identify targets. This makes [verification]({{ 'verification/' | relative_url }}) difficult. Unlike nuclear materials, AI models can be copied, modified, and distributed rapidly across borders. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Artificial intelligenceSIPRI&#x27;s research on AI explores themes such as (a) how AI may find uses in conventional, cyber and nuclear fo...</span></span></span>
 
 As a result, many policymakers have shifted from asking whether AI can be controlled through traditional disarmament models toward questions of operational constraints, [human oversight]({{ 'human-oversight/' | relative_url }}) requirements, transparency measures, and risk-reduction mechanisms.
 
@@ -291,18 +290,17 @@ The main international forum for discussions on lethal autonomous weapons system
 
 A central concept emerging from these discussions is "meaningful human control" or, more recently, "context-appropriate human judgment and control". The idea is that humans should remain genuinely responsible for decisions involving lethal force rather than serving as nominal overseers of machine-driven processes. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10676-025-09874-x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkLethal autonomous weapon systems (LAWS): meaningful...by S Miller · 2025 · Cited by 5 — This article is concerned with thre...</span></span></span>
 
-Despite more than a decade of discussions, progress has been slow. The CCW operates largely by consensus, allowing major military powers to block proposals they consider unacceptable. States disagree not only on regulatory details but also on basic definitions. There is still no universally accepted definition of a lethal autonomous weapon system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">ASILLethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span> Reuters The result is a familiar arms-control dilemma: countries worried about losing strategic advantages often resist restrictions <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Nations meet at UN for &#x27;killer robot&#x27; talks as regulation lags</span><span class="citation-popover-snippet">Despite growing reliance on AI in warfare, binding international standards to govern their use remain largely absent. Since 2014, discuss...</span></span></span>, while countries with fewer military AI capabilities tend to favour stronger international rules.
+Despite more than a decade of discussions, progress has been slow. The CCW operates largely by consensus, allowing major military powers to block proposals they consider unacceptable. States disagree not only on regulatory details but also on basic definitions. There is still no universally accepted definition of a lethal autonomous weapon system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">Lethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span> Reuters The result is a familiar arms-control dilemma: countries worried about losing strategic advantages often resist restrictions <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Nations meet at UN for &#x27;killer robot&#x27; talks as regulation lags</span><span class="citation-popover-snippet">Despite growing reliance on AI in warfare, binding international standards to govern their use remain largely absent. Since 2014, discuss...</span></span></span>, while countries with fewer military AI capabilities tend to favour stronger international rules.
 
 ### Growing activity in the UN General Assembly
 
 Frustration with slow progress in Geneva has increasingly pushed discussions into the wider United Nations system.
 
-In late 2024, the UN General Assembly adopted a major resolution on lethal autonomous weapons systems with overwhelming support. The resolution encouraged further work on both prohibitions and regulations, reflecting growing international concern that existing frameworks may be insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">ASILLethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
+In late 2024, the UN General Assembly adopted a major resolution on lethal autonomous weapons systems with overwhelming support. The resolution encouraged further work on both prohibitions and regulations, reflecting growing international concern that existing frameworks may be insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">Lethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
 
-Another General Assembly resolution addressed artificial intelligence in the military domain more broadly, affirming that international law applies throughout the life cycle of military AI systems and calling for deeper examination of implications for international peace and security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallibrary.un.org/record/4071100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallibrary.un.org">[Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallibrary.un.org</span><span class="citation-popover-snippet">Digital LibraryLethal autonomous weapons systems:Lethal autonomous weapons systems: resolution / adopted by the General Assembly UN. Ge...</span></span></span> [2UNIDIR →] Building a more secure world.
+Another General Assembly resolution addressed artificial [intelligence]({{ 'intelligence/' | relative_url }}) in the military domain more broadly, affirming that international law applies throughout the life cycle of military AI systems and calling for deeper examination of implications for international peace and security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitallibrary.un.org/record/4071100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitallibrary.un.org">[Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitallibrary.un.org</span><span class="citation-popover-snippet">Digital LibraryLethal autonomous weapons systems:Lethal autonomous weapons systems: resolution / adopted by the General Assembly UN. Ge...</span></span></span> [2UNIDIR →] Building a more secure world.
 
 These resolutions are not legally binding. Nevertheless, they help establish diplomatic expectations and create political pressure. Historically, many arms-control initiatives have begun as norms before becoming treaties.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R1AFbuzIBik" title="[REAIM Summit 2024 Documentary : Responsible AI for Safer Tomorrow]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R1AFbuzIBik" target="_blank" rel="noopener noreferrer">[REAIM Summit 2024 Documentary : Responsible AI for Safer Tomorrow]</a></p><p class="youtube-embed-meta">Channel: REAIMSummit &middot; Views: 193.5K &middot; Uploaded: December 2024 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R1AFbuzIBik" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R1AFbuzIBik">Open on YouTube</a></p></div></div></div>
 
@@ -310,13 +308,13 @@ These resolutions are not legally binding. Nevertheless, they help establish dip
 
 One of the most important disagreements concerns what exactly should be governed.
 
-Some states, humanitarian organisations, and civil-society groups argue that certain forms of autonomous weapons should be prohibited outright. Their concern is that machines should never independently decide who lives and dies. They argue that such systems create accountability gaps, threaten civilian protection, and undermine fundamental principles of international humanitarian law. UN Regional Info Centre <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">ASILLethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
+Some states, humanitarian organisations, and civil-society groups argue that certain forms of autonomous weapons should be prohibited outright. Their concern is that machines should never independently decide who lives and dies. They argue that such systems create accountability gaps, threaten civilian protection, and undermine fundamental principles of international humanitarian law. UN Regional Info Centre <span class="citation-chip-wrap"><a class="citation-chip" href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asil.org">[ASIL]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asil.org</span><span class="citation-popover-title">volume 29 issue 1</span><span class="citation-popover-snippet">Lethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</span><span class="citation-popover-meta">Published: December 2, 2024</span></span></span>
 
-Others favour regulation rather than prohibition. Their argument is that autonomy exists on a spectrum. Defensive systems such as missile interceptors already operate with substantial automation because human reaction times are often too slow. From this perspective, the goal should be to identify unacceptable applications while allowing beneficial or stabilising uses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRIAutonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</span></span></span>
+Others favour regulation rather than prohibition. Their argument is that autonomy exists on a spectrum. Defensive systems such as missile interceptors already operate with substantial automation because human reaction times are often too slow. From this perspective, the goal should be to identify unacceptable applications while allowing beneficial or stabilising uses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Autonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</span></span></span>
 
 A third position focuses less on specific technologies and more on outcomes. Under this approach, governance should target risks such as escalation, loss of accountability, accidental engagements, or civilian harm regardless of how much autonomy a system technically possesses.
 
-This debate matters because the future of military AI may involve not only autonomous weapons but also AI-enabled command systems, intelligence analysis tools, cyber capabilities, and increasingly agentic systems capable of planning and coordinating actions over long time horizons. Some researchers argue that existing governance frameworks were developed for earlier generations of autonomy and may struggle to address these newer capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.06813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMeaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons sys...</span></span></span>
+This debate matters because the future of military AI may involve not only autonomous weapons but also AI-enabled command systems, intelligence analysis tools, cyber capabilities, and increasingly agentic systems capable of planning and coordinating actions over long time horizons. Some researchers argue that existing governance frameworks were developed for earlier generations of autonomy and may struggle to address these newer capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2303.06813" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons sys...</span></span></span>
 
 ## National Military AI Policies Are Becoming a Second Layer of Governance
 
@@ -326,7 +324,7 @@ The United States Department of Defense has published policies emphasising respo
 
 National frameworks can move faster than international treaties, but they face a credibility problem. A government may commit to responsible use while simultaneously investing heavily in military AI capabilities. Rival states may then interpret these investments as evidence that competition is intensifying, regardless of official safeguards.
 
-This is one reason governance experts increasingly focus on interoperability between national approaches. If states can converge around shared definitions, testing standards, audit procedures, and human-control requirements, those norms may gradually become international expectations even without a formal treaty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRILessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</span></span></span>
+This is one reason governance experts increasingly focus on interoperability between national approaches. If states can converge around shared definitions, testing standards, audit procedures, and human-control requirements, those norms may gradually become international expectations even without a formal treaty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Lessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</span></span></span>
 
 The challenge is that different countries often have different strategic incentives. Democracies may emphasise transparency and accountability, while authoritarian governments may prioritise speed, secrecy, or operational flexibility. Governance frameworks therefore emerge within broader geopolitical competition rather than outside it.
 
@@ -340,23 +338,17 @@ Historically, nuclear stability relied not only on arms-reduction treaties but a
 
 Many researchers argue that military AI may require a comparable toolkit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/sites/default/files/2025-05/eunpdc_no_97.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Lessons from the European Union on Confidence-Building...CONFIDENCE-BUILDING MEASURES IN. DELIBERATIONS ON GLOBAL GOVERNANCE OF. AI IN T...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-2-dark.svg" | relative_url }}" alt="AI Governance illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Practical confidence-building measures under discussion
 
 Rather than attempting immediate global bans, some experts advocate incremental measures that reduce uncertainty and build trust:
 
-* [Voluntary]({{ 'lab-pressure/' | relative_url }}) transparency regarding military AI doctrines.
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
+* Voluntary transparency regarding military AI doctrines.
 * Shared definitions of autonomous functions and human oversight.
 * Notification procedures for major military AI deployments or tests.
 * Communication channels during crises involving AI-enabled systems.
 * Joint technical discussions on accident prevention and escalation risks.
-* Shared best practices for testing, validation, and safety assurance.
-
-</div>
+* Shared best practices for testing, [validation]({{ 'validation/' | relative_url }}), and safety assurance.
 
 SIPRI researchers have argued that confidence-building measures may provide a practical path forward because they can generate cooperation even when governments disagree about comprehensive regulation. The European Union's experience with risk-based AI governance has also been studied as a possible source of lessons for military contexts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/news/2025/sipri-convenes-workshop-ai-nuclear-nexus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">convenes workshop ai nuclear nexus</span><span class="citation-popover-snippet">SIPRI convenes workshop on the AI–nuclear nexus2 Jul 2025 — On 16–17 June, SIPRI held an expert-led workshop centring on AI integration i...</span></span></span>
 
@@ -369,7 +361,6 @@ Researchers warn that AI integration could compress decision times during crises
 Because of these risks, some analysts advocate specific norms limiting AI involvement in nuclear launch decisions. Such norms would resemble earlier agreements that sought to preserve human judgment at moments of potentially civilisation-ending consequence.
 
 For those interested in the long-term future of humanity, this area is especially significant. Advanced AI could eventually contribute to extraordinary scientific and economic progress, but that future depends on avoiding catastrophic conflicts that could derail or destroy the conditions necessary for human flourishing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wh6gAXaGGNs" title="UNIDIR Global Conference on AI, Security and Ethics 2025 - Day 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wh6gAXaGGNs" target="_blank" rel="noopener noreferrer">UNIDIR Global Conference on AI, Security and Ethics 2025 - Day 1</a></p><p class="youtube-embed-meta">Channel: United Nations Institute for Disarmament Research &middot; Views: 2.8K &middot; Uploaded: March 2025 &middot; Length: 8 hours 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wh6gAXaGGNs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wh6gAXaGGNs">Open on YouTube</a></p></div></div></div>
 
@@ -387,7 +378,6 @@ Fourth, AI may reward speed. Leaders may fear that opponents using AI-enhanced s
 
 These dynamics resemble classic security dilemmas: actions intended as defensive can appear threatening to rivals. Arms race mitigation therefore requires more than technical safety measures. It requires political mechanisms that reduce fear and improve predictability.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-3-dark.svg" | relative_url }}" alt="AI Governance illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_military_ai_g_a12919_military_ai_g_a12919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Success Would Actually Look Like
 
@@ -395,21 +385,19 @@ A realistic vision of military AI governance is unlikely to resemble complete pr
 
 Instead, success would probably involve several overlapping layers:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * International recognition that existing humanitarian law applies to military AI.
 * Stronger norms requiring meaningful human responsibility for lethal decisions.
 * Shared testing, auditing, and validation standards.
-* Confidence-building measures among major powers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[sipri.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">SIPRILessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</span></span></span>
+* Confidence-building measures among major powers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[sipri.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-snippet">Lessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</span></span></span>
 * Explicit safeguards around nuclear command and control.
 * Greater transparency regarding military AI doctrines and deployment practices.
 * Technical mechanisms that allow verification and accountability after incidents.
 
 </div>
 
-Such arrangements would not eliminate competition. States would still pursue military advantages. The goal would be more modest but still enormously important: preventing competitive pressures from producing uncontrolled escalation, accidental conflict, or the gradual removal of human judgment from decisions with irreversible consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unric.org">[UN Regional Info Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unric.org</span><span class="citation-popover-title">ai in conflict keeping humanity in control</span><span class="citation-popover-snippet">UN Regional Info CentreAI in conflict: keeping humanity in control14 Oct 2025 — The General Assembly&#x27;s resolution 79/239, adopted in Dece...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Pragmatic Approaches to Governance at the Artificial</span><span class="citation-popover-snippet">SIPRIThis report seeks to advance the discussion by identifying commonalities in risk assessments on the AI–nuclear nexus, examining the...</span></span></span>
-
+Such arrangements would not eliminate competition. States would still pursue military advantages. The goal would be more modest but still enormously important: preventing competitive pressures from producing uncontrolled escalation, accidental conflict, or the gradual removal of human judgment from decisions with irreversible consequences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unric.org">[UN Regional Info Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unric.org</span><span class="citation-popover-title">ai in conflict keeping humanity in control</span><span class="citation-popover-snippet">UN Regional Info CentreAI in conflict: keeping humanity in control14 Oct 2025 — The General Assembly&#x27;s resolution 79/239, adopted in Dece...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sipri.org">[SIPRI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sipri.org</span><span class="citation-popover-title">Pragmatic Approaches to Governance at the Artificial</span><span class="citation-popover-snippet">This report seeks to advance the discussion by identifying commonalities in risk assessments on the AI–nuclear nexus, examining the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xKIxIDDzTA0" title="AI, new tech, and the Doomsday Clock" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xKIxIDDzTA0" target="_blank" rel="noopener noreferrer">AI, new tech, and the Doomsday Clock</a></p><p class="youtube-embed-meta">Channel: Bulletin of the Atomic Scientists &middot; Views: 24.4K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xKIxIDDzTA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xKIxIDDzTA0">Open on YouTube</a></p></div></div></div>
 
@@ -819,248 +807,248 @@ Whether that balance can be achieved remains uncertain. The history of arms cont
 
 1. <a id="endnote-1"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk](https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIImpact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/impact-military-artificial-intelligence-nuclear-escalation-risk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Military Artificial Intelligence on Nuclear...Increasing integration of artificial intelligence (AI) into military system...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk](https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIArtificial Intelligence, Strategic Stability and Nuclear RiskThis report aims to offer the reader a concrete understanding of how th...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2020/policy-reports/artificial-intelligence-strategic-stability-and-nuclear-risk</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence, Strategic Stability and Nuclear RiskThis report aims to offer the reader a concrete understanding of how th...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence](https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIArtificial intelligenceSIPRI&#x27;s research on AI explores themes such as (a) how AI may find uses in conventional, cyber and nuclear fo...</p></details>
+   Link: <a href="https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligenceSIPRI&#x27;s research on AI explores themes such as (a) how AI may find uses in conventional, cyber and nuclear fo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
    Title: Nations meet at UN for 'killer robot' talks as regulation lags  
-   Link: [https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/](https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/)  
+   Link: <a href="https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/society-equity/nations-meet-un-killer-robot-talks-regulation-lags-2025-05-12/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite growing reliance on AI in warfare, binding international standards to govern their use remain largely absent. Since 2014, discuss...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/world/progress-rules-lethal-autonomous-weapons-urgently-needed-says-chair-geneva-talks-2026-03-03/](https://www.reuters.com/world/progress-rules-lethal-autonomous-weapons-urgently-needed-says-chair-geneva-talks-2026-03-03/)  
+   Link: <a href="https://www.reuters.com/world/progress-rules-lethal-autonomous-weapons-urgently-needed-says-chair-geneva-talks-2026-03-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/progress-rules-lethal-autonomous-weapons-urgently-needed-says-chair-geneva-talks-2026-03-03/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>From now until September, 128 states will consider a consensus-based, non-binding text aimed at laying the groundwork for future binding...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s10676-025-09874-x](https://link.springer.com/article/10.1007/s10676-025-09874-x)  
+   Link: <a href="https://link.springer.com/article/10.1007/s10676-025-09874-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10676-025-09874-x</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkLethal autonomous weapon systems (LAWS): meaningful...by S Miller · 2025 · Cited by 5 — This article is concerned with thre...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2303.06813](https://arxiv.org/abs/2303.06813)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMeaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons sys...</p></details>
+   Link: <a href="https://arxiv.org/abs/2303.06813" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2303.06813</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meaningful human command: Advance control directives as a method to enable moral and legal responsibility for autonomous weapons sys...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: asil.org  
    Title: volume 29 issue 1  
-   Link: [https://asil.org/insights/volume-29-issue-1/](https://asil.org/insights/volume-29-issue-1/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ASILLethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</p></details>
+   Link: <a href="https://asil.org/insights/volume-29-issue-1/" target="_blank" rel="noopener noreferrer nofollow">https://asil.org/insights/volume-29-issue-1/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lethal Autonomous Weapons Systems &amp; International Law24 Jan 2025 — On December 2, 2024, the United Nations (UN) General Assembly adop...</p></details>
    Published: December 2, 2024  
 
 9. <a id="endnote-9"></a>
    Source: unidir.org  
    Title: UN General Assembly A RES 79 239 EN  
-   Link: [https://unidir.org/wp-content/uploads/2025/03/UN_General_Assembly_A_RES_79_239-EN.pdf](https://unidir.org/wp-content/uploads/2025/03/UN_General_Assembly_A_RES_79_239-EN.pdf)  
+   Link: <a href="https://unidir.org/wp-content/uploads/2025/03/UN_General_Assembly_A_RES_79_239-EN.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/wp-content/uploads/2025/03/UN_General_Assembly_A_RES_79_239-EN.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A/RES/79/239 General Assembly31 Dec 2024 — 2 Resolution 79/1. Page 3. Artificial intelligence in the military domain and its implications...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and](https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIAutonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/autonomous-weapon-systems-and-ai-enabled-decision-support-systems-military-targeting-comparison-and</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Weapon Systems and AI-enabled Decision...This report provides a comparative analysis of autonomous weapon systems and ar...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv The Controllability Trap: A Governance Framework for Military AI Agents  
-   Link: [https://arxiv.org/abs/2603.03515](https://arxiv.org/abs/2603.03515)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Controllability Trap: A Governance Framework for Military AI AgentsMarch 3, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2603.03515" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2603.03515</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Controllability Trap: A Governance Framework for Military AI AgentsMarch 3, 2026...</p></details>
    Published: March 3, 2026  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.06300](https://arxiv.org/abs/2604.06300)  
+   Link: <a href="https://arxiv.org/abs/2604.06300" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.06300</a>  
 
 13. <a id="endnote-13"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain](https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRILessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/eu-non-proliferation-and-disarmament-papers/lessons-eu-confidence-building-measures-around-artificial-intelligence-military-domain</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from the EU on Confidence-building Measures...This report examines how global governance deliberations might benefit from a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/sites/default/files/2025-05/eunpdc_no_97.pdf](https://www.sipri.org/sites/default/files/2025-05/eunpdc_no_97.pdf)  
+   Link: <a href="https://www.sipri.org/sites/default/files/2025-05/eunpdc_no_97.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2025-05/eunpdc_no_97.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from the European Union on Confidence-Building...CONFIDENCE-BUILDING MEASURES IN. DELIBERATIONS ON GLOBAL GOVERNANCE OF. AI IN T...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sipri.org  
    Title: convenes workshop ai nuclear nexus  
-   Link: [https://www.sipri.org/news/2025/sipri-convenes-workshop-ai-nuclear-nexus](https://www.sipri.org/news/2025/sipri-convenes-workshop-ai-nuclear-nexus)  
+   Link: <a href="https://www.sipri.org/news/2025/sipri-convenes-workshop-ai-nuclear-nexus" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/news/2025/sipri-convenes-workshop-ai-nuclear-nexus</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRI convenes workshop on the AI–nuclear nexus2 Jul 2025 — On 16–17 June, SIPRI held an expert-led workshop centring on AI integration i...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sipri.org  
    Title: co host military ai course  
-   Link: [https://www.sipri.org/news/2026/sipri-co-host-military-ai-course](https://www.sipri.org/news/2026/sipri-co-host-military-ai-course)  
+   Link: <a href="https://www.sipri.org/news/2026/sipri-co-host-military-ai-course" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/news/2026/sipri-co-host-military-ai-course</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRI to co-host military AI course10 Feb 2026 — June 2025. Lessons from the EU on Confidence-building Measures Around Artificial Intelli...</p></details>
    Published: June 2025  
 
 17. <a id="endnote-17"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/](https://www.sipri.org/)  
+   Link: <a href="https://www.sipri.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/</a>  
 
 18. <a id="endnote-18"></a>
    Source: sipri.org  
    Title: mapping military ai industry  
-   Link: [https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry](https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry)  
+   Link: <a href="https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/commentary/topical-backgrounder/2026/mapping-military-ai-industry</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mapping the military AI industry23 Apr 2026 — The involvement of industry is a key aspiration of arms control initiatives on the responsi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2026/other-publications/ai-chinese-indian-and-us-nuclear-postures-norms-and-systems](https://www.sipri.org/publications/2026/other-publications/ai-chinese-indian-and-us-nuclear-postures-norms-and-systems)  
+   Link: <a href="https://www.sipri.org/publications/2026/other-publications/ai-chinese-indian-and-us-nuclear-postures-norms-and-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2026/other-publications/ai-chinese-indian-and-us-nuclear-postures-norms-and-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Chinese, Indian and US Nuclear Postures, Norms and...This survey is intended to serve as a baseline for future engagement with and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: sipri.org  
    Title: Pragmatic Approaches to Governance at the Artificial  
-   Link: [https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus](https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIPRIThis report seeks to advance the discussion by identifying commonalities in risk assessments on the AI–nuclear nexus, examining the...</p></details>
+   Link: <a href="https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/other-publications/pragmatic-approaches-governance-artificial-intelligence-nuclear-nexus</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This report seeks to advance the discussion by identifying commonalities in risk assessments on the AI–nuclear nexus, examining the...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: sipri.org  
    Title: military ai responsible procurement  
-   Link: [https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement](https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement)  
+   Link: <a href="https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/commentary/essay/2025/military-ai-responsible-procurement</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible behaviour in military AI starts with...Oct 16, 2025 — Areas where AI is expected to generate important opportunities in the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence/recent-pubs](https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence/recent-pubs)  
+   Link: <a href="https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence/recent-pubs" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/research/armament-and-disarmament/emerging-military-and-security-technologies/artificial-intelligence/recent-pubs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Related publicationsRomansky, R.: Lessons from the EU on Confidence-building Measures Around Artificial Intelligence in the Military Doma...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons](https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons)  
+   Link: <a href="https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/publications/2025/sipri-insights-peace-and-security/advancing-governance-nexus-artificial-intelligence-and-nuclear-weapons</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of the AI–nuclear nexus...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sipri.org  
-   Link: [https://www.sipri.org/sites/default/files/2026-02/0226_milai_procurement.pdf](https://www.sipri.org/sites/default/files/2026-02/0226_milai_procurement.pdf)  
+   Link: <a href="https://www.sipri.org/sites/default/files/2026-02/0226_milai_procurement.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sipri.org/sites/default/files/2026-02/0226_milai_procurement.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Responsible Procurement of Military Artificial IntelligenceThis report investigates why and how states are adapting their procurement pro...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: unidir.org  
-   Link: [https://unidir.org/files/2022-12/Confidence-Building_Final.pdf](https://unidir.org/files/2022-12/Confidence-Building_Final.pdf)  
+   Link: <a href="https://unidir.org/files/2022-12/Confidence-Building_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://unidir.org/files/2022-12/Confidence-Building_Final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CONFIDENCE-BUILDING MEASURES FOR ARTIFICIAL...by I PUSCAS · Cited by 2 — This paper serves as a framing paper for this new project, intr...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: eucyberdirect.eu  
-   Link: [https://eucyberdirect.eu/events/navigating-the-international-and-european-governance-of-military-ai-from-confidence-building-measures-to-risk-based-[guardrails](https://eucyberdirect.eu/events/navigating-the-international-and-european-governance-of-military-ai-from-confidence-building-measures-to-risk-based-[guardrails)  
+   Link: <a href="https://eucyberdirect.eu/events/navigating-the-international-and-european-governance-of-military-ai-from-confidence-building-measures-to-risk-based-[guardrails" target="_blank" rel="noopener noreferrer nofollow">https://eucyberdirect.eu/events/navigating-the-international-and-european-governance-of-military-ai-from-confidence-building-measures-to-risk-based-[guardrails</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating the International and European Governance of...Oct 27, 2023 — Navigating the International and European Governance of Militar...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reuters.com  
    Title: Russia says US did not grant visa for official to attend UN meeting  
-   Link: [https://www.reuters.com/world/russia-says-us-did-not-grant-visa-vice-minister-attend-un-2026-05-26/](https://www.reuters.com/world/russia-says-us-did-not-grant-visa-vice-minister-attend-un-2026-05-26/)  
+   Link: <a href="https://www.reuters.com/world/russia-says-us-did-not-grant-visa-vice-minister-attend-un-2026-05-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/russia-says-us-did-not-grant-visa-vice-minister-attend-un-2026-05-26/</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wh6gAXaGGNs](https://www.youtube.com/watch?v=wh6gAXaGGNs)  
+   Link: <a href="https://www.youtube.com/watch?v=wh6gAXaGGNs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wh6gAXaGGNs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[REAIM Summit 2024 Documentary: Responsible AI for Safer Tomorrow]...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/4071100](https://digitallibrary.un.org/record/4071100)  
+   Link: <a href="https://digitallibrary.un.org/record/4071100" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4071100</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital LibraryLethal autonomous weapons systems:Lethal autonomous weapons systems: resolution / adopted by the General Assembly UN. Ge...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: digitallibrary.un.org  
-   Link: [https://digitallibrary.un.org/record/4071348?ln=en](https://digitallibrary.un.org/record/4071348?ln=en)  
+   Link: <a href="https://digitallibrary.un.org/record/4071348?ln=en" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/4071348?ln=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital LibraryArtificial intelligence in the military domain and its...Artificial intelligence in the military domain and its implicati...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: unric.org  
    Title: ai in conflict keeping humanity in control  
-   Link: [https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/](https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/)  
+   Link: <a href="https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/ai-in-conflict-keeping-humanity-in-control/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UN Regional Info CentreAI in conflict: keeping humanity in control14 Oct 2025 — The General Assembly&#x27;s resolution 79/239, adopted in Dece...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: unric.org  
    Title: un addresses ai and the dangers of lethal autonomous weapons systems  
-   Link: [https://unric.org/en/un-addresses-ai-and-the-dangers-of-lethal-autonomous-weapons-systems/](https://unric.org/en/un-addresses-ai-and-the-dangers-of-lethal-autonomous-weapons-systems/)  
+   Link: <a href="https://unric.org/en/un-addresses-ai-and-the-dangers-of-lethal-autonomous-weapons-systems/" target="_blank" rel="noopener noreferrer nofollow">https://unric.org/en/un-addresses-ai-and-the-dangers-of-lethal-autonomous-weapons-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UN Regional Info CentreAI and the Dangers of Lethal Autonomous Weapons Systems6 Jan 2025 — Commonly called “killer robots,” these systems...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: theverge.com  
    Title: The Verge AI warfare is already here  
-   Link: [https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines](https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines)  
+   Link: <a href="https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially viewed as futuristic, lethal autonomous weapon systems (LAWS) are now increasingly present in real-world applications. The tran...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: un.org  
-   Link: [https://www.un.org/en/](https://www.un.org/en/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations | Peace, dignity and equality on a healthy planetAs the world&#x27;s only truly [universal](&amp;#123;&amp;#123; &#x27;ai-tutors-f14433/&#x27; | relative_url &amp;#125;&amp;#125;) global organization, the United Natio...</p></details>
+   Link: <a href="https://www.un.org/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/en/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ited Nations | Peace, dignity and equality on a healthy planetAs the world&#x27;s only truly universal global organization, the United Natio...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: United Nations  
-   Link: [https://en.wikipedia.org/wiki/United_Nations](https://en.wikipedia.org/wiki/United_Nations)  
+   Link: <a href="https://en.wikipedia.org/wiki/United_Nations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Nations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United NationsThe United Nations (UN) is a global intergovernmental organization established by the signing of the UN Charter on 26 Ju...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: reachingcriticalwill.org  
-   Link: [https://reachingcriticalwill.org/resources/publications-and-research/publications/17337-wilpf-submission-to-the-un-secretary-general-s-report-on-artificial-intelligence-in-the-military-domain](https://reachingcriticalwill.org/resources/publications-and-research/publications/17337-wilpf-submission-to-the-un-secretary-general-s-report-on-artificial-intelligence-in-the-military-domain)  
+   Link: <a href="https://reachingcriticalwill.org/resources/publications-and-research/publications/17337-wilpf-submission-to-the-un-secretary-general-s-report-on-artificial-intelligence-in-the-military-domain" target="_blank" rel="noopener noreferrer nofollow">https://reachingcriticalwill.org/resources/publications-and-research/publications/17337-wilpf-submission-to-the-un-secretary-general-s-report-on-artificial-intelligence-in-the-military-domain</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UN Submission on AI in the Military DomainIn 2024, the UN General Assembly adopted a resolution on &quot;Artificial intelligence in the milita...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: table.media  
-   Link: [https://table.media/en/security/feature/ai-guidelines-how-the-federal-ministry-of-defense-plans-to-ensure-human-oversight-in-autonomous-systems](https://table.media/en/security/feature/ai-guidelines-how-the-federal-ministry-of-defense-plans-to-ensure-human-oversight-in-autonomous-systems)  
+   Link: <a href="https://table.media/en/security/feature/ai-guidelines-how-the-federal-ministry-of-defense-plans-to-ensure-human-oversight-in-autonomous-systems" target="_blank" rel="noopener noreferrer nofollow">https://table.media/en/security/feature/ai-guidelines-how-the-federal-ministry-of-defense-plans-to-ensure-human-oversight-in-autonomous-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>guidelines: How the Federal Ministry of Defense plans to...2 days ago — “The Ministry of Defense must ensure that context-based human ju...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/opinion/article/2026/03/29/the-use-of-lethal-autonomous-weapons-controlled-by-ai-goes-against-the-principles-of-a-just-war_6751919_23.html](https://www.lemonde.fr/en/opinion/article/2026/03/29/the-use-of-lethal-autonomous-weapons-controlled-by-ai-goes-against-the-principles-of-a-just-war_6751919_23.html)  
+   Link: <a href="https://www.lemonde.fr/en/opinion/article/2026/03/29/the-use-of-lethal-autonomous-weapons-controlled-by-ai-goes-against-the-principles-of-a-just-war_6751919_23.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/opinion/article/2026/03/29/the-use-of-lethal-autonomous-weapons-controlled-by-ai-goes-against-the-principles-of-a-just-war_6751919_23.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>She argues that such systems fundamentally conflict with the principles of just war and international humanitarian law, particularly rega...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: publications.parliament.uk  
-   Link: [https://publications.parliament.uk/pa/ld5804/ldselect/ldaiwe/16/1608.htm](https://publications.parliament.uk/pa/ld5804/ldselect/ldaiwe/16/1608.htm)  
+   Link: <a href="https://publications.parliament.uk/pa/ld5804/ldselect/ldaiwe/16/1608.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld5804/ldselect/ldaiwe/16/1608.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentChapter 4: International LawThis Chapter will concentrate on the ability of AWS to comply with IHL as the primary law regula...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: unipd-centrodirittiumani.it  
-   Link: [https://unipd-centrodirittiumani.it/en/news/united-nations-resolution-79l77-adopted-by-the-general-assembly-on-lethal-autonomous-weapons-systems](https://unipd-centrodirittiumani.it/en/news/united-nations-resolution-79l77-adopted-by-the-general-assembly-on-lethal-autonomous-weapons-systems)  
+   Link: <a href="https://unipd-centrodirittiumani.it/en/news/united-nations-resolution-79l77-adopted-by-the-general-assembly-on-lethal-autonomous-weapons-systems" target="_blank" rel="noopener noreferrer nofollow">https://unipd-centrodirittiumani.it/en/news/united-nations-resolution-79l77-adopted-by-the-general-assembly-on-lethal-autonomous-weapons-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>United Nations: Resolution 79/L.77 adopted by the General...23 Dec 2024 — On December 2, 2024, the United Nations General Assembly adopt...</p></details>
    Published: December 2, 2024  
 
 41. <a id="endnote-41"></a>
    Source: lieber.westpoint.edu  
    Title: future warfare national positions governance lethal autonomous weapons systems  
-   Link: [https://lieber.westpoint.edu/future-warfare-national-positions-governance-lethal-autonomous-weapons-systems/](https://lieber.westpoint.edu/future-warfare-national-positions-governance-lethal-autonomous-weapons-systems/)  
+   Link: <a href="https://lieber.westpoint.edu/future-warfare-national-positions-governance-lethal-autonomous-weapons-systems/" target="_blank" rel="noopener noreferrer nofollow">https://lieber.westpoint.edu/future-warfare-national-positions-governance-lethal-autonomous-weapons-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieber Institute West PointThe Future of Warfare: National Positions on the Governance...Feb 11, 2025 — Lethal autonomous weapons system...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: icrc.org  
    Title: we cannot let AI be deployed on battlefield without oversight and regulation  
-   Link: [https://www.icrc.org/en/statement/we-cannot-let-AI-be-deployed-on-battlefield-without-oversight-and-regulation](https://www.icrc.org/en/statement/we-cannot-let-AI-be-deployed-on-battlefield-without-oversight-and-regulation)  
+   Link: <a href="https://www.icrc.org/en/statement/we-cannot-let-AI-be-deployed-on-battlefield-without-oversight-and-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.icrc.org/en/statement/we-cannot-let-AI-be-deployed-on-battlefield-without-oversight-and-regulation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UN Security Council: We cannot let AI be deployed on the...26 Sept 2025 — AI-enabled autonomous weapons can search for and engage their...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: ukstopkillerrobots.org.uk  
    Title: reports of ai enabled targeting in iran bring real world impacts to the un  
-   Link: [https://ukstopkillerrobots.org.uk/2026/03/06/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/](https://ukstopkillerrobots.org.uk/2026/03/06/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/)  
+   Link: <a href="https://ukstopkillerrobots.org.uk/2026/03/06/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/" target="_blank" rel="noopener noreferrer nofollow">https://ukstopkillerrobots.org.uk/2026/03/06/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of AI-enabled targeting in Iran bring real-world...6 Mar 2026 — The current CCW mandate to discuss autonomous weapons comes to a...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: stopkillerrobots.org  
    Title: reports of ai enabled targeting in iran bring real world impacts to the un  
-   Link: [https://www.stopkillerrobots.org/news/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/](https://www.stopkillerrobots.org/news/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/)  
+   Link: <a href="https://www.stopkillerrobots.org/news/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/" target="_blank" rel="noopener noreferrer nofollow">https://www.stopkillerrobots.org/news/reports-of-ai-enabled-targeting-in-iran-bring-real-world-impacts-to-the-un/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reports of AI-enabled targeting in Iran bring real-world...6 Mar 2026 — Decisions on what steps states take next will be made at the Nov...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: trendsresearch.org  
    Title: governing lethal autonomous weapons the future of warfare and military ai  
-   Link: [https://trendsresearch.org/insight/governing-lethal-autonomous-weapons-the-future-of-warfare-and-military-ai/?srsltid=AfmBOopPE_eiCRFYa1KmUAhz-spvEhxFZIyYWR4AfoJwWBMfHB2Q0kox](https://trendsresearch.org/insight/governing-lethal-autonomous-weapons-the-future-of-warfare-and-military-ai/?srsltid=AfmBOopPE_eiCRFYa1KmUAhz-spvEhxFZIyYWR4AfoJwWBMfHB2Q0kox)  
+   Link: <a href="https://trendsresearch.org/insight/governing-lethal-autonomous-weapons-the-future-of-warfare-and-military-ai/?srsltid=AfmBOopPE_eiCRFYa1KmUAhz-spvEhxFZIyYWR4AfoJwWBMfHB2Q0kox" target="_blank" rel="noopener noreferrer nofollow">https://trendsresearch.org/insight/governing-lethal-autonomous-weapons-the-future-of-warfare-and-military-ai/?srsltid=AfmBOopPE_eiCRFYa1KmUAhz-spvEhxFZIyYWR4AfoJwWBMfHB2Q0kox</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing Lethal Autonomous Weapons in a New Era of...3 Aug 2025 — On 2 December 2024, in response to increasing urgency, the UN General...</p></details>
-   Published: December 2024  
+   Published: December 2024

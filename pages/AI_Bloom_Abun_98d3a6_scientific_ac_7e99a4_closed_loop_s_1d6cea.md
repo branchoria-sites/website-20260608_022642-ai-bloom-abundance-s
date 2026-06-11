@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /discovery/
 nav_short_title: Closed loops
 title: The missing loop in AI science
-title_full: The missing loop in AI science | Discovery
+title_full: The missing loop in AI science
 display_title_short: Closed loops
 display_title: Closed loops
 heading_title: The missing loop in AI science
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could AI Make Science Move Faster? | AI Bloom
+date: '2026-06-08 01:34:54'
+parent_title: Could AI Make Science Move Faster?
 parent_permalink: /discovery/
 parent_nav_short_title: Discovery
 parent_heading_title: Could AI Make Science Move Faster?
@@ -273,7 +274,6 @@ next_link:
   permalink: /gno-me-materials/
   short_title: GNo ME materials
   heading_title: Can AI find the materials abundance needs?
-date: '2026-06-08 01:34:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-1.webp
@@ -282,13 +282,12 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 ## Introduction
 
-The most important [scientific]({{ 'discovery/' | relative_url }}) bottleneck after systems like AlphaFold is not prediction. It is throughput: how quickly researchers can turn ideas into tested knowledge.
-
+The most important scientific bottleneck after systems like AlphaFold is not prediction. It is throughput: how quickly researchers can turn ideas into tested knowledge.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-1-dark.svg" | relative_url }}" alt="Closed loops illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern AI can already generate hypotheses, propose molecules, identify patterns in data and suggest experimental designs. But science does not advance when a model produces a plausible answer. It advances when reality pushes back. New drugs must be synthesised and tested. New materials must be manufactured and measured. Biological mechanisms must survive experimental scrutiny. The limiting factor is often not thinking but testing.
 
-That is why many researchers see closed-loop science as the missing layer in AI-driven [discovery]({{ 'discovery/' | relative_url }}). Instead of using AI only to analyse existing data, a closed-loop system continuously proposes experiments, runs them through automated equipment, analyses the results and decides what to test next. The aim is not merely faster computation but a faster scientific cycle. If those cycles become dramatically cheaper and more frequent, the consequences for medicine, [energy]({{ 'energy/' | relative_url }}), materials and broader human flourishing could be much larger than any single AI model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
+That is why many researchers see closed-loop science as the missing layer in AI-driven [discovery]({{ 'discovery/' | relative_url }}). Instead of using AI only to analyse existing data, a closed-loop system continuously proposes experiments, runs them through automated equipment, analyses the results and decides what to test next. The aim is not merely faster computation but a faster scientific cycle. If those cycles become dramatically cheaper and more frequent, the consequences for medicine, [energy]({{ 'energy/' | relative_url }}), materials and broader human flourishing could be much larger than any single AI model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
 ## The missing loop in AI science
 
@@ -300,7 +299,6 @@ Historically, this process has been slow because each cycle requires people, equ
 
 Closed-loop systems attempt to compress that cycle:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. An AI system proposes the most informative next experiment.
@@ -311,7 +309,7 @@ Closed-loop systems attempt to compress that cycle:
 
 </div>
 
-The key insight is that the system is learning from the world rather than merely from static datasets. Active-learning approaches focus on experiments that maximise information gain rather than simply generating large numbers of random tests. Researchers have argued that this feedback loop can dramatically reduce the number of experiments needed to reach useful discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 574 — In this work, we focus a closed-loop...</span></span></span>
+The key insight is that the system is learning from the world rather than merely from static datasets. Active-learning approaches focus on experiments that maximise information gain rather than simply generating large numbers of random tests. Researchers have argued that this feedback loop can dramatically reduce the number of experiments needed to reach useful discoveries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 574 — In this work, we focus a closed-loop...</span></span></span>
 
 For the broader AI bloom thesis, this matters because it suggests a path from abundant digital intelligence to abundant scientific progress. Intelligence becomes more powerful when connected to the physical world.
 
@@ -334,10 +332,9 @@ Experiments remain expensive because they require:
 
 This creates a growing imbalance. AI can generate more possibilities than traditional laboratories can realistically test.
 
-Many researchers therefore argue that scientific acceleration depends less on making AI slightly smarter and more on increasing experimental throughput. Self-driving laboratories, cloud laboratories and robotic research systems are attempts to solve this mismatch by making the testing side of science scale more like computation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Through the automation of experimental workflows...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
+Many researchers therefore argue that scientific acceleration depends less on making AI slightly smarter and more on increasing experimental throughput. Self-driving laboratories, cloud laboratories and robotic research systems are attempts to solve this mismatch by making the testing side of science scale more like computation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Through the automation of experimental workflows...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
-The comparison with computing is revealing. Once software development gained automated testing, version control and cloud infrastructure, iteration speeds increased dramatically. Closed-loop science aims to create something similar for physical research: a system where experiments become easier to run, monitor and repeat at scale.
-
+The comparison with computing is revealing. Once software development gained automated testing, version [control]({{ 'control/' | relative_url }}) and cloud infrastructure, iteration speeds increased dramatically. Closed-loop science aims to create something similar for physical research: a system where experiments become easier to run, monitor and repeat at scale.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g45Alfg7diw" title="How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g45Alfg7diw" target="_blank" rel="noopener noreferrer">How Autonomous Labs Will Transform Scientific Research: Ginkgo Bioworks’ Jason Kelly</a></p><p class="youtube-embed-meta">Channel: Sequoia Capital &middot; Views: 5.4K &middot; Uploaded: March 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g45Alfg7diw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g45Alfg7diw">Open on YouTube</a></p></div></div></div>
 
@@ -357,36 +354,34 @@ In materials science, Bayesian optimisation and related techniques are increasin
 
 Robotic systems provide the physical layer.
 
-Unlike human researchers, automated platforms can operate around the clock, execute procedures with highly consistent timing and rapidly switch between experimental conditions. Reviews of self-driving laboratories highlight their ability to increase data output, reduce repetitive labour and improve reproducibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 81 — Through the integration of AI, a...</span></span></span>
+Unlike human researchers, automated platforms can operate around the clock, execute procedures with highly consistent timing and rapidly switch between experimental conditions. Reviews of self-driving laboratories highlight their ability to increase data output, reduce repetitive labour and improve reproducibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 81 — Through the integration of AI, a...</span></span></span>
 
 This does not eliminate scientists. Instead, it shifts human effort away from routine execution and towards higher-level judgement, interpretation and research direction.
 
 ### Measurement systems create immediate feedback
 
-A closed loop only works if results are captured quickly.
+A [closed loop]({{ 'closed-loop/' | relative_url }}) only works if results are captured quickly.
 
 Modern platforms increasingly integrate sensors, computer vision systems and automated characterisation tools directly into experimental workflows. Data moves immediately into machine-learning systems rather than waiting for manual processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">RSC PublishingToward self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 — This review outlines the vision of SDL 2.0: a new...</span></span></span>
 
 The result is a feedback cycle measured in minutes or hours rather than weeks.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-2-dark.svg" | relative_url }}" alt="Closed loops illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What self-driving laboratories have actually achieved
 
 The strongest case for closed-loop science comes from concrete demonstrations rather than speculation.
 
-One of the most widely discussed examples is the A-Lab project reported in *Nature* in 2023. Researchers built an autonomous materials laboratory that combined machine-learning planning with automated synthesis and characterisation. Over a 17-day campaign, the system successfully synthesised dozens of target materials while using active learning to refine future experiments when recipes failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — When synthesis recipes fail to produce a high target yi...</span></span></span>
+One of the most widely discussed examples is the A-Lab project reported in *Nature* in 2023. Researchers built an autonomous materials laboratory that combined machine-learning planning with automated synthesis and characterisation. Over a 17-day campaign, the system successfully synthesised dozens of target materials while using active learning to refine future experiments when recipes failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — When synthesis recipes fail to produce a high target yi...</span></span></span>
 
 Materials science has become a particularly active testbed because researchers often face huge search spaces involving composition, processing conditions and performance trade-offs.
 
 Several groups have demonstrated autonomous exploration systems capable of mapping material properties while performing far fewer experiments than conventional approaches. A closed-loop materials discovery platform reported in *Nature Communications* used Bayesian active learning to guide experimentation in real time, reducing the amount of testing needed to identify promising regions of interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Self-driving labs and automation software for chemistry and...7 Feb 2024 — We welcome studies providing advances in self-driving labs, c...</span></span></span>
 
-Researchers have also begun demonstrating systems that connect theory and experiment continuously. The Autonomous Materials Search Engine (AMASE) combined robotic experimentation with real-time computational predictions, achieving a six-fold reduction in required experiments when mapping a phase diagram. The significance was not merely automation but ongoing interaction between prediction and physical validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceReal-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 16 — This study demonstrates real-time, au...</span></span></span>
+Researchers have also begun demonstrating systems that connect theory and experiment continuously. The Autonomous Materials Search Engine (AMASE) combined robotic experimentation with real-time computational predictions, achieving a six-fold reduction in required experiments when mapping a phase diagram. The significance was not merely automation but ongoing interaction between prediction and physical validation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 16 — This study demonstrates real-time, au...</span></span></span>
 
 More recent systems increasingly aim not only to optimise outcomes but to generate interpretable scientific understanding. Experimental platforms such as AutoSciLab attempt to move beyond finding good answers towards discovering underlying principles and equations that humans can understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These examples remain narrow compared with the breadth of real science. But they demonstrate the underlying mechanism: machines can increasingly participate in the iterative process of proposing, testing and refining knowledge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AWf6y1Q2dF4" title="The Future of Chemistry is Self-Driving | Alán Aspuru-Guzik" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AWf6y1Q2dF4" target="_blank" rel="noopener noreferrer">The Future of Chemistry is Self-Driving | Alán Aspuru-Guzik</a></p><p class="youtube-embed-meta">Channel: Valence Labs &middot; Views: 3.7K &middot; Uploaded: May 2024 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AWf6y1Q2dF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AWf6y1Q2dF4">Open on YouTube</a></p></div></div></div>
 
@@ -394,10 +389,9 @@ These examples remain narrow compared with the breadth of real science. But they
 
 The longer-term vision is larger than a single robotic laboratory.
 
-Researchers increasingly discuss cloud laboratories and networked experimentation systems that allow scientists to run experiments remotely. Instead of requiring every institution to own expensive equipment, researchers could access shared automated infrastructure in the same way they access cloud computing today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
+Researchers increasingly discuss cloud laboratories and networked experimentation systems that allow scientists to run experiments remotely. Instead of requiring every institution to own expensive equipment, researchers could access shared automated infrastructure in the same way they access cloud computing today. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
 In this model:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -411,8 +405,7 @@ In this model:
 
 The scientific bottleneck shifts from access to equipment towards the ability to ask useful questions.
 
-For the AI bloom perspective, this possibility matters because it could widen participation in research. A scientist in a smaller institution might gain access to experimental capabilities previously available only in major laboratories. The gains would depend heavily on [governance]({{ 'power/' | relative_url }}), pricing and access rules, but the basic possibility is that experimental capacity becomes more shareable and abundant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
-
+For the AI bloom perspective, this possibility matters because it could widen participation in research. A scientist in a smaller institution might gain access to experimental capabilities previously available only in major laboratories. The gains would depend heavily on governance, pricing and access rules, but the basic possibility is that experimental capacity becomes more shareable and abundant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-3-dark.svg" | relative_url }}" alt="Closed loops illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The limits of automation, standards and human oversight
@@ -425,16 +418,15 @@ Many successful demonstrations occur in relatively structured environments.
 
 Materials synthesis, reaction optimisation and controlled laboratory workflows are difficult but still more tractable than many biological systems. Living organisms contain layers of complexity that are difficult to automate fully.
 
-Researchers repeatedly note that self-driving laboratories remain limited by hardware reliability, experimental scope and the difficulty of handling multi-stage processes. Much of science still depends on tacit knowledge that is hard to encode into machines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Self-driving labs are the new AI asset</span><span class="citation-popover-snippet">These labs autonomously conduct experiments in a closed-loop system, learning from outcomes to refine future experimentation. The goal is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2472555222125396" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAchieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</span></span></span>
+Researchers repeatedly note that self-driving laboratories remain limited by hardware reliability, experimental scope and the difficulty of handling multi-stage processes. Much of science still depends on tacit knowledge that is hard to encode into machines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Self-driving labs are the new AI asset</span><span class="citation-popover-snippet">These labs autonomously conduct experiments in a closed-loop system, learning from outcomes to refine future experimentation. The goal is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2472555222125396" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Achieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</span></span></span>
 
 ### Reproducibility remains a challenge
 
 Automation can improve consistency, but only if systems are designed well.
 
-Experiments need standardised metadata, interoperable software and rigorous quality control. A poorly calibrated automated system can generate errors at scale. Scientific acceleration is useful only if the resulting knowledge is trustworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
+Experiments need standardised metadata, interoperable software and rigorous quality control. A poorly calibrated automated system can generate errors at scale. Scientific acceleration is useful only if the resulting knowledge is trustworthy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
 This is one reason many researchers emphasise laboratory operating systems, data standards and orchestration software alongside AI models. The infrastructure surrounding experiments may prove as important as the algorithms themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.rsc.org">[RSC Publishing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.rsc.org</span><span class="citation-popover-snippet">RSC PublishingToward self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 — This review outlines the vision of SDL 2.0: a new...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tbnoDevGLCY" title="Accelerating materials discovery with HPC and AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tbnoDevGLCY" target="_blank" rel="noopener noreferrer">Accelerating materials discovery with HPC and AI</a></p><p class="youtube-embed-meta">Channel: Chemistry World &middot; Views: 518 &middot; Uploaded: March 2025 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tbnoDevGLCY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tbnoDevGLCY">Open on YouTube</a></p></div></div></div>
 
@@ -444,7 +436,7 @@ The strongest visions of self-driving science do not remove humans from discover
 
 Humans still choose goals, evaluate broader significance, identify ethical concerns and decide which directions deserve resources. Scientific progress is not only an optimisation problem. It also involves values, priorities and interpretation.
 
-A laboratory may discover a more effective catalyst or therapeutic target. Deciding whether that discovery should be deployed, funded or prioritised remains a human and [institutional]({{ 'institutional-gaps/' | relative_url }}) question.
+A laboratory may discover a more effective catalyst or therapeutic target. Deciding whether that discovery should be deployed, funded or prioritised remains a human and institutional question.
 
 ## Faster discovery could become a civilisational multiplier
 
@@ -454,9 +446,9 @@ The deeper possibility is that humanity increases the rate at which it learns ab
 
 Many of the largest constraints on human flourishing involve physical unknowns: how to cure diseases, extend healthy life, build cleaner energy systems, create better materials, improve agriculture or repair environmental damage. Progress in these areas often depends on searching enormous spaces of possibilities where experiments are slow and expensive.
 
-If AI systems, robotics and automated experimentation substantially increase experiment throughput, then the gains may compound across many domains at once. A faster scientific cycle does not guarantee breakthroughs. But it increases the number of opportunities to find them.
+If AI systems, [robotics]({{ 'robotics/' | relative_url }}) and automated experimentation substantially increase experiment throughput, then the gains may compound across many domains at once. A faster scientific cycle does not guarantee breakthroughs. But it increases the number of opportunities to find them.
 
-AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-loop science aims at something broader: reducing the delay between imagination and evidence itself. In the most ambitious version of the AI bloom story, that acceleration becomes one of the key mechanisms through which intelligence ceases to be scarce and scientific progress begins operating at a scale far beyond historical norms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCAutonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
+AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-loop science aims at something broader: reducing the delay between imagination and evidence itself. In the most ambitious version of the AI bloom story, that acceleration becomes one of the key mechanisms through which intelligence ceases to be scarce and scientific progress begins operating at a scale far beyond historical norms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -470,16 +462,16 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Master Algorithm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WpTSDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Master Algorithm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Master Algorithm">The Master Algorithm</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Pedro Domingos</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Explains the learning logic behind AI systems that refine experiments from results.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Master+Algorithm+by+Pedro+Domingos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -487,16 +479,16 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How Innovation Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AqLhyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How Innovation Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=s3NwDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Weather Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How Innovation Works">How Innovation Works</a>
+          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
         </h4>
-        <p class="fr-book-author">By Matt Ridley</p>
+        <p class="fr-book-author">By Andrew Blum</p>
         
-        <p class="fr-book-desc">Provides a wider lens on how incremental testing and feedback drive technological progress.</p>
+        <p class="fr-book-desc">Explains forecasting infrastructure relevant to flood prediction and warning systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+Innovation+Works+by+Matt+Ridley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -504,16 +496,16 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Genesis Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B1QyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Genesis Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Genesis Machine">The Genesis Machine</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Amy Webb, Andrew Hessel</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explores how automation and computation could transform experimental biology and discovery.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Genesis+Machine+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -521,16 +513,16 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Knowledge Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f4aQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Knowledge Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Knowledge Machine">The Knowledge Machine</a>
+          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
         </h4>
-        <p class="fr-book-author">By Michael Strevens</p>
+        <p class="fr-book-author">By Bill Gates</p>
         
-        <p class="fr-book-desc">Balances enthusiasm for closed-loop testing with the standards that make science reliable.</p>
+        <p class="fr-book-desc">Directly addresses infrastructure, resilience and climate-response planning.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Knowledge+Machine+by+Michael+Strevens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -538,7 +530,7 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Master+Algorithm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Master Algorithm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+Innovation+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How Innovation Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Genesis+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Genesis Machine</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -575,15 +567,15 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="{{ '/assets/images/marketplace-covers/7b9530e3e70391be5ab3.jpg' | relative_url }}" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/C3cAAeSwGTJp2SM6/s-l225.jpg" alt="Listing image for Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Stuff In A Laboratory Chemi Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +583,15 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="{{ '/assets/images/marketplace-covers/fe6eac85e0cbd3115c4c.jpg' | relative_url }}" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/2FAAAeSwcGNphiar/s-l225.jpg" alt="Listing image for Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Microscope Lab Che Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +599,15 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC Table real elements A2 laminated chemistry science educational poster"><img src="{{ '/assets/images/marketplace-covers/da90b012129e599c7ecd.jpg' | relative_url }}" alt="Listing image for PERIODIC Table real elements A2 laminated chemistry science educational poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/i1cAAeSwZLVp2SMG/s-l225.jpg" alt="Listing image for Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PERIODIC Table real elements A2 laminated chemistry science educational poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">Science Pun Lab Blinded Me With Sci Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,15 +615,15 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="{{ '/assets/images/marketplace-covers/2d540458477f76b2be20.jpg' | relative_url }}" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/nRsAAeSwJk1p2SL~/s-l225.jpg" alt="Listing image for I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">I Love My Lab Science Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science lab poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science lab poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -639,7 +631,7 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster -book -books" data-ebay-reference="closed-loops-the-missing-loop-in-ai-science-ai-bloom-abundance-superintelligence-and-humanity-science-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+lab+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-missing-loop-in-ai-science-science-lab-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science lab poster" data-ebay-reference="the-missing-loop-in-ai-science-science-lab-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -854,177 +846,177 @@ AlphaFold demonstrated that AI can reduce a major knowledge bottleneck. Closed-l
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X](https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNext-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S258959741930019X</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Next-Generation Experimentation with Self-Driving...by F Häse · 2019 · Cited by 416 — Self-driving laboratories promise to...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11363023/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Through the automation of experimental workflows...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-020-19597-w](https://www.nature.com/articles/s41467-020-19597-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureOn-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 574 — In this work, we focus a closed-loop...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-020-19597-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-020-19597-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly closed-loop materials discovery via Bayesian...by AG Kusne · 2020 · Cited by 574 — In this work, we focus a closed-loop...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2006.06141](https://arxiv.org/abs/2006.06141)  
+   Link: <a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590238524003229](https://www.sciencedirect.com/science/article/pii/S2590238524003229)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectNavigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 81 — Through the integration of AI, a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590238524003229" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590238524003229</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating self-driving labs in chemical and material...by O Bayley · 2024 · Cited by 81 — Through the integration of AI, a...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAutonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12368842/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 63 — This article reviews and provide...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials ScienceAug 13, 2024 — The subsequent experiments were then conducte...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41524-025-01828-7](https://www.nature.com/articles/s41524-025-01828-7)  
+   Link: <a href="https://www.nature.com/articles/s41524-025-01828-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41524-025-01828-7</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous closed-loop exploration of composition...by R Toyama · 2025 · Cited by 3 — This approach aims to identify new materials with...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2472555222125396](https://www.sciencedirect.com/science/article/pii/S2472555222125396)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAchieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2472555222125396" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2472555222125396</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieving Reproducibility and Closed-Loop Automation in...by B Miles · 2018 · Cited by 65 — A robotic cloud laboratory driv...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pubs.rsc.org  
-   Link: [https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b](https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b)  
+   Link: <a href="https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b" target="_blank" rel="noopener noreferrer nofollow">https://pubs.rsc.org/en/content/articlelanding/2026/mh/d5mh01984b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RSC PublishingToward self-driving laboratory 2.0 for chemistry and...by H Lee · 2026 — This review outlines the vision of SDL 2.0: a new...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — When synthesis recipes fail to produce a high target yi...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — When synthesis recipes fail to produce a high target yi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2410.17430](https://arxiv.org/abs/2410.17430)  
+   Link: <a href="https://arxiv.org/abs/2410.17430" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2410.17430</a>  
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2412.12347v1](https://arxiv.org/html/2412.12347v1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAutoSciLab: A Self-Driving Laboratory For Interpretable...Dec 16, 2024 — We present AutoSciLab, a machine learning framework for dr...</p></details>
+   Link: <a href="https://arxiv.org/html/2412.12347v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2412.12347v1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoSciLab: A Self-Driving Laboratory For Interpretable...Dec 16, 2024 — We present AutoSciLab, a machine learning framework for dr...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2412.12347](https://arxiv.org/abs/2412.12347)  
+   Link: <a href="https://arxiv.org/abs/2412.12347" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.12347</a>  
 
 15. <a id="endnote-15"></a>
    Source: axios.com  
    Title: Self-driving labs are the new AI asset  
-   Link: [https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research](https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research)  
+   Link: <a href="https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/08/09/ai-self-driving-science-labs-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These labs autonomously conduct experiments in a closed-loop system, learning from outcomes to refine future experimentation. The goal is...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/collections/igbhhbedgi](https://www.nature.com/collections/igbhhbedgi)  
+   Link: <a href="https://www.nature.com/collections/igbhhbedgi" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/igbhhbedgi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving labs and automation software for chemistry and...7 Feb 2024 — We welcome studies providing advances in self-driving labs, c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/collections/eiiadfbbhb](https://www.nature.com/collections/eiiadfbbhb)  
+   Link: <a href="https://www.nature.com/collections/eiiadfbbhb" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/collections/eiiadfbbhb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratories for Chemistry and Materials...8 Oct 2024 — Self-driving labs are capable of autonomously designing, executing...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-025-66916-0](https://www.nature.com/articles/s41467-025-66916-0)  
+   Link: <a href="https://www.nature.com/articles/s41467-025-66916-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-025-66916-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-driving lab discovers principles for steering...by S Desai · 2025 · Cited by 5 — We develop an autonomous experimentation platform...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44160-026-01053-0](https://www.nature.com/articles/s44160-026-01053-0)  
+   Link: <a href="https://www.nature.com/articles/s44160-026-01053-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44160-026-01053-0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A flexible and affordable self-driving laboratory for...by S Pilon · 2026 · Cited by 1 — Review of low-cost self-driving laboratories in...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/](https://www.nature.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureFirst published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
+   Link: <a href="https://www.nature.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First published in 1869, Nature is the world&#x27;s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-026-00974-2](https://www.nature.com/articles/d41586-026-00974-2)  
+   Link: <a href="https://www.nature.com/articles/d41586-026-00974-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00974-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the &#x27;self-driving&#x27; lab revolutionMar 30, 2026 — AI-powered robotic tools are muscling in on tasks typically done by humans. What d...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-026-10482-y](https://www.nature.com/articles/s41586-026-10482-y)  
+   Link: <a href="https://www.nature.com/articles/s41586-026-10482-y" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-026-10482-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous closed-loop framework for reproducible...by D Gao · 2026 · Cited by 3 — Here we introduce an autonomous closed-loop framework...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: discovery.researcher.life  
-   Link: [https://discovery.researcher.life/article/the-bright-future-of-materials-science-with-ai-self-driving-laboratories-and-closed-loop-discovery/8f8f986704d337a288a53318a2bbfb28](https://discovery.researcher.life/article/the-bright-future-of-materials-science-with-ai-self-driving-laboratories-and-closed-loop-discovery/8f8f986704d337a288a53318a2bbfb28)  
+   Link: <a href="https://discovery.researcher.life/article/the-bright-future-of-materials-science-with-ai-self-driving-laboratories-and-closed-loop-discovery/8f8f986704d337a288a53318a2bbfb28" target="_blank" rel="noopener noreferrer nofollow">https://discovery.researcher.life/article/the-bright-future-of-materials-science-with-ai-self-driving-laboratories-and-closed-loop-discovery/8f8f986704d337a288a53318a2bbfb28</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bright Future of Materials Science with AI: Self-Driving...3 Nov 2025 — Autonomous laboratories combining machine learning, robotics, an...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/sciadv.adu7426](https://www.science.org/doi/10.1126/sciadv.adu7426)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceReal-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 16 — This study demonstrates real-time, au...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/sciadv.adu7426" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/sciadv.adu7426</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Real-time experiment-theory closed-loop interaction for...by H Liang · 2025 · Cited by 16 — This study demonstrates real-time, au...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/autonomous](https://dictionary.cambridge.org/dictionary/english/autonomous)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/autonomous" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/autonomous</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an autonomous organization, country, or region is independent and has the freedom to govern itself.Read more...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery](https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...3 Nov 2025 — The Bright Future of Materials Science with AI: Self-Driving...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/projects/DELS-BLS-23-07](https://www.nationalacademies.org/projects/DELS-BLS-23-07)  
+   Link: <a href="https://www.nationalacademies.org/projects/DELS-BLS-23-07" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/projects/DELS-BLS-23-07</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leveraging Opportunities and Mitigating Risks--A WorkshopThis workshop will explore current development and future trends of the developm...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: councilonstrategicrisks.org  
-   Link: [https://councilonstrategicrisks.org/2026/03/18/event-summary-the-opportunities-and-challenges-of-cloud-laboratories-in-producing-ai-ready-biological-data/](https://councilonstrategicrisks.org/2026/03/18/event-summary-the-opportunities-and-challenges-of-cloud-laboratories-in-producing-ai-ready-biological-data/)  
+   Link: <a href="https://councilonstrategicrisks.org/2026/03/18/event-summary-the-opportunities-and-challenges-of-cloud-laboratories-in-producing-ai-ready-biological-data/" target="_blank" rel="noopener noreferrer nofollow">https://councilonstrategicrisks.org/2026/03/18/event-summary-the-opportunities-and-challenges-of-cloud-laboratories-in-producing-ai-ready-biological-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Opportunities and Challenges of Cloud Laboratories in...18 Mar 2026 — Event Summary: The Opportunities and Challenges of Cloud Labor...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/401539971_Toward_Self-Driving_Laboratory_20_for_Chemistry_and_Materials_Discovery](https://www.researchgate.net/publication/401539971_Toward_Self-Driving_Laboratory_20_for_Chemistry_and_Materials_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/401539971_Toward_Self-Driving_Laboratory_20_for_Chemistry_and_Materials_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/401539971_Toward_Self-Driving_Laboratory_20_for_Chemistry_and_Materials_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Toward Self-Driving Laboratory 2.0 for Chemistry...Mar 6, 2026 — The convergence of laboratory automation, artificial intelligence...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AWf6y1Q2dF4](https://www.youtube.com/watch?v=AWf6y1Q2dF4)  
+   Link: <a href="https://www.youtube.com/watch?v=AWf6y1Q2dF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AWf6y1Q2dF4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Chemistry is Self-Driving | Alán Aspuru-GuzikThe main idea of a selfing lab is to close a loop right AI will choose what th...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: github.com  
-   Link: [https://github.com/AccelerationConsortium/awesome-self-driving-labs](https://github.com/AccelerationConsortium/awesome-self-driving-labs)  
+   Link: <a href="https://github.com/AccelerationConsortium/awesome-self-driving-labs" target="_blank" rel="noopener noreferrer nofollow">https://github.com/AccelerationConsortium/awesome-self-driving-labs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024. Self-Driving Laboratories for Chemistry and Materials Science. Tom, G.; Schmid...Read more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: forum.effectivealtruism.org  
    Title: no there are not hundreds of [cloud labs](&#123;&#123; 'cloud-labs/' | relative_url &#125;&#125;) in biology  
-   Link: [https://forum.effectivealtruism.org/posts/cyZdRBcRokJ8fhYEd/no-there-are-not-hundreds-of-cloud-labs-in-biology](https://forum.effectivealtruism.org/posts/cyZdRBcRokJ8fhYEd/no-there-are-not-hundreds-of-cloud-labs-in-biology)  
+   Link: <a href="https://forum.effectivealtruism.org/posts/cyZdRBcRokJ8fhYEd/no-there-are-not-hundreds-of-cloud-labs-in-biology" target="_blank" rel="noopener noreferrer nofollow">https://forum.effectivealtruism.org/posts/cyZdRBcRokJ8fhYEd/no-there-are-not-hundreds-of-cloud-labs-in-biology</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effectivealtruism.orgNo, there are not hundreds of cloud labs in biology25 Mar 2026 — I do think there are real risks around using cloud...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: royalsocietypublishing.org  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of](https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...Jul 16, 2025 — This article reviews and provides perspective on the eme...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: nonproliferation.eu  
    Title: (AI) agents that provide analytical and assistance capabilities.Read more  
-   Link: [https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf](https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf)  
+   Link: <a href="https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nonproliferation.eu/wp-content/uploads/2025/05/EUNPDC-no_98.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Non-Proliferation ConsortiumCloud Labs and Other New Actors in the Biotechnology...Cloud labs are fully automated, modular laboratori...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=g45Alfg7diw](https://www.youtube.com/watch?v=g45Alfg7diw)  
+   Link: <a href="https://www.youtube.com/watch?v=g45Alfg7diw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g45Alfg7diw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accelerating Materials Discovery: Combinatorial Synthesis and High-Throughput Characterization...</p></details>

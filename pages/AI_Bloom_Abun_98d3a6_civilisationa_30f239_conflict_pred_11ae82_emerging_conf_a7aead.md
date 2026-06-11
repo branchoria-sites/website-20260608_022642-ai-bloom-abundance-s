@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /conflict-ai/
 nav_short_title: New Conflict Prediction
 title: Why AI Struggles to Forecast Emerging Conflicts
-title_full: Why AI Struggles to Forecast Emerging Conflicts | Conflict AI
+title_full: Why AI Struggles to Forecast Emerging Conflicts
 display_title_short: New Conflict Prediction
 display_title: New Conflict Prediction
 heading_title: Why AI Struggles to Forecast Emerging Conflicts
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Conflict Forecasting Helps And When It Fails | Resilience
+date: '2026-06-08 01:58:06'
+parent_title: When Conflict Forecasting Helps And When It Fails
 parent_permalink: /conflict-ai/
 parent_nav_short_title: Conflict AI
 parent_heading_title: When Conflict Forecasting Helps And When It Fails
@@ -266,7 +267,6 @@ next_link:
   permalink: /views-accuracy/
   short_title: VIEWS Accuracy
   heading_title: How VIEWS Forecasts Conflict and Manages False Alarms
-date: '2026-06-08 01:58:06 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-1.webp
@@ -277,7 +277,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11
 
 AI conflict forecasting systems are often presented as tools that can spot danger before violence begins. In some situations they do help identify escalating risks, especially in places with an established history of conflict. Yet one of the hardest problems in the field is predicting violence where little or no recent violence has occurred. The first outbreak of a new civil conflict, insurgency, ethnic clash or interstate confrontation is often exactly the event policymakers most want to prevent, but it is also the event many forecasting systems find hardest to anticipate.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-1-dark.svg" | relative_url }}" alt="New Conflict Prediction illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This challenge matters beyond the technical performance of machine-learning models. If advanced AI is to help create a safer and more resilient civilisation, it must eventually do more than recognise patterns from past wars. It must also help institutions notice novel risks before they become disasters. The difficulty is that emerging conflicts often arise from combinations of political decisions, social tensions and unexpected shocks that do not closely resemble previous cases. Researchers increasingly describe this as one of the central limits of conflict forecasting. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-title">JRC Publications The Future of Conflict Early Warning</span><span class="citation-popover-snippet">JRC PublicationsThe Future of Conflict Early Warning - JRC Publicationsby G SCHVITZ — Machine learning has shown promise in forecasting p...</span></span></span>
 
@@ -285,12 +284,11 @@ This challenge matters beyond the technical performance of machine-learning mode
 
 Most machine-learning systems learn by identifying recurring patterns in historical data. This works best when many examples exist.
 
-Conflict forecasting therefore benefits from regions that have already experienced repeated violence. Previous attacks, ceasefire breakdowns, armed group activity and casualty trends create statistical signals that models can detect. Systems such as ViEWS and related forecasting platforms often use historical conflict records as some of their strongest predictors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssoar.info">[SSOAR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssoar.info</span><span class="citation-popover-snippet">SSOARViEWS: A political violence early-warning systemViEWS provides forecasts 36 months into the future for three types of political viol...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prio.org/publications/11231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prio.org">[Peace Research Institute Oslo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prio.org</span><span class="citation-popover-snippet">Peace Research Institute OsloViEWS: A political Violence Early-Warning SystemThis article presents ViEWS – a political violence early-war...</span></span></span>
+Conflict forecasting therefore benefits from regions that have already experienced repeated violence. Previous attacks, ceasefire breakdowns, armed group activity and casualty trends create statistical signals that models can detect. Systems such as ViEWS and related forecasting platforms often use historical conflict records as some of their strongest predictors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssoar.info">[SSOAR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssoar.info</span><span class="citation-popover-snippet">ViEWS: A political violence early-warning systemViEWS provides forecasts 36 months into the future for three types of political viol...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.prio.org/publications/11231" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prio.org">[Peace Research Institute Oslo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prio.org</span><span class="citation-popover-snippet">Peace Research Institute OsloViEWS: A political Violence Early-Warning SystemThis article presents ViEWS – a political violence early-war...</span></span></span>
 
 The problem is that genuinely new conflicts provide few such signals.
 
 A region that has remained relatively peaceful for years may have:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -315,7 +313,6 @@ Most countries do not experience civil war in any given year. Most local distric
 
 This imbalance creates several problems:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Models may learn that predicting peace most of the time produces acceptable overall accuracy.
@@ -329,7 +326,6 @@ Researchers working on political violence forecasting have long identified rare-
 
 The issue becomes even more difficult when the conflict is unprecedented in form. A model trained largely on insurgencies, separatist wars or familiar patterns of civil conflict may struggle when instability emerges through a new mechanism, such as a digitally coordinated movement, a sudden state collapse, a climate-driven displacement crisis or a novel geopolitical confrontation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dx2P7jvYTsk" title="The Violence &amp; Impacts Early-Warning System (VIEWS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer">The Violence &amp; Impacts Early-Warning System (VIEWS)</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 277 &middot; Uploaded: November 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dx2P7jvYTsk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dx2P7jvYTsk">Open on YouTube</a></p></div></div></div>
 
 ## Historical Patterns Can Miss Political Turning Points
@@ -341,7 +337,6 @@ Political crises, however, often emerge from decisions made by individuals or sm
 These turning points are difficult because they are not always visible in historical trend data.
 
 For example, a model may observe:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -358,16 +353,14 @@ Human analysts face the same challenge, but machine-learning systems are particu
 
 In practical terms, models often recognise momentum better than transformation. They can detect that a conflict is worsening more easily than they can detect that a previously peaceful society is approaching a critical break.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-2-dark.svg" | relative_url }}" alt="New Conflict Prediction illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weak Signals Are Often Hidden in Noisy Data
 
-Advocates of AI forecasting frequently argue that modern systems can detect subtle warning signs that humans overlook. Sometimes this is true. News reporting patterns, social-media discussions, population movements and economic changes can all provide useful information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euridice.eu">[EURIDICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euridice.eu</span><span class="citation-popover-title">An Open-Source AI Framework for Forecasting Armed Conflict</span><span class="citation-popover-snippet">EURIDICEAn Open-Source AI Framework for Forecasting Armed ConflictAugust 21, 2025 — 8 Sept 2025 — Surges in conflict-related news coverag...</span><span class="citation-popover-meta">Published: August 21, 2025</span></span></span>
+Advocates of AI forecasting frequently argue that modern systems can detect subtle warning signs that humans overlook. Sometimes this is true. News reporting patterns, social-media discussions, population movements and economic changes can all provide useful information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euridice.eu">[EURIDICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euridice.eu</span><span class="citation-popover-title">An Open-Source AI Framework for Forecasting Armed Conflict</span><span class="citation-popover-snippet">An Open-Source AI Framework for Forecasting Armed ConflictAugust 21, 2025 — 8 Sept 2025 — Surges in conflict-related news coverag...</span><span class="citation-popover-meta">Published: August 21, 2025</span></span></span>
 
 The difficulty is distinguishing meaningful signals from ordinary noise.
 
 A rise in online anger, for example, may reflect:
-
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
@@ -382,8 +375,7 @@ These possibilities can look similar in raw data.
 
 Emerging conflicts often begin with ambiguous developments whose significance becomes obvious only in hindsight. Before violence occurs, warning indicators are frequently weak, fragmented and contradictory. The same pattern of protests, inflammatory rhetoric or local unrest may lead to civil conflict in one case and peaceful political compromise in another.
 
-This ambiguity means that systems attempting to capture [early warning]({{ 'early-warning/' | relative_url }}) signals face a difficult trade-off. Models sensitive enough to detect weak signals may generate many [false alarms]({{ 'false-alarm-impacts/' | relative_url }}). Models calibrated to reduce false alarms may miss genuine emerging threats.
-
+This ambiguity means that systems attempting to capture [early warning]({{ 'early-warning/' | relative_url }}) signals face a difficult trade-off. Models sensitive enough to detect weak signals may generate many false alarms. Models calibrated to reduce false alarms may miss genuine emerging threats.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/05JKZBOO_cE" title="Predicting Conflict Using Newspaper Text w/ Dr Christopher Rauh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=05JKZBOO_cE" target="_blank" rel="noopener noreferrer">Predicting Conflict Using Newspaper Text w/ Dr Christopher Rauh</a></p><p class="youtube-embed-meta">Channel: The Marshall Society &middot; Views: 196 &middot; Uploaded: February 2022 &middot; Length: 42 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=05JKZBOO_cE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=05JKZBOO_cE">Open on YouTube</a></p></div></div></div>
 
@@ -401,7 +393,6 @@ This creates a kind of statistical conservatism. Models become good at extrapola
 
 For policymakers, this means that low predicted risk should not automatically be interpreted as evidence of safety.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-3-dark.svg" | relative_url }}" alt="New Conflict Prediction illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82_emerging_conf_a7aead-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## New Forms of Conflict May Not Match Older Wars
 
@@ -410,7 +401,6 @@ Conflict forecasting systems are usually trained on datasets that classify viole
 Yet the nature of political confrontation evolves.
 
 Emerging forms of instability may involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -428,7 +418,6 @@ As forms of conflict change, historical datasets become less complete guides to 
 Researchers developing next-generation forecasting systems increasingly emphasise the need for models that can integrate diverse data sources and adapt to changing conflict dynamics rather than relying exclusively on historical violence patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1903.00604" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The broader AI-bloom question is whether future systems could become flexible enough to recognise genuinely novel threats. Current evidence suggests some improvement is possible, but robust prediction of unprecedented conflict remains an unsolved problem.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zWKY55tA9bU" title="Integrating AI and Game Theory: The new horizon for peacebuilding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zWKY55tA9bU" target="_blank" rel="noopener noreferrer">Integrating AI and Game Theory: The new horizon for peacebuilding</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 79 &middot; Uploaded: November 2023 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zWKY55tA9bU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zWKY55tA9bU">Open on YouTube</a></p></div></div></div>
 
@@ -454,7 +443,7 @@ First, forecasts are often more valuable as tools for prioritising attention tha
 
 Second, quantitative models work best when combined with human expertise. Local researchers, journalists, civil-society organisations and regional specialists often possess contextual knowledge that does not appear in structured datasets. Their insights can help interpret ambiguous signals that algorithms alone may misread.
 
-Third, prevention systems may need to focus less on predicting a single outbreak and more on building [resilience]({{ 'resilience/' | relative_url }}) against a range of plausible risks. If truly novel conflicts remain difficult to forecast, strengthening institutions, improving [governance]({{ 'power/' | relative_url }}), supporting peaceful dispute resolution and reducing vulnerability to shocks may provide protection even when forecasts are uncertain.
+Third, prevention systems may need to focus less on predicting a single outbreak and more on building [resilience]({{ 'resilience/' | relative_url }}) against a range of plausible risks. If truly novel conflicts remain difficult to forecast, strengthening institutions, improving governance, supporting peaceful dispute resolution and reducing vulnerability to shocks may provide protection even when forecasts are uncertain.
 
 Within the larger vision of AI supporting humanity's long-term flourishing, this is a useful reminder of both the promise and the limits of prediction. Advanced AI may eventually become far better at detecting weak signals, integrating global information and modelling complex political systems. Yet preventing first-time conflicts is unlikely to become a simple technical problem. The challenge is not merely processing more data. It is understanding societies well enough to recognise when a peaceful future is beginning to fracture before the fracture becomes visible to everyone else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cetas.turing.ac.uk/publications/applying-ai-strategic-warning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cetas.turing.ac.uk">[Emerging Tech &amp; Security Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cetas.turing.ac.uk</span><span class="citation-popover-snippet">Emerging Tech &amp; Security CenterApplying AI to Strategic WarningThe two most promising use cases identified in this research are AI to tra...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.jrc.ec.europa.eu">[JRC Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.jrc.ec.europa.eu</span><span class="citation-popover-title">JRC Publications The Future of Conflict Early Warning</span><span class="citation-popover-snippet">JRC PublicationsThe Future of Conflict Early Warning - JRC Publicationsby G SCHVITZ — Machine learning has shown promise in forecasting p...</span></span></span>
 
@@ -854,97 +843,97 @@ Within the larger vision of AI supporting humanity's long-term flourishing, this
 
 1. <a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jeea/article/20/6/2440/6574413](https://academic.oup.com/jeea/article/20/6/2440/6574413)  
+   Link: <a href="https://academic.oup.com/jeea/article/20/6/2440/6574413" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jeea/article/20/6/2440/6574413</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicHard Problem of Prediction for Conflict Preventionby H Mueller · 2022 · Cited by 85 — We call this the hard problem of confli...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ssoar.info  
-   Link: [https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf](https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSOARViEWS: A political violence early-warning systemViEWS provides forecasts 36 months into the future for three types of political viol...</p></details>
+   Link: <a href="https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ssoar.info/ssoar/bitstream/document/62201/1/ssoar-jpeaceresearch-2019-2-hegre_et_al-ViEWS_A_political_violence_early-warning.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ViEWS: A political violence early-warning systemViEWS provides forecasts 36 months into the future for three types of political viol...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169207023000018](https://www.sciencedirect.com/science/article/pii/S0169207023000018)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169207023000018</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (CEWS) is a ris...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: benjaminbagozzi.com  
    Title: Benjamin E  
-   Link: [https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/data-based-computational-approahes-to-forecasting-political-violence.pdf](https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/data-based-computational-approahes-to-forecasting-political-violence.pdf)  
+   Link: <a href="https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/data-based-computational-approahes-to-forecasting-political-violence.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.benjaminbagozzi.com/uploads/1/2/5/7/12579534/data-based-computational-approahes-to-forecasting-political-violence.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BagozziData-based Computational Approaches to Forecasting...by PA Schrodt · 2013 · Cited by 44 — As we have stressed repeatedly, one of...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1903.00604](https://arxiv.org/abs/1903.00604)  
+   Link: <a href="https://arxiv.org/abs/1903.00604" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.00604</a>  
 
 6. <a id="endnote-6"></a>
    Source: euridice.eu  
    Title: An Open-Source AI Framework for Forecasting Armed Conflict  
-   Link: [https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf](https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EURIDICEAn Open-Source AI Framework for Forecasting Armed ConflictAugust 21, 2025 — 8 Sept 2025 — Surges in conflict-related news coverag...</p></details>
+   Link: <a href="https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://euridice.eu/wp-content/uploads/2025/09/Beyond-Closed-Doors-An-Open-Source-AI-Framework-for-Forecasting-Armed-Conflict-1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Open-Source AI Framework for Forecasting Armed ConflictAugust 21, 2025 — 8 Sept 2025 — Surges in conflict-related news coverag...</p></details>
    Published: August 21, 2025  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.14817v1](https://arxiv.org/html/2506.14817v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNext-Generation Conflict Forecasting Unleashing...This study presents a novel neural network architecture for forecasting three dis...</p></details>
+   Link: <a href="https://arxiv.org/html/2506.14817v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.14817v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Next-Generation Conflict Forecasting Unleashing...This study presents a novel neural network architecture for forecasting three dis...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: viewsforecasting.org  
-   Link: [https://viewsforecasting.org/](https://viewsforecasting.org/)  
+   Link: <a href="https://viewsforecasting.org/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWSViolence Early-Warning SystemThe Violence &amp; Impacts Early-Warning System. We deliver scalable, data-driven tools to empower decision...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-025-11812-2](https://www.nature.com/articles/s41598-025-11812-2)  
+   Link: <a href="https://www.nature.com/articles/s41598-025-11812-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-11812-2</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using machine learning to forecast conflict events for...by Y Xue · 2025 · Cited by 2 — In this paper, we propose a hybrid methodology t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag039/8539545](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag039/8539545)  
+   Link: <a href="https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag039/8539545" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnag039/8539545</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Raiha Browning.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: publications.jrc.ec.europa.eu  
    Title: JRC Publications The Future of Conflict Early Warning  
-   Link: [https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsThe Future of Conflict Early Warning - JRC Publicationsby G SCHVITZ — Machine learning has shown promise in forecasting p...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cetas.turing.ac.uk  
-   Link: [https://cetas.turing.ac.uk/publications/applying-ai-strategic-warning](https://cetas.turing.ac.uk/publications/applying-ai-strategic-warning)  
+   Link: <a href="https://cetas.turing.ac.uk/publications/applying-ai-strategic-warning" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/applying-ai-strategic-warning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Tech &amp; Security CenterApplying AI to Strategic WarningThe two most promising use cases identified in this research are AI to tra...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: prio.org  
-   Link: [https://www.prio.org/publications/11231](https://www.prio.org/publications/11231)  
+   Link: <a href="https://www.prio.org/publications/11231" target="_blank" rel="noopener noreferrer nofollow">https://www.prio.org/publications/11231</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Peace Research Institute OsloViEWS: A political Violence Early-Warning SystemThis article presents ViEWS – a political violence early-war...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2017290](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2017290)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2017290" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2017290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineForecasting conflict in Africa with automated machine...by V D’Orazio · 2022 · Cited by 26 — The ViEWS problem is...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2031182](https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2031182)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2031182" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.2031182</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineHigh resolution conflict forecasting with spatial...by BJ Radford · 2022 · Cited by 13 — The model struggles to f...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: viewsforecasting.org  
-   Link: [https://viewsforecasting.org/news/views-featured-in-the-economist-on-ai-and-conflict-prediction/](https://viewsforecasting.org/news/views-featured-in-the-economist-on-ai-and-conflict-prediction/)  
+   Link: <a href="https://viewsforecasting.org/news/views-featured-in-the-economist-on-ai-and-conflict-prediction/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/news/views-featured-in-the-economist-on-ai-and-conflict-prediction/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWS Featured in The Economist on AI and Conflict Prediction2 days ago — The article highlights advances in conflict forecasting and exa...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: viewsforecasting.org  
    Title: Known Issues | VIEWS  
-   Link: [https://viewsforecasting.org/early-warning-system/known-issues/](https://viewsforecasting.org/early-warning-system/known-issues/)  
+   Link: <a href="https://viewsforecasting.org/early-warning-system/known-issues/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/early-warning-system/known-issues/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Violence Early-Warning SystemData-driven conflict forecasting models are vital tools in preventing violence and mitigating the impacts of...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: tandfonline.com  
    Title: Vi EWS: A political violence early-warning  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090933](https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090933)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090933" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/03050629.2022.2090933</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the levee breaks: A forecasting model of violent and...by J Pinckney · 2022 · Cited by 23 — These attempts to predict civil war and...</p></details>
 
 ### Additional References
@@ -952,59 +941,59 @@ Within the larger vision of AI supporting humanity's long-term flourishing, this
 19. <a id="endnote-19"></a>
    Source: trendsresearch.org  
    Title: the impact of ai and machine learning on conflict prevention  
-   Link: [https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOoost7eH6QSh5RvUEGABfLb34Kha3V5RmJgL1pJyShpwFd7ubMtA](https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOoost7eH6QSh5RvUEGABfLb34Kha3V5RmJgL1pJyShpwFd7ubMtA)  
+   Link: <a href="https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOoost7eH6QSh5RvUEGABfLb34Kha3V5RmJgL1pJyShpwFd7ubMtA" target="_blank" rel="noopener noreferrer nofollow">https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOoost7eH6QSh5RvUEGABfLb34Kha3V5RmJgL1pJyShpwFd7ubMtA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of AI and Machine Learning on Conflict...2 May 2025 — The rise of AI and machine learning (ML) can contribute to global peace...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: cordis.europa.eu  
    Title: CORDISUsing machine learning to identify political violence  
-   Link: [https://cordis.europa.eu/article/id/443344-using-machine-learning-to-identify-political-violence-and-anticipate-conflict](https://cordis.europa.eu/article/id/443344-using-machine-learning-to-identify-political-violence-and-anticipate-conflict)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CORDIS28 Apr 2023 — An EU-funded project is using machine learning to predict and provide early warning of the likelihood of conflict and...</p></details>
+   Link: <a href="https://cordis.europa.eu/article/id/443344-using-machine-learning-to-identify-political-violence-and-anticipate-conflict" target="_blank" rel="noopener noreferrer nofollow">https://cordis.europa.eu/article/id/443344-using-machine-learning-to-identify-political-violence-and-anticipate-conflict</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Apr 2023 — An EU-funded project is using machine learning to predict and provide early warning of the likelihood of conflict and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: visionofhumanity.org  
    Title: predicting civil conflict can machine learning tell us  
-   Link: [https://www.visionofhumanity.org/predicting-civil-conflict-can-machine-learning-tell-us/](https://www.visionofhumanity.org/predicting-civil-conflict-can-machine-learning-tell-us/)  
+   Link: <a href="https://www.visionofhumanity.org/predicting-civil-conflict-can-machine-learning-tell-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.visionofhumanity.org/predicting-civil-conflict-can-machine-learning-tell-us/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Predicting Civil Conflict: What Machine Learning Can Tell UsJan 24, 2019 — Artificial [intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) can be used as early warning systems t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: trendsresearch.org  
    Title: The Impact of AI and Machine Learning on Conflict  
-   Link: [https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorCUEP5dv-cBNyycT5Yh5L92jovEPVfvP8wrpx8mPYIqBeM4QZp](https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorCUEP5dv-cBNyycT5Yh5L92jovEPVfvP8wrpx8mPYIqBeM4QZp)  
+   Link: <a href="https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorCUEP5dv-cBNyycT5Yh5L92jovEPVfvP8wrpx8mPYIqBeM4QZp" target="_blank" rel="noopener noreferrer nofollow">https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorCUEP5dv-cBNyycT5Yh5L92jovEPVfvP8wrpx8mPYIqBeM4QZp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 2, 2025 — Good examples of EWS are the Violence Early Warning System (ViEWS) project, which provides predictions for where armed conf...</p></details>
    Published: May 2, 2025  
 
 23. <a id="endnote-23"></a>
    Source: royalsocietypublishing.org  
    Title: Data driven conflict classification exposes weak  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak](https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-driven conflict classification exposes weak [predictive](&amp;#123;&amp;#123; &#x27;failure-warnings/&#x27; | relative_url &amp;#125;&amp;#125;)...17 Dec 2025 — Specifying conflict-type negatively affects the predictabili...</p></details>
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-driven conflict classification exposes weak predictive...17 Dec 2025 — Specifying conflict-type negatively affects the predictabili...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: oecd-opsi.org  
    Title: Observatory of Public Sector Innovation Vi EWS  
-   Link: [https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/](https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/)  
+   Link: <a href="https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/innovations/views-the-political-violence-early-warning-system/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory of Public Sector InnovationViEWS - The Political Violence Early-Warning System23 Jan 2023 — The Violence Early-Warning System...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: economist.com  
    Title: ai models are being used to predict conflict  
-   Link: [https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict](https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict)  
+   Link: <a href="https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict" target="_blank" rel="noopener noreferrer nofollow">https://www.economist.com/science-and-technology/2026/05/13/ai-models-are-being-used-to-predict-conflict</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>13 May 2026 — Think-tanks and researchers deploy artificial intelligence to predict conflicts and political upheaval, with mixed results...</p></details>
    Published: May 2026  
 
 26. <a id="endnote-26"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/data-and-policy/article/promise-of-machine-learning-in-violent-conflict-forecasting/40D559ADA18FF7308915B08956B4E8F3](https://www.cambridge.org/core/journals/data-and-policy/article/promise-of-machine-learning-in-violent-conflict-forecasting/40D559ADA18FF7308915B08956B4E8F3)  
+   Link: <a href="https://www.cambridge.org/core/journals/data-and-policy/article/promise-of-machine-learning-in-violent-conflict-forecasting/40D559ADA18FF7308915B08956B4E8F3" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/data-and-policy/article/promise-of-machine-learning-in-violent-conflict-forecasting/40D559ADA18FF7308915B08956B4E8F3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe promise of machine learning in violent conflict...by M Murphy · 2024 · Cited by 15 — In this...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383579991_The_promise_of_machine_learning_in_violent_conflict_forecasting](https://www.researchgate.net/publication/383579991_The_promise_of_machine_learning_in_violent_conflict_forecasting)  
+   Link: <a href="https://www.researchgate.net/publication/383579991_The_promise_of_machine_learning_in_violent_conflict_forecasting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383579991_The_promise_of_machine_learning_in_violent_conflict_forecasting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>everal technical and policy conditions.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.1993209](https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.1993209)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.1993209" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/03050629.2022.1993209</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasting conflict using a diverse machine-learning...by F Ettensperger · 2022 · Cited by 16 — The article examines the potential of m...</p></details>

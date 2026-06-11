@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /access-gap/
 nav_short_title: Rich First
 title: Will AI prevention become private medicine?
-title_full: Will AI prevention become private medicine? | Access gap
+title_full: Will AI prevention become private medicine?
 display_title_short: Rich First
 display_title: Rich First
 heading_title: Will AI prevention become private medicine?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Will AI longevity care reach everyone? | Longevity
+date: '2026-06-08 01:43:54'
+parent_title: Will AI longevity care reach everyone?
 parent_permalink: /access-gap/
 parent_nav_short_title: Access gap
 parent_heading_title: Will AI longevity care reach everyone?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /public-systems/
   short_title: Public Systems
   heading_title: Can public healthcare make AI care fair?
-date: '2026-06-08 01:43:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-1.webp
@@ -269,13 +269,12 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c0
 
 ## Introduction
 
-AI prevention systems promise one of the most attractive parts of the wider [AI longevity]({{ 'access-gap/' | relative_url }}) vision: spotting disease before symptoms appear, helping people stay healthy for longer, and shifting medicine away from crisis treatment towards early intervention. If AI can identify elevated cancer risk, cardiovascular disease, diabetes, dementia, or other chronic conditions years earlier than conventional diagnosis, it could become a major driver of longer healthy lives.
-
+AI prevention systems promise one of the most attractive parts of the wider AI [longevity]({{ 'longevity/' | relative_url }}) vision: spotting disease before symptoms appear, helping people stay healthy for longer, and shifting medicine away from crisis treatment towards early intervention. If AI can identify elevated cancer risk, cardiovascular disease, diabetes, dementia, or other chronic conditions years earlier than conventional diagnosis, it could become a major driver of longer healthy lives.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-1-dark.svg" | relative_url }}" alt="Rich First illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that [early warning]({{ 'early-warning/' | relative_url }}) is not the same as prevention. Knowing that someone faces a higher risk of illness only helps if they can obtain tests, specialist care, medication, lifestyle support, and ongoing monitoring. Those resources are already distributed unevenly. Without deliberate policy choices, AI-guided prevention could follow a familiar pattern in medicine: the most powerful tools arrive first for wealthy patients, private clinics, and well-funded health systems, while the people with the highest disease burden gain access much later.
 
-In that scenario, AI still improves health. But it improves it unevenly, creating a risk that [longevity]({{ 'longevity/' | relative_url }}) gains accumulate fastest among those who are already healthiest and most advantaged.
+In that scenario, AI still improves health. But it improves it unevenly, creating a risk that longevity gains accumulate fastest among those who are already healthiest and most advantaged.
 
 ## Why early warning systems favour advantaged patients
 
@@ -289,15 +288,10 @@ The result is a preventive system that can become progressively better at servin
 
 Several additional mechanisms reinforce this pattern:
 
-
-<div class="content-enhancement content-enhancement--caution" markdown="1">
-
 * **Private screening markets emerge quickly.** AI-enhanced imaging, genomic analysis, and personalised health assessments often appear first as premium services.
-* **Health literacy matters.** People with more education and time are generally better positioned to interpret risk reports and navigate follow-up care.
+* **Health literacy matters.** People with more [education]({{ 'education/' | relative_url }}) and time are generally better positioned to interpret risk reports and navigate follow-up care.
 * **Geography matters.** Advanced diagnostic infrastructure remains concentrated in wealthier regions and major medical centres.
 * **Digital participation matters.** Wearables, health apps, and remote monitoring systems are more common among higher-income populations.
-
-</div>
 
 The concern is not simply that wealthy patients buy better healthcare. It is that AI prevention may amplify cumulative advantages at multiple stages simultaneously: data collection, risk detection, clinical interpretation, treatment access, and long-term monitoring.
 
@@ -313,10 +307,9 @@ Many of the largest drivers of life expectancy are influenced by social and econ
 
 This means AI can create a strange outcome: more accurate awareness of health risks without corresponding improvements in health outcomes.
 
-Researchers studying health inequalities have repeatedly noted that preventive services often benefit groups with greater resources first, particularly when participation requires time, travel, digital access, or proactive engagement. Public health researchers in the UK have long referred to versions of this pattern as the "inverse care" problem: people who need healthcare most are often least likely to receive it. Preventive AI could unintentionally reproduce the same dynamic if deployment focuses primarily on technological capability rather than practical access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post.parliament.uk/public-health-inequalities-and-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post.parliament.uk">[POST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post.parliament.uk</span><span class="citation-popover-title">POSTPublic health: inequalities and prevention</span><span class="citation-popover-snippet">POST ParliamentJuly 25, 2025 — 25 Jul 2025 — Researchers also highlighted the importance of prevention and early detection healthcare ser...</span><span class="citation-popover-meta">Published: July 25, 2025</span></span></span>
+Researchers studying health inequalities have repeatedly noted that preventive services often benefit groups with greater resources first, particularly when participation requires time, travel, digital access, or proactive engagement. Public health researchers in the UK have long referred to versions of this pattern as the "inverse care" problem: people who need healthcare most are often least likely to receive it. Preventive AI could unintentionally reproduce the same dynamic if deployment focuses primarily on technological capability rather than practical access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://post.parliament.uk/public-health-inequalities-and-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: post.parliament.uk">[POST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">post.parliament.uk</span><span class="citation-popover-title">POSTPublic health: inequalities and prevention</span><span class="citation-popover-snippet">July 25, 2025 — 25 Jul 2025 — Researchers also highlighted the importance of prevention and early detection healthcare ser...</span><span class="citation-popover-meta">Published: July 25, 2025</span></span></span>
 
 This is especially important for longevity. Extending healthy life is rarely achieved through a single intervention. It usually requires years of consistent prevention, monitoring, and treatment. The benefits therefore compound most effectively among people who can remain engaged with healthcare systems over long periods.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/646yD7ywglo" title="Laleh Seyyed-Kalantari - Underdiagnosis Bias of AI Algorithms Applied to Chest Radiographs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=646yD7ywglo" target="_blank" rel="noopener noreferrer">Laleh Seyyed-Kalantari - Underdiagnosis Bias of AI Algorithms Applied to Chest Radiographs</a></p><p class="youtube-embed-meta">Channel: Stanford AIMI &middot; Views: 582 &middot; Uploaded: February 2022 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=646yD7ywglo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=646yD7ywglo">Open on YouTube</a></p></div></div></div>
 
@@ -324,11 +317,11 @@ This is especially important for longevity. Extending healthy life is rarely ach
 
 The inequality problem does not end with access. It can also appear inside the models themselves.
 
-Researchers have documented cases where [medical AI]({{ 'data-bias/' | relative_url }}) systems show different error rates across patient groups. One influential study in *Nature Medicine* examined chest X-ray diagnostic models and found systematic underdiagnosis bias affecting underserved populations. In practical terms, some groups were more likely to receive false reassurance when disease was actually present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureUnderdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1069 — Here, we perform a syst...</span></span></span>
+Researchers have documented cases where medical AI systems show different error rates across patient groups. One influential study in *Nature Medicine* examined chest X-ray diagnostic models and found systematic underdiagnosis bias affecting underserved populations. In practical terms, some groups were more likely to receive false reassurance when disease was actually present. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1069 — Here, we perform a syst...</span></span></span>
 
 That finding matters because preventive medicine depends heavily on accurate early detection. If AI systems miss disease more often in disadvantaged populations, those groups may receive later diagnoses and later treatment even while the technology appears highly successful overall.
 
-Subsequent work has continued to identify concerns around demographic bias, dataset imbalance, and unequal model performance in healthcare AI. Reviews have warned that biased algorithms can amplify existing disparities across race, ethnicity, age, sex, and socioeconomic status when these issues are not addressed during development and evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44325-024-00031-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureArtificial intelligence bias in the prediction and detection of...by A Mihan · 2024 · Cited by 29 — Biased algorithms can perform...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Nat. Med. 27...Read more...</span></span></span>
+Subsequent work has continued to identify concerns around demographic bias, dataset imbalance, and unequal model performance in healthcare AI. Reviews have warned that biased algorithms can amplify existing disparities across race, ethnicity, age, sex, and socioeconomic status when these issues are not addressed during development and evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s44325-024-00031-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Artificial intelligence bias in the prediction and detection of...by A Mihan · 2024 · Cited by 29 — Biased algorithms can perform...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Nat. Med. 27...Read more...</span></span></span>
 
 This creates a double inequality risk:
 
@@ -336,7 +329,6 @@ This creates a double inequality risk:
 2. Some disadvantaged groups may receive less accurate predictions even after access expands.
 
 A preventive system that performs best for already advantaged populations could widen health gaps despite improving average outcomes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MP5nnggBVa8" title="Study finds AI in healthcare is vulnerable to socioeconomic biases, raising red flags" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MP5nnggBVa8" target="_blank" rel="noopener noreferrer">Study finds AI in healthcare is vulnerable to socioeconomic biases, raising red flags</a></p><p class="youtube-embed-meta">Channel: WJZ &middot; Views: 287 &middot; Uploaded: April 2025 &middot; Length: 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MP5nnggBVa8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MP5nnggBVa8">Open on YouTube</a></p></div></div></div>
 
@@ -357,13 +349,12 @@ The gap may not look dramatic at first. A few years of earlier diagnosis may see
 
 This is one reason the distribution question matters so much within the broader AI bloom debate. If AI accelerates medical [discovery]({{ 'discovery/' | relative_url }}) and disease prevention but the resulting systems remain concentrated among affluent groups, humanity may become healthier overall while also becoming more unequal in who gets to enjoy those gains.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-2-dark.svg" | relative_url }}" alt="Rich First illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Insurance, incentives, and selective prevention
 
 Another risk is that prevention becomes targeted primarily where it is most profitable.
 
-AI systems are increasingly used to predict future health costs, identify high-risk patients, and allocate healthcare resources. Supporters argue that this can improve efficiency and enable earlier intervention. Critics worry that predictive systems may also create incentives to sort, price, or prioritise patients in ways that reinforce inequality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Artificial Intelligence and the health workforce (EN</span><span class="citation-popover-snippet">OECDArtificial Intelligence and the health workforce (EN)February 19, 2026 — AI in health also poses risks to patients in several ways in...</span><span class="citation-popover-meta">Published: February 19, 2026</span></span></span>
+AI systems are increasingly used to predict future health costs, identify high-risk patients, and allocate healthcare resources. Supporters argue that this can improve efficiency and enable earlier intervention. Critics worry that predictive systems may also create incentives to sort, price, or prioritise patients in ways that reinforce inequality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Artificial Intelligence and the health workforce (EN</span><span class="citation-popover-snippet">Artificial Intelligence and the health workforce (EN)February 19, 2026 — AI in health also poses risks to patients in several ways in...</span><span class="citation-popover-meta">Published: February 19, 2026</span></span></span>
 
 The concern is not necessarily overt discrimination. More often it involves subtle differences in who receives outreach, who is invited into preventive programmes, who gains access to specialist services, or whose health risks receive the most attention.
 
@@ -379,7 +370,6 @@ The same technologies that support elite personalised medicine can also support 
 
 Several approaches could matter:
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-3-dark.svg" | relative_url }}" alt="Rich First illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_longevity_2c00fe_ai_prevention_545204-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI as a public health tool rather than a luxury service
 
@@ -391,10 +381,9 @@ The long-term significance is large. Prevention reaches more people when it beco
 
 ### Building models around underserved populations
 
-Researchers increasingly argue that fairness must be incorporated throughout model development, data collection, [validation]({{ 'validation/' | relative_url }}), and deployment. Better representation in training datasets, continuous auditing, and subgroup performance testing can reduce the risk that preventive systems work well only for already advantaged populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</span></span></span>
+Researchers increasingly argue that fairness must be incorporated throughout model development, data collection, [validation]({{ 'validation/' | relative_url }}), and deployment. Better representation in training datasets, continuous auditing, and subgroup performance testing can reduce the risk that preventive systems work well only for already advantaged populations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</span></span></span>
 
-This is not merely a technical issue. It determines who benefits from early detection.
-
+This is not merely a technical issue. It determines [who benefits]({{ 'who-benefits/' | relative_url }}) from early detection.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yd9q-o7E8Uw" title="Where Are We Now? Bias in Health AI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yd9q-o7E8Uw" target="_blank" rel="noopener noreferrer">Where Are We Now? Bias in Health AI</a></p><p class="youtube-embed-meta">Channel: University of California Television (UCTV) &middot; Views: 981 &middot; Uploaded: April 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yd9q-o7E8Uw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yd9q-o7E8Uw">Open on YouTube</a></p></div></div></div>
 
@@ -404,7 +393,6 @@ An AI warning without follow-up support has limited value.
 
 The strongest preventive systems combine prediction with action:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * automatic appointment scheduling
@@ -412,21 +400,21 @@ The strongest preventive systems combine prediction with action:
 * subsidised testing
 * medication access
 * preventive coaching
-* primary care follow-up <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectBridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</span></span></span>
+* primary care follow-up <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</span></span></span>
 
 </div>
 
-Several public-health-focused studies argue that AI can help identify vulnerable patients earlier, but meaningful benefits depend on integrating those predictions into healthcare delivery rather than treating prediction itself as the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCSocioeconomic impact of artificial intelligence–driven point-of...by S Singh · 2025 · Cited by 5 — AI-driven automated diagnostic mod...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Advances in AI-Augmented Patient Triage and Referral...18 May 2025 — This paper explores advances in AI-augmented triage and referral te...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Several public-health-focused studies argue that AI can help identify vulnerable patients earlier, but meaningful benefits depend on integrating those predictions into healthcare delivery rather than treating prediction itself as the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Socioeconomic impact of artificial intelligence–driven point-of...by S Singh · 2025 · Cited by 5 — AI-driven automated diagnostic mod...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Advances in AI-Augmented Patient Triage and Referral...18 May 2025 — This paper explores advances in AI-augmented triage and referral te...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Why this matters for the AI bloom future
 
-The broader AI bloom vision imagines a future in which advanced intelligence helps humanity overcome many of the constraints that currently limit health, knowledge, and flourishing. Radical improvements in prevention could become one of the clearest examples.
+The broader AI bloom vision imagines a future in which advanced [intelligence]({{ 'intelligence/' | relative_url }}) helps humanity overcome many of the constraints that currently limit health, knowledge, and flourishing. Radical improvements in prevention could become one of the clearest examples.
 
 But the distribution question cannot be separated from the technological question.
 
 A world where AI helps affluent patients avoid disease for decades longer than everyone else is very different from a world where AI-driven prevention becomes a standard public service available across entire populations.
 
-The distinction matters because longevity is cumulative. Every year of earlier prevention can affect decades of future health. If access remains narrow, the gains from [AI medicine]({{ 'longevity/' | relative_url }}) may concentrate among people who already possess wealth, education, political influence, and long life expectancy. If access becomes broad, AI prevention could help reduce some of the largest health inequalities that exist today.
+The distinction matters because longevity is cumulative. Every year of earlier prevention can affect decades of future health. If access remains narrow, the gains from AI medicine may concentrate among people who already possess wealth, education, political influence, and long life expectancy. If access becomes broad, AI prevention could help reduce some of the largest health inequalities that exist today.
 
 The success of AI-guided prevention therefore depends on more than diagnostic accuracy. It depends on whether societies can turn early warning into affordable action, and whether the systems that extend healthy life are built as public infrastructure rather than permanent luxury goods.
 
@@ -449,26 +437,9 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
         </h4>
         <p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Explains how AI prevention could improve healthcare while raising concerns about access and trust.</p>
+        <p class="fr-book-desc">Covers how AI could support more personalised medical care.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Longevity Imperative on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C2IX0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Longevity Imperative" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Longevity Imperative">The Longevity Imperative</a>
-        </h4>
-        <p class="fr-book-author">By Andrew J Scott</p>
-        
-        <p class="fr-book-desc">Frames why AI prevention must be integrated into public systems rather than left as a luxury.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Longevity+Imperative+by+Andrew+J+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -483,9 +454,26 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
         </h4>
         <p class="fr-book-author">By Peter Attia, MD</p>
         
-        <p class="fr-book-desc">Emphasises early detection, prevention and personalised risk management, matching the page&#x27;s core issue.</p>
+        <p class="fr-book-desc">Directly argues for proactive prevention rather than late-stage treatment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Outlive+by+Peter+Attia%2C+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of Scientific Wellness on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=K5GjEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Age of Scientific Wellness" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of Scientific Wellness">The Age of Scientific Wellness</a>
+        </h4>
+        <p class="fr-book-author">By Leroy Hood, Nathan Price</p>
+        
+        <p class="fr-book-desc">Centres on earlier warnings, biomarkers and personalised prevention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness+by+Leroy+Hood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -500,7 +488,7 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
         </h4>
         <p class="fr-book-author">By Eric J. Topol</p>
         
-        <p class="fr-book-desc">Explores patient data, personalised health and the shift from reactive to proactive medicine.</p>
+        <p class="fr-book-desc">Explores patient access, data and medical empowerment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Patient+Will+See+You+Now+by+Eric+J.+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -510,7 +498,7 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Longevity+Imperative&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Longevity Imperative</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Outlive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outlive</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Outlive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Outlive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+Scientific+Wellness&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of Scientific Wellness</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -547,15 +535,15 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A cure for wellness Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4bfe5946a4e7ae5381b7.jpg' | relative_url }}" alt="Listing image for A cure for wellness Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WWII Malaria Prevention Mosquito Military Health Propaganda Art Print Poster"><img src="https://i.ebayimg.com/images/g/MywAAeSwLUVqJ-5B/s-l225.jpg" alt="Listing image for WWII Malaria Prevention Mosquito Military Health Propaganda Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">A cure for wellness Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer">WWII Malaria Prevention Mosquito Military Health Propaganda Art Print Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wellness poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wellness poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for preventive health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: preventive health poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -563,15 +551,15 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="{{ '/assets/images/marketplace-covers/b8e10d281b8879832243.jpg' | relative_url }}" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK - Tai Chi Walking Exercises for Seniors, Fall Prevention Mobility Guide"><img src="https://i.ebayimg.com/images/g/X4MAAeSwrIhqFU3t/s-l225.jpg" alt="Listing image for UK - Tai Chi Walking Exercises for Seniors, Fall Prevention Mobility Guide" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer">UK - Tai Chi Walking Exercises for Seniors, Fall Prevention Mobility Guide</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wellness poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wellness poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for preventive health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: preventive health poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -579,15 +567,15 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mindfulness RAIN Technique Wall Art Poster for Emotional Wellness"><img src="{{ '/assets/images/marketplace-covers/169a7ac55d5d762c7c6d.jpg' | relative_url }}" alt="Listing image for Mindfulness RAIN Technique Wall Art Poster for Emotional Wellness" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster HEALTH - PREVENTION - RED CROSS - CZECHOSLOVAKIA - 1980s"><img src="https://i.ebayimg.com/images/g/OK0AAOSwKWhm4HZs/s-l225.jpg" alt="Listing image for Original Vintage Poster HEALTH - PREVENTION - RED CROSS - CZECHOSLOVAKIA - 1980s" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Mindfulness RAIN Technique Wall Art Poster for Emotional Wellness</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster HEALTH - PREVENTION - RED CROSS - CZECHOSLOVAKIA - 1980s</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wellness poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wellness poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for preventive health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: preventive health poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -595,15 +583,15 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="{{ '/assets/images/marketplace-covers/508ffb530d37d62473b2.jpg' | relative_url }}" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster FLU - ILLNESS - PREVENTION TIPS -HEALTH - HYGIENE - 1965"><img src="https://i.ebayimg.com/images/g/aTkAAOSwL~JnCXp1/s-l225.jpg" alt="Listing image for Original Vintage Poster FLU - ILLNESS - PREVENTION TIPS -HEALTH - HYGIENE - 1965" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster FLU - ILLNESS - PREVENTION TIPS -HEALTH - HYGIENE - 1965</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for wellness poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: wellness poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for preventive health poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: preventive health poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -611,7 +599,7 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=wellness+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wellness poster -book -books" data-ebay-reference="rich-first-will-ai-prevention-become-private-medicine-ai-bloom-abundance-superintelligence-and-h-wellness-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=preventive+health+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-prevention-become-private-medicine-preventive-health-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="preventive health poster" data-ebay-reference="will-ai-prevention-become-private-medicine-preventive-health-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -827,141 +815,141 @@ The success of AI-guided prevention therefore depends on more than diagnostic ac
 1. <a id="endnote-1"></a>
    Source: post.parliament.uk  
    Title: POSTPublic health: inequalities and prevention  
-   Link: [https://post.parliament.uk/public-health-inequalities-and-prevention/](https://post.parliament.uk/public-health-inequalities-and-prevention/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>POST ParliamentJuly 25, 2025 — 25 Jul 2025 — Researchers also highlighted the importance of prevention and early detection healthcare ser...</p></details>
+   Link: <a href="https://post.parliament.uk/public-health-inequalities-and-prevention/" target="_blank" rel="noopener noreferrer nofollow">https://post.parliament.uk/public-health-inequalities-and-prevention/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 25, 2025 — 25 Jul 2025 — Researchers also highlighted the importance of prevention and early detection healthcare ser...</p></details>
    Published: July 25, 2025  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCSocioeconomic impact of artificial intelligence–driven point-of...by S Singh · 2025 · Cited by 5 — AI-driven automated diagnostic mod...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12325499/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Socioeconomic impact of artificial intelligence–driven point-of...by S Singh · 2025 · Cited by 5 — AI-driven automated diagnostic mod...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41591-021-01595-0](https://www.nature.com/articles/s41591-021-01595-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureUnderdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1069 — Here, we perform a syst...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41591-021-01595-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41591-021-01595-0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1069 — Here, we perform a syst...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s44325-024-00031-9](https://www.nature.com/articles/s44325-024-00031-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureArtificial intelligence bias in the prediction and detection of...by A Mihan · 2024 · Cited by 29 — Biased algorithms can perform...</p></details>
+   Link: <a href="https://www.nature.com/articles/s44325-024-00031-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s44325-024-00031-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence bias in the prediction and detection of...by A Mihan · 2024 · Cited by 29 — Biased algorithms can perform...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-023-00858-z](https://www.nature.com/articles/s41746-023-00858-z)  
+   Link: <a href="https://www.nature.com/articles/s41746-023-00858-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00858-z</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nat. Med. 27...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
    Title: Artificial Intelligence and the health workforce (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDArtificial Intelligence and the health workforce (EN)February 19, 2026 — AI in health also poses risks to patients in several ways in...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/11/artificial-intelligence-and-the-health-workforce_c8e4433d/9a31d8af-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence and the health workforce (EN)February 19, 2026 — AI in health also poses risks to patients in several ways in...</p></details>
    Published: February 19, 2026  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1386505625002680](https://www.sciencedirect.com/science/article/pii/S1386505625002680)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625002680" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002680</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging the digital divide: artificial intelligence as a...by A Osonuga · 2025 · Cited by 49 — This comprehensive narrativ...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12236417/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12236417/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEmpowering public health: Leveraging AI for early detection...by V Nivethitha · 2025 · Cited by 16 — This scoping review examines AI&#x27;...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12236417/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12236417/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Empowering public health: Leveraging AI for early detection...by V Nivethitha · 2025 · Cited by 16 — This scoping review examines AI&#x27;...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives](https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives)  
+   Link: <a href="https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391837061_Advances_in_AI-Augmented_Patient_Triage_and_Referral_Systems_for_Community-Based_Public_Health_Initiatives</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in AI-Augmented Patient Triage and Referral...18 May 2025 — This paper explores advances in AI-augmented triage and referral te...</p></details>
    Published: May 2025  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2667102626000203](https://www.sciencedirect.com/science/article/pii/S2667102626000203)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2667102626000203" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2667102626000203</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This review provides a comprehensive overview of AI...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1546144023005070](https://www.sciencedirect.com/science/article/abs/pii/S1546144023005070)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1546144023005070" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1546144023005070</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms applied to chest radiographs in under-served patient populations. Nat Med.Read mo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iris.who.int  
-   Link: [https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content](https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content)  
+   Link: <a href="https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/d2913ae3-c8e0-4a46-b6ff-b4b121e936f4/content</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Increasing health system efficiencies. Reducing pressure on the health care workforce. Improving patient care and health outcomes...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations](https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations)  
+   Link: <a href="https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356949367_Underdiagnosis_bias_of_artificial_intelligence_algorithms_applied_to_chest_radiographs_in_under-served_patient_populations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis bias of artificial intelligence algorithms...10 Dec 2021 — Studies showing that chest X-ray models can predict patient ra...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/390314934_AI_powered_predictive_healthcare_Deep_learning_for_early_diagnosis_personalized_treatment_and_disease_prevention](https://www.researchgate.net/publication/390314934_AI_powered_predictive_healthcare_Deep_learning_for_early_diagnosis_personalized_treatment_and_disease_prevention)  
+   Link: <a href="https://www.researchgate.net/publication/390314934_AI_powered_predictive_healthcare_Deep_learning_for_early_diagnosis_personalized_treatment_and_disease_prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/390314934_AI_powered_predictive_healthcare_Deep_learning_for_early_diagnosis_personalized_treatment_and_disease_prevention</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI powered predictive healthcare: Deep learning for early...This study explores the role of AI in predictive healthcare, examining its i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-024-52003-3](https://www.nature.com/articles/s41467-024-52003-3)  
+   Link: <a href="https://www.nature.com/articles/s41467-024-52003-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-024-52003-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>William Lotter...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-025-01956-w](https://www.nature.com/articles/s41746-025-01956-w)  
+   Link: <a href="https://www.nature.com/articles/s41746-025-01956-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01956-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Quality safety and disparity of an AI chatbot in managing...by Y Si · 2025 · Cited by 7 — Disparities were observed based on patient age...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE](https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE)  
+   Link: <a href="https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jacreator_aiengineering-responsibleai-fairnessinml-activity-7436094639964573696-5JaE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Underdiagnosis Bias in Chest X-rays: Fairness...Spent the last few week diving deep into one of the most important fairness papers in...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: racismandtechnology.center  
-   Link: [https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/](https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/)  
+   Link: <a href="https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/" target="_blank" rel="noopener noreferrer nofollow">https://racismandtechnology.center/2023/02/18/racist-technology-in-action-the-underdiagnosis-bias-in-ai-algorithms-for-health-chest-radiographs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The “underdiagnosis bias” in AI algorithms for health...18 Feb 2023 — The authors conducted a systematic study of underdiagnosis bias on...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: kff.org  
-   Link: [https://www.kff.org/racial-equity-and-health-policy/the-growing-use-of-artificial-intelligence-in-health-care-and-implications-for-disparities/](https://www.kff.org/racial-equity-and-health-policy/the-growing-use-of-artificial-intelligence-in-health-care-and-implications-for-disparities/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KFFThe Growing Use of Artificial Intelligence in Health Care...30 Apr 2026 — As the use of AI in health care grows, research suggests th...</p></details>
+   Link: <a href="https://www.kff.org/racial-equity-and-health-policy/the-growing-use-of-artificial-intelligence-in-health-care-and-implications-for-disparities/" target="_blank" rel="noopener noreferrer nofollow">https://www.kff.org/racial-equity-and-health-policy/the-growing-use-of-artificial-intelligence-in-health-care-and-implications-for-disparities/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Growing Use of Artificial Intelligence in Health Care...30 Apr 2026 — As the use of AI in health care grows, research suggests th...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: journalistsresource.org  
-   Link: [https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/](https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/)  
+   Link: <a href="https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/" target="_blank" rel="noopener noreferrer nofollow">https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence exacerbates and mitigates racial bias...11 Jul 2022 — Several studies show it can also propagate racial biases...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aimi.stanford.edu  
    Title: aimi journal club underdiagnosis bias artificial intelligence algorithms  
-   Link: [https://aimi.stanford.edu/events/journal-club/aimi-journal-club-underdiagnosis-bias-artificial-intelligence-algorithms](https://aimi.stanford.edu/events/journal-club/aimi-journal-club-underdiagnosis-bias-artificial-intelligence-algorithms)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Club: Underdiagnosis Bias of Artificial...Here, we examine [algorithmic](&amp;#123;&amp;#123; &#x27;algorithmic-risks/&#x27; | relative_url &amp;#125;&amp;#125;) underdiagnosis in chest X-ray pathology classification ac...</p></details>
+   Link: <a href="https://aimi.stanford.edu/events/journal-club/aimi-journal-club-underdiagnosis-bias-artificial-intelligence-algorithms" target="_blank" rel="noopener noreferrer nofollow">https://aimi.stanford.edu/events/journal-club/aimi-journal-club-underdiagnosis-bias-artificial-intelligence-algorithms</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal Club: Underdiagnosis Bias of Artificial...Here, we examine algorithmic underdiagnosis in chest X-ray pathology classification ac...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: publications.jrc.ec.europa.eu  
    Title: jrc122675 aiwatch ai uptake health and healthcare 2020 final wt isbn  
-   Link: [https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122675/jrc122675_aiwatch_ai_uptake__health_and_healthcare_2020_final_wt_isbn.pdf](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122675/jrc122675_aiwatch_ai_uptake__health_and_healthcare_2020_final_wt_isbn.pdf)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122675/jrc122675_aiwatch_ai_uptake__health_and_healthcare_2020_final_wt_isbn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC122675/jrc122675_aiwatch_ai_uptake__health_and_healthcare_2020_final_wt_isbn.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch AI Uptake in Health and Healthcare, 2020by NS DE — This publication is a Technical report by the Joint Research Centre (JRC), the E...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: appliedradiology.com  
    Title: ai s diversity problem in radiology addressing algorithm bias  
-   Link: [https://appliedradiology.com/Articles/ai-s-diversity-problem-in-radiology-addressing-algorithm-bias](https://appliedradiology.com/Articles/ai-s-diversity-problem-in-radiology-addressing-algorithm-bias)  
+   Link: <a href="https://appliedradiology.com/Articles/ai-s-diversity-problem-in-radiology-addressing-algorithm-bias" target="_blank" rel="noopener noreferrer nofollow">https://appliedradiology.com/Articles/ai-s-diversity-problem-in-radiology-addressing-algorithm-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Diversity Problem in Radiology: Addressing Algorithm...by K Reeves · Cited by 1 — Underdiagnosis bias of artificial intelligence al...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: itnonline.com  
    Title: ai chest x ray model analysis reveals race and sex bias  
-   Link: [https://www.itnonline.com/content/ai-chest-x-ray-model-analysis-reveals-race-and-sex-bias](https://www.itnonline.com/content/ai-chest-x-ray-model-analysis-reveals-race-and-sex-bias)  
+   Link: <a href="https://www.itnonline.com/content/ai-chest-x-ray-model-analysis-reveals-race-and-sex-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.itnonline.com/content/ai-chest-x-ray-model-analysis-reveals-race-and-sex-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Chest X-ray Model Analysis Reveals Race and Sex Bias4 Oct 2023 — An AI chest X-ray foundation model for disease detection demonstrated...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/34893776/](https://pubmed.ncbi.nlm.nih.gov/34893776/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34893776/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34893776/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bias of artificial intelligence algorithms...by L Seyyed-Kalantari · 2021 · Cited by 1069 — Here, we examine algorithmic underdiagnosis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medrxiv.org  
    Title: 2024.12.16.24319063v2.full text  
-   Link: [https://www.medrxiv.org/content/10.1101/2024.12.16.24319063v2.full-text](https://www.medrxiv.org/content/10.1101/2024.12.16.24319063v2.full-text)  
+   Link: <a href="https://www.medrxiv.org/content/10.1101/2024.12.16.24319063v2.full-text" target="_blank" rel="noopener noreferrer nofollow">https://www.medrxiv.org/content/10.1101/2024.12.16.24319063v2.full-text</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Underdiagnosis Bias of Chest Radiograph Diagnostic AI...14 Jan 2025 — Underdiagnosis bias may have significant ramifications such as cau...</p></details>

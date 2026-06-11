@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-energy-comput/
 description: Focused pages that expand on Nuclear Power.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_nuclear_ai_po_f182ac
-parent_title: Nuclear Power | Energy
+parent_title: Nuclear Power
 parent_nav_short_title: Nuclear Power
 parent_permalink: /nuclear-power/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /gno-me-materials/
 nav_short_title: Stable vs useful
 title: Why stable materials are not enough
-title_full: Why stable materials are not enough | GNo ME materials
+title_full: Why stable materials are not enough
 display_title_short: Stable vs useful
 display_title: Stable vs useful
 heading_title: Why stable materials are not enough
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI find the materials abundance needs? | Discovery
+date: '2026-06-08 02:17:29'
+parent_title: Can AI find the materials abundance needs?
 parent_permalink: /gno-me-materials/
 parent_nav_short_title: GNo ME materials
 parent_heading_title: Can AI find the materials abundance needs?
@@ -266,7 +267,6 @@ next_link:
   permalink: /validation/
   short_title: Validation
   heading_title: What the first tests really prove
-date: '2026-06-08 02:17:29 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1.webp
@@ -277,11 +277,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2d
 
 GNoME's most important achievement was not that it found hundreds of thousands of revolutionary new materials. It was that it dramatically expanded the map of materials that scientists can explore.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-dark.svg" | relative_url }}" alt="Stable vs useful illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters. When Google DeepMind reported roughly 381,000 predicted stable materials among more than 2 million candidate crystal structures, many headlines implied that a vast new catalogue of batteries, superconductors and clean-[energy]({{ 'energy/' | relative_url }}) technologies had effectively been discovered. In reality, "stable" is only one filter in a long process that determines whether a material becomes useful. A crystal can be thermodynamically stable and still be impossible to manufacture at scale, too expensive to use, unsafe, fragile, inefficient or simply worse than existing alternatives. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: deepmind.google">[Google DeepMind]</a><span class="citation-popover" role="note"><span class="citation-popover-source">deepmind.google</span><span class="citation-popover-title">millions of new materials discovered with deep learning</span><span class="citation-popover-snippet">Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</span></span></span>
 
-For the wider AI bloom argument, this is a useful reality check. AI may greatly accelerate [scientific]({{ 'discovery/' | relative_url }}) search, but many of civilisation's bottlenecks sit beyond prediction. The path from a promising computational result to a technology that changes everyday life still runs through synthesis, testing, engineering, economics and deployment.
+For the wider AI bloom argument, this is a useful reality check. AI may greatly accelerate scientific search, but many of civilisation's bottlenecks sit beyond prediction. The path from a promising computational result to a technology that changes everyday life still runs through synthesis, testing, engineering, economics and deployment.
 
 ## What GNoME actually predicted
 
@@ -300,7 +299,6 @@ A stable crystal is essentially a candidate. It is not yet a technology.
 The history of materials science is full of substances that worked in theory but failed in practice.
 
 For a material to matter outside a database, researchers must usually answer several additional questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +319,6 @@ Many predicted materials never satisfy these requirements simultaneously.
 
 This is why researchers often describe materials discovery as a funnel rather than a single breakthrough event. Vast numbers of possibilities enter at the top. Only a tiny fraction emerge as commercially important technologies.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YPo_5jdCPxo" title="Convex Hull Analysis: Evaluating Materials Stability" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YPo_5jdCPxo" target="_blank" rel="noopener noreferrer">Convex Hull Analysis: Evaluating Materials Stability</a></p><p class="youtube-embed-meta">Channel: Atoms to Materials &middot; Views: 1.3K &middot; Uploaded: May 2024 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YPo_5jdCPxo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YPo_5jdCPxo">Open on YouTube</a></p></div></div></div>
 
 ## Stability does not guarantee synthesizability
@@ -336,7 +333,7 @@ The challenge becomes even larger when moving from laboratory-scale production t
 
 A material that can be produced in milligram quantities under tightly controlled conditions may still be useless for batteries, semiconductors or energy infrastructure if production cannot be scaled economically.
 
-This is one reason the experimental [validation]({{ 'validation/' | relative_url }}) numbers, although impressive, remain much smaller than the total catalogue. Hundreds of successful syntheses are meaningful evidence. They are not evidence that hundreds of thousands of practical materials are ready for deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</span></span></span>
+This is one reason the experimental [validation]({{ 'validation/' | relative_url }}) numbers, although impressive, remain much smaller than the total catalogue. Hundreds of successful syntheses are meaningful evidence. They are not evidence that hundreds of thousands of practical materials are ready for deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</span></span></span>
 
 ## The hidden bottleneck: property testing
 
@@ -350,24 +347,22 @@ This is where the comparison with AlphaFold becomes imperfect.
 
 Protein structure prediction solved a specific scientific problem that biologists had struggled with for decades. But knowing a protein structure is often directly useful for further biological investigation.
 
-Materials science is more multidimensional. A crystal's usefulness depends on many interacting properties. Stability is only one of them. Researchers still need to measure conductivity, strength, thermal behaviour, corrosion resistance, toxicity, manufacturability and many other factors before understanding whether a candidate matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceMaterials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</span></span></span>
+Materials science is more multidimensional. A crystal's usefulness depends on many interacting properties. Stability is only one of them. Researchers still need to measure conductivity, strength, thermal behaviour, corrosion resistance, toxicity, manufacturability and many other factors before understanding whether a candidate matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</span></span></span>
 
 As a result, the number of potentially valuable materials can remain very large long after stability has been established.
 
 The search problem has been reduced, not eliminated.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-2-dark.svg" | relative_url }}" alt="Stable vs useful illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Existing materials are often hard to beat
 
 Another reason many stable materials never become breakthroughs is that they must compete against technologies that already work.
 
-Lithium-ion batteries, silicon semiconductors, aluminium alloys and industrial catalysts have benefited from decades of optimisation. Existing [supply chains]({{ 'risky-elements/' | relative_url }}), manufacturing expertise and infrastructure create powerful advantages.
+Lithium-ion batteries, silicon semiconductors, aluminium alloys and industrial catalysts have benefited from decades of optimisation. Existing supply chains, manufacturing expertise and infrastructure create powerful advantages.
 
 A new material therefore needs to be not merely functional but significantly better.
 
 Consider a hypothetical battery material discovered through AI:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -382,7 +377,6 @@ This means that the practical threshold for success is often much higher than sc
 
 Many materials that would count as legitimate scientific discoveries never become meaningful technologies.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/urnRKHSt-s4" title="Google&#x27;s New AI &quot;GNoME&quot; Discovered Millions of New Materials (Reinvents Batteries)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=urnRKHSt-s4" target="_blank" rel="noopener noreferrer">Google&#x27;s New AI &quot;GNoME&quot; Discovered Millions of New Materials (Reinvents Batteries)</a></p><p class="youtube-embed-meta">Channel: AI Revolution &middot; Views: 208.3K &middot; Uploaded: December 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=urnRKHSt-s4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=urnRKHSt-s4">Open on YouTube</a></p></div></div></div>
 
 ## AI can widen search faster than humans can validate results
@@ -391,7 +385,7 @@ GNoME highlights a broader pattern likely to appear throughout AI-enabled scienc
 
 Prediction is becoming cheaper faster than validation.
 
-Machine-learning systems can now generate enormous numbers of hypotheses in fields ranging from biology to chemistry to materials science. But experimental testing remains constrained by physical reality. Laboratories require equipment, materials, energy, time and skilled researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureGoogle AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</span></span></span>
+Machine-learning systems can now generate enormous numbers of hypotheses in fields ranging from biology to chemistry to materials science. But experimental testing remains constrained by physical reality. Laboratories require equipment, materials, energy, time and skilled researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</span></span></span>
 
 This creates a new imbalance.
 
@@ -400,7 +394,6 @@ Instead of scientists struggling to find promising candidates, they increasingly
 Some researchers argue that the next major challenge is therefore not generating more candidates but improving the entire downstream pipeline: robotic laboratories, automated synthesis, high-throughput testing and better methods for identifying which predictions deserve attention first. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chemistryworld.com">[Chemistry World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chemistryworld.com</span><span class="citation-popover-snippet">Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</span></span></span>
 
 In that sense, GNoME may have shifted the bottleneck rather than removed it.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-3-dark.svg" | relative_url }}" alt="Stable vs useful illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_stable_not_us_070e3d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How useful materials survive the discovery funnel
@@ -428,11 +421,9 @@ The overwhelming majority of candidates will never reach the end of this funnel.
 
 For advocates of AI-driven scientific acceleration, this remains significant. If future systems can generate better candidates, predict more useful properties, guide synthesis and automate experimentation, the entire discovery pipeline could speed up. But the key word is *could*. GNoME demonstrates an expansion of possibility space, not the immediate arrival of material abundance.
 
-The deeper lesson is that scientific discovery is not a single bottleneck. AI may dramatically improve humanity's ability to search for solutions, yet the path from prediction to prosperity still depends on many other forms of knowledge, infrastructure and experimentation. The promise of an AI-enabled bloom lies not in one database of stable crystals, but in whether intelligence can eventually help accelerate every stage of that chain.
-
+The deeper lesson is that scientific discovery is not a single bottleneck. AI may dramatically improve humanity's ability to search for solutions, yet the path from prediction to prosperity still depends on many other forms of knowledge, infrastructure and experimentation. The promise of an AI-enabled bloom lies not in one database of stable crystals, but in whether [intelligence]({{ 'intelligence/' | relative_url }}) can eventually help accelerate every stage of that chain.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-q8EFTbg1VM" title="Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer">Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries</a></p><p class="youtube-embed-meta">Channel: AI Breakthroughs &middot; Views: 3.2K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-q8EFTbg1VM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -830,141 +821,141 @@ The deeper lesson is that scientific discovery is not a single bottleneck. AI ma
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06735-9](https://www.nature.com/articles/s41586-023-06735-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1611 — b, Exploration enabled by GNoME has led to 381...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: deepmind.google  
    Title: millions of new materials discovered with deep learning  
-   Link: [https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)  
+   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindMillions of new materials discovered with deep learning29 Nov 2023 — AI tool GNoME finds 2.2 million new crystals, includi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: docs.materialsproject.org  
    Title: glossary of terms  
-   Link: [https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms](https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms)  
+   Link: <a href="https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms" target="_blank" rel="noopener noreferrer nofollow">https://docs.materialsproject.org/frequently-asked-questions/glossary-of-terms</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Aug 2025 — A measure of a material&#x27;s thermodynamic stability.... A material which lies &quot;on the convex hull&quot; is predicted to be thermo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bartel.cems.umn.edu  
-   Link: [https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf](https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf)  
+   Link: <a href="https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bartel.cems.umn.edu/sites/bartel.cems.umn.edu/files/2022-07/bartel.bartel_2022-j.mater_.sci_.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t lie above the DEf = 0 (or equivalent reference state) are neces- sarily unstable.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: time.com  
-   Title: deepmind gnome [ai materials](&#123;&#123; 'lab-test/' | relative_url &#125;&#125;)  
-   Link: [https://time.com/6340681/deepmind-gnome-ai-materials/](https://time.com/6340681/deepmind-gnome-ai-materials/)  
+   Title: deepmind gnome ai materials  
+   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind AI Breakthrough Could Help Battery and Chip...Nov 29, 2023 — Google DeepMind took the 381,000 materials that are most likely to...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: [https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them)  
+   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemNovember 29, 2023 — Google DeepMind developed an AI program, GNoME, which has predicted 380,000 new stab...</p></details>
    Published: November 29, 2023  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Generalized convex hull construction for materials discovery  
-   Link: [https://arxiv.org/abs/1803.01932](https://arxiv.org/abs/1803.01932)  
+   Link: <a href="https://arxiv.org/abs/1803.01932" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1803.01932</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv A Synthesizability-Guided Pipeline for Materials Discovery  
-   Link: [https://arxiv.org/abs/2511.01790](https://arxiv.org/abs/2511.01790)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Synthesizability-Guided Pipeline for Materials DiscoveryNovember 3, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2511.01790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.01790</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Synthesizability-Guided Pipeline for Materials DiscoveryNovember 3, 2025...</p></details>
    Published: November 3, 2025  
 
 9. <a id="endnote-9"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-023-03745-5](https://www.nature.com/articles/d41586-023-03745-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureGoogle AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</p></details>
+   Link: <a href="https://www.nature.com/articles/d41586-023-03745-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-023-03745-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI and robots join forces to build new materials29 Nov 2023 — Tool from Google DeepMind predicts nearly 400000 stable substa...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s42256-025-01055-1](https://www.nature.com/articles/s42256-025-01055-1)  
+   Link: <a href="https://www.nature.com/articles/s42256-025-01055-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42256-025-01055-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A framework to evaluate machine learning crystal stability...by J Riebesell · 2025 · Cited by 164 — This energy is then used to make a p...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: next-gen.materialsproject.org  
    Title: mp 29104  
-   Link: [https://next-gen.materialsproject.org/materials/mp-29104/](https://next-gen.materialsproject.org/materials/mp-29104/)  
+   Link: <a href="https://next-gen.materialsproject.org/materials/mp-29104/" target="_blank" rel="noopener noreferrer nofollow">https://next-gen.materialsproject.org/materials/mp-29104/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExplorerContributed computational or experimental data can be uploaded and shared with other users of Materials Project via the MPContrib...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: newscenter.lbl.gov  
    Title: google deepmind new compounds materials project  
-   Link: [https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/](https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/)  
+   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...29 Nov 2023 — GNoME researchers ultimately produced 2.2 mi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38030720/](https://pubmed.ncbi.nlm.nih.gov/38030720/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1900 — Of the stable structures, 736 have already been...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38030720/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38030720/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1900 — Of the stable structures, 736 have already been...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.org  
-   Link: [https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar](https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceMaterials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</p></details>
+   Link: <a href="https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/materials-predicting-ai-deepmind-could-revolutionize-electronics-batteries-and-solar</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials-predicting AI from DeepMind could revolutionize...29 Nov 2023 — External benchmarks suggest GNoME&#x27;s success rate at pre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: chemistryworld.com  
-   Link: [https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article](https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article)  
+   Link: <a href="https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article" target="_blank" rel="noopener noreferrer nofollow">https://www.chemistryworld.com/news/robotic-chemistry-lab-joins-forces-with-google-ai-to-predict-then-make-new-inorganic-materials/4018575.article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotic chemistry lab joins forces with Google AI to predict...30 Nov 2023 — They showed that, by improving the Gnome algorithm through...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: github.com  
-   Link: [https://github.com/google-deepmind/materials_discovery](https://github.com/google-deepmind/materials_discovery)  
+   Link: <a href="https://github.com/google-deepmind/materials_discovery" target="_blank" rel="noopener noreferrer nofollow">https://github.com/google-deepmind/materials_discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoMEWith results recently published, this repository serves to share the discovery of 381,000 novel stable materials with the wider mate...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/](https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/)  
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/186y2ny/deepminds_gnome_discovering_over_2_million_new/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DeepMind&#x27;s GNoME: Discovering Over 2 Million New...DeepMind&#x27;s GNoME: Discovering Over 2 Million New Materials Including 380,000 Stable C...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88](https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88)  
+   Link: <a href="https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside DeepMind&#x27;s Breakthrough Materials Discovery Engine.In a paper published in Nature, DeepMind researchers revealed that GNoME discov...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/physorg/posts/crystallographic-[disorder](https://www.facebook.com/physorg/posts/crystallographic-[disorder)  
+   Link: <a href="https://www.facebook.com/physorg/posts/crystallographic-[disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/physorg/posts/crystallographic-[disorder</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of AI-based material predictionCrystallographic disorder poses a significant challenge for AI-based material prediction, ofte...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: pepr-diadem.fr  
-   Link: [https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/](https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/)  
+   Link: <a href="https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoME artificial intelligence and the autonomous A-lab...1 Dec 2023 — GNoME uses a combination of two deep learning models to predict th...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: matsci.org  
-   Link: [https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743](https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743)  
+   Link: <a href="https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743" target="_blank" rel="noopener noreferrer nofollow">https://matsci.org/t/the-theory-calculation-behind-energy-above-hull-how-to-calculate-for-quarternary-structures/59743</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Materials Science Community DiscourseThe theory/calculation behind energy-above-hull19 Dec 2024 — The convex hull algorithm calculates th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/](https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/)  
+   Link: <a href="https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/singularity/comments/18dcgal/what_are_the_first_realworld_effects_well_see/</a>  
 
 24. <a id="endnote-24"></a>
    Source: indico.cern.ch  
-   Link: [https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf](https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf)  
+   Link: <a href="https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf" target="_blank" rel="noopener noreferrer nofollow">https://indico.cern.ch/event/1364455/contributions/6126740/attachments/2924189/5132928/Novick_Hull_Poster.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hulls into Active LearningStability prediction is accelerated by treating the convex hull as a probabilistic object, allowing for...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YPo_5jdCPxo](https://www.youtube.com/watch?v=YPo_5jdCPxo)  
+   Link: <a href="https://www.youtube.com/watch?v=YPo_5jdCPxo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YPo_5jdCPxo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Convex Hull Analysis: Evaluating Materials StabilityThe goal of stable materials is to be a material that can actually be synthesizable s...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: arstechnica.com  
    Title: googles deepmind finds 2 2m crystal structures in materials science win  
-   Link: [https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/](https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/)  
+   Link: <a href="https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/ai/2023/11/googles-deepmind-finds-2-2m-crystal-structures-in-materials-science-win/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google&#x27;s DeepMind finds 2.2M crystal structures in...29 Nov 2023 — The researchers plan to make 381,000 of the most promising structures...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226](https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226)  
+   Link: <a href="https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/a-Calculated-band-structure-of-Fe-2-O-3-from-the-Materials-Project-b-a-schematic-of_fig2_299417226</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mited by persistent characterization bottlenecks in materials discovery, where...Read more...</p></details>

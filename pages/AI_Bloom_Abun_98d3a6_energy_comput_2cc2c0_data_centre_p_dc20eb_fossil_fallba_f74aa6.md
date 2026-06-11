@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /power-demand/
 nav_short_title: Fossil fallback
 title: Will AI revive old fossil power plants?
-title_full: Will AI revive old fossil power plants? | Power Demand
+title_full: Will AI revive old fossil power plants?
 display_title_short: Fossil fallback
 display_title: Fossil fallback
 heading_title: Will AI revive old fossil power plants?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI grow without dirty power? | Energy
+date: '2026-06-08 02:00:14'
+parent_title: Can AI grow without dirty power?
 parent_permalink: /power-demand/
 parent_nav_short_title: Power Demand
 parent_heading_title: Can AI grow without dirty power?
@@ -260,7 +261,6 @@ next_link:
   permalink: /grid-costs/
   short_title: Grid costs
   heading_title: Should households pay for AI's grid upgrades?
-date: '2026-06-08 02:00:14 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-1.webp
@@ -269,11 +269,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc
 
 ## Introduction
 
-The clean-power test for AI is not only about how much electricity [data centres]({{ 'power-demand/' | relative_url }}) use. It is also about what happens when new demand arrives faster than clean [energy]({{ 'energy/' | relative_url }}), transmission lines and storage can be built. One of the clearest warning signs is when utilities postpone the closure of ageing coal or gas plants, restart generators that were expected to retire, or build new fossil capacity primarily to support data-centre growth.
-
+The clean-[power]({{ 'power/' | relative_url }}) test for AI is not only about how much electricity data centres use. It is also about what happens when new demand arrives faster than clean [energy]({{ 'energy/' | relative_url }}), transmission lines and storage can be built. One of the clearest warning signs is when utilities postpone the closure of ageing coal or gas plants, restart generators that were expected to retire, or build new fossil capacity primarily to support data-centre growth.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-1-dark.svg" | relative_url }}" alt="Fossil fallback illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because many of the most optimistic visions of AI abundance assume that advanced computing can help accelerate science, medicine, clean energy and long-term human flourishing. But if AI infrastructure expands by leaning on fossil fallback rather than additional low-carbon [power]({{ 'power/' | relative_url }}), part of that promise starts to undermine another. The question is not whether AI can create value. It is whether the electricity system can expand fast enough that new digital demand does not [lock in]({{ 'lock-in/' | relative_url }}) years or decades of extra emissions.
+This matters because many of the most optimistic visions of AI abundance assume that advanced computing can help accelerate science, medicine, clean energy and long-term human flourishing. But if AI infrastructure expands by leaning on fossil fallback rather than additional low-carbon power, part of that promise starts to undermine another. The question is not whether AI can create value. It is whether the electricity system can expand fast enough that new digital demand does not [lock in]({{ 'lock-in/' | relative_url }}) years or decades of extra emissions.
 
 ## Why rapid load growth can outrun clean capacity
 
@@ -281,7 +280,7 @@ Data centres are unusual electricity customers. Large AI facilities can require 
 
 That mismatch creates a recurring problem. Renewable energy projects, transmission lines and grid interconnections frequently face long permitting and construction delays. When a utility is confronted with immediate demand growth, existing fossil plants become the easiest source of dependable power.
 
-Reuters reported in late 2024 that utilities across several regions were adding gas generation and delaying fossil-plant retirements as data-centre demand accelerated. In some cases, technology companies continued to sign renewable energy agreements while the physical grid serving their facilities remained dependent on existing fossil generation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Data-center reliance on fossil fuels may delay clean</span><span class="citation-popover-snippet">ReutersData-center reliance on fossil fuels may delay clean...November 26, 2024 — 26 Nov 2024 — Utilities add gas plants, delay retireme...</span><span class="citation-popover-meta">Published: November 26, 2024</span></span></span>
+Reuters reported in late 2024 that utilities across several regions were adding gas generation and delaying fossil-plant retirements as data-centre demand accelerated. In some cases, technology companies continued to sign renewable energy agreements while the physical grid serving their facilities remained dependent on existing fossil generation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Data-center reliance on fossil fuels may delay clean</span><span class="citation-popover-snippet">Data-center reliance on fossil fuels may delay clean...November 26, 2024 — 26 Nov 2024 — Utilities add gas plants, delay retireme...</span><span class="citation-popover-meta">Published: November 26, 2024</span></span></span>
 
 This is why critics focus on the difference between contractual clean energy and actual system outcomes. A company may buy renewable energy credits or sign a power-purchase agreement for a distant wind farm, yet the local grid operator may still keep gas turbines or coal units online because total electricity demand has risen.
 
@@ -291,7 +290,7 @@ The key question is additionality: did AI demand cause more clean generation to 
 
 The strongest evidence of fossil fallback is not found in sustainability reports. It appears when utilities explicitly delay plant closures.
 
-Several investigations and utility filings have shown growing connections between projected data-centre demand and decisions to keep ageing generators operating. Reuters reported that utilities were extending the life of fossil-fuel plants and constructing new gas facilities partly to meet demand associated with cloud computing and AI infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Most coal-fired power plants will delay retirement to feed AI</span><span class="citation-popover-snippet">ReutersMost coal-fired power plants will delay retirement to feed AI...September 25, 2025 — 25 Sept 2025 — Most coal-fired power plants...</span><span class="citation-popover-meta">Published: September 25, 2025</span></span></span>
+Several investigations and utility filings have shown growing connections between projected data-centre demand and decisions to keep ageing generators operating. Reuters reported that utilities were extending the life of fossil-fuel plants and constructing new gas facilities partly to meet demand associated with cloud computing and AI infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Most coal-fired power plants will delay retirement to feed AI</span><span class="citation-popover-snippet">Most coal-fired power plants will delay retirement to feed AI...September 25, 2025 — 25 Sept 2025 — Most coal-fired power plants...</span><span class="citation-popover-meta">Published: September 25, 2025</span></span></span>
 
 One example came from Mississippi, where Entergy began developing a large natural-gas power station intended to serve major Amazon data-centre developments. Rather than replacing existing fossil generation, the project added new gas capacity to support expanding digital loads. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/shut-three-mile-island-nuclear-plant-may-restart-2027-owner-says-2025-06-25/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">shut three mile island nuclear plant may restart 2027 owner says 2025 06 25</span><span class="citation-popover-snippet">Three Mile Island nuclear plant reboot fast-tracked to 202726 Jun 2025 — Constellation struck a deal last September to power Microsoft (M...</span></span></span>
 
@@ -300,7 +299,6 @@ By 2025 and 2026, the issue became more explicit in parts of the United States. 
 Some policymakers began openly framing ageing coal plants as strategic assets for the AI era. In 2025, U.S. Energy Secretary Chris Wright told Reuters that the government expected many coal plants nearing retirement to remain online longer because of rapidly rising electricity demand, including demand associated with artificial [intelligence]({{ 'intelligence/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Department of Energy ​estimates artificial intelligence and data‑center growth will create 50 gigawatts of new electricity demand by...R...</span></span></span>
 
 That does not mean every delayed retirement is caused solely by AI. Electrification, manufacturing growth and regional reliability concerns also matter. But AI-driven data centres increasingly appear in utility planning documents and public statements as part of the justification.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L3QNeVRlth8" title="AI demands force dirty ‘peaker’ power plants back into service | REUTERS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L3QNeVRlth8" target="_blank" rel="noopener noreferrer">AI demands force dirty ‘peaker’ power plants back into service | REUTERS</a></p><p class="youtube-embed-meta">Channel: Reuters &middot; Views: 3.4K &middot; Uploaded: December 2025 &middot; Length: 3 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L3QNeVRlth8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L3QNeVRlth8">Open on YouTube</a></p></div></div></div>
 
@@ -312,10 +310,9 @@ Sometimes that is true. Electricity systems need backup capacity, and sudden loa
 
 The problem is that temporary measures frequently become embedded in long-term infrastructure decisions.
 
-A gas plant built to support near-term demand may operate for decades. A coal plant granted a short extension can receive upgrades, new contracts or political support that make future retirement harder. Transmission delays can stretch for years. Transformer shortages and grid bottlenecks can keep cleaner projects waiting even after financing is secured. Evidence from the data-centre construction boom suggests that power infrastructure constraints have become a major obstacle across multiple regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">IEAData centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</span></span></span>
+A gas plant built to support near-term demand may operate for decades. A coal plant granted a short extension can receive upgrades, new contracts or political support that make future retirement harder. Transmission delays can stretch for years. Transformer shortages and grid bottlenecks can keep cleaner projects waiting even after financing is secured. Evidence from the data-centre construction boom suggests that power infrastructure constraints have become a major obstacle across multiple regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">Data centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</span></span></span>
 
 This creates a path dependency problem. Once fossil assets remain economically useful, utilities and investors gain incentives to keep them running. What began as emergency support can become structural dependence.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-2-dark.svg" | relative_url }}" alt="Fossil fallback illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between reviving fossil plants and reviving low-carbon plants
@@ -330,7 +327,6 @@ This distinction matters for evaluating AI's long-term role in human flourishing
 
 If rising AI demand accelerates new nuclear reactors, renewable projects, transmission networks and energy storage, the clean-power test may ultimately be passed. If it mainly encourages the continued operation of ageing fossil assets, the picture looks very different.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l2DjVNjh6Iw" title="Three Mile Island Expected to Deliver Microsoft Power Year Ahead of Schedule" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l2DjVNjh6Iw" target="_blank" rel="noopener noreferrer">Three Mile Island Expected to Deliver Microsoft Power Year Ahead of Schedule</a></p><p class="youtube-embed-meta">Channel: Bloomberg Podcasts &middot; Views: 432 &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l2DjVNjh6Iw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l2DjVNjh6Iw">Open on YouTube</a></p></div></div></div>
 
 ## How to tell temporary backup from structural dependence
@@ -338,7 +334,6 @@ If rising AI demand accelerates new nuclear reactors, renewable projects, transm
 Several indicators help distinguish a short-term reliability response from a deeper fossil lock-in problem.
 
 **Warning signs of structural dependence include:**
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -352,7 +347,6 @@ Several indicators help distinguish a short-term reliability response from a dee
 
 **Signs that fossil use may genuinely be transitional include:**
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Simultaneous construction of substantial new renewable, nuclear or storage capacity.
@@ -365,23 +359,20 @@ Several indicators help distinguish a short-term reliability response from a dee
 
 The distinction is important because many corporate climate commitments focus on accounting frameworks, while the atmosphere responds to physical emissions. A fossil plant that remains online for another ten years affects emissions regardless of how renewable certificates are allocated.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-3-dark.svg" | relative_url }}" alt="Fossil fallback illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_data_centre_p_dc20eb_fossil_fallba_f74aa6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this means for the broader AI abundance story
 
 The fossil-fallback problem does not prove that AI and climate goals are incompatible. It shows that compatibility is conditional.
 
-The strongest versions of the AI bloom vision imagine advanced intelligence helping humanity solve energy scarcity, accelerate clean-technology development, improve [scientific]({{ 'discovery/' | relative_url }}) discovery and support a civilisation capable of sustaining far higher levels of prosperity. But those outcomes depend on infrastructure choices made during the transition period.
+The strongest versions of the AI bloom vision imagine advanced intelligence helping humanity solve energy scarcity, accelerate clean-technology development, improve scientific [discovery]({{ 'discovery/' | relative_url }}) and support a civilisation capable of sustaining far higher levels of prosperity. But those outcomes depend on infrastructure choices made during the transition period.
 
-A future in which AI helps design better batteries, optimise electric grids and accelerate fusion or advanced nuclear power looks very different from a future in which rising compute demand repeatedly forces coal and gas plants to remain online.
+A future in which AI helps design better batteries, optimise electric grids and accelerate fusion or advanced [nuclear power]({{ 'nuclear-power/' | relative_url }}) looks very different from a future in which rising compute demand repeatedly forces coal and gas plants to remain online.
 
-The immediate risk is not that AI permanently derails decarbonisation. It is that electricity demand grows faster than clean supply, creating years of additional fossil dependence precisely when many countries were expecting emissions to fall. Reuters reporting, utility filings and grid analyses increasingly point to that tension: digital expansion is moving at software speed, while clean-energy systems still expand at infrastructure speed. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">IEAData centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</span></span></span>
+The immediate risk is not that AI permanently derails decarbonisation. It is that electricity demand grows faster than clean supply, creating years of additional fossil dependence precisely when many countries were expecting emissions to fall. Reuters reporting, utility filings and grid analyses increasingly point to that tension: digital expansion is moving at software speed, while clean-energy systems still expand at infrastructure speed. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iea.org">[IEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iea.org</span><span class="citation-popover-snippet">Data centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</span></span></span>
 
 That makes delayed fossil retirements one of the clearest practical tests of whether AI's infrastructure build-out is genuinely adding clean power or merely consuming it. The answer will shape not only emissions trajectories but also whether the material foundations of an AI-enabled flourishing future are being strengthened or weakened.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-sNKfRq1oKg" title="The growing environmental impact of AI data centers’ energy demands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-sNKfRq1oKg" target="_blank" rel="noopener noreferrer">The growing environmental impact of AI data centers’ energy demands</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 120.1K &middot; Uploaded: May 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-sNKfRq1oKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-sNKfRq1oKg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -500,15 +491,15 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure"><img src="{{ '/assets/images/marketplace-covers/d5953eb50c90df5ccf8c.jpg' | relative_url }}" alt="Listing image for Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chernobyl Nuclear Power Plant Disaster 1986 Premium Model"><img src="https://i.ebayimg.com/images/g/wZsAAeSwPGlogjuP/s-l225.jpg" alt="Listing image for Chernobyl Nuclear Power Plant Disaster 1986 Premium Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer">Original Soviet Poster Nuclear Power plant Energy Safety Steam Pipeline Pressure</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Chernobyl Nuclear Power Plant Disaster 1986 Premium Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -516,15 +507,15 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power plant Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a8bfbc5a90e4326b1826.jpg' | relative_url }}" alt="Listing image for Power plant Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Railway OO gauge, 1:76 scale power Plant 3x cooling towers"><img src="https://i.ebayimg.com/images/g/ETAAAOSwzFNlJFJX/s-l225.jpg" alt="Listing image for Model Railway OO gauge, 1:76 scale power Plant 3x cooling towers" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer">Power plant Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Model Railway OO gauge, 1:76 scale power Plant 3x cooling towers</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -532,15 +523,15 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8b8695b4b4bf10a63cbe.jpg' | relative_url }}" alt="Listing image for Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Model Railway OO gauge, 1:76 scale power Plant 1x cooling tower"><img src="https://i.ebayimg.com/images/g/IgoAAOSwkbtlL-EF/s-l225.jpg" alt="Listing image for Model Railway OO gauge, 1:76 scale power Plant 1x cooling tower" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer">Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Model Railway OO gauge, 1:76 scale power Plant 1x cooling tower</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -548,15 +539,15 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/5b95840b83ff3377cc5a.jpg' | relative_url }}" alt="Listing image for Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Power Station 28mm Model Industrial Chimneys Power Plant Room Wargaming"><img src="https://i.ebayimg.com/images/g/mygAAOSwwrFmNLq-/s-l225.jpg" alt="Listing image for Power Station 28mm Model Industrial Chimneys Power Plant Room Wargaming" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer">Power plant waste landfill Framed A Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">Power Station 28mm Model Industrial Chimneys Power Plant Room Wargaming</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for power plant model">Search <span data-ebay-domain-label>eBay.co.uk</span>: power plant model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -564,7 +555,7 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant poster -book -books" data-ebay-reference="fossil-fallback-will-ai-revive-old-fossil-power-plants-ai-bloom-abundance-superintelligence-and-power-plant-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=power+plant+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=will-ai-revive-old-fossil-power-plants-power-plant-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="power plant model" data-ebay-reference="will-ai-revive-old-fossil-power-plants-power-plant-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -780,194 +771,194 @@ That makes delayed fossil retirements one of the clearest practical tests of whe
 1. <a id="endnote-1"></a>
    Source: reuters.com  
    Title: Data-center reliance on fossil fuels may delay clean  
-   Link: [https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/](https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersData-center reliance on fossil fuels may delay clean...November 26, 2024 — 26 Nov 2024 — Utilities add gas plants, delay retireme...</p></details>
+   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/how-ai-cloud-computing-may-delay-transition-clean-energy-2024-11-21/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-center reliance on fossil fuels may delay clean...November 26, 2024 — 26 Nov 2024 — Utilities add gas plants, delay retireme...</p></details>
    Published: November 26, 2024  
 
 2. <a id="endnote-2"></a>
    Source: reuters.com  
    Title: Most coal-fired power plants will delay retirement to feed AI  
-   Link: [https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/](https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ReutersMost coal-fired power plants will delay retirement to feed AI...September 25, 2025 — 25 Sept 2025 — Most coal-fired power plants...</p></details>
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/us-urges-utilities-keep-coal-fired-plants-running-ai-demand-booms-energy-2025-09-25/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most coal-fired power plants will delay retirement to feed AI...September 25, 2025 — 25 Sept 2025 — Most coal-fired power plants...</p></details>
    Published: September 25, 2025  
 
 3. <a id="endnote-3"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEAData centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</p></details>
+   Link: <a href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity use surged in 2025, even with...16 Apr 2026 — Electricity demand from data centres soared by 17% in 2025, and...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: politico.com  
    Title: Constellation to restart Three Mile Island nuclear plant in deal with Microsoft  
-   Link: [https://www.politico.com/news/2024/09/20/constellation-nuclear-plant-deal-microsoft-00180218](https://www.politico.com/news/2024/09/20/constellation-nuclear-plant-deal-microsoft-00180218)  
+   Link: <a href="https://www.politico.com/news/2024/09/20/constellation-nuclear-plant-deal-microsoft-00180218" target="_blank" rel="noopener noreferrer nofollow">https://www.politico.com/news/2024/09/20/constellation-nuclear-plant-deal-microsoft-00180218</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This decision, influenced by the high electricity demand of AI data centers, marks a renewed interest in nuclear energy as a reliable, ca...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: shut three mile island nuclear plant may restart 2027 owner says 2025 06 25  
-   Link: [https://www.reuters.com/sustainability/climate-energy/shut-three-mile-island-nuclear-plant-may-restart-2027-owner-says-2025-06-25/](https://www.reuters.com/sustainability/climate-energy/shut-three-mile-island-nuclear-plant-may-restart-2027-owner-says-2025-06-25/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/shut-three-mile-island-nuclear-plant-may-restart-2027-owner-says-2025-06-25/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/shut-three-mile-island-nuclear-plant-may-restart-2027-owner-says-2025-06-25/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three Mile Island nuclear plant reboot fast-tracked to 202726 Jun 2025 — Constellation struck a deal last September to power Microsoft (M...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/](https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Energy ​estimates artificial intelligence and data‑center growth will create 50 gigawatts of new electricity demand by...R...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/energy/delayed-transmission-projects-blocking-speedy-three-mile-island-restart-2026-04-06/](https://www.reuters.com/business/energy/delayed-transmission-projects-blocking-speedy-three-mile-island-restart-2026-04-06/)  
+   Link: <a href="https://www.reuters.com/business/energy/delayed-transmission-projects-blocking-speedy-three-mile-island-restart-2026-04-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/delayed-transmission-projects-blocking-speedy-three-mile-island-restart-2026-04-06/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>power producer is working to restart a reactor at ​its Three Mile Island plant, under the new name Crane ​Clean Energy Center, by the...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/energy/us-may-decide-three-mile-island-restart-june-constellation-execs-say-2026-05-11/](https://www.reuters.com/business/energy/us-may-decide-three-mile-island-restart-june-constellation-execs-say-2026-05-11/)  
+   Link: <a href="https://www.reuters.com/business/energy/us-may-decide-three-mile-island-restart-june-constellation-execs-say-2026-05-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-may-decide-three-mile-island-restart-june-constellation-execs-say-2026-05-11/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US may decide on Three Mile Island restart in June...3 days ago — The restart of the power plant is being done ​under a contract to serv...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/sustainability/climate-energy/microsoft-may-shelve-2030-clean-energy-target-ai-lifts-power-use-bloomberg-news-2026-05-06/](https://www.reuters.com/sustainability/climate-energy/microsoft-may-shelve-2030-clean-energy-target-ai-lifts-power-use-bloomberg-news-2026-05-06/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/microsoft-may-shelve-2030-clean-energy-target-ai-lifts-power-use-bloomberg-news-2026-05-06/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/microsoft-may-shelve-2030-clean-energy-target-ai-lifts-power-use-bloomberg-news-2026-05-06/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft may shelve 2030 clean energy target as AI lifts...3 days ago — Microsoft is considering delaying or abandoning its 2030 goal o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reuters.com  
    Title: us power use beat record highs 2026 2027 ai use surges eia says 2026 05 12  
-   Link: [https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-05-12/](https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-05-12/)  
+   Link: <a href="https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-05-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-power-use-beat-record-highs-2026-2027-ai-use-surges-eia-says-2026-05-12/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US power use to beat record highs in 2026 and 2027 as AI...6 days ago — As renewable output rises, the EIA said the share of power gener...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reuters.com  
    Title: europes old power plants get digital makeover driven by ai boom 2025 08 05  
-   Link: [https://www.reuters.com/sustainability/climate-energy/europes-old-power-plants-get-digital-makeover-driven-by-ai-boom-2025-08-05/](https://www.reuters.com/sustainability/climate-energy/europes-old-power-plants-get-digital-makeover-driven-by-ai-boom-2025-08-05/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe&#x27;s old power plants to get digital makeover driven by...5 Aug 2025 — The [data centre](&amp;#123;&amp;#123; &#x27;power-demand/&#x27; | relative_url &amp;#125;&amp;#125;) option offers the utilities a way to offset t...</p></details>
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/europes-old-power-plants-get-digital-makeover-driven-by-ai-boom-2025-08-05/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/europes-old-power-plants-get-digital-makeover-driven-by-ai-boom-2025-08-05/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe&#x27;s old power plants to get digital makeover driven by...5 Aug 2025 — The data centre option offers the utilities a way to offset t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reuters.com  
-   Title: constellation energy beats profit estimates strong power demand 2026 02 24  
-   Link: [https://www.reuters.com/business/energy/constellation-energy-beats-profit-estimates-strong-power-demand-2026-02-24/](https://www.reuters.com/business/energy/constellation-energy-beats-profit-estimates-strong-power-demand-2026-02-24/)  
+   Title: constellation energy beats profit estimates strong [power demand](&#123;&#123; 'power-demand/' | relative_url &#125;&#125;) 2026 02 24  
+   Link: <a href="https://www.reuters.com/business/energy/constellation-energy-beats-profit-estimates-strong-power-demand-2026-02-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/constellation-energy-beats-profit-estimates-strong-power-demand-2026-02-24/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation Energy tops profit estimates on robust data...24 Feb 2026 — Much of the demand surge is driven by rapid AI and crypto data...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/energy/constellation-ask-regulators-help-speeding-up-three-mile-island-nuclear-power-2026-03-31/](https://www.reuters.com/business/energy/constellation-ask-regulators-help-speeding-up-three-mile-island-nuclear-power-2026-03-31/)  
+   Link: <a href="https://www.reuters.com/business/energy/constellation-ask-regulators-help-speeding-up-three-mile-island-nuclear-power-2026-03-31/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/constellation-ask-regulators-help-speeding-up-three-mile-island-nuclear-power-2026-03-31/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>energy regulators ‌on Tuesday to speed up its connection of the Three Mile Island nuclear...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: big tech shifts all above strategy power ai reeii 2025 12 11  
-   Link: [https://www.reuters.com/business/energy/big-tech-shifts-all-above-strategy-power-ai--reeii-2025-12-11/](https://www.reuters.com/business/energy/big-tech-shifts-all-above-strategy-power-ai--reeii-2025-12-11/)  
+   Link: <a href="https://www.reuters.com/business/energy/big-tech-shifts-all-above-strategy-power-ai--reeii-2025-12-11/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/big-tech-shifts-all-above-strategy-power-ai--reeii-2025-12-11/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Big Tech shifts to “all of the above” strategy to power AI11 Dec 2025 — Big Tech has expanded investments in renewable energy to gas and...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reuters.com  
    Title: Read more  
-   Link: [https://www.reuters.com/business/energy/us-loans-constellation-1-billion-three-mile-island-reactor-reboot-2025-11-18/](https://www.reuters.com/business/energy/us-loans-constellation-1-billion-three-mile-island-reactor-reboot-2025-11-18/)  
+   Link: <a href="https://www.reuters.com/business/energy/us-loans-constellation-1-billion-three-mile-island-reactor-reboot-2025-11-18/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-loans-constellation-1-billion-three-mile-island-reactor-reboot-2025-11-18/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US loans Constellation $1 billion for Three Mile Island...18 Nov 2025 — US loans Constellation $1 billion for Three Mile Island reactor...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reuters.com  
    Title: Time to go nuclear?  
-   Link: [https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/](https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/time-go-nuclear-inside-battle-power-ai--ecmii-2025-12-17/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the battle to power AIJan 9, 2026 — Some hyperscalers have embraced conventional reactors: Microsoft agreed last year to restart T...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: reuters.com  
    Title: us targets 5 gw more nuclear power through low cost finance reeii 2026 04 21  
-   Link: [https://www.reuters.com/business/energy/us-targets-5-gw-more-nuclear-power-through-low-cost-finance--reeii-2026-04-21/](https://www.reuters.com/business/energy/us-targets-5-gw-more-nuclear-power-through-low-cost-finance--reeii-2026-04-21/)  
+   Link: <a href="https://www.reuters.com/business/energy/us-targets-5-gw-more-nuclear-power-through-low-cost-finance--reeii-2026-04-21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/us-targets-5-gw-more-nuclear-power-through-low-cost-finance--reeii-2026-04-21/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US targets 5 GW more nuclear power through low-cost...21 Apr 2026 — Vistra Corp in January announced a 20-year PPA to provide ​more than...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: reuters.com  
    Title: constellation inks power supply deal with microsoft 2024 09 20  
-   Link: [https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/](https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/)  
+   Link: <a href="https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/deals/constellation-inks-power-supply-deal-with-microsoft-2024-09-20/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft deal propels Three Mile Island restart, with key...21 Sept 2024 — Constellation Energy (CEG.O) and Microsoft (MSFT.O) have sig...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reuters.com  
    Title: meta signs power agreement with constellation nuclear plant 2025 06 03  
-   Link: [https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/](https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/)  
+   Link: <a href="https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/climate-energy/meta-signs-power-agreement-with-constellation-nuclear-plant-2025-06-03/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta strikes power agreement with Constellation nuclear...Jun 3, 2025 — Last year, Constellation announced it had struck an agreement to...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reuters.com  
    Title: Prices paid to power  
-   Link: [https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/](https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/)  
+   Link: <a href="https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI data centers are forcing dirty &#x27;peaker&#x27; power plants back...23 Dec 2025 — Demand from AI data centers is threatening to engulf the gr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/energy/ceraweek-constellation-exec-says-grid-operator-told-company-three-mile-island-2026-03-26/](https://www.reuters.com/business/energy/ceraweek-constellation-exec-says-grid-operator-told-company-three-mile-island-2026-03-26/)  
+   Link: <a href="https://www.reuters.com/business/energy/ceraweek-constellation-exec-says-grid-operator-told-company-three-mile-island-2026-03-26/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/ceraweek-constellation-exec-says-grid-operator-told-company-three-mile-island-2026-03-26/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Constellation exec says grid operator told company Three...26 Mar 2026 — No fully shut nuclear power plant has ever been restarted, but...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reuters.com  
    Title: us nuclear plants wont power up big techs ai ambitions right away 2024 09 24  
-   Link: [https://www.reuters.com/technology/artificial-intelligence/us-nuclear-plants-wont-power-up-big-techs-ai-ambitions-right-away-2024-09-24/](https://www.reuters.com/technology/artificial-intelligence/us-nuclear-plants-wont-power-up-big-techs-ai-ambitions-right-away-2024-09-24/)  
+   Link: <a href="https://www.reuters.com/technology/artificial-intelligence/us-nuclear-plants-wont-power-up-big-techs-ai-ambitions-right-away-2024-09-24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/artificial-intelligence/us-nuclear-plants-wont-power-up-big-techs-ai-ambitions-right-away-2024-09-24/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US nuclear plants won&#x27;t power up Big Tech&#x27;s AI ambitions...24 Sept 2024 — A plan by Microsoft to use the restart of a Three Mile Island...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: utilitydive.com  
    Title: fossil fuel gas coal climate data centers  
-   Link: [https://www.utilitydive.com/news/fossil-fuel-gas-coal-climate-data-centers/753565/](https://www.utilitydive.com/news/fossil-fuel-gas-coal-climate-data-centers/753565/)  
+   Link: <a href="https://www.utilitydive.com/news/fossil-fuel-gas-coal-climate-data-centers/753565/" target="_blank" rel="noopener noreferrer nofollow">https://www.utilitydive.com/news/fossil-fuel-gas-coal-climate-data-centers/753565/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>data centers are responsible for at least 65% of projected load growth. Data centers are also delaying the retirement of fossil fuel powe...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: ap.org  
-   Link: [https://www.ap.org/news-highlights/spotlights/2024/the-ai-boom-may-give-three-mile-island-a-new-life-supplying-power-to-microsofts-data-centers/](https://www.ap.org/news-highlights/spotlights/2024/the-ai-boom-may-give-three-mile-island-a-new-life-supplying-power-to-microsofts-data-centers/)  
+   Link: <a href="https://www.ap.org/news-highlights/spotlights/2024/the-ai-boom-may-give-three-mile-island-a-new-life-supplying-power-to-microsofts-data-centers/" target="_blank" rel="noopener noreferrer nofollow">https://www.ap.org/news-highlights/spotlights/2024/the-ai-boom-may-give-three-mile-island-a-new-life-supplying-power-to-microsofts-data-centers/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Associated PressThe AI boom may give Three Mile Island a new life supplying...Sep 20, 2024 — Microsoft wouldn&#x27;t say which of its dat...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/deutschewellenews/posts/ai-has-moved-so-fast-from-niche-technology-to-mass-infrastructure-that-its-elect/1355483566606954/](https://www.facebook.com/deutschewellenews/posts/ai-has-moved-so-fast-from-niche-technology-to-mass-infrastructure-that-its-elect/1355483566606954/)  
+   Link: <a href="https://www.facebook.com/deutschewellenews/posts/ai-has-moved-so-fast-from-niche-technology-to-mass-infrastructure-that-its-elect/1355483566606954/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/posts/ai-has-moved-so-fast-from-niche-technology-to-mass-infrastructure-that-its-elect/1355483566606954/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI has moved so fast from niche technology to mass...The increasing demand for electricity from data centers fueling AI is putting press...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: environmentamerica.org  
-   Link: [https://environmentamerica.org/center/resources/fossil-fuel-power-plants-are-staying-online-longer/](https://environmentamerica.org/center/resources/fossil-fuel-power-plants-are-staying-online-longer/)  
+   Link: <a href="https://environmentamerica.org/center/resources/fossil-fuel-power-plants-are-staying-online-longer/" target="_blank" rel="noopener noreferrer nofollow">https://environmentamerica.org/center/resources/fossil-fuel-power-plants-are-staying-online-longer/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fossil fuel power plants are staying online longerBut this much is clear: Growing electricity demand from data centers is increasing reli...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/laila-kearney-22332819_exclusive-constellation-exec-says-grid-operator-activity-7443309225742635008-Jrfi](https://www.linkedin.com/posts/laila-kearney-22332819_exclusive-constellation-exec-says-grid-operator-activity-7443309225742635008-Jrfi)  
+   Link: <a href="https://www.linkedin.com/posts/laila-kearney-22332819_exclusive-constellation-exec-says-grid-operator-activity-7443309225742635008-Jrfi" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/laila-kearney-22332819_exclusive-constellation-exec-says-grid-operator-activity-7443309225742635008-Jrfi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Microsoft, which is expanding its AI data centers in the region. Constellation says it will be ready to power up the plant in 2027. But t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: boereport.com  
-   Link: [https://boereport.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/](https://boereport.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/)  
+   Link: <a href="https://boereport.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/" target="_blank" rel="noopener noreferrer nofollow">https://boereport.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US urges utilities to keep coal-fired plants running as AI...25 Sept 2025 — Delaying the retirement of often half-century-old coal plant...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: kfgo.com  
-   Link: [https://kfgo.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/](https://kfgo.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/)  
+   Link: <a href="https://kfgo.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/" target="_blank" rel="noopener noreferrer nofollow">https://kfgo.com/2025/09/25/us-urges-utilities-to-keep-coal-fired-plants-running-as-ai-demand-booms-energy-secretary-says/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mighty 790 KFGO | KFGOUS urges utilities to keep coal-fired plants running as AI...Sep 25, 2025 — “We&#x27;ve got to speed up firm capaci...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: datacenterdynamics.com  
    Title: us govt looks to extend life of coal plants to meet ai data center demand  
-   Link: [https://www.datacenterdynamics.com/en/news/us-govt-looks-to-extend-life-of-coal-plants-to-meet-ai-data-center-demand/](https://www.datacenterdynamics.com/en/news/us-govt-looks-to-extend-life-of-coal-plants-to-meet-ai-data-center-demand/)  
+   Link: <a href="https://www.datacenterdynamics.com/en/news/us-govt-looks-to-extend-life-of-coal-plants-to-meet-ai-data-center-demand/" target="_blank" rel="noopener noreferrer nofollow">https://www.datacenterdynamics.com/en/news/us-govt-looks-to-extend-life-of-coal-plants-to-meet-ai-data-center-demand/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US gov&#x27;t looks to extend life of coal plants to meet AI...26 Sept 2025 — The US government expects the majority of the country&#x27;s coal-fi...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=L3QNeVRlth8](https://www.youtube.com/watch?v=L3QNeVRlth8)  
+   Link: <a href="https://www.youtube.com/watch?v=L3QNeVRlth8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L3QNeVRlth8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI demands force dirty &#x27;peaker&#x27; power plants back into service...Fisk owned by Houston based NRG Energy is among a growing number of ele...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: me.smenet.org  
    Title: how ai and cloud computing may delay the transition to clean energy  
-   Link: [https://me.smenet.org/how-ai-and-cloud-computing-may-delay-the-transition-to-clean-energy/](https://me.smenet.org/how-ai-and-cloud-computing-may-delay-the-transition-to-clean-energy/)  
+   Link: <a href="https://me.smenet.org/how-ai-and-cloud-computing-may-delay-the-transition-to-clean-energy/" target="_blank" rel="noopener noreferrer nofollow">https://me.smenet.org/how-ai-and-cloud-computing-may-delay-the-transition-to-clean-energy/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mining Engineering MagazineHow AI and cloud computing may delay the transition to clean...21 Nov 2024 — In the United States, home to a...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: grist.org  
    Title: georgia was about to retire coal plants then came the data cen  
-   Link: [https://grist.org/energy/georgia-was-about-to-retire-coal-plants-then-came-the-data-cen/](https://grist.org/energy/georgia-was-about-to-retire-coal-plants-then-came-the-data-cen/)  
+   Link: <a href="https://grist.org/energy/georgia-was-about-to-retire-coal-plants-then-came-the-data-cen/" target="_blank" rel="noopener noreferrer nofollow">https://grist.org/energy/georgia-was-about-to-retire-coal-plants-then-came-the-data-cen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centers are pushing utilities back to fossil fuels. | Grist12 Feb 2025 — Georgia was going to retire its coal plants, but then the d...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: americanactionforum.org  
    Title: ai data center power surge shifting trends toward natural gas  
-   Link: [https://www.americanactionforum.org/insight/ai-data-center-power-surge-shifting-trends-toward-natural-gas/](https://www.americanactionforum.org/insight/ai-data-center-power-surge-shifting-trends-toward-natural-gas/)  
+   Link: <a href="https://www.americanactionforum.org/insight/ai-data-center-power-surge-shifting-trends-toward-natural-gas/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanactionforum.org/insight/ai-data-center-power-surge-shifting-trends-toward-natural-gas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Data Center Power Surge: Shifting Trends Toward...4 May 2026 — Rapid growth in artificial intelligence (AI) data center power demand...</p></details>
-   Published: May 2026  
+   Published: May 2026

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ireland-case/
 nav_short_title: Legal Fight
 title: Could data centre rules break climate law?
-title_full: Could data centre rules break climate law? | Ireland Case
+title_full: Could data centre rules break climate law?
 display_title_short: Legal Fight
 display_title: Legal Fight
 heading_title: Could data centre rules break climate law?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When data centres strain a small grid | Energy
+date: '2026-06-08 01:46:54'
+parent_title: When data centres strain a small grid
 parent_permalink: /ireland-case/
 parent_nav_short_title: Ireland Case
 parent_heading_title: When data centres strain a small grid
@@ -266,7 +267,6 @@ next_link:
   permalink: /power-costs/
   short_title: Power Costs
   heading_title: Who pays for Ireland's compute boom?
-date: '2026-06-08 01:46:54 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-1.webp
@@ -275,20 +275,22 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716
 
 ## Introduction
 
-In Ireland, a novel legal dispute has emerged at the intersection of climate law and the rapid expansion of data‑centre infrastructure. At stake is whether the country’s energy regulator **Commission for Regulation of Utilities (CRU)** acted lawfully in setting a **connection policy for new [data centres]({{ 'power-demand/' | relative_url }})** that environmental groups say would **[lock in]({{ 'lock-in/' | relative_url }}) fossil fuel use and breach Ireland’s climate commitments**. This legal fight, now proceeding in the High Court, highlights how climate obligations — once seen as broad policy goals — are increasingly being invoked as **legal constraints on decisions about infrastructure for cloud computing and AI.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
-
+In Ireland, a novel legal dispute has emerged at the intersection of climate law and the rapid expansion of data‑centre infrastructure. At stake is whether the country’s [energy]({{ 'energy/' | relative_url }}) regulator **Commission for Regulation of Utilities (CRU)** acted lawfully in setting a **connection policy for new data centres** that environmental groups say would **[lock in]({{ 'lock-in/' | relative_url }}) fossil fuel use and breach Ireland’s climate commitments**. This legal fight, now proceeding in the High Court, highlights how climate obligations — once seen as broad policy goals — are increasingly being invoked as **legal constraints on decisions about infrastructure for cloud computing and AI.** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-1-dark.svg" | relative_url }}" alt="Legal Fight illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Is Challenging the Policy
 
 Environmental organisations **Friends of the Irish Environment**, **Friends of the Earth Ireland**, and **ClientEarth** have secured court permission (“leave”) to bring a **judicial review** against the CRU’s data‑centre connection rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span> Their legal action does not seek to block data centres outright; rather, it challenges the regulator’s approach to how new facilities may connect to the national electricity grid. They argue that the rules would:
 
-* Permit substantial **use of fossil fuels** in meeting data‑centre [energy]({{ 'energy/' | relative_url }}) needs, especially in the first years after connection;
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
+* Permit substantial **use of fossil fuels** in meeting data‑centre energy needs, especially in the first years after connection;
 * **Increase greenhouse‑gas emissions** at a time when national carbon budgets require sharp reductions;
 * Undermine legal obligations under Ireland’s **Climate Action and Low Carbon Development Act** and related European climate law. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
-The groups are represented by specialist environmental lawyers and frame their case as demanding that **climate statutory obligations be taken seriously in technical energy policy decisions**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clientearth.org">[ClientEarth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clientearth.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+</div>
 
+The groups are represented by specialist environmental lawyers and frame their case as demanding that **climate statutory obligations be taken seriously in technical energy policy decisions**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clientearth.org">[ClientEarth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clientearth.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H-hKVUK8CM0" title="Paul Lawless: Data centres driving up household electricity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H-hKVUK8CM0" target="_blank" rel="noopener noreferrer">Paul Lawless: Data centres driving up household electricity</a></p><p class="youtube-embed-meta">Channel: VideoParliament Ireland &middot; Views: 3.5K &middot; Uploaded: May 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H-hKVUK8CM0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H-hKVUK8CM0">Open on YouTube</a></p></div></div></div>
 
@@ -299,7 +301,6 @@ Ireland’s climate law requires public bodies to act in ways that keep national
 The contested policy — finalised in **December 2025** — replaces a moratorium on data‑centre connections with a regime under which new large data centres must supply **dispatchable energy generation or storage** sized to match their peak load. For several years after connection, this can include **fossil‑fuel‑based generation such as natural gas**; later, 80 per cent of annual demand must be matched by new renewable capacity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span> This structure is what campaigners call a **“lock‑in” risk** — a prolonged period during which data centres could rely on fossil fuels that would contribute to Ireland’s overall emissions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 Climate experts and analysts warn that Ireland must sharply **reduce fossil fuel use across sectors** to meet its carbon budgets, and that allowing this energy pathway for data centres without stringent mitigation may counteract broader climate commitments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-2-dark.svg" | relative_url }}" alt="Legal Fight illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a Successful Challenge Could Change
@@ -312,9 +313,7 @@ If the High Court ultimately finds that the CRU’s connection policy **breaches
 
 Moreover, political figures have already suggested that previous Supreme Court rulings clarifying the practical force of Ireland’s climate law could inform how regulators must treat data‑centre demand when setting policy, underlining the developing **legal weight of climate commitments** in public decision‑making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sinnfein.ie">[sinnfein.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sinnfein.ie</span><span class="citation-popover-title">Supreme Court ruling leaves CRU data centre policy legally untenable</span><span class="citation-popover-snippet">Boylan - Sinn FéinFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AfZ7iSCrpws" title="Roderic O&#x27;Gorman: Bill Will Undermine Climate Protections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AfZ7iSCrpws" target="_blank" rel="noopener noreferrer">Roderic O&#x27;Gorman: Bill Will Undermine Climate Protections</a></p><p class="youtube-embed-meta">Channel: VideoParliament Ireland &middot; Views: 32 &middot; Uploaded: May 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AfZ7iSCrpws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AfZ7iSCrpws">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/foMe3N9wEo0" title="SEAI 180 Degrees Podcast | Do Data Centres align with Ireland’s Climate Goals? - Questions Answered" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=foMe3N9wEo0" target="_blank" rel="noopener noreferrer">SEAI 180 Degrees Podcast | Do Data Centres align with Ireland’s Climate Goals? - Questions Answered</a></p><p class="youtube-embed-meta">Channel: SEAI &middot; Views: 268 &middot; Uploaded: February 2024 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=foMe3N9wEo0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=foMe3N9wEo0">Open on YouTube</a></p></div></div></div>
 
@@ -323,7 +322,6 @@ Moreover, political figures have already suggested that previous Supreme Court r
 This legal challenge is not merely a technical dispute about grid connections; it reflects a broader, **emerging legal frontier where climate legislation interacts with infrastructure policy** — including for sectors as strategically important as digital and AI infrastructure. Whether data centres can be integrated into national energy systems without breaching climate obligations will shape Ireland’s energy strategy, its role in the global digital economy, and how climate law is interpreted in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-snippet">The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</span><span class="citation-popover-meta">Published: April 28, 2026</span></span></span>
 
 By testing whether regulatory decisions must directly account for legally binding emissions limits, the case could influence not just Irish policy but also how other jurisdictions reconcile **rapidly rising energy demand from digitalisation with climate‑law commitments** — a dynamic that intersects with long‑term questions about infrastructure, decarbonisation, and sustainable technological growth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clientearth.org">[ClientEarth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clientearth.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-3-dark.svg" | relative_url }}" alt="Legal Fight illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_climate_law_c_41d854-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -339,16 +337,16 @@ By testing whether regulatory decisions must directly account for legally bindin
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explains the electricity grid constraints behind data-centre connection and climate-policy conflicts.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -356,16 +354,16 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Map on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y5QFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The New Map" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Map">The New Map</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Daniel Yergin</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Covers how energy infrastructure and policy choices shape economic and geopolitical outcomes.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+New+Map+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -373,16 +371,16 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Entrepreneurial State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eawzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Entrepreneurial State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
+          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Entrepreneurial State">The Entrepreneurial State</a>
         </h4>
-        <p class="fr-book-author">By Bill Gates</p>
+        <p class="fr-book-author">By Mariana Mazzucato</p>
         
-        <p class="fr-book-desc">Connects climate targets with practical constraints around electricity, infrastructure and innovation.</p>
+        <p class="fr-book-desc">Strong fit for treating AI as public infrastructure.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Entrepreneurial+State+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,16 +388,16 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Prize+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Prize on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=C6pGQvVqNAoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Prize" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Prize+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Prize">The Prize</a>
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
         </h4>
-        <p class="fr-book-author">By Daniel Yergin</p>
+        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Gives long-run context for fossil fuel dependence and infrastructure lock-in.</p>
+        <p class="fr-book-desc">Explores how societies can share gains from transformative technologies.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Prize+by+Daniel+Yergin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -407,7 +405,7 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+New+Map&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The New Map</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Entrepreneurial+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Entrepreneurial State</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -444,15 +442,15 @@ By testing whether regulatory decisions must directly account for legally bindin
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Map of Ireland 1714 - Vintage Ireland Art Wall Decor"><img src="{{ '/assets/images/marketplace-covers/c8e1d5c1df5dc4fa976d.jpg' | relative_url }}" alt="Listing image for Old Map of Ireland 1714 - Vintage Ireland Art Wall Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map Colortext 1936 Story Ireland Historic Pictorial Large Wall Art Print 18X24"><img src="https://i.ebayimg.com/images/g/r1oAAOSw-zBnR04n/s-l225.jpg" alt="Listing image for Map Colortext 1936 Story Ireland Historic Pictorial Large Wall Art Print 18X24" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer">Old Map of Ireland 1714 - Vintage Ireland Art Wall Decor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Map Colortext 1936 Story Ireland Historic Pictorial Large Wall Art Print 18X24</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -460,15 +458,15 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Story Map of Ireland Colortext 1936 Historic Pictorial Framed A3 Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/4487a3e4d65a132f453e.jpg' | relative_url }}" alt="Listing image for Story Map of Ireland Colortext 1936 Historic Pictorial Framed A3 Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kitchin 1777 Map Ireland Provinces Counties Large Wall Art Print 18X24 In"><img src="https://i.ebayimg.com/images/g/ew8AAOSwvFdnR048/s-l225.jpg" alt="Listing image for Kitchin 1777 Map Ireland Provinces Counties Large Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer">Story Map of Ireland Colortext 1936 Historic Pictorial Framed A3 Wall Art Print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">Kitchin 1777 Map Ireland Provinces Counties Large Wall Art Print 18X24 In</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +474,15 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ireland Ire Map Ireland Map Wall Poster Print Laminated Educational Map A5-A1"><img src="{{ '/assets/images/marketplace-covers/1dcaba030e6253191824.jpg' | relative_url }}" alt="Listing image for Ireland Ire Map Ireland Map Wall Poster Print Laminated Educational Map A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom UK Map Northern Ireland Counties Wall Poster Print Opt Laminated"><img src="https://i.ebayimg.com/images/g/ebUAAeSwGs9pCRe3/s-l225.jpg" alt="Listing image for United Kingdom UK Map Northern Ireland Counties Wall Poster Print Opt Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer">Ireland Ire Map Ireland Map Wall Poster Print Laminated Educational Map A5-A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">United Kingdom UK Map Northern Ireland Counties Wall Poster Print Opt Laminated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +490,15 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for IRELAND map A3 geographical physical political atlas wall poster print"><img src="{{ '/assets/images/marketplace-covers/05a9ae2c32c08a9b298e.jpg' | relative_url }}" alt="Listing image for IRELAND map A3 geographical physical political atlas wall poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated"><img src="https://i.ebayimg.com/images/g/mk0AAOSwVgNjT9rr/s-l225.jpg" alt="Listing image for United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer">IRELAND map A3 geographical physical political atlas wall poster print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">United Kingdom UK Map Northern Ireland Map Wall Poster Print Optional Laminated</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,7 +506,7 @@ By testing whether regulatory decisions must directly account for legally bindin
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print -book -books" data-ebay-reference="legal-fight-could-data-centre-rules-break-climate-law-ai-bloom-abundance-superintelligence-and-h-ireland-map-print-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-data-centre-rules-break-climate-law-ireland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland map print" data-ebay-reference="could-data-centre-rules-break-climate-law-ireland-map-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -723,30 +721,30 @@ By testing whether regulatory decisions must directly account for legally bindin
 
 1. <a id="endnote-1"></a>
    Source: clientearth.org  
-   Link: [https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/](https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/)  
+   Link: <a href="https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.clientearth.org/latest/press-office/irish-energy-regulator-sued-over-latest-data-centre-decision-amidst-climate-and-energy-concerns/</a>  
 
 2. <a id="endnote-2"></a>
    Source: sinnfein.ie  
-   Title: Supreme Court ruling leaves CRU [data centre](&#123;&#123; 'power-demand/' | relative_url &#125;&#125;) policy legally untenable  
-   Link: [https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/](https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/)  
+   Title: Supreme Court ruling leaves CRU data centre policy legally untenable  
+   Link: <a href="https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/supreme-court-ruling-leaves-cru-data-centre-policy-legally-untenable-boylan/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boylan - Sinn FéinFebruary 4, 2026...</p></details>
    Published: February 4, 2026  
 
 3. <a id="endnote-3"></a>
    Source: cru.ie  
    Title: opens consultation on large energy user connections policy | CRU.ie  
-   Link: [https://www.cru.ie/about-us/news/cru-opens-consultation-on-large-energy-user-connections-policy/](https://www.cru.ie/about-us/news/cru-opens-consultation-on-large-energy-user-connections-policy/)  
+   Link: <a href="https://www.cru.ie/about-us/news/cru-opens-consultation-on-large-energy-user-connections-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/cru-opens-consultation-on-large-energy-user-connections-policy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Opens Consultation on Large Energy User Connections Policy CRU OPENS CONSULTATION ON LARGE ENERGY USER CONNECTIONS POLICY This consul...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/](https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/)  
+   Link: <a href="https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/ireland/2026/04/28/environmental-groups-granted-leave-to-challenge-data-centre-policy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesEnvironmental groups granted leave to challenge data centre policy – The Irish TimesApril 28, 2026...</p></details>
    Published: April 28, 2026  
 
 5. <a id="endnote-5"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/](https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/)  
+   Link: <a href="https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/environment/climate-crisis/2026/04/02/data-centre-expansion-policy-prolongs-reliance-on-fossil-fuels/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesData centre expansion policy prolongs reliance on fossil fuels – The Irish TimesApril 2, 2026...</p></details>
    Published: April 2, 2026  
 
@@ -754,63 +752,63 @@ By testing whether regulatory decisions must directly account for legally bindin
 
 6. <a id="endnote-6"></a>
    Source: idcnova.com  
-   Link: [https://www.idcnova.com/html/1/59/153/5298.html](https://www.idcnova.com/html/1/59/153/5298.html)  
+   Link: <a href="https://www.idcnova.com/html/1/59/153/5298.html" target="_blank" rel="noopener noreferrer nofollow">https://www.idcnova.com/html/1/59/153/5298.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>er marketMarch 19, 2026 — **SIX-YEAR LEGAL BATTLE ENDS AS €1.6 BILLION IRISH DATA CENTER PROJECT GETS FINAL APPROVAL** 2026-03-19 24 Imag...</p></details>
    Published: March 19, 2026  
 
 7. <a id="endnote-7"></a>
    Source: energyireland.ie  
-   Link: [https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/](https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/)  
+   Link: <a href="https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/" target="_blank" rel="noopener noreferrer nofollow">https://www.energyireland.ie/irelands-new-large-energy-users-leus-connection-policy-what-it-means-for-the-irish-energy-sector/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 24, 2026 — * * # Ireland’s new Large Energy Users (LEUs) connection policy: What it means for the Irish energy sector 24th March 20...</p></details>
    Published: March 24, 2026  
 
 8. <a id="endnote-8"></a>
    Source: decisis.ie  
-   Link: [https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected](https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected)  
+   Link: <a href="https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected" target="_blank" rel="noopener noreferrer nofollow">https://decisis.ie/judicial-review-of-data-centre-planning-permission-refused-as-climate-law-arguments-and-bat-roost-concerns-rejected</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 26, 2026 — JUDICIAL REVIEW OF DATA CENTRE PLANNING PERMISSION REFUSED AS CLIMATE LAW ARGUMENTS AND BAT ROOST CONCERNS REJECTED The Hi...</p></details>
    Published: May 26, 2026  
 
 9. <a id="endnote-9"></a>
    Source: philiplee.ie  
-   Link: [https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/](https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/)  
+   Link: <a href="https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.philiplee.ie/re-balancing-the-digital-bargain-irelands-new-cru-large-energy-user-connection-policy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Philip Lee LLPDecember 22, 2025 — RE‑BALANCING THE DIGITAL BARGAIN: IRELAND’S NEW CRU LARGE ENERGY USER CONNECTION POLICY 22 December 202...</p></details>
    Published: December 22, 2025  
 
 10. <a id="endnote-10"></a>
    Source: irishtimes.com  
-   Link: [https://www.irishtimes.com/opinion/2026/04/28/it-is-deeply-concerning-that-despite-climate-law-planning-approvals-will-substantially-increase-irelands-greenhouse-gas-emissions/](https://www.irishtimes.com/opinion/2026/04/28/it-is-deeply-concerning-that-despite-climate-law-planning-approvals-will-substantially-increase-irelands-greenhouse-gas-emissions/)  
+   Link: <a href="https://www.irishtimes.com/opinion/2026/04/28/it-is-deeply-concerning-that-despite-climate-law-planning-approvals-will-substantially-increase-irelands-greenhouse-gas-emissions/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/opinion/2026/04/28/it-is-deeply-concerning-that-despite-climate-law-planning-approvals-will-substantially-increase-irelands-greenhouse-gas-emissions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 28, 2026 — LEGAL OR ILLEGAL, IRELAND’S EMISSIONS FAILURE WILL DAMAGE THE WORLD ANY ADDITIONAL EMISSIONS WILL CAUSE ADDITIONAL CLIMA...</p></details>
    Published: April 28, 2026  
 
 11. <a id="endnote-11"></a>
    Source: thejournal.ie  
-   Link: [https://www.thejournal.ie/data-centres-court-challenge-6825739-Sep2025/](https://www.thejournal.ie/data-centres-court-challenge-6825739-Sep2025/)  
+   Link: <a href="https://www.thejournal.ie/data-centres-court-challenge-6825739-Sep2025/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/data-centres-court-challenge-6825739-Sep2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>File photo Alamy Stock Photo Dublin &#x27;NOVEL&#x27; COURT ACTION LAUNCHED AGAINST EPA PERMIT FOR DATA CENTRE GROUP&#x27;S [POWER](&amp;#123;&amp;#123; &#x27;power/&#x27; | relative_url &amp;#125;&amp;#125;) PLANT Campaigners clai...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: friendsoftheearth.ie  
    Title: Campaigners appeal Herbata Data Centre decision in Naas | Friends of the Earth  
-   Link: [https://www.friendsoftheearth.ie/news/campaigners-appeal-herbata-data-centre-decision-in-naas/](https://www.friendsoftheearth.ie/news/campaigners-appeal-herbata-data-centre-decision-in-naas/)  
+   Link: <a href="https://www.friendsoftheearth.ie/news/campaigners-appeal-herbata-data-centre-decision-in-naas/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/campaigners-appeal-herbata-data-centre-decision-in-naas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>September 25, 2025 — CAMPAIGNERS APPEAL HERBATA DATA CENTRE DECISION IN NAAS September 25, 2025 View all news * * * Joint press release b...</p></details>
    Published: September 25, 2025  
 
 13. <a id="endnote-13"></a>
    Source: tennesseelookout.com  
    Title: A battle over data centers heats up along the Mississippi-Tennessee state line  
-   Link: [https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line/](https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line/)  
+   Link: <a href="https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line/" target="_blank" rel="noopener noreferrer nofollow">https://tennesseelookout.com/2026/03/18/a-battle-over-data-centers-heats-up-along-the-mississippi-tennessee-state-line/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>March 31, 2026 — Elon Musk&#x27;s xAI has fired up dozens of polluting, gas-powered generators to fuel the Grok chatbot — and wants to add more...</p></details>
    Published: March 31, 2026  
 
 14. <a id="endnote-14"></a>
    Source: theguardian.com  
    Title: U S tech firms successfully lobbied EU to keep datacentre emissions secret  
-   Link: [https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions](https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions)  
+   Link: <a href="https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US tech firms successfully lobbied EU to keep datacentre emissions secretApril 30, 2026 — Legally questionable confidentiality clause ado...</p></details>
    Published: April 30, 2026  
 
 15. <a id="endnote-15"></a>
    Source: Tech Policy Press  
    Title: What Ireland’s Data Center Crisis Means for the EU’s AI Sovereignty Plans  
-   Link: [https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans](https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans)  
+   Link: <a href="https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans" target="_blank" rel="noopener noreferrer nofollow">https://techpolicy.press/what-irelands-data-center-crisis-means-for-the-eus-ai-sovereignty-plans</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>December 31, 2025 — This reporting is published in collaboration with AlgorithmWatch and is supported by the European Digital Rights (EDR...</p></details>
-   Published: December 31, 2025  
+   Published: December 31, 2025

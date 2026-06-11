@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-abundant-inte/
 description: Focused pages that expand on Intelligence.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_abundant_inte_594dea
-parent_title: Intelligence | AI Bloom Abundance Superintelligence and Humanity
+parent_title: Intelligence
 parent_nav_short_title: Intelligence
 parent_permalink: /intelligence/
 ---

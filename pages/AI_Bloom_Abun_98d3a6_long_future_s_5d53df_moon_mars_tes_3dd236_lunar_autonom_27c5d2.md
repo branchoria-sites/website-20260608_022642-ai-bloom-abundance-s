@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /moon-and-mars/
 nav_short_title: Lunar Life Support
 title: How Autonomous Systems Sustain Lunar Life Support
-title_full: How Autonomous Systems Sustain Lunar Life Support | Moon and Mars
+title_full: How Autonomous Systems Sustain Lunar Life Support
 display_title_short: Lunar Life Support
 display_title: Lunar Life Support
 heading_title: How Autonomous Systems Sustain Lunar Life Support
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are Moon and Mars bases the first step? | Long Future
+date: '2026-06-08 02:07:27'
+parent_title: Are Moon and Mars bases the first step?
 parent_permalink: /moon-and-mars/
 parent_nav_short_title: Moon and Mars
 parent_heading_title: Are Moon and Mars bases the first step?
@@ -266,7 +267,6 @@ next_link:
   permalink: /mars-water-systems/
   short_title: Mars Water Systems
   heading_title: Mining and Using Water Ice on Mars for Survival
-date: '2026-06-08 02:07:27 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-1.webp
@@ -277,7 +277,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3d
 
 A long-duration lunar base cannot depend on constant human supervision from Earth. Even though the Moon is only a few days away by spacecraft, crews will still live in an environment where a failed oxygen generator, a contaminated water loop or a [power]({{ 'power/' | relative_url }})-system fault can quickly become life-threatening. That is why autonomous life-support management has become one of the most important technologies in plans for sustained lunar habitation.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-1-dark.svg" | relative_url }}" alt="Lunar Life Support illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader vision of AI-enabled human expansion beyond Earth, autonomous life-support systems are not simply labour-saving tools. They are attempts to create habitats that can monitor themselves, detect problems before humans notice them, coordinate repairs, manage scarce resources and continue operating despite equipment failures. The Moon offers a relatively accessible place to test these capabilities before more distant missions, especially eventual Martian settlements where communication delays make constant Earth-based oversight impossible. NASA <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">ICES 2022 196</span><span class="citation-popover-snippet">NASA Technical Reports ServerRegenerative Life Support Systems for Exploration Habitatsby DF Howard · 2022 · Cited by 5 — The surface hab...</span></span></span>
 
@@ -287,7 +286,7 @@ The challenge is not merely keeping astronauts alive for a few weeks. It is lear
 
 [Life support]({{ 'life-support/' | relative_url }}) is often imagined as a single machine that generates oxygen. In reality it is a tightly interconnected network of systems that manages air quality, water recycling, waste processing, temperature [control]({{ 'control/' | relative_url }}), pressure regulation, power use and emergency response.
 
-Modern Environmental Control and Life Support Systems (ECLSS) already perform many of these functions aboard the International Space Station. NASA's ECLSS architecture includes water recovery systems, oxygen generation systems and air revitalisation systems that recycle critical resources rather than treating them as disposable supplies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">NASAEnvironmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span>
+Modern Environmental Control and Life Support Systems (ECLSS) already perform many of these functions aboard the International Space Station. NASA's ECLSS architecture includes water recovery systems, oxygen generation systems and air revitalisation systems that recycle critical resources rather than treating them as disposable supplies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">environmental control and life support systems eclss</span><span class="citation-popover-snippet">Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</span></span></span>
 
 A lunar base introduces additional complications:
 
@@ -300,7 +299,6 @@ A lunar base introduces additional complications:
 
 The result is that future lunar habitats are expected to rely heavily on automation. Human crews cannot spend most of their time acting as maintenance technicians for pumps, filters and recycling units. The habitat itself must increasingly function as an intelligent system.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yFd8wE9qtkw" title="Resilient Extra Terrestrial Habitats Institute (RETHi) at Purdue" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yFd8wE9qtkw" target="_blank" rel="noopener noreferrer">Resilient Extra Terrestrial Habitats Institute (RETHi) at Purdue</a></p><p class="youtube-embed-meta">Channel: Purdue University Mechanical Engineering &middot; Views: 6.0K &middot; Uploaded: April 2019 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yFd8wE9qtkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yFd8wE9qtkw">Open on YouTube</a></p></div></div></div>
 
 ## Air and Water Recycling Technologies
@@ -310,7 +308,6 @@ The most important life-support resources are oxygen and water. Every kilogram d
 NASA studies of extended lunar missions have repeatedly concluded that high rates of water recovery are necessary for long-duration habitation. Water is needed not only for drinking but also for hygiene, cooling systems, oxygen production and other operational functions. Research into lunar surface missions has shown that recovering water from waste streams can make a significant contribution to overall resource balance and reduce dependence on imported supplies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Challenges with Deploying and Integrating Environmental</span><span class="citation-popover-snippet">NASA Technical Reports ServerChallenges with Deploying and Integrating Environmental...October 6, 2009 — by RM Bagdigian · 2009 · Cited...</span><span class="citation-popover-meta">Published: October 6, 2009</span></span></span>
 
 Autonomous management becomes important because these recycling systems are highly complex. A typical closed-loop water system may include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +324,6 @@ Rather than waiting for astronauts to inspect each subsystem manually, future ha
 
 Oxygen management presents similar challenges. Future lunar bases may obtain oxygen from multiple sources, including water electrolysis and eventually in-situ resource utilisation (ISRU) systems that extract oxygen from lunar materials. Coordinating production, storage and consumption requires constant balancing between habitat needs, power availability and safety constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Lunar Habitat Wastewater Subsystem Power and...27 Apr 2023 — First, the ISRU power demand profile is presented conside...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MB68LeUOvZI" title="NASA ScienceCasts: ECLSS on Station" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MB68LeUOvZI" target="_blank" rel="noopener noreferrer">NASA ScienceCasts: ECLSS on Station</a></p><p class="youtube-embed-meta">Channel: NASA Science &middot; Views: 8.3K &middot; Uploaded: October 2023 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MB68LeUOvZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MB68LeUOvZI">Open on YouTube</a></p></div></div></div>
 
 ## Predictive Maintenance and Fault Detection
@@ -336,7 +332,7 @@ One of the strongest arguments for AI-assisted habitat management is not that ma
 
 Traditional maintenance often follows one of two models: scheduled replacement or human observation after something goes wrong. Neither approach is ideal on the Moon. Replacing parts too early wastes valuable resources. Waiting for visible failure can endanger the crew.
 
-Researchers have therefore focused on [predictive]({{ 'failure-warnings/' | relative_url }}) maintenance systems that monitor equipment continuously and search for subtle warning signs.
+Researchers have therefore focused on predictive maintenance systems that monitor equipment continuously and search for subtle warning signs.
 
 NASA's work on autonomous fault management systems has explored architectures capable of anomaly detection, fault isolation and system-effects analysis. Instead of merely reporting an alarm, these systems attempt to determine what is failing, what other systems may be affected and which corrective actions are available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Challenges with Deploying and Integrating Environmental</span><span class="citation-popover-snippet">NASA Technical Reports ServerChallenges with Deploying and Integrating Environmental...October 6, 2009 — by RM Bagdigian · 2009 · Cited...</span><span class="citation-popover-meta">Published: October 6, 2009</span></span></span>
 
@@ -346,15 +342,14 @@ A useful way to think about this is as the difference between a smoke alarm and 
 
 For lunar operations, this capability matters because life-support systems are tightly coupled. A malfunctioning valve may eventually affect air quality. A damaged filter may increase power consumption elsewhere. Early detection can prevent small faults from becoming emergencies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stottlerhenke.com">[Stottler Henke Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stottlerhenke.com</span><span class="citation-popover-snippet">Stottler Henke AssociatesAutonomous, hybrid space system fault and anomaly...by D Stottler · Cited by 2 — It is therefore important that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">ICES 2022 196</span><span class="citation-popover-snippet">NASA Technical Reports ServerRegenerative Life Support Systems for Exploration Habitatsby DF Howard · 2022 · Cited by 5 — The surface hab...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-2-dark.svg" | relative_url }}" alt="Lunar Life Support illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Autonomous Systems Coordinate an Entire Habitat
 
 The long-term goal is not simply automated components but an integrated habitat that functions as a coordinated system.
 
-Life-support, power generation, thermal management, robotics and resource extraction are deeply interconnected. Water production affects power demand. Oxygen reserves affect mission planning. Surface exploration schedules influence airlock cycles and consumable usage.
+Life-support, power generation, thermal management, robotics and resource extraction are deeply interconnected. Water production affects [power demand]({{ 'power-demand/' | relative_url }}). Oxygen reserves affect mission planning. Surface exploration schedules influence airlock cycles and consumable usage.
 
-Several lunar habitat studies increasingly treat the base as a large autonomous network rather than a collection of independent machines. Research into lunar microgrids, for example, emphasises autonomous control systems that continuously balance power production, storage and consumption across habitat infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techrxiv.org">[TechRxiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techrxiv.org</span><span class="citation-popover-snippet">TechRxivThe Importance of Autonomous Control Systems for Lunar...by M Yousaf · 2024 — Autonomous control systems (ACS) are crucial for t...</span></span></span>
+Several lunar habitat studies increasingly treat the base as a large autonomous network rather than a collection of independent machines. Research into lunar microgrids, for example, emphasises autonomous control systems that continuously balance power production, storage and consumption across habitat infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techrxiv.org">[TechRxiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techrxiv.org</span><span class="citation-popover-snippet">The Importance of Autonomous Control Systems for Lunar...by M Yousaf · 2024 — Autonomous control systems (ACS) are crucial for t...</span></span></span>
 
 This integration becomes especially important near the lunar south pole, a favoured location for future bases because of potential access to water ice and extended sunlight. Resource extraction systems, water-processing units and habitat life-support systems may all compete for limited power at different times. Intelligent control software can help determine which activities receive priority while maintaining safety margins for the crew. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Lunar Habitat Wastewater Subsystem Power and...27 Apr 2023 — First, the ISRU power demand profile is presented conside...</span></span></span>
 
@@ -380,7 +375,6 @@ One of the most important capabilities is dormant habitat management. Future lun
 
 This matters because a sustainable lunar presence may emerge gradually through a combination of human crews and robotic caretakers rather than through permanently occupied settlements from the beginning.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d8D1D1NusO0" title="The DIANA Lunar Base: A Vision for Sustainable Lunar Exploration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d8D1D1NusO0" target="_blank" rel="noopener noreferrer">The DIANA Lunar Base: A Vision for Sustainable Lunar Exploration</a></p><p class="youtube-embed-meta">Channel: Space Startup News &middot; Views: 2.4K &middot; Uploaded: June 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d8D1D1NusO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d8D1D1NusO0">Open on YouTube</a></p></div></div></div>
 
 ## The Limits of Full Autonomy
@@ -394,13 +388,12 @@ NASA's own history illustrates this challenge. Researchers have pursued highly a
 Several obstacles remain:
 
 * Verifying AI behaviour in rare emergency conditions.
-* Preventing [false alarms]({{ 'false-alarm-impacts/' | relative_url }}) and incorrect diagnoses.
+* Preventing false alarms and incorrect diagnoses.
 * Handling unexpected interactions between subsystems.
 * Maintaining cybersecurity and software integrity.
 * Preserving human understanding of increasingly automated operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stottlerhenke.com">[Stottler Henke Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stottlerhenke.com</span><span class="citation-popover-snippet">Stottler Henke AssociatesAutonomous, hybrid space system fault and anomaly...by D Stottler · Cited by 2 — It is therefore important that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">ICES 2022 196</span><span class="citation-popover-snippet">NASA Technical Reports ServerRegenerative Life Support Systems for Exploration Habitatsby DF Howard · 2022 · Cited by 5 — The surface hab...</span></span></span>
 
 As a result, most current designs favour adjustable autonomy rather than complete machine control. Humans remain responsible for strategic decisions while autonomous systems handle monitoring, optimisation and routine responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/adjustable-autonomy-for-human-centered-autonomous-systems-on-1yep8j6juo.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-snippet">paper discusses on-going research at the NASA Ames Research Center and...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-3-dark.svg" | relative_url }}" alt="Lunar Life Support illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_moon_mars_tes_3dd236_lunar_autonom_27c5d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Lunar Life Support Matters Beyond the Moon
@@ -409,7 +402,7 @@ The importance of autonomous life-support management extends beyond space explor
 
 A lunar base is one of the harshest environments in which humans might attempt to build a semi-self-sustaining settlement. Every litre of water, every kilogram of oxygen and every watt of electricity must be tracked carefully. This creates a natural testbed for closed-loop resource management systems that may eventually influence terrestrial infrastructure as well.
 
-Researchers increasingly connect advanced life-support work with broader questions of sustainability, resilience and resource efficiency. Technologies developed for recycling water, detecting faults automatically and managing complex resource networks may have applications in remote communities, disaster response systems, industrial facilities and future climate-stressed environments on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — These operational insights, gathered in...</span></span></span>
+Researchers increasingly connect advanced life-support work with broader questions of sustainability, [resilience]({{ 'resilience/' | relative_url }}) and resource efficiency. Technologies developed for recycling water, detecting faults automatically and managing complex resource networks may have applications in remote communities, disaster response systems, industrial facilities and future climate-stressed environments on Earth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — These operational insights, gathered in...</span></span></span>
 
 Within the wider AI bloom perspective, lunar habitats are valuable not because they immediately create vast new societies, but because they force civilisation to solve a difficult problem: how to build environments that can preserve human life with minimal waste, high reliability and increasingly intelligent coordination. If advanced AI eventually helps humanity expand into larger and more resilient forms of civilisation, autonomous life-support systems may be among the earliest demonstrations of that capability operating under real-world conditions. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">ICES 2022 196</span><span class="citation-popover-snippet">NASA Technical Reports ServerRegenerative Life Support Systems for Exploration Habitatsby DF Howard · 2022 · Cited by 5 — The surface hab...</span></span></span>
 
@@ -810,172 +803,172 @@ Within the wider AI bloom perspective, lunar habitats are valuable not because t
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
    Title: environmental control and life support systems eclss  
-   Link: [https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/](https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAEnvironmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
+   Link: <a href="https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Environmental Control and Life Support Systems (ECLSS)4 Apr 2025 — ECLSS is a life support system that provides or controls atmospher...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ntrs.nasa.gov  
    Title: ICES 2022 196  
-   Link: [https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf](https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20220006727/downloads/ICES-2022-196.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerRegenerative Life Support Systems for Exploration Habitatsby DF Howard · 2022 · Cited by 5 — The surface hab...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/api/citations/20020066395/downloads/20020066395.pdf](https://ntrs.nasa.gov/api/citations/20020066395/downloads/20020066395.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20020066395/downloads/20020066395.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20020066395/downloads/20020066395.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerModel-based Autonomy for Robust Mars Operationsby JA Kurien · 1998 · Cited by 13 — Enter model-based autonom...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20190027321](https://ntrs.nasa.gov/citations/20190027321)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20190027321" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20190027321</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerControls and Automation Research in Space Life Supportby HW Jones · 2019 · Cited by 10 — Controls and Automa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Challenges with Deploying and Integrating Environmental  
-   Link: [https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf](https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20090035622/downloads/20090035622.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerChallenges with Deploying and Integrating Environmental...October 6, 2009 — by RM Bagdigian · 2009 · Cited...</p></details>
    Published: October 6, 2009  
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management](https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management)  
+   Link: <a href="https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369816266_Lunar_Habitat_Wastewater_Subsystem_Power_and_Water_Management</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Lunar Habitat Wastewater Subsystem Power and...27 Apr 2023 — First, the ISRU power demand profile is presented conside...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Impact of Water Recovery from Wastes on the Lunar  
-   Link: [https://ntrs.nasa.gov/api/citations/20100033687/downloads/20100033687.pdf](https://ntrs.nasa.gov/api/citations/20100033687/downloads/20100033687.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20100033687/downloads/20100033687.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20100033687/downloads/20100033687.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerImpact of Water Recovery from Wastes on the Lunar...November 10, 2010 — by JW Fisher · 2010 · Cited by 8 —...</p></details>
    Published: November 10, 2010  
 
 8. <a id="endnote-8"></a>
    Source: ntrs.nasa.gov  
    Title: PDF R1 Clean Version  
-   Link: [https://ntrs.nasa.gov/api/citations/20250002072/downloads/PDF_R1_Clean_Version.pdf](https://ntrs.nasa.gov/api/citations/20250002072/downloads/PDF_R1_Clean_Version.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20250002072/downloads/PDF_R1_Clean_Version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20250002072/downloads/PDF_R1_Clean_Version.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, measured data can be affected by sensor faults, which...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20140002222](https://ntrs.nasa.gov/citations/20140002222)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20140002222" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20140002222</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerA System for Fault Management for NASA&#x27;s Deep Space...by SP Colombano · 2013 · Cited by 4 — In this paper...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: techrxiv.org  
-   Link: [https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253](https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TechRxivThe Importance of Autonomous Control Systems for Lunar...by M Yousaf · 2024 — Autonomous control systems (ACS) are crucial for t...</p></details>
+   Link: <a href="https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253" target="_blank" rel="noopener noreferrer nofollow">https://www.techrxiv.org/doi/10.36227/techrxiv.173385688.82005253</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Autonomous Control Systems for Lunar...by M Yousaf · 2024 — Autonomous control systems (ACS) are crucial for t...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nasa.gov  
    Title: 2015 nasa technology roadmaps ta 4 robotics and autonomous systems final  
-   Link: [https://www.nasa.gov/wp-content/uploads/2016/08/2015_nasa_technology_roadmaps_ta_4_robotics_and_autonomous_systems_final.pdf](https://www.nasa.gov/wp-content/uploads/2016/08/2015_nasa_technology_roadmaps_ta_4_robotics_and_autonomous_systems_final.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASATA 4: Robotics and Autonomous Systems2 Jul 2015 — Enables autonomous sampling with predictive fault detection, as well as effective s...</p></details>
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2016/08/2015_nasa_technology_roadmaps_ta_4_robotics_and_autonomous_systems_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2016/08/2015_nasa_technology_roadmaps_ta_4_robotics_and_autonomous_systems_final.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>TA 4: Robotics and Autonomous Systems2 Jul 2015 — Enables autonomous sampling with predictive fault detection, as well as effective s...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ntrs.nasa.gov  
    Title: Uncrewed LSO Support final1  
-   Link: [https://ntrs.nasa.gov/api/citations/20220013667/downloads/Uncrewed%20LSO-Support-final1.pdf](https://ntrs.nasa.gov/api/citations/20220013667/downloads/Uncrewed%20LSO-Support-final1.pdf)  
+   Link: <a href="https://ntrs.nasa.gov/api/citations/20220013667/downloads/Uncrewed%20LSO-Support-final1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20220013667/downloads/Uncrewed%20LSO-Support-final1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Technical Reports ServerUncrewed Lunar Surface Operations and Support Activitiesby ME Lewis · 2022 · Cited by 2 — It will also discu...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/161998071.pdf](https://core.ac.uk/download/pdf/161998071.pdf)  
+   Link: <a href="https://core.ac.uk/download/pdf/161998071.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/161998071.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>multiple technologies to enable the autonomous operation of a dormant space habitat.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/19830043546](https://ntrs.nasa.gov/citations/19830043546)  
+   Link: <a href="https://ntrs.nasa.gov/citations/19830043546" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19830043546</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ALSS would require little or no input of matter...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: scispace.com  
-   Link: [https://scispace.com/pdf/adjustable-autonomy-for-human-centered-autonomous-systems-on-1yep8j6juo.pdf](https://scispace.com/pdf/adjustable-autonomy-for-human-centered-autonomous-systems-on-1yep8j6juo.pdf)  
+   Link: <a href="https://scispace.com/pdf/adjustable-autonomy-for-human-centered-autonomous-systems-on-1yep8j6juo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/adjustable-autonomy-for-human-centered-autonomous-systems-on-1yep8j6juo.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>paper discusses on-going research at the NASA Ames Research Center and...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2950616625000452](https://www.sciencedirect.com/science/article/pii/S2950616625000452)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectToward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — These operational insights, gathered in...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2950616625000452" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2950616625000452</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward sustainable living in space: A review of...by A Raihan · 2026 · Cited by 1 — These operational insights, gathered in...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
    Title: intelligent systems division  
-   Link: [https://www.nasa.gov/intelligent-systems-division/](https://www.nasa.gov/intelligent-systems-division/)  
+   Link: <a href="https://www.nasa.gov/intelligent-systems-division/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/intelligent-systems-division/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Ames Intelligent Systems Division home30 Sept 2025 — The NASA Ames Intelligent Systems Division provides leadership in information t...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0265964626000196](https://www.sciencedirect.com/science/article/pii/S0265964626000196)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0265964626000196" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0265964626000196</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It lowers the cost of resupply by...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: nasa.gov  
    Title: 20170329 nacheoc crusan gatens hab eclss v5b tagged  
-   Link: [https://www.nasa.gov/wp-content/uploads/2016/05/20170329-nacheoc-crusan-gatens-hab-eclss-v5b_tagged.pdf](https://www.nasa.gov/wp-content/uploads/2016/05/20170329-nacheoc-crusan-gatens-hab-eclss-v5b_tagged.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2016/05/20170329-nacheoc-crusan-gatens-hab-eclss-v5b_tagged.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2016/05/20170329-nacheoc-crusan-gatens-hab-eclss-v5b_tagged.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Capabilities and systems for use in conjunction with Orion and SLS on.Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: stottlerhenke.com  
-   Link: [https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf](https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf)  
+   Link: <a href="https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stottlerhenke.com/wp-content/uploads/2024/03/AMOS-2023-autonomous-fault-and-anomaly-detection.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stottler Henke AssociatesAutonomous, hybrid space system fault and anomaly...by D Stottler · Cited by 2 — It is therefore important that...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: spj.science.org  
-   Link: [https://spj.science.org/doi/10.34133/space.0236](https://spj.science.org/doi/10.34133/space.0236)  
+   Link: <a href="https://spj.science.org/doi/10.34133/space.0236" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/space.0236</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Material Flow Scheme Design of Controlled...At this stage, a life support system suitable for medium- to long-term habitation has been e...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: nasahunch.com  
-   Link: [https://nasahunch.com/projects/lunar-smart-adaptive-habitat-design-with-ai-[psychological](https://nasahunch.com/projects/lunar-smart-adaptive-habitat-design-with-ai-[psychological)  
+   Link: <a href="https://nasahunch.com/projects/lunar-smart-adaptive-habitat-design-with-ai-psychological-monitoring-for-crew-adaptive-positive-mental-health-1z" target="_blank" rel="noopener noreferrer nofollow">https://nasahunch.com/projects/lunar-smart-adaptive-habitat-design-with-ai-psychological-monitoring-for-crew-adaptive-positive-mental-health-1z</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ASA&#x27;s latest architectural and operational requirements with advanced artificial...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: space.blog.gov.uk  
    Title: game changing life support system for mars missions  
-   Link: [https://space.blog.gov.uk/2024/09/09/game-changing-life-support-system-for-mars-missions/](https://space.blog.gov.uk/2024/09/09/game-changing-life-support-system-for-mars-missions/)  
+   Link: <a href="https://space.blog.gov.uk/2024/09/09/game-changing-life-support-system-for-mars-missions/" target="_blank" rel="noopener noreferrer nofollow">https://space.blog.gov.uk/2024/09/09/game-changing-life-support-system-for-mars-missions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>blog.gov.ukGame-changing life support system for Mars missions9 Sept 2024 — The CHRSy system offers a more efficient and sustainable solu...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=kWr_QHoroMk](https://www.youtube.com/watch?v=kWr_QHoroMk)  
+   Link: <a href="https://www.youtube.com/watch?v=kWr_QHoroMk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kWr_QHoroMk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The DIANA Lunar Base: A Vision for Sustainable Lunar Exploration...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The DIANA Lunar Base: A Vision for Sustainable Lunar Exploration  
-   Link: [https://www.youtube.com/watch?v=d8D1D1NusO0](https://www.youtube.com/watch?v=d8D1D1NusO0)  
+   Link: <a href="https://www.youtube.com/watch?v=d8D1D1NusO0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d8D1D1NusO0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceCasts: ECLSS on Station - YouTube NASA ScienceCasts: ECLSS on Station - YouTube...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: core.ac.uk  
    Title: Thus, the prolx)_d.Read more  
-   Link: [https://core.ac.uk/download/pdf/42810362.pdf](https://core.ac.uk/download/pdf/42810362.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CORESUPPORT SYSTEM FOR A LUNAR BASEby B John · Cited by 2 — The ECLS system included both water and 02 recovery, whole-body bathing, clot...</p></details>
+   Link: <a href="https://core.ac.uk/download/pdf/42810362.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/42810362.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUPPORT SYSTEM FOR A LUNAR BASEby B John · Cited by 2 — The ECLS system included both water and 02 recovery, whole-body bathing, clot...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.04936](https://arxiv.org/abs/2408.04936)  
+   Link: <a href="https://arxiv.org/abs/2408.04936" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04936</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Resilient Extra Terrestrial Habitats Institute (RETHi) at Purdue  
-   Link: [https://www.youtube.com/watch?v=yFd8wE9qtkw](https://www.youtube.com/watch?v=yFd8wE9qtkw)  
+   Link: <a href="https://www.youtube.com/watch?v=yFd8wE9qtkw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yFd8wE9qtkw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RETHi Presentation at the SPARC Symposium, November 6th, 2020...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: lpi.usra.edu  
-   Link: [https://www.lpi.usra.edu/publications/books/lunar_bases/LSBchapter09.pdf](https://www.lpi.usra.edu/publications/books/lunar_bases/LSBchapter09.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LPI9 / LIFE SUPPORT AND HEALTH MAINTENANCEby I ITS — The lunar surface rock is rich in oxygen, an essential component of a life support s...</p></details>
+   Link: <a href="https://www.lpi.usra.edu/publications/books/lunar_bases/LSBchapter09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lpi.usra.edu/publications/books/lunar_bases/LSBchapter09.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 / LIFE SUPPORT AND HEALTH MAINTENANCEby I ITS — The lunar surface rock is rich in oxygen, an essential component of a life support s...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: NASA Science Casts: ECLSS on Station  
-   Link: [https://www.youtube.com/watch?v=MB68LeUOvZI](https://www.youtube.com/watch?v=MB68LeUOvZI)  
+   Link: <a href="https://www.youtube.com/watch?v=MB68LeUOvZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MB68LeUOvZI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OLH – Oxygen Lunar Habitat | The First Hybrid-Inflatable Moon Habitat by iSaisei Corporation...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: spacearchitect.org  
    Title: AIAA 2006 7336  
-   Link: [https://spacearchitect.org/pubs/AIAA-2006-7336.pdf](https://spacearchitect.org/pubs/AIAA-2006-7336.pdf)  
+   Link: <a href="https://spacearchitect.org/pubs/AIAA-2006-7336.pdf" target="_blank" rel="noopener noreferrer nofollow">https://spacearchitect.org/pubs/AIAA-2006-7336.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cargo Transport System and the Lunar Exploration Surface Infrastructure and discusses some of the critical challenges faced...Read more...</p></details>

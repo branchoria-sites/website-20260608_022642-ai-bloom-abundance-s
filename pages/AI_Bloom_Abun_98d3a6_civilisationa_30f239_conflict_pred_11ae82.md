@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /resilience/
 nav_short_title: Conflict AI
 title: When Conflict Forecasting Helps And When It Fails
-title_full: When Conflict Forecasting Helps And When It Fails | Resilience
+title_full: When Conflict Forecasting Helps And When It Fails
 display_title_short: Conflict AI
 display_title: Conflict AI
 heading_title: When Conflict Forecasting Helps And When It Fails
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Help Civilisation Avoid Catastrophe? | AI Bloom
+date: '2026-06-08 01:28:10'
+parent_title: Can AI Help Civilisation Avoid Catastrophe?
 parent_permalink: /resilience/
 parent_nav_short_title: Resilience
 parent_heading_title: Can AI Help Civilisation Avoid Catastrophe?
@@ -279,7 +280,6 @@ next_link:
   permalink: /pandemic-ai/
   short_title: Pandemic AI
   heading_title: Can AI Really Warn US Before the Next Pandemic?
-date: '2026-06-08 01:28:10 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-1.webp
@@ -290,9 +290,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11
 
 AI systems that try to forecast political violence promise something unusually valuable: more time. If governments, aid agencies and peacebuilding organisations can identify regions drifting towards conflict months before violence erupts, they may be able to move resources, support negotiations, protect civilians and prevent crises from escalating. In the broader vision of AI helping civilisation become more resilient, conflict forecasting is one of the clearest examples of using machine [intelligence]({{ 'intelligence/' | relative_url }}) not for consumer convenience but for reducing large-scale human suffering.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-1-dark.svg" | relative_url }}" alt="Conflict AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Yet these systems face a difficult problem. Violent conflict is relatively rare, politically complex and shaped by human decisions that can change suddenly. A forecasting model may correctly identify many genuine risks while still producing large numbers of [false alarms]({{ 'false-alarm-impacts/' | relative_url }}). Those errors can damage trust, stigmatise communities, distort policy priorities and, in some circumstances, worsen the tensions they were meant to reduce. The question is therefore not simply whether AI can predict conflict, but how such predictions should be interpreted, communicated and governed.
+Yet these systems face a difficult problem. Violent conflict is relatively rare, politically complex and shaped by human decisions that can change suddenly. A forecasting model may correctly identify many genuine risks while still producing large numbers of false alarms. Those errors can damage trust, stigmatise communities, distort policy priorities and, in some circumstances, worsen the tensions they were meant to reduce. The question is therefore not simply whether AI can predict conflict, but how such predictions should be interpreted, communicated and governed.
 
 ## When Conflict Forecasting Helps
 
@@ -300,9 +299,9 @@ Conflict prediction has existed for decades, but recent systems use machine lear
 
 One of the most influential examples is the Violence & Impacts Early-Warning System (VIEWS), developed by researchers associated with the Peace Research Institute Oslo and collaborating institutions. VIEWS produces forecasts of armed conflict and conflict-related fatalities across countries and subnational regions, using machine learning models trained on large historical datasets. Its forecasts are publicly available and are used by researchers, humanitarian actors and policymakers interested in conflict prevention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://viewsforecasting.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: viewsforecasting.org">[VIEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">viewsforecasting.org</span><span class="citation-popover-snippet">VIEWSViolence Early-Warning SystemThe Violence &amp; Impacts Early-Warning System (VIEWS) is an open-source project leveraging machine learni...</span></span></span>
 
-The attraction of such systems is straightforward. Human analysts can miss weak signals spread across thousands of reports and datasets. Machine learning systems can process large volumes of information continuously and identify statistical patterns that would be difficult for individual experts to detect. Several reviews of conflict early-warning systems argue that data-driven forecasting can improve situational awareness and help institutions allocate scarce prevention resources more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iss.europa.eu">[EU Institute for Security Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iss.europa.eu</span><span class="citation-popover-title">power and limits data peace</span><span class="citation-popover-snippet">EU Institute for Security StudiesThe power and limits of data for peace12 Jan 2024 — To help avoid deadly violence and its consequences i...</span></span></span>
+The attraction of such systems is straightforward. Human analysts can miss weak signals spread across thousands of reports and datasets. Machine learning systems can process large volumes of information continuously and identify statistical patterns that would be difficult for individual experts to detect. Several reviews of conflict early-warning systems argue that data-driven forecasting can improve situational awareness and help institutions allocate scarce prevention resources more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iss.europa.eu">[EU Institute for Security Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iss.europa.eu</span><span class="citation-popover-title">power and limits data peace</span><span class="citation-popover-snippet">EU Institute for Security StudiesThe power and limits of data for peace12 Jan 2024 — To help avoid deadly violence and its consequences i...</span></span></span>
 
-Within an AI-bloom framework, the importance of these tools is not limited to military affairs. Preventing wars protects [scientific]({{ 'discovery/' | relative_url }}) institutions, economic development, public health systems and international cooperation. A civilisation capable of anticipating conflict more effectively may be better able to preserve the conditions needed for long-term human flourishing.
+Within an AI-bloom framework, the importance of these tools is not limited to military affairs. Preventing wars protects scientific institutions, economic development, public health systems and international cooperation. A civilisation capable of anticipating conflict more effectively may be better able to preserve the conditions needed for long-term human flourishing.
 
 ## How Violence Forecasting Systems Use Data
 
@@ -318,7 +317,7 @@ A typical system draws on several categories of information:
 * **Open-source information**, ranging from news reports to social media discussions.
 * **Geospatial data**, including satellite observations and infrastructure mapping. <span class="citation-chip-wrap"><a class="citation-chip" href="https://viewsforecasting.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: viewsforecasting.org">[VIEWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">viewsforecasting.org</span><span class="citation-popover-snippet">VIEWSViolence Early-Warning SystemThe Violence &amp; Impacts Early-Warning System (VIEWS) is an open-source project leveraging machine learni...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wri.org/initiatives/water-peace-security-partnership/global-early-warning-tool" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wri.org">[World Resources Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wri.org</span><span class="citation-popover-snippet">World Resources InstituteGlobal Early Warning ToolThe tool predicts conflict using 15-20 global indicators as model inputs. So far, it ha...</span></span></span>
 
-Machine learning models search for relationships between these variables and subsequent violence. Some newer systems employ deep-learning architectures that analyse spatial and temporal patterns simultaneously, attempting to detect how instability spreads across regions over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.14817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNext-Generation Conflict Forecasting: Unleashing Predictive Patterns through Spatiotemporal LearningJune 8, 2025...</span><span class="citation-popover-meta">Published: June 8, 2025</span></span></span>
+Machine learning models search for relationships between these variables and subsequent violence. Some newer systems employ deep-learning architectures that analyse spatial and temporal patterns simultaneously, attempting to detect how instability spreads across regions over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2506.14817" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Next-Generation Conflict Forecasting: Unleashing Predictive Patterns through Spatiotemporal LearningJune 8, 2025...</span><span class="citation-popover-meta">Published: June 8, 2025</span></span></span>
 
 Importantly, most systems do not claim to know why a conflict will occur. They identify statistical correlations that have historically preceded violence. This distinction matters because policymakers may mistakenly treat model outputs as causal explanations rather than probabilistic warnings.
 
@@ -336,19 +335,17 @@ Researchers also point to cases where elevated-risk forecasts corresponded with 
 
 The broader lesson is that forecasting can be useful even when it is not highly precise. If warnings trigger closer monitoring, contingency planning or diplomatic engagement, they may create opportunities for prevention that would otherwise be missed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L9qwpSVKoNE" title="Using AI In Warfare Could Increase Civilian Casualties | Professor Elke Schwarz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer">Using AI In Warfare Could Increase Civilian Casualties | Professor Elke Schwarz</a></p><p class="youtube-embed-meta">Channel: Times News &middot; Views: 924 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L9qwpSVKoNE">Open on YouTube</a></p></div></div></div>
 
 ## The False Alarm Problem
 
 The central challenge is that conflict is a low-frequency event.
 
-When an outcome is relatively rare, even a model with respectable accuracy can generate many false positives. A system may correctly identify most future conflicts while simultaneously flagging numerous places where violence never occurs. Statistically, this is a familiar problem across forecasting domains, from fraud detection to disease surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumFalse Positives: The Hidden Cost Center in Production AIFalse positives (FPs) are “false alarms”: the system predicts positive (fra...</span></span></span>
+When an outcome is relatively rare, even a model with respectable accuracy can generate many false positives. A system may correctly identify most future conflicts while simultaneously flagging numerous places where violence never occurs. Statistically, this is a familiar problem across forecasting domains, from fraud detection to disease surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">False Positives: The Hidden Cost Center in Production AIFalse positives (FPs) are “false alarms”: the system predicts positive (fra...</span></span></span>
 
-For conflict forecasting, false alarms carry unusually high costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Using AI In Warfare Could Increase Civilian Casualties | Professor Elke Schwarz</span><span class="citation-popover-snippet">Confusion Matrix: False Alarms - Intro to Machine Learning...</span></span></span>
+For conflict forecasting, false alarms carry unusually high costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Using AI In Warfare Could Increase Civilian Casualties &#124; Professor Elke Schwarz</span><span class="citation-popover-snippet">Confusion Matrix: False Alarms - Intro to Machine Learning...</span></span></span>
 
 A region labelled as high risk may experience:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -365,7 +362,6 @@ In extreme cases, actions taken in response to a warning can alter the political
 
 This creates a paradox. Effective early warning requires drawing attention to potential dangers before violence occurs. But many warnings will inevitably concern places where violence never materialises. It is often difficult to determine whether those warnings were mistakes or whether preventive actions helped avert the predicted outcome.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-2-dark.svg" | relative_url }}" alt="Conflict AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why New Conflicts Are Hardest To Predict
 
@@ -381,14 +377,13 @@ This limitation reflects a broader challenge for AI. Pattern-recognition systems
 
 For civilisational [resilience]({{ 'resilience/' | relative_url }}), this distinction matters because some of the most consequential conflicts may be precisely the ones that historical data struggles to anticipate.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Bj7AUiren2A" title="Automating Early Warning: The Possibilities and Limits of Predicting Conflict" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Bj7AUiren2A" target="_blank" rel="noopener noreferrer">Automating Early Warning: The Possibilities and Limits of Predicting Conflict</a></p><p class="youtube-embed-meta">Channel: Center for Governance and Markets &middot; Views: 95 &middot; Uploaded: March 2023 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Bj7AUiren2A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Bj7AUiren2A">Open on YouTube</a></p></div></div></div>
 
 ## Bias, Escalation and Misuse Risks
 
-False alarms are not distributed evenly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Using AI In Warfare Could Increase Civilian Casualties | Professor Elke Schwarz</span><span class="citation-popover-snippet">Confusion Matrix: False Alarms - Intro to Machine Learning...</span></span></span>
+False alarms are not distributed evenly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Using AI In Warfare Could Increase Civilian Casualties &#124; Professor Elke Schwarz</span><span class="citation-popover-snippet">Confusion Matrix: False Alarms - Intro to Machine Learning...</span></span></span>
 
-Conflict forecasting systems depend heavily on the data used to train them. If some regions receive more media coverage, more NGO reporting or more intensive monitoring, they may generate richer datasets than neglected areas. Models can therefore become more sensitive to instability in highly observed regions while overlooking risks elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGateArtificial Intelligence in Conflict Prediction and PreventionMuch more specifically, an emphasis on data can amplify bias or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paloaltonetworks.com">[Palo Alto Networks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paloaltonetworks.com</span><span class="citation-popover-snippet">What Is AI Bias? Causes, Types, &amp; Real-World ImpactsAI bias is a systematic tendency of an AI system to produce outputs that unfairly fav...</span></span></span>
+Conflict forecasting systems depend heavily on the data used to train them. If some regions receive more media coverage, more NGO reporting or more intensive monitoring, they may generate richer datasets than neglected areas. Models can therefore become more sensitive to instability in highly observed regions while overlooking risks elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Artificial Intelligence in Conflict Prediction and PreventionMuch more specifically, an emphasis on data can amplify bias or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paloaltonetworks.com">[Palo Alto Networks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paloaltonetworks.com</span><span class="citation-popover-snippet">What Is AI Bias? Causes, Types, &amp; Real-World ImpactsAI bias is a systematic tendency of an AI system to produce outputs that unfairly fav...</span></span></span>
 
 Several risks follow from this.
 
@@ -406,7 +401,6 @@ Governments may selectively publicise forecasts that support their preferred pol
 
 The problem becomes particularly acute when models are opaque. If outsiders cannot examine how predictions were generated, it becomes difficult to distinguish evidence-based warnings from politically convenient interpretations.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-3-dark.svg" | relative_url }}" alt="Conflict AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_conflict_pred_11ae82-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Escalation through prediction
 
@@ -420,10 +414,9 @@ In this sense, conflict forecasting differs from predicting rainfall. Human bein
 
 Most experts do not advocate fully automated conflict prevention.
 
-Reviews of conflict early-warning systems increasingly emphasise hybrid approaches that combine machine-generated forecasts with local expertise, diplomatic reporting and contextual analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iss.europa.eu">[EU Institute for Security Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iss.europa.eu</span><span class="citation-popover-title">power and limits data peace</span><span class="citation-popover-snippet">EU Institute for Security StudiesThe power and limits of data for peace12 Jan 2024 — To help avoid deadly violence and its consequences i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</span></span></span>
+Reviews of conflict early-warning systems increasingly emphasise hybrid approaches that combine machine-generated forecasts with local expertise, diplomatic reporting and contextual analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iss.europa.eu">[EU Institute for Security Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iss.europa.eu</span><span class="citation-popover-title">power and limits data peace</span><span class="citation-popover-snippet">EU Institute for Security StudiesThe power and limits of data for peace12 Jan 2024 — To help avoid deadly violence and its consequences i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</span></span></span>
 
 Human analysts can evaluate factors that are difficult to encode in datasets:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -440,7 +433,6 @@ Machine learning systems can highlight patterns and anomalies, but they often ca
 
 Transparency also matters. Researchers reviewing early-warning systems have argued for greater openness around data sources, modelling assumptions and performance metrics. When decision-makers understand how a forecast was generated, they are better positioned to judge whether it deserves confidence. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcss.nl">[HCSS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcss.nl</span><span class="citation-popover-title">Conflict Early Warning Systems HCSS 2022</span><span class="citation-popover-snippet">Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — Most EWS predict or give a risk assessment abou...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1HS1UpAvzZI" title="AI Predicting Wars? | Machine Learning &amp; Conflict Early Warning Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1HS1UpAvzZI" target="_blank" rel="noopener noreferrer">AI Predicting Wars? | Machine Learning &amp; Conflict Early Warning Systems</a></p><p class="youtube-embed-meta">Channel: The Learning Studio &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1HS1UpAvzZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1HS1UpAvzZI">Open on YouTube</a></p></div></div></div>
 
 ## What This Means For AI And Civilisational Resilience
@@ -455,7 +447,7 @@ Predictions can be wrong. Data can be biased. Institutions can overreact. Politi
 
 The strongest role for these tools may therefore be as decision-support systems rather than decision-makers. Used carefully, they can expand human awareness and shorten response times. Used carelessly, they can create a false sense of certainty, encourage overconfidence and amplify political tensions.
 
-For the larger AI-bloom vision, that lesson is important. Advanced AI may substantially improve civilisation's ability to foresee risks, but resilience depends not only on prediction. It also depends on judgement, accountability, [institutional]({{ 'institutional-gaps/' | relative_url }}) trust and the ability to act on warnings without turning uncertainty itself into a new source of instability.
+For the larger AI-bloom vision, that lesson is important. Advanced AI may substantially improve civilisation's ability to foresee risks, but resilience depends not only on prediction. It also depends on judgement, accountability, institutional trust and the ability to act on warnings without turning uncertainty itself into a new source of instability.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -469,6 +461,23 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
+        
+        <p class="fr-book-desc">Highly relevant to predictive approaches in conflict analysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Better Angels of Our Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8-vYCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Better Angels of Our Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -476,7 +485,7 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
         </h4>
         <p class="fr-book-author">By Steven Pinker</p>
         
-        <p class="fr-book-desc">Provides context for understanding conflict patterns and prediction.</p>
+        <p class="fr-book-desc">Provides broad context for understanding patterns of violence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature+by+Steven+Pinker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -486,16 +495,16 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mcgtAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
         </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
-        
-        <p class="fr-book-desc">Relevant to forecasting political and social events.</p>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 25 Google Books ratings</p>
+        <p class="fr-book-desc">Highlights forecasting limits and surprise events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -503,33 +512,16 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fog+of+Peace+by+Jean-Marie+Gu%C3%A9henno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fog of Peace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4ZgEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Fog of Peace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+          <a href="https://www.amazon.com/s?k=The+Fog+of+Peace+by+Jean-Marie+Gu%C3%A9henno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fog of Peace">The Fog of Peace</a>
         </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+        <p class="fr-book-author">By Jean-Marie Guéhenno</p>
         
-        <p class="fr-book-desc">Explains strengths and limits of prediction systems.</p>
+        <p class="fr-book-desc">Addresses prevention and management of modern conflicts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=On+War+by+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DRoL0NmsrlwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for On War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=On+War+by+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On War">On War</a>
-        </h4>
-        <p class="fr-book-author">By Carl von Clausewitz</p>
-        
-        <p class="fr-book-desc">Offers enduring insights into conflict dynamics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=On+War+by+Carl+von+Clausewitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Fog+of+Peace+by+Jean-Marie+Gu%C3%A9henno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -537,7 +529,7 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Better+Angels+of+Our+Nature&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -574,15 +566,15 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More"><img src="{{ '/assets/images/marketplace-covers/1a45d30eb0462145598e.jpg' | relative_url }}" alt="Listing image for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map of the World 1:30m, Political World Map, Large Poster of World with Flags"><img src="https://i.ebayimg.com/images/g/as4AAOSwU2NnCQn8/s-l225.jpg" alt="Listing image for Map of the World 1:30m, Political World Map, Large Poster of World with Flags" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">Map of the World 1:30m, Political World Map, Large Poster of World with Flags</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +582,15 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="{{ '/assets/images/marketplace-covers/841a3e8963cc1d168d2d.jpg' | relative_url }}" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A2 Large Map of the World Poster atlas wall chart educational school prints"><img src="https://i.ebayimg.com/images/g/XGgAAeSwGvNpd4jO/s-l225.jpg" alt="Listing image for A2 Large Map of the World Poster atlas wall chart educational school prints" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">A2 Large Map of the World Poster atlas wall chart educational school prints</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,15 +598,15 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY"><img src="{{ '/assets/images/marketplace-covers/0d418763fd45199723b0.jpg' | relative_url }}" alt="Listing image for MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches"><img src="https://i.ebayimg.com/images/g/xwEAAOSw03VgWk96/s-l225.jpg" alt="Listing image for World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">MAP OF THE WORLD POSTER GIANT SIZE 140 X 100cm FLAGS WALL PRINT TRAVEL JOURNEY</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Maps Educational Maxi Poster Print 61x91.5cm | 24x36 inches</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -622,15 +614,15 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/81e76c97595803f801ad.jpg' | relative_url }}" alt="Listing image for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1"><img src="https://i.ebayimg.com/images/g/nucAAOSwM01oNcet/s-l225.jpg" alt="Listing image for WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">WORLD MAP POSTER LAMINATED EDUCATIONAL SCHOOL WALL ART PRINT A5 A4 A3 A2 A1</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -638,7 +630,7 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="conflict-ai-when-conflict-forecasting-helps-and-when-it-fails-ai-bloom-abundance-superintelligen-world-map-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-conflict-forecasting-helps-and-when-it-fails-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="when-conflict-forecasting-helps-and-when-it-fails-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -853,113 +845,113 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
 
 1. <a id="endnote-1"></a>
    Source: viewsforecasting.org  
-   Link: [https://viewsforecasting.org/](https://viewsforecasting.org/)  
+   Link: <a href="https://viewsforecasting.org/" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWSViolence Early-Warning SystemThe Violence &amp; Impacts Early-Warning System (VIEWS) is an open-source project leveraging machine learni...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169207023000018](https://www.sciencedirect.com/science/article/pii/S0169207023000018)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169207023000018" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169207023000018</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review and comparison of conflict early warning systemsby EG Rød · 2024 · Cited by 53 — A conflict early warning system (C...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.14817](https://arxiv.org/abs/2506.14817)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNext-Generation Conflict Forecasting: Unleashing Predictive Patterns through Spatiotemporal LearningJune 8, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2506.14817" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.14817</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Next-Generation Conflict Forecasting: Unleashing Predictive Patterns through Spatiotemporal LearningJune 8, 2025...</p></details>
    Published: June 8, 2025  
 
 4. <a id="endnote-4"></a>
    Source: viewsforecasting.org  
    Title: VIEWS Presentations ECONAI  
-   Link: [https://viewsforecasting.org/wp-content/uploads/VIEWS_Presentations_ECONAI.pdf](https://viewsforecasting.org/wp-content/uploads/VIEWS_Presentations_ECONAI.pdf)  
+   Link: <a href="https://viewsforecasting.org/wp-content/uploads/VIEWS_Presentations_ECONAI.pdf" target="_blank" rel="noopener noreferrer nofollow">https://viewsforecasting.org/wp-content/uploads/VIEWS_Presentations_ECONAI.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWSThe Violence &amp; Impacts Early-Warning System (VIEWS)24 May 2024 — Problem: In most cases, violence is similar from one month to the o...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632](https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumFalse Positives: The Hidden Cost Center in Production AIFalse positives (FPs) are “false alarms”: the system predicts positive (fra...</p></details>
+   Link: <a href="https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adnanmasood/false-positives-the-hidden-cost-center-in-production-ai-790afc8c1632</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>False Positives: The Hidden Cost Center in Production AIFalse positives (FPs) are “false alarms”: the system predicts positive (fra...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security](https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateArtificial Intelligence in Conflict Prediction and PreventionMuch more specifically, an emphasis on data can amplify bias or...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391267243_Artificial_Intelligence_in_Conflict_Prediction_and_Prevention_Opportunities_and_Risks_for_International_Peace_and_Security</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence in Conflict Prediction and PreventionMuch more specifically, an emphasis on data can amplify bias or...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666659620300056](https://www.sciencedirect.com/science/article/pii/S2666659620300056)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666659620300056" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666659620300056</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Legal and human rights issues of AI: Gaps, challenges and...by R Rodrigues · 2020 · Cited by 717 — This article focusses on legal and hu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: hcss.nl  
    Title: Conflict Early Warning Systems HCSS 2022  
-   Link: [https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf](https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf)  
+   Link: <a href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — Most EWS predict or give a risk assessment abou...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv False Sense of Security in Explainable Artificial Intelligence (XAI)  
-   Link: [https://arxiv.org/abs/2405.03820](https://arxiv.org/abs/2405.03820)  
+   Link: <a href="https://arxiv.org/abs/2405.03820" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.03820</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2589004225019509](https://www.sciencedirect.com/science/article/pii/S2589004225019509)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2589004225019509" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589004225019509</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of artificial intelligence for early warning systemsby T Tiggeloven · 2025 · Cited by 7 — This study draws on a systematic liter...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: prio.org  
-   Link: [https://www.prio.org/projects/1977](https://www.prio.org/projects/1977)  
+   Link: <a href="https://www.prio.org/projects/1977" target="_blank" rel="noopener noreferrer nofollow">https://www.prio.org/projects/1977</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VIEWS: Violence &amp; Impacts Early-Warning SystemThe Violence Early-Warning System (ViEWS) is a publicly available, data-driven forecasting...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: iss.europa.eu  
    Title: [power](&#123;&#123; 'power/' | relative_url &#125;&#125;) and limits data peace  
-   Link: [https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace](https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace)  
+   Link: <a href="https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace" target="_blank" rel="noopener noreferrer nofollow">https://www.iss.europa.eu/publications/briefs/power-and-limits-data-peace</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU Institute for Security StudiesThe power and limits of data for peace12 Jan 2024 — To help avoid deadly violence and its consequences i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wri.org  
-   Link: [https://www.wri.org/initiatives/water-peace-security-partnership/global-early-warning-tool](https://www.wri.org/initiatives/water-peace-security-partnership/global-early-warning-tool)  
+   Link: <a href="https://www.wri.org/initiatives/water-peace-security-partnership/global-early-warning-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.wri.org/initiatives/water-peace-security-partnership/global-early-warning-tool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Resources InstituteGlobal Early Warning ToolThe tool predicts conflict using 15-20 global indicators as model inputs. So far, it ha...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: publications.jrc.ec.europa.eu  
    Title: JRC Publications The Future of Conflict Early Warning  
-   Link: [https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC143004/JRC143004_01.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine learning has shown promise in forecasting political violence, but it struggles to predict the...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: conflictforecast.org  
-   Link: [https://conflictforecast.org/prevention-gains](https://conflictforecast.org/prevention-gains)  
+   Link: <a href="https://conflictforecast.org/prevention-gains" target="_blank" rel="noopener noreferrer nofollow">https://conflictforecast.org/prevention-gains</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Conflict ForecastPrevention GainsStages 5-10, elevated risk: These stages generally capture countries that are on the precipice of confli...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: paloaltonetworks.com  
-   Link: [https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias](https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias)  
+   Link: <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias" target="_blank" rel="noopener noreferrer nofollow">https://www.paloaltonetworks.com/cyberpedia/what-is-ai-bias</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is AI Bias? Causes, Types, &amp; Real-World ImpactsAI bias is a systematic tendency of an AI system to produce outputs that unfairly fav...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: rojournals.org  
-   Link: [https://rojournals.org/wp-content/uploads/2026/04/ROJAM-P1-2026.pdf](https://rojournals.org/wp-content/uploads/2026/04/ROJAM-P1-2026.pdf)  
+   Link: <a href="https://rojournals.org/wp-content/uploads/2026/04/ROJAM-P1-2026.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rojournals.org/wp-content/uploads/2026/04/ROJAM-P1-2026.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RO JournalsConflict Early-Warning with Big Data: Ethics, Accuracy, and...April 23, 2026 — by H Kato Nabirye — However, these innovations...</p></details>
    Published: April 23, 2026  
 
 18. <a id="endnote-18"></a>
    Source: cetas.turing.ac.uk  
    Title: Emerging Tech & Security Center The State of AI for Strategic Warning  
-   Link: [https://cetas.turing.ac.uk/publications/state-ai-strategic-warning](https://cetas.turing.ac.uk/publications/state-ai-strategic-warning)  
+   Link: <a href="https://cetas.turing.ac.uk/publications/state-ai-strategic-warning" target="_blank" rel="noopener noreferrer nofollow">https://cetas.turing.ac.uk/publications/state-ai-strategic-warning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerging Tech &amp; Security CenterThe State of AI for Strategic WarningMay 7, 2025 — AI has the potential to help policymakers spend more ti...</p></details>
    Published: May 7, 2025  
 
 19. <a id="endnote-19"></a>
    Source: trendsresearch.org  
    Title: the impact of ai and machine learning on conflict prevention  
-   Link: [https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorKSJb5oLD19k-Kzru1JWsWdy8HcL0afGbpdyrsgHdeKriptcJB](https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorKSJb5oLD19k-Kzru1JWsWdy8HcL0afGbpdyrsgHdeKriptcJB)  
+   Link: <a href="https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorKSJb5oLD19k-Kzru1JWsWdy8HcL0afGbpdyrsgHdeKriptcJB" target="_blank" rel="noopener noreferrer nofollow">https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorKSJb5oLD19k-Kzru1JWsWdy8HcL0afGbpdyrsgHdeKriptcJB</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of AI and Machine Learning on Conflict...2 May 2025 — The rise of AI and machine learning (ML) can contribute to global peace...</p></details>
    Published: May 2025  
 
 20. <a id="endnote-20"></a>
    Source: trendsresearch.org  
-   Link: [https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorJgEKoc7NzinQ1Heg1bVWV0K8-OshADytDFEitOWnBn7sz5zhE](https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorJgEKoc7NzinQ1Heg1bVWV0K8-OshADytDFEitOWnBn7sz5zhE)  
+   Link: <a href="https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorJgEKoc7NzinQ1Heg1bVWV0K8-OshADytDFEitOWnBn7sz5zhE" target="_blank" rel="noopener noreferrer nofollow">https://trendsresearch.org/insight/the-impact-of-ai-and-machine-learning-on-conflict-prevention/?srsltid=AfmBOorJgEKoc7NzinQ1Heg1bVWV0K8-OshADytDFEitOWnBn7sz5zhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of AI and Machine Learning on Conflict...May 2, 2025 — With AI-driven early warning systems and response mechanisms, security...</p></details>
    Published: May 2, 2025  
 
@@ -967,57 +959,57 @@ For the larger AI-bloom vision, that lesson is important. Advanced AI may substa
 
 21. <a id="endnote-21"></a>
    Source: scientificadvice.eu  
-   Link: [https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report/](https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report/)  
+   Link: <a href="https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report/" target="_blank" rel="noopener noreferrer nofollow">https://scientificadvice.eu/scientific-outputs/artificial-intelligence-in-emergency-and-crisis-management-rapid-evidence-review-report/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence in Emergency and Crisis ManagementDec 11, 2025 — AI can be effective in environmental monitoring, early-warning s...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: diva-portal.org  
    Title: Warning System (Vi EWS). Vi EWS aims to predict the probabilities of armed con  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A1222824/FULLTEXT01.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving armed conflict prediction using machine learningby V Helle · 2018 · Cited by 4 — Our project, ViEWS+, expands the software func...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gppac.net  
-   Link: [https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf](https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf)  
+   Link: <a href="https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>auses of conflict, predict the outbreak of violence and mitigate the conflict, an early warning system...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: un.org  
-   Link: [https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/2._handbook_on_early_warning_systems_and_early_action_in_fcv_settings.pdf](https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/2._handbook_on_early_warning_systems_and_early_action_in_fcv_settings.pdf)  
+   Link: <a href="https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/2._handbook_on_early_warning_systems_and_early_action_in_fcv_settings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.un.org/ohrlls/sites/www.un.org.ohrlls/files/2._handbook_on_early_warning_systems_and_early_action_in_fcv_settings.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>contexts where authorities are in conflict or there is a risk of escalation through communication...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: preventionweb.net  
    Title: five ways ai can strengthen early warning systems  
-   Link: [https://www.preventionweb.net/news/five-ways-ai-can-strengthen-early-warning-systems](https://www.preventionweb.net/news/five-ways-ai-can-strengthen-early-warning-systems)  
+   Link: <a href="https://www.preventionweb.net/news/five-ways-ai-can-strengthen-early-warning-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/news/five-ways-ai-can-strengthen-early-warning-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sep 11, 2024 — AI holds great promise in enhancing early warning systems (EWS), particularly the shift from hazard-based to so-called imp...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: royalsocietypublishing.org  
    Title: Data driven conflict classification exposes weak  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak](https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/12/250897/366130/Data-driven-conflict-classification-exposes-weak</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data-driven conflict classification exposes weak predictive...17 Dec 2025 — Two of the most widely used typologies are those of the Upps...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: europol.europa.eu  
    Title: Europol AI bias in law enforcement  
-   Link: [https://www.europol.europa.eu/cms/sites/default/files/documents/AI_bias_in_law_enforcement_-_practical_guide.pdf](https://www.europol.europa.eu/cms/sites/default/files/documents/AI_bias_in_law_enforcement_-_practical_guide.pdf)  
+   Link: <a href="https://www.europol.europa.eu/cms/sites/default/files/documents/AI_bias_in_law_enforcement_-_practical_guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europol.europa.eu/cms/sites/default/files/documents/AI_bias_in_law_enforcement_-_practical_guide.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bias in law enforcement - A practical guide - EuropolArtificial Intelligence (AI) offers remarkable opportunities for enhancing the effic...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: AI Predicting Wars? | Machine Learning & Conflict Early Warning Systems  
-   Link: [https://www.youtube.com/watch?v=1HS1UpAvzZI](https://www.youtube.com/watch?v=1HS1UpAvzZI)  
+   Link: <a href="https://www.youtube.com/watch?v=1HS1UpAvzZI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1HS1UpAvzZI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating Early Warning: The Possibilities and Limits of Predicting Conflict...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Automating Early Warning: The Possibilities and Limits of Predicting Conflict  
-   Link: [https://www.youtube.com/watch?v=Bj7AUiren2A](https://www.youtube.com/watch?v=Bj7AUiren2A)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[Governance](&amp;#123;&amp;#123; &#x27;power/&#x27; | relative_url &amp;#125;&amp;#125;) Through Prediction: An AI Model of Conflict Factions...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=Bj7AUiren2A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Bj7AUiren2A</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Governance Through Prediction: An AI Model of Conflict Factions...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
    Title: Using AI In Warfare Could Increase Civilian Casualties | Professor Elke Schwarz  
-   Link: [https://www.youtube.com/watch?v=L9qwpSVKoNE](https://www.youtube.com/watch?v=L9qwpSVKoNE)  
+   Link: <a href="https://www.youtube.com/watch?v=L9qwpSVKoNE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L9qwpSVKoNE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Confusion Matrix: False Alarms - Intro to Machine Learning...</p></details>

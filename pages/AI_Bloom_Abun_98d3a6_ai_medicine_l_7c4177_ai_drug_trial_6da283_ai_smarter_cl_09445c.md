@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /drug-trials/
 nav_short_title: Smarter trials
 title: Can AI fix the trial bottleneck itself
-title_full: Can AI fix the trial bottleneck itself | Drug trials
+title_full: Can AI fix the trial bottleneck itself
 display_title_short: Smarter trials
 display_title: Smarter trials
 heading_title: Can AI fix the trial bottleneck itself
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI drugs survive human trials? | Longevity
+date: '2026-06-08 01:54:47'
+parent_title: Can AI drugs survive human trials?
 parent_permalink: /drug-trials/
 parent_nav_short_title: Drug trials
 parent_heading_title: Can AI drugs survive human trials?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /rentosertib/
   short_title: Rentosertib
   heading_title: What rentosertib really proves about AI medicine
-date: '2026-06-08 01:54:47 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-1.webp
@@ -271,11 +271,10 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6d
 
 The biggest prize in AI-driven medicine may not be designing new drugs. It may be improving the way drugs are tested in people.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-1-dark.svg" | relative_url }}" alt="Smarter trials illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern clinical trials are slow, expensive and failure-prone. Recruiting patients can take years. Researchers often struggle to identify which patients are most likely to benefit from a treatment. Many medicines reach large late-stage trials only to fail after enormous costs. AI offers a different possibility: smarter trials that find the right participants faster, detect useful signals earlier and reduce wasted effort before billions are spent on phase 3 studies.
 
-If AI can help solve these bottlenecks, the implications reach beyond pharmaceutical profits. Faster, more reliable trials could accelerate the arrival of treatments for cancer, neurodegenerative disease, rare disorders and age-related illness. In the broader AI bloom vision, this matters because medical abundance depends not only on generating [scientific]({{ 'discovery/' | relative_url }}) ideas, but on proving which ideas actually improve human health.
+If AI can help solve these bottlenecks, the implications reach beyond pharmaceutical profits. Faster, more reliable trials could accelerate the arrival of treatments for cancer, neurodegenerative disease, rare disorders and age-related illness. In the broader AI bloom vision, this matters because medical abundance depends not only on generating scientific ideas, but on proving which ideas actually improve human health.
 
 ## Why clinical trials are the real bottleneck
 
@@ -285,7 +284,7 @@ A major reason for failure is biological variation. Two people with the same dia
 
 Traditional trial design often treats diseases as larger and more uniform categories than they really are. AI systems offer a way to identify hidden patterns inside these populations and create more targeted studies.
 
-This shift is especially important for precision medicine, where therapies are increasingly designed for specific molecular characteristics rather than broad disease labels. Researchers and regulators have increasingly explored AI and machine learning tools as ways to improve recruitment, stratification and trial design rather than simply analysing results after the fact. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+This shift is especially important for precision medicine, where therapies are increasingly designed for specific molecular characteristics rather than broad disease labels. Researchers and regulators have increasingly explored AI and machine learning tools as ways to improve recruitment, stratification and trial design rather than simply analysing results after the fact. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
 ## Finding the right patients instead of searching blindly
 
@@ -299,9 +298,9 @@ Traditionally, this often requires manual review of medical records. AI systems 
 
 In oncology, where targeted therapies increasingly depend on genetic biomarkers, AI-based matching systems are already being tested.
 
-Researchers have reported systems that automatically analyse structured medical records and unstructured clinical notes to identify eligible trial participants. Several studies have shown high accuracy rates when AI is used as a screening aid, allowing staff to focus on promising candidates rather than reviewing thousands of records manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+Researchers have reported systems that automatically analyse structured medical records and unstructured clinical notes to identify eligible trial participants. Several studies have shown high accuracy rates when AI is used as a screening aid, allowing staff to focus on promising candidates rather than reviewing thousands of records manually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
-Recent systems such as TrialMatchAI and MatchMiner-AI combine large language models with clinical databases and trial eligibility rules. Rather than replacing clinicians, these tools are designed to narrow vast search spaces and explain why particular patients appear eligible. In reported evaluations, they showed strong performance in biomarker-driven cancer trial matching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureTrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Recent systems such as TrialMatchAI and MatchMiner-AI combine large language models with clinical databases and trial eligibility rules. Rather than replacing clinicians, these tools are designed to narrow vast search spaces and explain why particular patients appear eligible. In reported evaluations, they showed strong performance in biomarker-driven cancer trial matching. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 The practical significance is easy to miss. If a potentially life-saving trial can identify eligible patients in weeks rather than months, the entire development timeline may shorten. Patients may also gain access to experimental therapies that would otherwise remain hidden inside fragmented healthcare systems.
 
@@ -311,10 +310,9 @@ The larger opportunity is that healthcare systems already contain enormous amoun
 
 Electronic health records contain laboratory results, imaging scans, diagnoses, medication histories and physician observations. Much of this information sits in formats that are difficult to search efficiently.
 
-Natural language processing, a branch of AI focused on extracting meaning from text, can help convert clinical notes into searchable research data. This could make trial recruitment more continuous and proactive rather than relying on researchers manually searching for participants after a study launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oncology-central.com">[Oncology Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oncology-central.com</span><span class="citation-popover-snippet">How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</span></span></span>
+Natural language processing, a branch of AI focused on extracting meaning from text, can help convert clinical notes into searchable research data. This could make trial recruitment more continuous and proactive rather than relying on researchers manually searching for participants after a study launches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oncology-central.com">[Oncology Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oncology-central.com</span><span class="citation-popover-snippet">How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</span></span></span>
 
 If successful, this could gradually transform healthcare systems into much more responsive research networks.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tw010genghU" title="AI can tackle clinical trial challenges by reducing costs, shortening timeline for drug approval" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tw010genghU" target="_blank" rel="noopener noreferrer">AI can tackle clinical trial challenges by reducing costs, shortening timeline for drug approval</a></p><p class="youtube-embed-meta">Channel: CNA &middot; Views: 5.4K &middot; Uploaded: October 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tw010genghU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tw010genghU">Open on YouTube</a></p></div></div></div>
 
@@ -332,7 +330,7 @@ A biomarker is a measurable indicator of disease or treatment response. Traditio
 
 Digital biomarkers extend this idea using wearable devices, smartphones, sensors and software systems that continuously collect information about movement, speech, cognition, sleep patterns or physiological changes.
 
-Machine learning models can analyse these large streams of data and potentially detect changes that humans might miss. Researchers are particularly interested in neurological diseases, where progression can be gradual and difficult to measure using conventional methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect If digital biomarkers prove reliable]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</span></span></span>, smaller proof-of-concept studies may reveal whether a treatment is affecting disease progression long before traditional endpoints become visible.
+Machine learning models can analyse these large streams of data and potentially detect changes that humans might miss. Researchers are particularly interested in neurological diseases, where progression can be gradual and difficult to measure using conventional methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect If digital biomarkers prove reliable]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</span></span></span>, smaller proof-of-concept studies may reveal whether a treatment is affecting disease progression long before traditional endpoints become visible.
 
 That could allow companies to abandon weak candidates earlier while advancing promising ones more quickly.
 
@@ -345,7 +343,6 @@ This is particularly important in conditions such as Alzheimer's disease, Parkin
 Researchers have reported AI-assisted approaches that identify potential disease signals long before conventional detection. Examples include AI-enhanced blood tests for Parkinson's disease risk prediction and imaging models designed to identify pancreatic cancer-associated abnormalities before clinicians typically recognise them. These systems remain under [validation]({{ 'validation/' | relative_url }}), but they illustrate a broader shift: AI may increasingly help define who enters trials and when interventions are tested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian AI-enhanced blood test may detect Parkinson&#x27;s years before onset</span><span class="citation-popover-snippet">This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</span></span></span>
 
 For diseases where treatments work best before extensive damage occurs, earlier identification could be as important as discovering new drugs themselves.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-2-dark.svg" | relative_url }}" alt="Smarter trials illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why smarter trials matter for longevity and medical abundance
@@ -366,7 +363,6 @@ The optimistic story has significant limits.
 
 AI systems learn from historical data. If those data are incomplete, biased or unrepresentative, the resulting models can inherit those weaknesses.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bv7S99m5Uzg" title="AIMS 2022: Harnessing the Power of AI to Transform Clinical Trials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bv7S99m5Uzg" target="_blank" rel="noopener noreferrer">AIMS 2022: Harnessing the Power of AI to Transform Clinical Trials</a></p><p class="youtube-embed-meta">Channel: NEJM Group &middot; Views: 2.2K &middot; Uploaded: January 2023 &middot; Length: 2 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bv7S99m5Uzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bv7S99m5Uzg">Open on YouTube</a></p></div></div></div>
 
 ### Historical inequalities can become future exclusions
@@ -385,10 +381,9 @@ A second problem is overconfidence.
 
 Machine learning systems can detect patterns without understanding underlying biological causes. Sometimes these patterns reflect genuine disease signals. Sometimes they reflect quirks of data collection, hospital practices or demographic factors.
 
-An AI model may appear highly [predictive]({{ 'failure-warnings/' | relative_url }}) during development but fail when applied in a different hospital, country or patient population.
+An AI model may appear highly predictive during development but fail when applied in a different hospital, country or patient population.
 
 Regulators have repeatedly emphasised transparency, validation, reliability and [human oversight]({{ 'human-oversight/' | relative_url }}) for AI systems used in drug development and regulatory decision-making. The concern is not merely technical accuracy but whether researchers can understand why a model reached a conclusion and whether that conclusion remains valid in real-world settings. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realtime-eclinical.com">[RealTime]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realtime-eclinical.com</span><span class="citation-popover-snippet">The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-dark.svg" | relative_url }}" alt="Smarter trials illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_ai_medicine_l_7c4177_ai_drug_trial_6da283_ai_smarter_cl_09445c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Better optimisation can optimise the wrong thing
@@ -407,12 +402,11 @@ The strongest versions of these systems are unlikely to replace clinicians, tria
 
 Instead, many emerging approaches use AI as a screening and decision-support layer.
 
-Recent trial-matching systems increasingly provide explanations, evidence traces and human-review workflows rather than making fully automated decisions. In several studies, the best performance came from hybrid systems where AI rapidly narrowed possibilities and human experts made final eligibility assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
+Recent trial-matching systems increasingly provide explanations, evidence traces and human-review workflows rather than making fully automated decisions. In several studies, the best performance came from hybrid systems where AI rapidly narrowed possibilities and human experts made final eligibility assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</span></span></span>
 
 This hybrid model may prove more durable than visions of fully automated clinical research.
 
 Medicine is filled with unusual cases, incomplete information and ethical trade-offs. AI may excel at processing enormous quantities of data, while humans remain responsible for judgement, accountability and patient trust.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9HVKmTgZJIQ" title="MedAI #50: AI for Clinical Trials and Precision Medicine | Ruishan Liu" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9HVKmTgZJIQ" target="_blank" rel="noopener noreferrer">MedAI #50: AI for Clinical Trials and Precision Medicine | Ruishan Liu</a></p><p class="youtube-embed-meta">Channel: Stanford MedAI &middot; Views: 2.5K &middot; Uploaded: July 2022 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9HVKmTgZJIQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9HVKmTgZJIQ">Open on YouTube</a></p></div></div></div>
 
@@ -824,108 +818,108 @@ For the broader AI bloom argument, that may be one of the most consequential pos
 
 1. <a id="endnote-1"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/media/167973/download](https://www.fda.gov/media/167973/download)  
+   Link: <a href="https://www.fda.gov/media/167973/download" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/media/167973/download</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationUsing Artificial [Intelligence](&amp;#123;&amp;#123; &#x27;intelligence/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; Machine Learning in the...participant&#x27;s clinical outcome based on baseline c...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10493153/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coming of Age of AI/ML in Drug Discovery, Development...by SK Niazi · 2023 · Cited by 186 — AI/ML gathers data from previous clinical tr...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCEvaluation of an artificial intelligence clinical trial matching...by M Alexander · 2020 · Cited by 90 — The AI-based clinical trial...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7382632/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of an artificial intelligence clinical trial matching...by M Alexander · 2020 · Cited by 90 — The AI-based clinical trial...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12711520/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Fang · 2025 · Cited by 7 — First, AI enhances patient stratification and recruitment—crucial steps in trial initiation. Natural l...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11491624/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence for optimizing recruitment and retention in...by X Lu · 2024 · Cited by 62 — Applying AI to recruitment in clinical trials...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41467-026-70509-w](https://www.nature.com/articles/s41467-026-70509-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureTrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41467-026-70509-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41467-026-70509-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrialMatchAI: an end-to-end AI-powered clinical trial...by M Abdallah · 2026 · Cited by 5 — We present TrialMatchAI, an AI-powered...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.08508](https://arxiv.org/abs/2505.08508)  
+   Link: <a href="https://arxiv.org/abs/2505.08508" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08508</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
    Title: arXiv Match Miner-AI: An Open-Source Solution for Cancer Clinical Trial Matching  
-   Link: [https://arxiv.org/abs/2412.17228](https://arxiv.org/abs/2412.17228)  
+   Link: <a href="https://arxiv.org/abs/2412.17228" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.17228</a>  
 
 9. <a id="endnote-9"></a>
    Source: oncology-central.com  
-   Link: [https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/](https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/)  
+   Link: <a href="https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.oncology-central.com/podcasts/how-is-artificial-intelligence-changing-clinical-trial-feasibility-and-recruitment/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How is artificial intelligence changing clinical trial feasibility...7 Jan 2020 — Deep 6 as the name suggests uses AI on clinical data t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCMachine Learning and Digital Biomarkers Can Detect Early...by A Chudzik · 2024 · Cited by 134 — This review explores “digital biomark...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10934426/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning and Digital Biomarkers Can Detect Early...by A Chudzik · 2024 · Cited by 134 — This review explores “digital biomark...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0956566323003299](https://www.sciencedirect.com/science/article/pii/S0956566323003299)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0956566323003299" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0956566323003299</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The convergence of traditional and digital biomarkers...by SS Arya · 2023 · Cited by 187 — This review brings together conventional and...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: fda.gov  
    Title: artificial intelligence software medical device  
-   Link: [https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device)  
+   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-software-medical-device</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationArtificial Intelligence in Software as a Medical DeviceMar 25, 2025 — AI/ML technologies have the potential t...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2511.05696](https://arxiv.org/abs/2511.05696)  
+   Link: <a href="https://arxiv.org/abs/2511.05696" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.05696</a>  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1386505625003582](https://www.sciencedirect.com/science/article/pii/S1386505625003582)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625003582" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625003582</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in clinical trials: A comprehensive...by DB Olawade · 2025 · Cited by 11 — Analysis of relevant studies demonstr...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1386505625001170](https://www.sciencedirect.com/science/article/pii/S1386505625001170)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625001170" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625001170</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Health Record based recruitment support systemsby M Vaterkowski · 2025 · Cited by 5 — This scoping review focused on articles...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41746-023-00767-1](https://www.nature.com/articles/s41746-023-00767-1)  
+   Link: <a href="https://www.nature.com/articles/s41746-023-00767-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-023-00767-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence from ClinicalTrials.gov on the growth of Digital...by L Masanneck · 2023 · Cited by 95 — This study analyzed the recent evoluti...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2503.00863v1](https://arxiv.org/html/2503.00863v1)  
+   Link: <a href="https://arxiv.org/html/2503.00863v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2503.00863v1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Literature Review on Clinical Trial Eligibility...2 Mar 2025 — The capability of NLP methods to parse and interpret eligibili...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardian AI-enhanced blood test may detect Parkinson's years before onset  
-   Link: [https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset](https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset)  
+   Link: <a href="https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/article/2024/jun/18/ai-enhanced-blood-test-may-detect-parkinsons-years-before-onset</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This predictive test, if validated in larger populations, could become accessible within two years using existing NHS laboratory equipmen...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: realtime-eclinical.com  
-   Link: [https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/](https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/)  
+   Link: <a href="https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/" target="_blank" rel="noopener noreferrer nofollow">https://realtime-eclinical.com/2025/02/06/the-fdas-draft-guidance-for-ai-in-clinical-trials-implications-for-sites-and-amcs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The FDA&#x27;s Draft Guidance for AI in Clinical TrialsFeb 6, 2025 — The guidance addresses how AI can improve trial design, streamline regula...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices](https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices)  
+   Link: <a href="https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence-Enabled Medical DevicesThe AI-Enabled Medical Device List is a resource intended to identify AI-enabled medical d...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fda.gov  
    Title: role artificial intelligence clinical trial design and research dr elzarrad  
-   Link: [https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad](https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad)  
+   Link: <a href="https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/drugs/news-events-human-drugs/role-artificial-intelligence-clinical-trial-design-and-research-dr-elzarrad</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Artificial Intelligence in Clinical Trial Design...30 May 2024 — AI has been explored already and used in part of a clinical...</p></details>
    Published: May 2024  
 
@@ -933,53 +927,53 @@ For the broader AI bloom argument, that may be one of the most consequential pos
 
 22. <a id="endnote-22"></a>
    Source: smartbridge.com  
-   Link: [https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/](https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/)  
+   Link: <a href="https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/" target="_blank" rel="noopener noreferrer nofollow">https://smartbridge.com/ai-in-clinical-trials-accelerating-drug-development/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Clinical Trials: Accelerating Drug Development2 days ago — Learn how pharma teams use AI in clinical trials to speed enrollment, op...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment](https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment)  
+   Link: <a href="https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893501663/Transforming-Cancer-Clinical-Trials-The-Integral-Role-of-Artificial-Intelligence-in-Electronic-Health-Records-for-Efficient-Patient-Recruitment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in EHRs for Cancer Trial Recruitment | PDFAI&#x27;s ability to quickly process and interpret EHR data significantly accelerates the timelin...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y](https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y)  
+   Link: <a href="https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/amanda-martin-ba-cssgb-acrp-gcp-b1090341_digital-biomarkers-are-reshaping-how-evidence-activity-7361906536614445056-mc4Y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI and digital biomarkers are changing clinical trialsFor healthcare and pharma: New AI-powered screening centres to boost early dete...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test](https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test)  
+   Link: <a href="https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/health/cancer/new-ai-model-spots-pancreatic-cancer-up-to-3-years-earlier-than-human-doctors-in-test</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers tested REDMOD on almost 2,000 CT scans previously deemed &quot;normal,&quot; and the AI successfully identified structural abnormalitie...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: veranahealth.com  
-   Link: [https://veranahealth.com/clinical-research-solutions/patient-recruitment/](https://veranahealth.com/clinical-research-solutions/patient-recruitment/)  
+   Link: <a href="https://veranahealth.com/clinical-research-solutions/patient-recruitment/" target="_blank" rel="noopener noreferrer nofollow">https://veranahealth.com/clinical-research-solutions/patient-recruitment/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Verana Health&#x27;s Patient Recruitment SolutionsOur AI algorithms predict which patient populations and regions are most likely to participa...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: trialx.com  
-   Link: [https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/](https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/)  
+   Link: <a href="https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/" target="_blank" rel="noopener noreferrer nofollow">https://trialx.com/how-trialx-ai-powered-clinical-trial-matching-leverages-ehr-data-to-identify-eligible-patients-efficiently/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How TrialX AI-Powered Clinical Trial Matching Leverages...9 Apr 2026 — These research shows how EHR data and AI are being used in real-w...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pathai.com  
-   Link: [https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials](https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials)  
+   Link: <a href="https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials" target="_blank" rel="noopener noreferrer nofollow">https://www.pathai.com/news/pathais-aim-mash-ai-assist-becomes-first-ai-powered-pathology-tool-to-receive-fda-qualification-for-mash-clinical-trials</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PathAI&#x27;s AIM-MASH AI Assist Becomes First AI-Powered...Dec 9, 2025 — PathAI&#x27;s AIM-MASH AI Assist1 Becomes First AI-Powered Pathology Too...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: hoganlovells.com  
-   Link: [https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research](https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research)  
+   Link: <a href="https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research" target="_blank" rel="noopener noreferrer nofollow">https://www.hoganlovells.com/en/publications/fdas-evolving-regulatory-framework-for-ai-use-in-drug-device-clinical-trials-and-research</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA&#x27;s evolving regulatory framework for AI use in drug &amp;...13 Jan 2025 — FDA previously discussed digital twins in its May 2023 discussi...</p></details>
    Published: May 2023  
 
 30. <a id="endnote-30"></a>
    Source: gmdpacademy.org  
    Title: fda recognizes ai mls role in advancing drug development and clinical trials  
-   Link: [https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/](https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/)  
+   Link: <a href="https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/" target="_blank" rel="noopener noreferrer nofollow">https://gmdpacademy.org/news/fda-recognizes-ai-mls-role-in-advancing-drug-development-and-clinical-trials/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI/ML in Drug Development: FDA Recognizes Role...10 Sept 2024 — By improving patient selection, AI/ML models can help ensure that clinic...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: ovid.com  
    Title: jama.2024.21451~fda perspective on the regulation of artificial intelligence  
-   Link: [https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence](https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence)  
+   Link: <a href="https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jama/pdf/10.1001/jama.2024.21451~fda-perspective-on-the-regulation-of-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FDA Perspective on the Regulation of Artificial Intelligence...by HJ Warraich · 2025 · Cited by 279 — • Predict an individual participan...</p></details>

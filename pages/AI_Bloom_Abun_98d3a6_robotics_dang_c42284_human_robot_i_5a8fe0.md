@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /robotics/
 nav_short_title: Interaction Safety
 title: Managing Risks When Humans and Robots Work Together
-title_full: Managing Risks When Humans and Robots Work Together | Robotics
+title_full: Managing Risks When Humans and Robots Work Together
 display_title_short: Interaction Safety
 display_title: Interaction Safety
 heading_title: Managing Risks When Humans and Robots Work Together
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could Robots End Dangerous Drudgery? | AI Bloom
+date: '2026-06-08 01:33:11'
+parent_title: Could Robots End Dangerous Drudgery?
 parent_permalink: /robotics/
 parent_nav_short_title: Robotics
 parent_heading_title: Could Robots End Dangerous Drudgery?
@@ -279,7 +280,6 @@ next_link:
   permalink: /labour-impacts/
   short_title: Labour Impacts
   heading_title: How Automation of Dangerous Work Reshapes Jobs and Wages
-date: '2026-06-08 01:33:11 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-1.webp
@@ -290,7 +290,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a
 
 As robots become more capable and AI‑driven machines enter everyday workplaces—not just isolated factory floors—ensuring that human workers are safe when they work alongside these systems is a core concern. **Human–robot interaction (HRI) and workplace safety** focuses on the risks and safeguards that matter when people share physical space, tasks or decision‑making with robots and autonomous machines. These issues go well beyond traditional automation safety, which relied on physical separation; they stretch into psychology, trust, design standards, and rigorous risk assessment. Properly managed, human–robot interaction can reduce hazardous labour while supporting humans in higher‑value work; poorly managed, it can introduce new dangers and undermine worker confidence. This page explains the mechanisms, hazards and mitigation strategies that matter in collaborative workplaces.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-1-dark.svg" | relative_url }}" alt="Interaction Safety illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Physical Safety and Contact Hazards
 
@@ -298,28 +297,26 @@ A central safety question in human–robot interaction is **physical contact ris
 
 **Safety standards and operation modes:** International technical specifications such as **ISO/TS 15066** and **ISO 10218** define how collaborative operations can be carried out safely. These standards describe modes such as *safety‑rated monitored stop* (halting robot motion when a human enters), *hand guiding* (where humans use dedicated devices to guide robot movement), *speed and separation monitoring* (robots adjust speed based on distance from a human) and *[power]({{ 'power/' | relative_url }}) and force limiting* (robots restrict force applied during contact). These mechanisms set biomechanical limits intended to reduce the severity of any accidental contact based on body region and anticipated interaction.[MDPI]
 
-**Sensors and real‑time monitoring:** Modern systems use suites of sensors—vision systems, depth cameras and laser scanners—to detect human presence and proactively manage robot motion. Vision‑based safety systems defined zones around robotic workspaces and adjust robot speed or halt motion when a human enters a safety boundary, aiming to ensure that reaction times meet required safety thresholds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Vision-Based Safety System for Barrierless Human-Robot Collaboration</span><span class="citation-popover-snippet">arXivVision-Based Safety System for Barrierless Human-Robot CollaborationAugust 3, 2022...</span><span class="citation-popover-meta">Published: August 3, 2022</span></span></span>
+**Sensors and real‑time monitoring:** Modern systems use suites of sensors—vision systems, depth cameras and laser scanners—to detect human presence and proactively manage robot motion. Vision‑based safety systems defined zones around robotic workspaces and adjust robot speed or halt motion when a human enters a safety boundary, aiming to ensure that reaction times meet required safety thresholds.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2208.02010" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Vision-Based Safety System for Barrierless Human-Robot Collaboration</span><span class="citation-popover-snippet">Vision-Based Safety System for Barrierless Human-Robot CollaborationAugust 3, 2022...</span><span class="citation-popover-meta">Published: August 3, 2022</span></span></span>
 
-Even with these safeguards, **inadequate safety measures can still pose risks**. Most industrial robots lack innate awareness of their environment, and without appropriate sensors and [control]({{ 'control/' | relative_url }}) logic, collisions remain possible. Rigorous *task‑based risk assessment*—evaluating every robot’s behaviour, tooling, work cycle and contact scenario before it is deployed—is vital for identifying and mitigating hazards unique to each application.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">characterizing task based human robot collaboration safety manufacturing</span><span class="citation-popover-snippet">NISTCharacterizing Task-Based Human-Robot Collaboration Safety in Manufacturing | NISTFebruary 27, 2015...</span><span class="citation-popover-meta">Published: February 27, 2015</span></span></span>
-
+Even with these safeguards, **inadequate safety measures can still pose risks**. Most industrial robots lack innate awareness of their environment, and without appropriate sensors and [control]({{ 'control/' | relative_url }}) logic, collisions remain possible. Rigorous *task‑based risk assessment*—evaluating every robot’s behaviour, tooling, work cycle and contact scenario before it is deployed—is vital for identifying and mitigating hazards unique to each application.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">characterizing task based human robot collaboration safety manufacturing</span><span class="citation-popover-snippet">Characterizing Task-Based Human-Robot Collaboration Safety in Manufacturing &#124; NISTFebruary 27, 2015...</span><span class="citation-popover-meta">Published: February 27, 2015</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-2-dark.svg" | relative_url }}" alt="Interaction Safety illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Psychological Safety and Trust in Collaboration
 
-Physical contact isn’t the only safety concern. **How safe workers *feel*** when interacting with robots strongly influences performance, situational awareness and long‑term adoption of collaborative systems. Perceived safety is shaped by robot behaviour, predictability, appearance and communication cues. In research settings, robot approach speed, direction and signalling (such as projected signals or turn indicators) significantly affected workers’ sense of safety and trust. Unpredictable motion or opaque decision‑making can increase [psychological]({{ 'crew-resilience/' | relative_url }}) stress and erode confidence in the system, even when physical safeguards are in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedA Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
+Physical contact isn’t the only safety concern. **How safe workers *feel*** when interacting with robots strongly influences performance, situational awareness and long‑term adoption of collaborative systems. Perceived safety is shaped by robot behaviour, predictability, appearance and communication cues. In research settings, robot approach speed, direction and signalling (such as projected signals or turn indicators) significantly affected workers’ sense of safety and trust. Unpredictable motion or opaque decision‑making can increase psychological stress and erode confidence in the system, even when physical safeguards are in place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
 
-Researchers highlight the importance of predictable, interpretable robot actions, intuitive interfaces and clear communication of intent. For example, haptic feedback devices, visual cues on the floor or explicit signalling can help humans anticipate robot actions and maintain situational awareness. Loss of trust can lead to over‑cautious behaviour, under‑engagement with the robot, or even outright rejection of collaborative systems, all of which reduce productivity and undermine safety culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedA Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
+Researchers highlight the importance of predictable, interpretable robot actions, intuitive interfaces and clear communication of intent. For example, haptic feedback devices, visual cues on the floor or explicit signalling can help humans anticipate robot actions and maintain situational awareness. Loss of trust can lead to over‑cautious behaviour, under‑engagement with the robot, or even outright rejection of collaborative systems, all of which reduce productivity and undermine safety culture.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</span><span class="citation-popover-meta">Published: January 8, 2024</span></span></span>
 
-[Cognitive]({{ 'broad-access/' | relative_url }}) safety complements physical safety: a robot might be physically incapable of harming a human, yet its unpredictable or inexplicable actions could “freeze” workers, distract them or induce stress, which in turn can lead to mistakes or safety lapses. Integrated design must therefore consider both the mechanical safety limits *and* the human psychological experience of collaboration.[PMC]
+Cognitive safety complements physical safety: a robot might be physically incapable of harming a human, yet its unpredictable or inexplicable actions could “freeze” workers, distract them or induce stress, which in turn can lead to mistakes or safety lapses. Integrated design must therefore consider both the mechanical safety limits *and* the human psychological experience of collaboration.[PMC]
 
 ## Standards, Training and Risk Management
 
 Human–robot safety relies heavily on **formal standards**, comprehensive training and ongoing risk management. Standards from bodies such as the International Organization for Standardization (ISO), the American National Standards Institute (ANSI) and workplace safety regulators set baseline requirements for design, implementation and [verification]({{ 'verification/' | relative_url }}) of robot systems. These standards require employers and integrators to conduct hazard analyses, document safety measures and validate that systems meet performance criteria before allowing human‑robot collaboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://roboticsystemsauthority.com/human-robot-interaction-and-collaboration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: roboticsystemsauthority.com">[Robotic Systems Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">roboticsystemsauthority.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A **risk assessment** should be *task‑based*, meaning it evaluates the specific hazards associated with a particular robot’s task, workspace constraints, [human roles]({{ 'human-role/' | relative_url }}) and expected interactions. It considers potential tool forces, durations of contact, sensor limitations and environmental variables. Such assessments guide the selection of safeguards, from limiting robot speed to adding proximity sensors or reconfiguring workflows to minimise human exposure to dynamic motion zones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">characterizing task based human robot collaboration safety manufacturing</span><span class="citation-popover-snippet">NISTCharacterizing Task-Based Human-Robot Collaboration Safety in Manufacturing | NISTFebruary 27, 2015...</span><span class="citation-popover-meta">Published: February 27, 2015</span></span></span>
+A **risk assessment** should be *task‑based*, meaning it evaluates the specific hazards associated with a particular robot’s task, workspace constraints, [human roles]({{ 'human-role/' | relative_url }}) and expected interactions. It considers potential tool forces, durations of contact, sensor limitations and environmental variables. Such assessments guide the selection of safeguards, from limiting robot speed to adding proximity sensors or reconfiguring workflows to minimise human exposure to dynamic motion zones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">characterizing task based human robot collaboration safety manufacturing</span><span class="citation-popover-snippet">Characterizing Task-Based Human-Robot Collaboration Safety in Manufacturing &#124; NISTFebruary 27, 2015...</span><span class="citation-popover-meta">Published: February 27, 2015</span></span></span>
 
 **Training and competency:** Workers must understand how robots operate, safety protocols, emergency stop procedures and how to interpret robot signals. Training builds both procedural knowledge and confidence, reducing hesitation and confusion during interactions. Engaging workers in safety planning also ensures that procedures are grounded in real‑world workflows rather than abstract checklists.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-3-dark.svg" | relative_url }}" alt="Interaction Safety illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Balancing Productivity and Safety
@@ -340,16 +337,16 @@ However, achieving that balance requires careful engineering, adherence to evolv
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human + Machine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wpY4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human + Machine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human + Machine">Human + Machine</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Paul R. Daugherty, H. James Wilson</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Directly addresses how humans and intelligent systems can work together safely and productively.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+%2B+Machine+by+Paul+R.+Daugherty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -357,16 +354,16 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Provides broader context for robotics entering human labour environments.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -374,16 +371,16 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Robotics%2C+AI%2C+and+Humanity+by+Joachim+von+Braun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Robotics, AI, and Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=p-gdEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Robotics, AI, and Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Medicine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_EFlDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Medicine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+AI%2C+and+Humanity+by+Joachim+von+Braun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Robotics, AI, and Humanity">Robotics, AI, and Humanity</a>
+          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Medicine">Deep Medicine</a>
         </h4>
-        <p class="fr-book-author">By Joachim von Braun, Margaret S. Archer et al.</p>
+        <p class="fr-book-author">By Eric Topol</p>
         
-        <p class="fr-book-desc">Covers human-centred questions around robotics and AI deployment.</p>
+        <p class="fr-book-desc">Explains AI&#x27;s promise and limits in real medical practice.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Robotics%2C+AI%2C+and+Humanity+by+Joachim+von+Braun&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Deep+Medicine+by+Eric+Topol&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -391,16 +388,16 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Billion-Dollar Molecule on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Pw4_sKSwizYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Billion-Dollar Molecule" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
+          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Billion-Dollar Molecule">The Billion-Dollar Molecule</a>
         </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+        <p class="fr-book-author">By Barry Werth</p>
         
-        <p class="fr-book-desc">Explores how increasingly capable robots and AI systems alter workplaces and society.</p>
+        <p class="fr-book-desc">Shows why moving from molecule to medicine is difficult.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Billion-Dollar+Molecule+by+Barry+Werth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -408,7 +405,7 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+%2B+Machine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human + Machine</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Robotics%2C+AI%2C+and+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Robotics, AI, and Humanity</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Medicine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Medicine</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -445,15 +442,15 @@ However, achieving that balance requires careful engineering, adherence to evolv
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+"><img src="{{ '/assets/images/marketplace-covers/2d5008516bc0d9d6228c.jpg' | relative_url }}" alt="Listing image for STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only"><img src="https://i.ebayimg.com/images/g/4P0AAeSwg2ZqGxAi/s-l225.jpg" alt="Listing image for Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">STEM Spider Robot Toy Kit DIY Educational Science Project Kids Building Gift 6+</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -461,15 +458,15 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kits - Rotating Mechanical Robotics Set for , ,"><img src="{{ '/assets/images/marketplace-covers/87b0c9d1cfcdb6e7a752.jpg' | relative_url }}" alt="Listing image for Kits - Rotating Mechanical Robotics Set for , ," loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK"><img src="https://i.ebayimg.com/images/g/gYgAAeSwcWdqENas/s-l225.jpg" alt="Listing image for 1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Kits - Rotating Mechanical Robotics Set for , ,</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +474,15 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="{{ '/assets/images/marketplace-covers/6316323198d3d3131842.jpg' | relative_url }}" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888"><img src="https://i.ebayimg.com/images/g/05sAAeSwhLRqFFmB/s-l225.jpg" alt="Listing image for STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +490,15 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed"><img src="{{ '/assets/images/marketplace-covers/45456d42d140ae8a9876.jpg' | relative_url }}" alt="Listing image for Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car"><img src="https://i.ebayimg.com/images/g/OXwAAeSwGJxpFKqM/s-l225.jpg" alt="Listing image for 6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Makeblock mBot STEM Educational Robot Kit – Bluetooth Version Boxed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">6 in 1 Solar Powered Boat Robot Kit DIY Educational Toy 3D Model Fan Toys Car</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,7 +506,7 @@ However, achieving that balance requires careful engineering, adherence to evolv
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="interaction-safety-managing-risks-when-humans-and-robots-work-together-ai-bloom-abundance-superi-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=managing-risks-when-humans-and-robots-work-together-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="managing-risks-when-humans-and-robots-work-together-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -724,115 +721,115 @@ However, achieving that balance requires careful engineering, adherence to evolv
 
 1. <a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2224-2708/10/3/48](https://www.mdpi.com/2224-2708/10/3/48)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIHuman–Robot Collaboration Trends and Safety Aspects: A Systematic Review | MDPIJuly 13, 2021...</p></details>
+   Link: <a href="https://www.mdpi.com/2224-2708/10/3/48" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2224-2708/10/3/48</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Human–Robot Collaboration Trends and Safety Aspects: A Systematic Review | MDPIJuly 13, 2021...</p></details>
    Published: July 13, 2021  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Vision-Based Safety System for Barrierless Human-Robot Collaboration  
-   Link: [https://arxiv.org/abs/2208.02010](https://arxiv.org/abs/2208.02010)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivVision-Based Safety System for Barrierless Human-Robot CollaborationAugust 3, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2208.02010" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2208.02010</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vision-Based Safety System for Barrierless Human-Robot CollaborationAugust 3, 2022...</p></details>
    Published: August 3, 2022  
 
 3. <a id="endnote-3"></a>
    Source: nist.gov  
    Title: characterizing task based human robot collaboration safety manufacturing  
-   Link: [https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing](https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTCharacterizing Task-Based Human-Robot Collaboration Safety in Manufacturing | NISTFebruary 27, 2015...</p></details>
+   Link: <a href="https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/characterizing-task-based-human-robot-collaboration-safety-manufacturing</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Characterizing Task-Based Human-Robot Collaboration Safety in Manufacturing | NISTFebruary 27, 2015...</p></details>
    Published: February 27, 2015  
 
 4. <a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2218-6581/14/3/27](https://www.mdpi.com/2218-6581/14/3/27)  
+   Link: <a href="https://www.mdpi.com/2218-6581/14/3/27" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/14/3/27</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing Safety in Physical Human–Robot Interaction in Industrial Settings: A Systematic Review of Contact Modelling and Impact Measurin...</p></details>
    Published: February 28, 2025  
 
 5. <a id="endnote-5"></a>
    Source: mdpi.com  
    Title: Validating Safety in Human–Robot Collaboration: Standards and New Perspectives  
-   Link: [https://www.mdpi.com/2218-6581/10/2/65](https://www.mdpi.com/2218-6581/10/2/65)  
+   Link: <a href="https://www.mdpi.com/2218-6581/10/2/65" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/10/2/65</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In parallel, the use of robots and robotic devices is increasing in several fields, substituti...</p></details>
    Published: April 29, 2021  
 
 6. <a id="endnote-6"></a>
    Source: mdpi.com  
    Title: Validating Safety in Human–Robot Collaboration: Standards and New Perspectives  
-   Link: [https://www.mdpi.com/2218-6581/10/2/65/html](https://www.mdpi.com/2218-6581/10/2/65/html)  
+   Link: <a href="https://www.mdpi.com/2218-6581/10/2/65/html" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2218-6581/10/2/65/html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROBOT SAFETY: THE REGULATORY FRAMEWORK 2.1. OVERVIEW The main regulation in the European community dealing with robot safety is the Machi...</p></details>
    Published: April 29, 2021  
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/38190192/](https://pubmed.ncbi.nlm.nih.gov/38190192/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedA Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38190192/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38190192/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Literature Review on Safety Perception and Trust during Human-Robot Interaction with Autonomous Mobile Robots That Apply to Indus...</p></details>
    Published: January 8, 2024  
 
 8. <a id="endnote-8"></a>
    Source: roboticsystemsauthority.com  
-   Link: [https://roboticsystemsauthority.com/human-robot-interaction-and-collaboration](https://roboticsystemsauthority.com/human-robot-interaction-and-collaboration)  
+   Link: <a href="https://roboticsystemsauthority.com/human-robot-interaction-and-collaboration" target="_blank" rel="noopener noreferrer nofollow">https://roboticsystemsauthority.com/human-robot-interaction-and-collaboration</a>  
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8037017/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8037017/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037017/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8037017/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PRELIMINARIES Quality, accuracy, reliability, and error rates are characteristics that must be evaluated in safety components. The princi...</p></details>
    Published: April 1, 2021  
 
 10. <a id="endnote-10"></a>
    Source: osha.gov  
    Title: OSH A Technical Manual (OTM)  
-   Link: [https://www.osha.gov/otm/section-4-safety-hazards/chapter-4](https://www.osha.gov/otm/section-4-safety-hazards/chapter-4)  
+   Link: <a href="https://www.osha.gov/otm/section-4-safety-hazards/chapter-4" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/otm/section-4-safety-hazards/chapter-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction 2. Basic Components of Industrial Robot Systems 1. Manipulator 2. Control System 3. Teach Pendant 4. E...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: researchportal.port.ac.uk  
-   Link: [https://researchportal.port.ac.uk/en/publications/working-together-a-review-on-safe-human-robot-collaboration-in-in/](https://researchportal.port.ac.uk/en/publications/working-together-a-review-on-safe-human-robot-collaboration-in-in/)  
+   Link: <a href="https://researchportal.port.ac.uk/en/publications/working-together-a-review-on-safe-human-robot-collaboration-in-in/" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.port.ac.uk/en/publications/working-together-a-review-on-safe-human-robot-collaboration-in-in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>together: a review on safe human-robot collaboration in industrial environments - University of PortsmouthNovember 14, 2017 — WORKING TOG...</p></details>
    Published: November 14, 2017  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0736584517302168](https://www.sciencedirect.com/science/article/pii/S0736584517302168)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING Volume 56, April 2019, Pages 233-243 A CYBER PHYSICAL SYSTEM (CPS) APPROACH F...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0736584517302168" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0736584517302168</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING Volume 56, April 2019, Pages 233-243 A CYBER PHYSICAL SYSTEM (CPS) APPROACH F...</p></details>
    Published: April 2019  
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Collaborative robotics: New era of human–robot cooperation in the workplace  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0022437520300797](https://www.sciencedirect.com/science/article/abs/pii/S0022437520300797)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJOURNAL OF SAFETY RESEARCH Volume 74, September 2020, Pages 153-160 Special Issue: NOIRS Collaborative robotics: New era of...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022437520300797" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022437520300797</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>JOURNAL OF SAFETY RESEARCH Volume 74, September 2020, Pages 153-160 Special Issue: NOIRS Collaborative robotics: New era of...</p></details>
    Published: September 2020  
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: Collaborative robotics: New era of human–robot cooperation in the workplace  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022437520300797](https://www.sciencedirect.com/science/article/pii/S0022437520300797)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSeptember 1, 2020 — JOURNAL OF SAFETY RESEARCH Volume 74, September 2020, Pages 153-160 Special Issue: NOIRS Collaborative r...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022437520300797" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022437520300797</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 1, 2020 — JOURNAL OF SAFETY RESEARCH Volume 74, September 2020, Pages 153-160 Special Issue: NOIRS Collaborative r...</p></details>
    Published: September 1, 2020  
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753523002552](https://www.sciencedirect.com/science/article/pii/S0925753523002552)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectJanuary 1, 2024 — OCCUPATIONAL HEALTH AND SAFETY ISSUES IN HUMAN-ROBOT COLLABORATION: STATE OF THE ART AND OPEN CHALLENGES h...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753523002552" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753523002552</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 1, 2024 — OCCUPATIONAL HEALTH AND SAFETY ISSUES IN HUMAN-ROBOT COLLABORATION: STATE OF THE ART AND OPEN CHALLENGES h...</p></details>
    Published: January 1, 2024  
 
 16. <a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753520302290](https://www.sciencedirect.com/science/article/pii/S0925753520302290)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753520302290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753520302290</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orienting safety assurance with outcomes of hazard analysis and risk assessment: A review of the ISO 15066 standard for collaborative rob...</p></details>
    Published: September 1, 2020  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Safety bounds in human robot interaction: A survey  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643](https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925753520300643</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectSAFETY SCIENCE Volume 127, July 2020, 104667 SAFETY BOUNDS IN HUMAN ROBOT INTERACTION: A SURVEY [https://doi.org/10.1016/j.ss...&quot;](https://doi.org/10.1016/j.ss...&quot;)...</p></details>
    Published: July 2020  
 
 18. <a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s11740-018-0868-2](https://link.springer.com/article/10.1007/s11740-018-0868-2)  
+   Link: <a href="https://link.springer.com/article/10.1007/s11740-018-0868-2" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11740-018-0868-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>situational and mode awareness for safe human-robot collaboration: case studies on assembly applications | Production Engineering | Sprin...</p></details>
-   Published: December 12, 2018  
+   Published: December 12, 2018

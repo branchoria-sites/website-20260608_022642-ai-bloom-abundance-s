@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-abundant-inte/
 description: Focused pages that expand on Skill Gaps.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_workplace_0bb480
-parent_title: Skill Gaps | Intelligence
+parent_title: Skill Gaps
 parent_nav_short_title: Skill Gaps
 parent_permalink: /skill-gaps/
 ---

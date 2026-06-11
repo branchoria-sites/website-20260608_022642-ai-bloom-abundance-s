@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /climate-twins/
 nav_short_title: Destin E Floods
 title: Can Europe Simulate Flood Disasters Before They Happen?
-title_full: Can Europe Simulate Flood Disasters Before They Happen? | Climate Twins
+title_full: Can Europe Simulate Flood Disasters Before They Happen?
 display_title_short: Destin E Floods
 display_title: Destin E Floods
 heading_title: Can Europe Simulate Flood Disasters Before They Happen?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could AI Weather Twins Make Climate Disasters Less Deadly? | Resilience
+date: '2026-06-08 01:57:41'
+parent_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
 parent_permalink: /climate-twins/
 parent_nav_short_title: Climate Twins
 parent_heading_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
@@ -266,7 +267,6 @@ next_link:
   permalink: /storm-ensembles/
   short_title: Storm Ensembles
   heading_title: Why AI Storm Forecasts Now Explore Hundreds of Futures
-date: '2026-06-08 01:57:41 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-1.webp
@@ -277,17 +277,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae
 
 Europe is trying to answer a difficult question before the next major flood arrives: can emergency planners rehearse a disaster in enough detail to move people out of danger before roads, bridges and neighbourhoods become trapped by rising water?
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-1-dark.svg" | relative_url }}" alt="Destin E Floods illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The European Union’s Destination Earth programme, usually shortened to DestinE, is one of the most ambitious attempts yet to do that. Rather than producing only conventional weather forecasts, DestinE is building a high-resolution digital twin of the Earth that can simulate extreme weather, river flooding, storm surges and climate impacts at scales useful for local decision-making. The goal is not simply to predict rain. It is to model how a flood may spread through particular landscapes, which areas may be cut off first, and how emergency services could respond under different scenarios. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">Destination EarthDestination EarthDestination Earth is a flagship initiative of the European Commission to develop a highly-accurate digi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/use-cases/disaster-risk-mitigation-climate-adaptation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">Destination EarthDisaster Risk Mitigation &amp; Climate AdaptationDeltares, together with its partners KNMI, Tecnalia and 510 Red Cross, are...</span></span></span>
 
-Within the broader vision of [AI weather]({{ 'climate-twins/' | relative_url }}) digital twins for climate disaster planning, flood simulation is one of the clearest examples of how advanced computation could contribute to human resilience. If societies can anticipate disasters with greater precision, they gain time to evacuate vulnerable populations, protect infrastructure and reduce loss of life. That is a modest but concrete example of a larger AI-bloom idea: using increasingly capable [intelligence]({{ 'intelligence/' | relative_url }}) systems not only to generate economic value, but to help civilisation manage risks that threaten long-term human flourishing.
+Within the broader vision of AI weather digital twins for climate disaster planning, flood simulation is one of the clearest examples of how advanced computation could contribute to human [resilience]({{ 'resilience/' | relative_url }}). If societies can anticipate disasters with greater precision, they gain time to evacuate vulnerable populations, protect infrastructure and reduce loss of life. That is a modest but concrete example of a larger AI-bloom idea: using increasingly capable [intelligence]({{ 'intelligence/' | relative_url }}) systems not only to generate economic value, but to help civilisation manage risks that threaten long-term human flourishing.
 
 ## Can Europe Simulate Flood Disasters Before They Happen?
 
 DestinE is not a single weather model. It is a large European effort involving the European Commission, the European Centre for Medium-Range Weather Forecasts (ECMWF), the European Space Agency and other institutions to create a continuously updated digital representation of the Earth system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/use-cases/flood-signals-pilot-service-high-resolution/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">Destination EarthFlood Signals Pilot Service: High-Resolution Precipitation...The Pilot Service builds on Destination Earth&#x27;s advanced f...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">Digital Twins and Digital Twin EngineThe first two high-priority digital twins (DT) are the Weather-Induced Extremes Digital Twin and the...</span></span></span>
 
-One of its flagship components is the Weather-Induced Extremes Digital Twin, designed specifically to support decisions around floods, storms, droughts and other environmental hazards. The system combines Earth observations, numerical weather prediction, hydrological models and AI-enhanced processing to generate simulations of how extreme events may unfold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">DestinE ML demonstrator – Machine learning for flood...A machine learning (ML) Demonstrator will be developed to assist optimising power...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/digital-twins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-title">Destination Earth The Digital Twins | Destination Earth</span><span class="citation-popover-snippet">These twins will simulate the behaviour of our...Read more...</span></span></span>
+One of its flagship components is the Weather-Induced Extremes Digital Twin, designed specifically to support decisions around floods, storms, droughts and other environmental hazards. The system combines Earth observations, numerical weather prediction, hydrological models and AI-enhanced processing to generate simulations of how extreme events may unfold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-snippet">DestinE ML demonstrator – Machine learning for flood...A machine learning (ML) Demonstrator will be developed to assist optimising power...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destine.ecmwf.int/digital-twins/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destine.ecmwf.int">[ECMWF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destine.ecmwf.int</span><span class="citation-popover-title">Destination Earth The Digital Twins &#124; Destination Earth</span><span class="citation-popover-snippet">These twins will simulate the behaviour of our...Read more...</span></span></span>
 
 For evacuation planning, the key shift is that authorities are moving from broad regional warnings toward scenario-based forecasting. Instead of hearing that heavy rainfall is likely somewhere in a river basin, planners may increasingly be able to examine multiple possible flood evolutions, estimate which transport corridors remain usable, and identify populations at greatest risk.
 
@@ -301,7 +300,6 @@ Its global component produces forecasts at resolutions around 4.4 kilometres, wh
 
 For flood planning, that extra detail matters because flood damage is often determined by local geography:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Whether rainfall falls on steep slopes or flat terrain.
@@ -314,10 +312,9 @@ For flood planning, that extra detail matters because flood damage is often dete
 
 DestinE's architecture is designed to combine atmospheric forecasts with hydrological and impact-sector models so that planners can move beyond rainfall predictions alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://destination-earth.eu/news/new-destine-climate-digital-twin-data-released/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: destination-earth.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">destination-earth.eu</span><span class="citation-popover-title">new destine climate digital twin data released</span><span class="citation-popover-snippet">18 May 2026 — New simulations produced with DestinE&#x27;s Climate Change Adaptation Digital Twin (Climate DT) are now available via the Desti...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-A major challenge is computational speed. Traditional flood simulations can be extremely expensive to run, especially when authorities need many alternative scenarios. AI methods are increasingly being explored to accelerate these calculations. Research linked to digital-twin approaches has demonstrated machine-learning systems capable of reproducing complex flood dynamics dramatically faster than conventional hydrodynamic models while maintaining useful accuracy for planning applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.07100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDigital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</span></span></span>
+A major challenge is computational speed. Traditional flood simulations can be extremely expensive to run, especially when authorities need many alternative scenarios. AI methods are increasingly being explored to accelerate these calculations. Research linked to digital-twin approaches has demonstrated machine-learning systems capable of reproducing complex flood dynamics dramatically faster than conventional hydrodynamic models while maintaining useful accuracy for planning applications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.07100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Digital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</span></span></span>
 
 The practical consequence is that emergency teams may be able to examine dozens or hundreds of plausible flood evolutions instead of relying on a single forecast track.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mauJ7JHiP04" title="How AI helps predict extreme weather | BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mauJ7JHiP04" target="_blank" rel="noopener noreferrer">How AI helps predict extreme weather | BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News &middot; Views: 58.6K &middot; Uploaded: September 2024 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mauJ7JHiP04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mauJ7JHiP04">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +330,7 @@ DestinE's flood-related work increasingly focuses on these compound events. Euro
 
 One notable effort involves creating what researchers describe as a "digital replica" of vulnerable delta regions. These areas face simultaneous threats from coastal flooding, river overflow and sea-level rise.
 
-The objective is not merely to map where water might go. It is to support adaptation and emergency decisions by showing how different combinations of hazards could affect settlements, transport systems and critical infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/library/destination-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyDestination Earth | Shaping Europe&#x27;s digital future19 Mar 2021 — It aims to develop a highly accurate digital model of th...</span></span></span>
+The objective is not merely to map where water might go. It is to support adaptation and emergency decisions by showing how different combinations of hazards could affect settlements, transport systems and critical infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digital-strategy.ec.europa.eu/en/library/destination-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digital-strategy.ec.europa.eu">[Destination Earth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digital-strategy.ec.europa.eu</span><span class="citation-popover-snippet">Digital StrategyDestination Earth &#124; Shaping Europe&#x27;s digital future19 Mar 2021 — It aims to develop a highly accurate digital model of th...</span></span></span>
 
 For evacuation planners, such simulations can reveal difficult questions in advance:
 
@@ -350,7 +347,6 @@ Projects connected to DestinE are exploring "global-to-local" modelling approach
 
 This matters because evacuation decisions are often constrained by geography. A warning that is adequate for one valley may be far too late for another. High-resolution basin modelling offers the possibility of tailoring responses to local realities rather than relying on national-scale averages.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-2-dark.svg" | relative_url }}" alt="Destin E Floods illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Italian flood pilot services
 
@@ -363,7 +359,6 @@ Although still developing, such systems point toward a future where emergency ma
 Floods create a planning problem that is fundamentally about time.
 
 Every additional hour of warning can allow:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -383,7 +378,6 @@ This ability to run "what-if" experiments is one of the most important differenc
 
 In the context of AI bloom, this illustrates a broader possibility. Advanced intelligence systems may eventually help societies perform large-scale simulations of complex risks before those risks materialise. Flood management is an early, relatively concrete example of that wider capability.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LY_OPx51cvA" title="Understanding artificial intelligence in Destination Earth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LY_OPx51cvA" target="_blank" rel="noopener noreferrer">Understanding artificial intelligence in Destination Earth</a></p><p class="youtube-embed-meta">Channel: ECMWF &middot; Views: 1.2K &middot; Uploaded: November 2024 &middot; Length: 3 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LY_OPx51cvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LY_OPx51cvA">Open on YouTube</a></p></div></div></div>
 
 ## Limits of Evacuation Forecasts Under Uncertain Data
@@ -396,12 +390,11 @@ Flood forecasting remains one of the hardest problems in environmental modelling
 
 A flood simulation is only as reliable as the weather forecast feeding it.
 
-Small errors in predicted rainfall can produce much larger errors in river levels, flood extent and evacuation timing. Even sophisticated digital twins inherit uncertainty from the atmosphere itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.07100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDigital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</span></span></span>
+Small errors in predicted rainfall can produce much larger errors in river levels, flood extent and evacuation timing. Even sophisticated digital twins inherit uncertainty from the atmosphere itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2110.07100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Digital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</span></span></span>
 
 ### Local infrastructure is difficult to model
 
 Many of the factors that determine real flood outcomes are highly local:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -414,7 +407,6 @@ Many of the factors that determine real flood outcomes are highly local:
 </div>
 
 Representing these accurately across an entire continent remains extremely challenging.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-3-dark.svg" | relative_url }}" alt="Destin E Floods illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_ai_weather_di_ae13b8_destine_flood_e835c6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Human behaviour remains unpredictable
@@ -431,7 +423,7 @@ In practice, a 500-metre-resolution simulation may show greater detail while sti
 
 ## What This Reveals About AI and Civilisational Resilience
 
-Flood simulations may seem modest compared with grand discussions of superintelligence, [scientific]({{ 'discovery/' | relative_url }}) revolutions or post-scarcity abundance. Yet they highlight an important pathway through which advanced AI could contribute to a flourishing future.
+Flood simulations may seem modest compared with grand discussions of superintelligence, scientific revolutions or post-scarcity abundance. Yet they highlight an important pathway through which advanced AI could contribute to a flourishing future.
 
 A civilisation becomes more resilient when it can anticipate threats earlier, understand them more clearly and coordinate responses more effectively. Digital twins represent an attempt to expand that foresight.
 
@@ -439,9 +431,7 @@ Destination Earth is ultimately an experiment in using AI, Earth observation sys
 
 The broader significance is that flood planning offers a glimpse of a future in which increasingly capable intelligence systems help humanity understand complex physical systems before crises unfold. Whether that capability eventually scales into deeper forms of civilisational foresight remains uncertain. But the effort to simulate flood disasters before they happen shows one practical route by which advanced AI could help societies become safer, more resilient and better prepared for a changing world.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vtzBBQp3YXE" title="#DigitalEU TechXpert Talks: Destination Earth - the digital twin of our planet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vtzBBQp3YXE" target="_blank" rel="noopener noreferrer">#DigitalEU TechXpert Talks: Destination Earth - the digital twin of our planet</a></p><p class="youtube-embed-meta">Channel: DigitalEU &middot; Views: 958 &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vtzBBQp3YXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vtzBBQp3YXE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -839,255 +829,254 @@ The broader significance is that flood planning offers a glimpse of a future in 
 
 1. <a id="endnote-1"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/](https://destination-earth.eu/)  
+   Link: <a href="https://destination-earth.eu/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthDestination EarthDestination Earth is a flagship initiative of the European Commission to develop a highly-accurate digi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: destine.ecmwf.int  
    Title: Destination Earth The Digital Twins | Destination Earth  
-   Link: [https://destine.ecmwf.int/digital-twins/](https://destine.ecmwf.int/digital-twins/)  
+   Link: <a href="https://destine.ecmwf.int/digital-twins/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/digital-twins/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These twins will simulate the behaviour of our...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: destine.ecmwf.int  
-   Link: [https://destine.ecmwf.int/](https://destine.ecmwf.int/)  
+   Link: <a href="https://destine.ecmwf.int/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthDestination Earth: DestinEThe ambitious initiative of the European Union to create a digital twin or replica of the Eart...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: destine.ecmwf.int  
    Title: Destination Earth About | Destination Earth  
-   Link: [https://destine.ecmwf.int/about/](https://destine.ecmwf.int/about/)  
+   Link: <a href="https://destine.ecmwf.int/about/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/about/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthAbout | Destination Earth - ECMWFDestination Earth, or DestinE is a European Union funded initiative to develop a digita...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: destine.ecmwf.int  
    Title: Destination Earth Weather-Induced Extremes Digital Twin  
-   Link: [https://destine.ecmwf.int/weather-induced-extremes-digital-twin/](https://destine.ecmwf.int/weather-induced-extremes-digital-twin/)  
+   Link: <a href="https://destine.ecmwf.int/weather-induced-extremes-digital-twin/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/weather-induced-extremes-digital-twin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthWeather-Induced Extremes Digital Twin - Destination Earth10 Jul 2024 — It uses a global and a regional component to prov...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ecmwf.int  
    Title: destination earth digital twin weather induced and geophysical extremes  
-   Link: [https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes](https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes)  
+   Link: <a href="https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes" target="_blank" rel="noopener noreferrer nofollow">https://www.ecmwf.int/en/forecasts/dataset/destination-earth-digital-twin-weather-induced-and-geophysical-extremes</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth Digital Twin for Weather-induced and...4 Apr 2024 — The DestinE Digital Twin for Weather-Induced Extremes (Extremes DT...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2110.07100](https://arxiv.org/abs/2110.07100)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDigital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</p></details>
+   Link: <a href="https://arxiv.org/abs/2110.07100" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2110.07100</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twin Earth -- Coasts: Developing a fast and physics-informed surrogate model for coastal floods via neural operatorsOctober...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.13761](https://arxiv.org/abs/2605.13761)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivToward AI-Driven Digital Twins for Metropolitan Floods: A Conditional Latent Dynamics Network Surrogate of the Shallow Water Equations...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.13761" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.13761</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward AI-Driven Digital Twins for Metropolitan Floods: A Conditional Latent Dynamics Network Surrogate of the Shallow Water Equations...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/use-cases/disaster-risk-mitigation-climate-adaptation/](https://destination-earth.eu/use-cases/disaster-risk-mitigation-climate-adaptation/)  
+   Link: <a href="https://destination-earth.eu/use-cases/disaster-risk-mitigation-climate-adaptation/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/use-cases/disaster-risk-mitigation-climate-adaptation/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthDisaster Risk Mitigation &amp; Climate AdaptationDeltares, together with its partners KNMI, Tecnalia and 510 Red Cross, are...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: destine.ecmwf.int  
-   Link: [https://destine.ecmwf.int/news/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/](https://destine.ecmwf.int/news/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/)  
+   Link: <a href="https://destine.ecmwf.int/news/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/news/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthDestinE Digital Twins to anticipate effects of floodingThe tool aims at, for example, better prediction of flood and sto...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/use-cases/flood-signals-pilot-service-high-resolution/](https://destination-earth.eu/use-cases/flood-signals-pilot-service-high-resolution/)  
+   Link: <a href="https://destination-earth.eu/use-cases/flood-signals-pilot-service-high-resolution/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/use-cases/flood-signals-pilot-service-high-resolution/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthFlood Signals Pilot Service: High-Resolution Precipitation...The Pilot Service builds on Destination Earth&#x27;s advanced f...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: destine.ecmwf.int  
-   Link: [https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/](https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/)  
+   Link: <a href="https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/climate-change-adaptation-digital-twin-climate-dt/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthClimate Change Adaptation Digital Twin | Destination EarthThe Climate Change Adaptation Digital Twin delivers global hig...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.08553](https://arxiv.org/abs/2505.08553)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTowards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations -- A Proof-of-Concept in the Alzette C...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.08553" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.08553</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards Digital Twin in Flood Forecasting with Data Assimilation Satellite Earth Observations -- A Proof-of-Concept in the Alzette C...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: events.ecmwf.int  
    Title: HPC WS Wedi  
-   Link: [https://events.ecmwf.int/event/460/contributions/5298/attachments/3210/5354/HPC-WS_Wedi.pdf](https://events.ecmwf.int/event/460/contributions/5298/attachments/3210/5354/HPC-WS_Wedi.pdf)  
+   Link: <a href="https://events.ecmwf.int/event/460/contributions/5298/attachments/3210/5354/HPC-WS_Wedi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://events.ecmwf.int/event/460/contributions/5298/attachments/3210/5354/HPC-WS_Wedi.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSep 16, 2025 — EUROPEAN CENTRE FOR MEDIUM-RANGE WEATHER FORECASTS...</p></details>
 
 6. Source... [https://github.com/destination-earth-digital-twins/](https://github.com/destination-earth-digital-twins/)
 
-
 15. <a id="endnote-15"></a>
    Source: destine.ecmwf.int  
    Title: int Destination Earth  
-   Link: [https://destine.ecmwf.int/video/video-3/](https://destine.ecmwf.int/video/video-3/)  
+   Link: <a href="https://destine.ecmwf.int/video/video-3/" target="_blank" rel="noopener noreferrer nofollow">https://destine.ecmwf.int/video/video-3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth - Digital TwinsThe European Union funded Destination Earth initiative, including the creation of two digital twins and the revoluti...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ecmwf.int  
-   Link: [https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth](https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth)  
+   Link: <a href="https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision/destination-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination EarthThe Digital Twin on Climate Change Adaptation will support the analysis and testing of scenarios. This in turn will supp...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/](https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/)  
+   Link: <a href="https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/destination-earth/destines-components/digital-twins-digital-twin-engine/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins and Digital Twin EngineThe first two high-priority digital twins (DT) are the Weather-Induced Extremes Digital Twin and the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/](https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/)  
+   Link: <a href="https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/use-cases/destine-ml-demonstrator-machine-learning-for-flood-nowcasting/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DestinE ML demonstrator – Machine learning for flood...A machine learning (ML) Demonstrator will be developed to assist optimising power...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/use-cases/](https://destination-earth.eu/use-cases/)  
+   Link: <a href="https://destination-earth.eu/use-cases/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/use-cases/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Use Cases Catalogue ArchiveDiscover the first set of selected End-to-End Use Cases in the DestinE Catalogue! Each Use Case demonstrates t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: destination-earth.eu  
    Title: new destine climate digital twin data released  
-   Link: [https://destination-earth.eu/news/new-destine-climate-digital-twin-data-released/](https://destination-earth.eu/news/new-destine-climate-digital-twin-data-released/)  
+   Link: <a href="https://destination-earth.eu/news/new-destine-climate-digital-twin-data-released/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/news/new-destine-climate-digital-twin-data-released/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 May 2026 — New simulations produced with DestinE&#x27;s Climate Change Adaptation Digital Twin (Climate DT) are now available via the Desti...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: destination-earth.eu  
-   Link: [https://destination-earth.eu/external-content/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/](https://destination-earth.eu/external-content/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/)  
+   Link: <a href="https://destination-earth.eu/external-content/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/" target="_blank" rel="noopener noreferrer nofollow">https://destination-earth.eu/external-content/destine-digital-twins-to-anticipate-the-devastating-effects-of-flooding-in-coastal-areas/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This joint DestinE website was developed with funding from the...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: Digital Strategy Destination Earth (Destin E)  
-   Link: [https://digital-strategy.ec.europa.eu/en/policies/destination-earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/policies/destination-earth" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/policies/destination-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyDestination Earth (DestinE) - digital model of the earthThe Destination Earth (DestinE) is a flagship initiative of the E...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: destination earth  
-   Link: [https://digital-strategy.ec.europa.eu/en/library/destination-earth](https://digital-strategy.ec.europa.eu/en/library/destination-earth)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/library/destination-earth" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/library/destination-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital StrategyDestination Earth | Shaping Europe&#x27;s digital future19 Mar 2021 — It aims to develop a highly accurate digital model of th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: digital-strategy.ec.europa.eu  
-   Link: [https://digital-strategy.ec.europa.eu/en/events/elements-digital-twin-climate-change-adaptation-workshop-destination-earth-initiative](https://digital-strategy.ec.europa.eu/en/events/elements-digital-twin-climate-change-adaptation-workshop-destination-earth-initiative)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/events/elements-digital-twin-climate-change-adaptation-workshop-destination-earth-initiative" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/events/elements-digital-twin-climate-change-adaptation-workshop-destination-earth-initiative</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Workshops reports on Elements of Digital Twins on “Weather-induced and Geophysical Extremes” and “Climate Change Adaptation”.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: digital-strategy.ec.europa.eu  
    Title: digital success stories destine building digital twin earth  
-   Link: [https://digital-strategy.ec.europa.eu/en/factpages/digital-success-stories-destine-building-digital-twin-earth](https://digital-strategy.ec.europa.eu/en/factpages/digital-success-stories-destine-building-digital-twin-earth)  
+   Link: <a href="https://digital-strategy.ec.europa.eu/en/factpages/digital-success-stories-destine-building-digital-twin-earth" target="_blank" rel="noopener noreferrer nofollow">https://digital-strategy.ec.europa.eu/en/factpages/digital-success-stories-destine-building-digital-twin-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That will help save lives...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth](https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth)  
+   Link: <a href="https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Applications/Observing_the_Earth/Destination_Earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European Space AgencyESA - Destination EarthDecision-makers will be able to anticipate the occurrence and impacts of extreme natural even...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: gmd.copernicus.org  
-   Link: [https://gmd.copernicus.org/articles/19/2821/2026/](https://gmd.copernicus.org/articles/19/2821/2026/)  
+   Link: <a href="https://gmd.copernicus.org/articles/19/2821/2026/" target="_blank" rel="noopener noreferrer nofollow">https://gmd.copernicus.org/articles/19/2821/2026/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth digital twin for climate change adaptationby FJ Doblas-Reyes · 2026 · Cited by 1 — Despite high computational demands...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: Wikipedia  
    Title: European Union  
-   Link: [https://en.wikipedia.org/wiki/European_Union](https://en.wikipedia.org/wiki/European_Union)  
+   Link: <a href="https://en.wikipedia.org/wiki/European_Union" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/European_Union</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe European Union (EU) is a political and economic union of 27 member states that are located primarily in Europe. The...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: gdi-de.org  
-   Link: [https://www.gdi-de.org/download/2025-06/Vortrag_Zwillingstag_Destination_Earth_Joern_Hoffmann.pdf](https://www.gdi-de.org/download/2025-06/Vortrag_Zwillingstag_Destination_Earth_Joern_Hoffmann.pdf)  
+   Link: <a href="https://www.gdi-de.org/download/2025-06/Vortrag_Zwillingstag_Destination_Earth_Joern_Hoffmann.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gdi-de.org/download/2025-06/Vortrag_Zwillingstag_Destination_Earth_Joern_Hoffmann.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ecmwf – destination earthWhat is new? Current weather forecasts. ✓ ~10 km resolution globally, 1.3-2.5km regional. ✓ Operational producti...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405880723000559](https://www.sciencedirect.com/science/article/pii/S2405880723000559)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405880723000559" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405880723000559</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth – A digital twin in support of climate...by J Hoffmann · 2023 · Cited by 93 — DestinE combines high-end physical with...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: living-in.eu  
    Title: Destination Earth  
-   Link: [https://living-in.eu/sites/default/files/files/slides-living-in.eu-webinar-destine-and-ldts.pdf](https://living-in.eu/sites/default/files/files/slides-living-in.eu-webinar-destine-and-ldts.pdf)  
+   Link: <a href="https://living-in.eu/sites/default/files/files/slides-living-in.eu-webinar-destine-and-ldts.pdf" target="_blank" rel="noopener noreferrer nofollow">https://living-in.eu/sites/default/files/files/slides-living-in.eu-webinar-destine-and-ldts.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 8, 2025 — The forecasting system makes use of the supercomputing infrastructures at the Jülich. Supercomputing Centre, while EURAD-IM...</p></details>
    Published: May 8, 2025  
 
 32. <a id="endnote-32"></a>
    Source: living-in.eu  
-   Link: [https://living-in.eu/events/destination-earth-what-it-and-what-it-can-offer-local-digital-twins](https://living-in.eu/events/destination-earth-what-it-and-what-it-can-offer-local-digital-twins)  
+   Link: <a href="https://living-in.eu/events/destination-earth-what-it-and-what-it-can-offer-local-digital-twins" target="_blank" rel="noopener noreferrer nofollow">https://living-in.eu/events/destination-earth-what-it-and-what-it-can-offer-local-digital-twins</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth: What it is and what it can offer for local...The European Commission has launched the Destination Earth (DestinE) ini...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ECMWF/posts/-destination-earth-destine-is-launching-the-development-of-an-ai-powered-climate/979893097655616/](https://www.facebook.com/ECMWF/posts/-destination-earth-destine-is-launching-the-development-of-an-ai-powered-climate/979893097655616/)  
+   Link: <a href="https://www.facebook.com/ECMWF/posts/-destination-earth-destine-is-launching-the-development-of-an-ai-powered-climate/979893097655616/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ECMWF/posts/-destination-earth-destine-is-launching-the-development-of-an-ai-powered-climate/979893097655616/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth (#DestinE) is launching the development...Destination Earth (#DestinE) is launching the development of an AI-powered c...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: sparkblue.org  
-   Link: [https://www.sparkblue.org/system/files/2021-04/Digital%20discovery%20-%20destination%20earth%20powerpoints.pdf](https://www.sparkblue.org/system/files/2021-04/Digital%20discovery%20-%20destination%20earth%20powerpoints.pdf)  
+   Link: <a href="https://www.sparkblue.org/system/files/2021-04/Digital%20discovery%20-%20destination%20earth%20powerpoints.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.sparkblue.org/system/files/2021-04/Digital%20discovery%20-%20destination%20earth%20powerpoints.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA: Billion-Dollar... Tailored to extremes/climate: • Weather &amp; climate time scales. • Storms, floods...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: researchgate.net  
    Title: 371027892 Destination Earth A digital twin in support of climate services  
-   Link: [https://www.researchgate.net/publication/371027892_Destination_Earth_-_A_digital_twin_in_support_of_climate_services](https://www.researchgate.net/publication/371027892_Destination_Earth_-_A_digital_twin_in_support_of_climate_services)  
+   Link: <a href="https://www.researchgate.net/publication/371027892_Destination_Earth_-_A_digital_twin_in_support_of_climate_services" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/371027892_Destination_Earth_-_A_digital_twin_in_support_of_climate_services</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Destination Earth – A digital twin in support of climate...2 May 2026 — DestinE combines high-end physical with impact science enabled b...</p></details>
    Published: May 2026  
 
 36. <a id="endnote-36"></a>
    Source: linklings.s3.amazonaws.com  
-   Link: [https://linklings.s3.amazonaws.com/organizations/pasc/pasc23/submissions/stype119/wR7m1-msa117s2.pdf](https://linklings.s3.amazonaws.com/organizations/pasc/pasc23/submissions/stype119/wR7m1-msa117s2.pdf)  
+   Link: <a href="https://linklings.s3.amazonaws.com/organizations/pasc/pasc23/submissions/stype119/wR7m1-msa117s2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://linklings.s3.amazonaws.com/organizations/pasc/pasc23/submissions/stype119/wR7m1-msa117s2.pdf</a>  
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/destination](https://www.merriam-webster.com/dictionary/destination)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/destination" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/destination</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DESTINATION Definition &amp; Meaning3 days ago — The meaning of DESTINATION is a place to which one is journeying or to which something is se...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: ec.europa.eu  
-   Link: [https://ec.europa.eu/commission/presscorner/detail/nl/ip_22_1977](https://ec.europa.eu/commission/presscorner/detail/nl/ip_22_1977)  
+   Link: <a href="https://ec.europa.eu/commission/presscorner/detail/nl/ip_22_1977" target="_blank" rel="noopener noreferrer nofollow">https://ec.europa.eu/commission/presscorner/detail/nl/ip_22_1977</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European CommissionDestination Earth – new digital twin of the EarthThe Digital Twin on weather-induced and geophysical hazards will focu...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: iom3.org  
    Title: earth s digital twin to improve ai climate predictions  
-   Link: [https://www.iom3.org/resource/earth-s-digital-twin-to-improve-ai-climate-predictions.html](https://www.iom3.org/resource/earth-s-digital-twin-to-improve-ai-climate-predictions.html)  
+   Link: <a href="https://www.iom3.org/resource/earth-s-digital-twin-to-improve-ai-climate-predictions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iom3.org/resource/earth-s-digital-twin-to-improve-ai-climate-predictions.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth&#x27;s digital twin to improve AI climate predictions4 Feb 2026 — In Phase 3, ECMWF and its partners will focus on operating and interli...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: horizon-europe.gouv.fr  
-   Link: [https://www.horizon-europe.gouv.fr/advanced-local-digital-twins-using-ai-early-warning-and-preparedness-ia-42621](https://www.horizon-europe.gouv.fr/advanced-local-digital-twins-using-ai-early-warning-and-preparedness-ia-42621)  
+   Link: <a href="https://www.horizon-europe.gouv.fr/advanced-local-digital-twins-using-ai-early-warning-and-preparedness-ia-42621" target="_blank" rel="noopener noreferrer nofollow">https://www.horizon-europe.gouv.fr/advanced-local-digital-twins-using-ai-early-warning-and-preparedness-ia-42621</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>particularly in response to climate change and flood scenarios like heavy rainfall...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ECMWF/posts/-new-paper-highlighting-the-capabilities-of-the-european-commissions-destination/1282567084054881/](https://www.facebook.com/ECMWF/posts/-new-paper-highlighting-the-capabilities-of-the-european-commissions-destination/1282567084054881/)  
+   Link: <a href="https://www.facebook.com/ECMWF/posts/-new-paper-highlighting-the-capabilities-of-the-european-commissions-destination/1282567084054881/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ECMWF/posts/-new-paper-highlighting-the-capabilities-of-the-european-commissions-destination/1282567084054881/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tinE) initiative is to develop a highly accurate digital model of...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: mpimet.mpg.de  
-   Link: [https://mpimet.mpg.de/en/research/modeling/destination-earth](https://mpimet.mpg.de/en/research/modeling/destination-earth)  
+   Link: <a href="https://mpimet.mpg.de/en/research/modeling/destination-earth" target="_blank" rel="noopener noreferrer nofollow">https://mpimet.mpg.de/en/research/modeling/destination-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Planck Institute for Meteorology: Destination EarthThe digital twin on climate change adaptation will support the analysis and testing of...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: awi.de  
    Title: default df6668b82e 1  
-   Link: [https://www.awi.de/en/about-us/service/press/single-view/default-df6668b82e-1.html](https://www.awi.de/en/about-us/service/press/single-view/default-df6668b82e-1.html)  
+   Link: <a href="https://www.awi.de/en/about-us/service/press/single-view/default-df6668b82e-1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.awi.de/en/about-us/service/press/single-view/default-df6668b82e-1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU initiative &quot;DestinE&quot;: “Digital Twin” of the Earth10 Dec 2022 — The digital twin for weather-induced extremeswill focus on extreme weat...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: terradt.eu  
-   Link: [https://terradt.eu/events/expanding-destination-earth-new-digital-twins-climate-urban-and-weather-applications](https://terradt.eu/events/expanding-destination-earth-new-digital-twins-climate-urban-and-weather-applications)  
+   Link: <a href="https://terradt.eu/events/expanding-destination-earth-new-digital-twins-climate-urban-and-weather-applications" target="_blank" rel="noopener noreferrer nofollow">https://terradt.eu/events/expanding-destination-earth-new-digital-twins-climate-urban-and-weather-applications</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Digital Twins for Climate, Urban and Weather...Destination Earth (DestinE) is Europe&#x27;s flagship initiative to build an interactive...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: youtube.com  
    Title: Understanding artificial intelligence in Destination Earth  
-   Link: [https://www.youtube.com/watch?v=LY_OPx51cvA](https://www.youtube.com/watch?v=LY_OPx51cvA)  
+   Link: <a href="https://www.youtube.com/watch?v=LY_OPx51cvA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LY_OPx51cvA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 [CNG 2025] Agentic LLM for Adaptive Decision Discourse – Antoine Dolant...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: eurojust.europa.eu  
    Title: eu Nine arrests connected to ATM bombings across Europe  
-   Link: [https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe](https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe)  
+   Link: <a href="https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.eurojust.europa.eu/news/nine-arrests-connected-atm-bombings-across-europe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>arrests connected to ATM bombings across Europe...</p></details>

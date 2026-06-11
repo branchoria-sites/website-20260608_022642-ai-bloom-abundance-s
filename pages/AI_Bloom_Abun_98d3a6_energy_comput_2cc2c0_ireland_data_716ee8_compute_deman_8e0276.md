@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ireland-case/
 nav_short_title: Power Costs
 title: Who pays for Ireland's compute boom?
-title_full: Who pays for Ireland's compute boom? | Ireland Case
+title_full: Who pays for Ireland's compute boom?
 display_title_short: Power Costs
 display_title: Power Costs
 heading_title: Who pays for Ireland's compute boom?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When data centres strain a small grid | Energy
+date: '2026-06-08 01:47:20'
+parent_title: When data centres strain a small grid
 parent_permalink: /ireland-case/
 parent_nav_short_title: Ireland Case
 parent_heading_title: When data centres strain a small grid
@@ -260,7 +261,6 @@ prev_link:
   permalink: /legal-fight/
   short_title: Legal Fight
   heading_title: Could data centre rules break climate law?
-date: '2026-06-08 01:47:20 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-1.webp
@@ -269,8 +269,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716
 
 ## Introduction
 
-Ireland’s data-centre boom has become one of the clearest public tests of a wider AI-era question: who pays when demand for computing infrastructure grows faster than energy systems can adapt? Supporters argue that [data centres]({{ 'power-demand/' | relative_url }}) underpin cloud services, scientific computing, AI development, and a more digitally productive economy. Critics respond that in a small electricity system, rapidly expanding private demand can push costs and risks onto households through higher bills, [grid upgrades]({{ 'grid-costs/' | relative_url }}), and continued dependence on fossil-fuel generation. The dispute is not simply about technology. It is about whether the benefits of an AI-enabled future are being built in a way that spreads costs and gains fairly. Central Statistics Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
-
+Ireland’s data-centre boom has become one of the clearest public tests of a wider AI-era question: who pays when demand for computing infrastructure grows faster than [energy]({{ 'energy/' | relative_url }}) systems can adapt? Supporters argue that data centres underpin cloud services, scientific computing, AI development, and a more digitally productive economy. Critics respond that in a small electricity system, rapidly expanding private demand can push costs and risks onto households through higher bills, [grid upgrades]({{ 'grid-costs/' | relative_url }}), and continued dependence on fossil-fuel generation. The dispute is not simply about technology. It is about whether the benefits of an AI-enabled future are being built in a way that spreads costs and gains fairly. Central Statistics Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-1-dark.svg" | relative_url }}" alt="Power Costs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In Ireland, the issue has become unusually visible because data centres now consume a larger share of electricity than urban households. That has turned what might otherwise be an abstract infrastructure debate into a direct question about affordability, climate targets, and [public trust]({{ 'public-trust/' | relative_url }}). Central Statistics Office <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.irishtimes.com/business/2024/07/23/electricity-consumption-by-data-centres-rises-to-21-eclipsing-urban-households/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irishtimes.com">[The Irish Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irishtimes.com</span><span class="citation-popover-title">electricity consumption by data centres rises to 21 eclipsing urban households</span><span class="citation-popover-snippet">The Irish TimesData centres now account for 21% of all electricity...23 Jul 2024 — Electricity consumption by data centres has risen fro...</span></span></span>
@@ -288,28 +287,27 @@ Several factors explain this growth:
 * The recent surge in AI training and AI-enabled services increased demand for compute-intensive facilities.
 * Existing clusters around Dublin created network effects that attracted additional projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-snippet">However, this rapid development has led to unintended consequences. In 2024, data centers consumed 22% of Ireland&#x27;s electricity, surpassi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iiea.com/blog/data-centres-in-ireland-the-state-of-play" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iiea.com">[IIEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iiea.com</span><span class="citation-popover-title">data centres in ireland the state of play</span><span class="citation-popover-snippet">Data Centre&#x27;s in Ireland: The State of Play18 Dec 2025 — At present, Ireland&#x27;s data centres account for 21% of Ireland total electricity...</span></span></span>
 
-For advocates of AI abundance and [scientific]({{ 'discovery/' | relative_url }}) acceleration, this infrastructure is not merely supporting social media or online shopping. Large-scale computing can help power medical research, advanced modelling, scientific [discovery]({{ 'discovery/' | relative_url }}), language technologies, and future AI systems that may dramatically increase human productive capacity. The political difficulty is that the benefits are often global and long term, while the electricity pressures appear local and immediate.
+For advocates of AI abundance and scientific acceleration, this infrastructure is not merely supporting social media or online shopping. Large-scale computing can help [power]({{ 'power/' | relative_url }}) medical research, advanced modelling, scientific [discovery]({{ 'discovery/' | relative_url }}), language technologies, and future AI systems that may dramatically increase human productive capacity. The political difficulty is that the benefits are often global and long term, while the electricity pressures appear local and immediate.
 
 ## Why grid bottlenecks can affect public costs
 
 The strongest public concern is not simply that data centres use large amounts of electricity. It is the mechanism through which rapid demand growth can raise costs for everyone else.
 
-Electricity systems must maintain a constant balance between supply and demand. When large new consumers appear faster than generation and transmission infrastructure can expand, grid operators need additional investment in [power]({{ 'power/' | relative_url }}) stations, transmission lines, substations, backup capacity, and balancing services. Those costs are frequently socialised across the wider electricity system rather than paid entirely by the new demand source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
+Electricity systems must maintain a constant balance between supply and demand. When large new consumers appear faster than generation and transmission infrastructure can expand, grid operators need additional investment in power stations, transmission lines, substations, backup capacity, and balancing services. Those costs are frequently socialised across the wider electricity system rather than paid entirely by the new demand source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
 
 Ireland's regulator and grid operators have repeatedly pointed to the challenge created by large energy users. The Commission for Regulation of Utilities (CRU) notes that national electricity demand has risen sharply over the past decade, with data-centre growth making a major contribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
 
 In practical terms, households can face higher costs through several channels:
 
-**Network investment costs.** Expanding transmission and distribution infrastructure requires billions of euros in spending. These costs are often recovered through regulated charges on electricity users. Ireland's latest grid investment plans involve very large expenditure programmes extending over several years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cru.ie">[CRU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cru.ie</span><span class="citation-popover-title">new electricity connection policy for data centre</span><span class="citation-popover-snippet">CRUnew-electricity-connection-policy-for-data-centre18 Feb 2025 — In Ireland, electricity demand from data centres has grown from 5% of n...</span></span></span>
+**Network investment costs.** Expanding transmission and distribution infrastructure requires billions of euros in spending. These costs are often recovered through regulated charges on electricity users. Ireland's latest grid investment plans involve very large expenditure programmes extending over several years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cru.ie">[CRU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cru.ie</span><span class="citation-popover-title">new electricity connection policy for data centre</span><span class="citation-popover-snippet">new-electricity-connection-policy-for-data-centre18 Feb 2025 — In Ireland, electricity demand from data centres has grown from 5% of n...</span></span></span>
 
-**Higher wholesale power prices.** Large demand growth can tighten electricity markets, especially during periods when renewable generation is low and gas-fired plants set market prices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reglobal.org/data-centre-boom-and-irelands-energy-bills/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reglobal.org">[REGlobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reglobal.org</span><span class="citation-popover-title">data centre boom and irelands energy bills</span><span class="citation-popover-snippet">REGlobalData Centre Boom and Ireland&#x27;s Energy Bills13 Apr 2026 — With Irish annual household energy bills having already increased by ove...</span></span></span>
+**Higher wholesale power prices.** Large demand growth can tighten electricity markets, especially during periods when renewable generation is low and gas-fired plants set market prices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reglobal.org/data-centre-boom-and-irelands-energy-bills/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reglobal.org">[REGlobal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reglobal.org</span><span class="citation-popover-title">data centre boom and irelands energy bills</span><span class="citation-popover-snippet">Data Centre Boom and Ireland&#x27;s Energy Bills13 Apr 2026 — With Irish annual household energy bills having already increased by ove...</span></span></span>
 
 **Backup generation requirements.** If intermittent renewables cannot reliably meet demand peaks, additional dispatchable generation is needed. In Ireland this frequently means gas-fired capacity, adding both cost and emissions concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhc.ie">[Mason Hayes Curran]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhc.ie</span><span class="citation-popover-title">cru sets out new rules for data centre connections</span><span class="citation-popover-snippet">Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</span></span></span>
 
 **System-security spending.** Maintaining reserve margins becomes more expensive as total demand rises and as large facilities create concentrated loads on particular parts of the network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.eirgrid.ie/operating-and-transforming-the-grid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eirgrid.ie">[Eirgrid]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eirgrid.ie</span><span class="citation-popover-snippet">Operating and Transforming the GridThe Commission for Regulation of Utilities (CRU) has published its Price Review 6 (PR6) Draft Determin...</span></span></span>
 
 The result is that households may experience rising bills even though they are not the direct source of new electricity demand.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/193G6x_zQTw" title="A Strange Plan to Lower Your Electric Bill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=193G6x_zQTw" target="_blank" rel="noopener noreferrer">A Strange Plan to Lower Your Electric Bill</a></p><p class="youtube-embed-meta">Channel: Two Cents &middot; Views: 71.0K &middot; Uploaded: February 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=193G6x_zQTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=193G6x_zQTw">Open on YouTube</a></p></div></div></div>
 
@@ -326,10 +324,9 @@ Not everyone accepts the framing. Industry supporters argue that:
 * Data centres contribute tax revenue and investment.
 * They support wider digital economic activity.
 * They often sign long-term renewable power agreements that help finance new clean-energy projects.
-* Electricity-price increases reflect multiple factors, including gas markets, geopolitical shocks, and broader energy-system weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cru.ie">[CRU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cru.ie</span><span class="citation-popover-title">approves record investment in irelands electricity grid and network</span><span class="citation-popover-snippet">CRUCRU Approves Record Investment in Ireland&#x27;s Electricity...16 Dec 2025 — This baseline investment includes €11.4bn for ESBN (€8.9bn in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: williamfry.com">[WILLIAM FRY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">williamfry.com</span><span class="citation-popover-title">cru publishes long awaited final policy on data centre connections</span><span class="citation-popover-snippet">WILLIAM FRYCRU Publishes Long Awaited Final Policy on Data Centre...15 Dec 2025 — The Decision introduces a binding renewable electricit...</span></span></span>
+* Electricity-price increases reflect multiple factors, including gas markets, geopolitical shocks, and broader energy-system weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cru.ie">[CRU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cru.ie</span><span class="citation-popover-title">approves record investment in irelands electricity grid and network</span><span class="citation-popover-snippet">CRU Approves Record Investment in Ireland&#x27;s Electricity...16 Dec 2025 — This baseline investment includes €11.4bn for ESBN (€8.9bn in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: williamfry.com">[WILLIAM FRY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">williamfry.com</span><span class="citation-popover-title">cru publishes long awaited final policy on data centre connections</span><span class="citation-popover-snippet">WILLIAM FRYCRU Publishes Long Awaited Final Policy on Data Centre...15 Dec 2025 — The Decision introduces a binding renewable electricit...</span></span></span>
 
 This disagreement highlights a recurring challenge in discussions about AI-enabled growth. Benefits are often diffuse, indirect, and spread across years or decades. Costs can appear immediately on monthly bills. That asymmetry makes political conflict almost inevitable.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-2-dark.svg" | relative_url }}" alt="Power Costs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Ireland became an early warning case
@@ -345,7 +342,6 @@ Warnings from EirGrid and other authorities about supply adequacy contributed to
 The core policy challenge is not whether societies should build computing infrastructure. It is how to expand it without transferring disproportionate costs onto households.
 
 Several approaches have emerged in Ireland's debate.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/svo8o9OdtG4" title="The impact of data centers on rising electricity costs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=svo8o9OdtG4" target="_blank" rel="noopener noreferrer">The impact of data centers on rising electricity costs</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 29.7K &middot; Uploaded: August 2025 &middot; Length: 4 minutes 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=svo8o9OdtG4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=svo8o9OdtG4">Open on YouTube</a></p></div></div></div>
 
@@ -363,11 +359,10 @@ Another approach requires large facilities to provide or finance dispatchable ge
 
 Critics note that this can still encourage new gas infrastructure if storage and clean alternatives are not yet available at sufficient scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[Cruie Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-3-dark.svg" | relative_url }}" alt="Power Costs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_energy_comput_2cc2c0_ireland_data_716ee8_compute_deman_8e0276-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reforming network charging
 
-Some campaigners argue that pricing structures should more accurately reflect the costs imposed by large electricity users. Debates over network charges, connection fees, and system-service costs have become increasingly prominent as data-centre demand grows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHouseholds paying twice as much for electricity as data...Households pay 7.6c per kWh for their network charges. But big energy us...</span></span></span>
+Some campaigners argue that pricing structures should more accurately reflect the costs imposed by large electricity users. Debates over network charges, connection fees, and system-service costs have become increasingly prominent as data-centre demand grows. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Households paying twice as much for electricity as data...Households pay 7.6c per kWh for their network charges. But big energy us...</span></span></span>
 
 The broader principle is simple: if compute-intensive facilities create significant infrastructure requirements, a larger share of those costs should be recovered directly from the facilities rather than dispersed across residential customers.
 
@@ -389,9 +384,7 @@ The central question is therefore not simply whether advanced AI creates value. 
 
 Ireland's data-centre debate is an early example of that challenge. It suggests that the long-term promise of AI may depend as much on energy policy, infrastructure planning, and public legitimacy as on advances in algorithms themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lemonde.fr">[Le Monde.fr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lemonde.fr</span><span class="citation-popover-snippet">However, this rapid development has led to unintended consequences. In 2024, data centers consumed 22% of Ireland&#x27;s electricity, surpassi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com">[CRU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com</span><span class="citation-popover-title">CRU2025236 Large Energy User connection policy decision paper</span><span class="citation-popover-snippet">Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iVGTGpKpykM" title="How AI infrastructure is driving a sharp rise in electricity bills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iVGTGpKpykM" target="_blank" rel="noopener noreferrer">How AI infrastructure is driving a sharp rise in electricity bills</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 47.9K &middot; Uploaded: September 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iVGTGpKpykM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iVGTGpKpykM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -405,16 +398,16 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=u5AyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Grid">The Grid</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Gretchen Bakke</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Explains why new electricity demand can push costs and upgrades onto the wider public.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Grid+by+Gretchen+Bakke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -422,16 +415,16 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Avoid a Climate Disaster on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=yEGNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Avoid a Climate Disaster" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Avoid a Climate Disaster">How to Avoid a Climate Disaster</a>
+          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
         </h4>
-        <p class="fr-book-author">By Bill Gates</p>
+        <p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
         
-        <p class="fr-book-desc">Helps readers understand why clean electricity expansion matters for technology growth.</p>
+        <p class="fr-book-desc">Strong coverage of ISRU, water, fuel production and long-term Mars survival.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster+by+Bill+Gates&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -439,16 +432,16 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+Hungry+by+Robert+Bryce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power Hungry on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=l6Y4DgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Power Hungry" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+Astronaut%27s+Guide+to+Life+on+Earth+by+Chris+Hadfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An Astronaut&#x27;s Guide to Life on Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ymqqXuGFL9sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for An Astronaut&#x27;s Guide to Life on Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Power+Hungry+by+Robert+Bryce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power Hungry">Power Hungry</a>
+          <a href="https://www.amazon.com/s?k=An+Astronaut%27s+Guide+to+Life+on+Earth+by+Chris+Hadfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Astronaut&#x27;s Guide to Life on Earth">An Astronaut&#x27;s Guide to Life on Earth</a>
         </h4>
-        <p class="fr-book-author">By Robert Bryce</p>
+        <p class="fr-book-author">By Chris Hadfield</p>
         
-        <p class="fr-book-desc">Covers the scale and trade-offs of modern electricity consumption.</p>
+        <p class="fr-book-desc">Focuses on performance, teamwork and coping under extreme conditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Power+Hungry+by+Robert+Bryce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=An+Astronaut%27s+Guide+to+Life+on+Earth+by+Chris+Hadfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -456,16 +449,16 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shorting the Grid on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ca4FzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Shorting the Grid" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Endurance+by+Scott+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Endurance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dJeTEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Endurance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shorting the Grid">Shorting the Grid</a>
+          <a href="https://www.amazon.com/s?k=Endurance+by+Scott+Kelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Endurance">Endurance</a>
         </h4>
-        <p class="fr-book-author">By MEREDITH. ANGWIN</p>
+        <p class="fr-book-author">By Scott Kelly</p>
         
-        <p class="fr-book-desc">Addresses reliability and market rules behind power-system stress.</p>
+        <p class="fr-book-desc">Provides firsthand insight into long-duration spaceflight and psychological resilience.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shorting+the+Grid+by+MEREDITH.+ANGWIN&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Endurance+by+Scott+Kelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -473,7 +466,7 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Grid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Grid</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Avoid+a+Climate+Disaster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Avoid a Climate Disaster</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+Hungry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power Hungry</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+Astronaut%27s+to+Life+on+Earth+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An Astronaut&#x27;s to Life on Earth books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -486,7 +479,7 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -510,15 +503,15 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/aab23fc66989cb7be41d.jpg' | relative_url }}" alt="Listing image for Data Center Garden Work Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Transcendent Energy Aura Wall Art Poster Premium Quality Home Decor"><img src="https://i.ebayimg.com/images/g/GNAAAeSwYYxpntSj/s-l225.jpg" alt="Listing image for Transcendent Energy Aura Wall Art Poster Premium Quality Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Data Center Garden Work Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer">Transcendent Energy Aura Wall Art Poster Premium Quality Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland energy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland energy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +519,15 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3add4b3696b53655441e.jpg' | relative_url }}" alt="Listing image for Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Divine Energy Gradient Wall Art Poster - Aura Collection Home Decor"><img src="https://i.ebayimg.com/images/g/24EAAeSweaFpntP8/s-l225.jpg" alt="Listing image for Divine Energy Gradient Wall Art Poster - Aura Collection Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Future Proof Data Center Employing Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer">Divine Energy Gradient Wall Art Poster - Aura Collection Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland energy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland energy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,15 +535,15 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Server Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a271cc33df19403bca70.jpg' | relative_url }}" alt="Listing image for Server Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spiritual Energy Wall Art Poster - Positive Aura Collection Home Decor"><img src="https://i.ebayimg.com/images/g/LksAAeSwWK9pntRt/s-l225.jpg" alt="Listing image for Spiritual Energy Wall Art Poster - Positive Aura Collection Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">Server Data Center Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer">Spiritual Energy Wall Art Poster - Positive Aura Collection Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland energy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland energy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +551,15 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8d9c7ec50bda9f88905f.jpg' | relative_url }}" alt="Listing image for An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Play Vitality&quot; Quote Poster Wall Art for Home Office Decor Home Decor"><img src="https://i.ebayimg.com/images/g/msUAAeSw13Fof35q/s-l225.jpg" alt="Listing image for &quot;Play Vitality&quot; Quote Poster Wall Art for Home Office Decor Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">An Advanced Futuristic Data Center Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer">&quot;Play Vitality&quot; Quote Poster Wall Art for Home Office Decor Home Decor</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for data center poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: data center poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ireland energy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ireland energy poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,7 +567,7 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=data+center+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data center poster -book -books" data-ebay-reference="power-costs-who-pays-for-ireland-s-compute-boom-ai-bloom-abundance-superintelligence-and-humanit-data-center-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ireland+energy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-pays-for-ireland-s-compute-boom-ireland-energy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ireland energy poster" data-ebay-reference="who-pays-for-ireland-s-compute-boom-ireland-energy-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -789,206 +782,206 @@ Ireland's data-centre debate is an early example of that challenge. It suggests 
 
 1. <a id="endnote-1"></a>
    Source: cso.ie  
-   Link: [https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/](https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/)  
+   Link: <a href="https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/" target="_blank" rel="noopener noreferrer nofollow">https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>% of metered electricity consumed by data centres, 5% in 2015, 21% in 2023, 22% in 2024.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cso.ie  
-   Link: [https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings/](https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings/)  
+   Link: <a href="https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings/" target="_blank" rel="noopener noreferrer nofollow">https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/keyfindings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres Metered Electricity Consumption 202410 Jun 2025 — Key Findings. Metered electricity consumption by data centres increased by...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cru.ie  
    Title: new electricity connection policy for data centre  
-   Link: [https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/](https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRUnew-electricity-connection-policy-for-data-centre18 Feb 2025 — In Ireland, electricity demand from data centres has grown from 5% of n...</p></details>
+   Link: <a href="https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/new-electricity-connection-policy-for-data-centre/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>new-electricity-connection-policy-for-data-centre18 Feb 2025 — In Ireland, electricity demand from data centres has grown from 5% of n...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: iiea.com  
    Title: data centres in ireland the state of play  
-   Link: [https://www.iiea.com/blog/data-centres-in-ireland-the-state-of-play](https://www.iiea.com/blog/data-centres-in-ireland-the-state-of-play)  
+   Link: <a href="https://www.iiea.com/blog/data-centres-in-ireland-the-state-of-play" target="_blank" rel="noopener noreferrer nofollow">https://www.iiea.com/blog/data-centres-in-ireland-the-state-of-play</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centre&#x27;s in Ireland: The State of Play18 Dec 2025 — At present, Ireland&#x27;s data centres account for 21% of Ireland total electricity...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cru.ie  
    Title: approves record investment in irelands electricity grid and network  
-   Link: [https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/](https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRUCRU Approves Record Investment in Ireland&#x27;s Electricity...16 Dec 2025 — This baseline investment includes €11.4bn for ESBN (€8.9bn in...</p></details>
+   Link: <a href="https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/cru-approves-record-investment-in-irelands-electricity-grid-and-network/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Approves Record Investment in Ireland&#x27;s Electricity...16 Dec 2025 — This baseline investment includes €11.4bn for ESBN (€8.9bn in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: eirgrid.ie  
-   Link: [https://www.eirgrid.ie/operating-and-transforming-the-grid](https://www.eirgrid.ie/operating-and-transforming-the-grid)  
+   Link: <a href="https://www.eirgrid.ie/operating-and-transforming-the-grid" target="_blank" rel="noopener noreferrer nofollow">https://www.eirgrid.ie/operating-and-transforming-the-grid</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Operating and Transforming the GridThe Commission for Regulation of Utilities (CRU) has published its Price Review 6 (PR6) Draft Determin...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reglobal.org  
    Title: data centre boom and irelands energy bills  
-   Link: [https://reglobal.org/data-centre-boom-and-irelands-energy-bills/](https://reglobal.org/data-centre-boom-and-irelands-energy-bills/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>REGlobalData Centre Boom and Ireland&#x27;s Energy Bills13 Apr 2026 — With Irish annual household energy bills having already increased by ove...</p></details>
+   Link: <a href="https://reglobal.org/data-centre-boom-and-irelands-energy-bills/" target="_blank" rel="noopener noreferrer nofollow">https://reglobal.org/data-centre-boom-and-irelands-energy-bills/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centre Boom and Ireland&#x27;s Energy Bills13 Apr 2026 — With Irish annual household energy bills having already increased by ove...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: cms.eirgrid.ie  
    Title: AIRAA 2025 2034  
-   Link: [https://cms.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf](https://cms.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf)  
+   Link: <a href="https://cms.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cms.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 15. 13. Total Electricity Requirement for Ireland.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cru.ie  
-   Link: [https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/](https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/)  
+   Link: <a href="https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://www.cru.ie/about-us/news/the-cru-publishes-its-decision-on-new-electricity-connection-policy-for-data-centres/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Publishes its Decision on New Electricity Connection...12 Dec 2025 — New policy updates the existing connection policy and provides...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/](https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHouseholds paying twice as much for electricity as data...Households pay 7.6c per kWh for their network charges. But big energy us...</p></details>
+   Link: <a href="https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/1rectdt/households_paying_twice_as_much_for_electricity/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Households paying twice as much for electricity as data...Households pay 7.6c per kWh for their network charges. But big energy us...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cso.ie  
    Title: Data Centres Metered Electricity Consumption  
-   Link: [https://www.cso.ie/en/statistics/energy/datacentresmeteredelectricityconsumption/](https://www.cso.ie/en/statistics/energy/datacentresmeteredelectricityconsumption/)  
+   Link: <a href="https://www.cso.ie/en/statistics/energy/datacentresmeteredelectricityconsumption/" target="_blank" rel="noopener noreferrer nofollow">https://www.cso.ie/en/statistics/energy/datacentresmeteredelectricityconsumption/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>StatisticsData Centres Metered Electricity Consumption 2024 · Data Centres Metered Electricity Consumption 2023 · Data Centres Metered El...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cso.ie  
-   Link: [https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/backgroundnotes/](https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/backgroundnotes/)  
+   Link: <a href="https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/backgroundnotes/" target="_blank" rel="noopener noreferrer nofollow">https://www.cso.ie/en/releasesandpublications/ep/p-dcmec/datacentresmeteredelectricityconsumption2024/backgroundnotes/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Centres Metered Electricity Consumption 202410 Jun 2025 — Data Centres Metered Electricity Consumption 2024 · Background Notes · Met...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: consult.eirgrid.ie  
    Title: leu market intelligence exercise  
-   Link: [https://consult.eirgrid.ie/en/content/leu-market-intelligence-exercise](https://consult.eirgrid.ie/en/content/leu-market-intelligence-exercise)  
+   Link: <a href="https://consult.eirgrid.ie/en/content/leu-market-intelligence-exercise" target="_blank" rel="noopener noreferrer nofollow">https://consult.eirgrid.ie/en/content/leu-market-intelligence-exercise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Market Intelligence Exercise30 May 2025 — The purpose of the Paper is to set out, for data centres, a pathway for connection applications...</p></details>
    Published: May 2025  
 
 14. <a id="endnote-14"></a>
    Source: eirgrid.ie  
-   Link: [https://www.eirgrid.ie/grid/system-and-renewable-data-reports](https://www.eirgrid.ie/grid/system-and-renewable-data-reports)  
+   Link: <a href="https://www.eirgrid.ie/grid/system-and-renewable-data-reports" target="_blank" rel="noopener noreferrer nofollow">https://www.eirgrid.ie/grid/system-and-renewable-data-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>System and Renewable Data Reports | Grid InformationThe System and Renewable Data Reports keep you updated with our progress. They show d...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ireland/comments/1l7uv4y/metered_electricity_consumption_by_data_centres/](https://www.reddit.com/r/ireland/comments/1l7uv4y/metered_electricity_consumption_by_data_centres/)  
+   Link: <a href="https://www.reddit.com/r/ireland/comments/1l7uv4y/metered_electricity_consumption_by_data_centres/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ireland/comments/1l7uv4y/metered_electricity_consumption_by_data_centres/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Metered electricity consumption by data centres increased...Metered electricity consumption by data centres increased by 10% from 6,335...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com  
    Title: CRU2025236 Large Energy User connection policy decision paper  
-   Link: [https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf](https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf)  
+   Link: <a href="https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cruie-live-96ca64acab2247eca8a850a7e54b-5b34f62.divio-media.com/documents/CRU2025236_Large_Energy_User_connection_policy_decision_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cruie LiveLarge Energy Users Connection Policy12 Dec 2025 — Ireland&#x27;s total electricity demand has grown by 30% over the past 10 years, w...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: theguardian.com  
    Title: ireland datacentres overtake electricity use of all homes combined figures show  
-   Link: [https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show](https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show)  
+   Link: <a href="https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/article/2024/jul/23/ireland-datacentres-overtake-electricity-use-of-all-homes-combined-figures-show</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This marks the first time datacentres, crucial to Ireland&#x27;s tech industry, surpassed urban homes in electricity usage. Experts are concer...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: irishtimes.com  
    Title: electricity consumption by data centres rises to 21 eclipsing urban households  
-   Link: [https://www.irishtimes.com/business/2024/07/23/electricity-consumption-by-data-centres-rises-to-21-eclipsing-urban-households/](https://www.irishtimes.com/business/2024/07/23/electricity-consumption-by-data-centres-rises-to-21-eclipsing-urban-households/)  
+   Link: <a href="https://www.irishtimes.com/business/2024/07/23/electricity-consumption-by-data-centres-rises-to-21-eclipsing-urban-households/" target="_blank" rel="noopener noreferrer nofollow">https://www.irishtimes.com/business/2024/07/23/electricity-consumption-by-data-centres-rises-to-21-eclipsing-urban-households/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irish TimesData centres now account for 21% of all electricity...23 Jul 2024 — Electricity consumption by data centres has risen fro...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html](https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html)  
+   Link: <a href="https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/economy/article/2026/04/17/ireland-striving-to-become-europe-s-data-center-hub-falls-victim-to-its-own-success_6752547_19.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this rapid development has led to unintended consequences. In 2024, data centers consumed 22% of Ireland&#x27;s electricity, surpassi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: mhc.ie  
    Title: cru sets out new rules for data centre connections  
-   Link: [https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections](https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections)  
+   Link: <a href="https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections" target="_blank" rel="noopener noreferrer nofollow">https://www.mhc.ie/latest/insights/cru-sets-out-new-rules-for-data-centre-connections</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mason Hayes CurranCRU Due to Set Out New Rules for Data Centre Connections29 Sept 2025 — Dispatchable generation: Applicants must provide...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity](https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity)  
+   Link: <a href="https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/28/irish-datacentres-household-bills-electricity</a>  
 
 22. <a id="endnote-22"></a>
    Source: friendsoftheearth.ie  
-   Link: [https://www.friendsoftheearth.ie/news/the-cost-of-data-centre-growth-in-ireland-households-paid-an-estimated-715-million-more-in-electrici/](https://www.friendsoftheearth.ie/news/the-cost-of-data-centre-growth-in-ireland-households-paid-an-estimated-715-million-more-in-electrici/)  
+   Link: <a href="https://www.friendsoftheearth.ie/news/the-cost-of-data-centre-growth-in-ireland-households-paid-an-estimated-715-million-more-in-electrici/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/the-cost-of-data-centre-growth-in-ireland-households-paid-an-estimated-715-million-more-in-electrici/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the EarthThe cost of data centre growth in Ireland: Households paid an...1 day ago — The €1.6 billion that data centre growth...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: friendsoftheearth.ie  
-   Link: [https://www.friendsoftheearth.ie/news/data-centres-have-drained-715-million-from-the-irish-economy-and-could-drain-a-further-16-billion-eu/](https://www.friendsoftheearth.ie/news/data-centres-have-drained-715-million-from-the-irish-economy-and-could-drain-a-further-16-billion-eu/)  
+   Link: <a href="https://www.friendsoftheearth.ie/news/data-centres-have-drained-715-million-from-the-irish-economy-and-could-drain-a-further-16-billion-eu/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/data-centres-have-drained-715-million-from-the-irish-economy-and-could-drain-a-further-16-billion-eu/</a>  
 
 24. <a id="endnote-24"></a>
    Source: williamfry.com  
    Title: cru publishes long awaited final policy on data centre connections  
-   Link: [https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/](https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/)  
+   Link: <a href="https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-publishes-long-awaited-final-policy-on-data-centre-connections/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WILLIAM FRYCRU Publishes Long Awaited Final Policy on Data Centre...15 Dec 2025 — The Decision introduces a binding renewable electricit...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: friendsoftheearth.ie  
    Title: friends of the earth is suing irelands energy regulator  
-   Link: [https://www.friendsoftheearth.ie/news/friends-of-the-earth-is-suing-irelands-energy-regulator/](https://www.friendsoftheearth.ie/news/friends-of-the-earth-is-suing-irelands-energy-regulator/)  
+   Link: <a href="https://www.friendsoftheearth.ie/news/friends-of-the-earth-is-suing-irelands-energy-regulator/" target="_blank" rel="noopener noreferrer nofollow">https://www.friendsoftheearth.ie/news/friends-of-the-earth-is-suing-irelands-energy-regulator/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Friends of the Earth is suing Ireland&#x27;s energy regulator27 Apr 2026 — We are suing Ireland&#x27;s energy regulator, the Commission for the Reg...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: williamfry.com  
    Title: cru sets out revised grid connection pathway for data centres  
-   Link: [https://www.williamfry.com/knowledge/cru-sets-out-revised-grid-connection-pathway-for-data-centres/](https://www.williamfry.com/knowledge/cru-sets-out-revised-grid-connection-pathway-for-data-centres/)  
+   Link: <a href="https://www.williamfry.com/knowledge/cru-sets-out-revised-grid-connection-pathway-for-data-centres/" target="_blank" rel="noopener noreferrer nofollow">https://www.williamfry.com/knowledge/cru-sets-out-revised-grid-connection-pathway-for-data-centres/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CRU Sets Out Revised Grid Connection Pathway for Data...18 Feb 2025 — The Commission for Regulation of Utilities (CRU) has published its...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lemonde.fr  
-   Link: [https://www.lemonde.fr/en/environment/article/2024/07/24/in-ireland-power-consumption-by-data-centers-surpasses-that-of-residential-homes_6696043_114.html](https://www.lemonde.fr/en/environment/article/2024/07/24/in-ireland-power-consumption-by-data-centers-surpasses-that-of-residential-homes_6696043_114.html)  
+   Link: <a href="https://www.lemonde.fr/en/environment/article/2024/07/24/in-ireland-power-consumption-by-data-centers-surpasses-that-of-residential-homes_6696043_114.html" target="_blank" rel="noopener noreferrer nofollow">https://www.lemonde.fr/en/environment/article/2024/07/24/in-ireland-power-consumption-by-data-centers-surpasses-that-of-residential-homes_6696043_114.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In Ireland, power consumption by data centers surpasses...24 Jul 2024 — According to Ireland&#x27;s Central Statistics Office (CSO), data cen...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/thinkingenergy_ireland-comparing-data-centre-electricity-activity-7391454036006281216-cQG6](https://www.linkedin.com/posts/thinkingenergy_ireland-comparing-data-centre-electricity-activity-7391454036006281216-cQG6)  
+   Link: <a href="https://www.linkedin.com/posts/thinkingenergy_ireland-comparing-data-centre-electricity-activity-7391454036006281216-cQG6" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/thinkingenergy_ireland-comparing-data-centre-electricity-activity-7391454036006281216-cQG6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Deane&#x27;s PostIn Ireland, there is a high concentration of data centre demand in and around Dublin, with approximately 50% of the elec...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/data-and-statistics/charts/data-centre-electricity-demand-estimates-as-a-share-of-total-electricity-demand-in-ireland-and-virginia-2023](https://www.iea.org/data-and-statistics/charts/data-centre-electricity-demand-estimates-as-a-share-of-total-electricity-demand-in-ireland-and-virginia-2023)  
+   Link: <a href="https://www.iea.org/data-and-statistics/charts/data-centre-electricity-demand-estimates-as-a-share-of-total-electricity-demand-in-ireland-and-virginia-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/data-and-statistics/charts/data-centre-electricity-demand-estimates-as-a-share-of-total-electricity-demand-in-ireland-and-virginia-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity demand estimates as a share of total...7 Nov 2024 — Data centre electricity demand estimates as a share of total...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: sinnfein.ie  
    Title: data centres pushing electricity prices through the roof lynn boylan mep  
-   Link: [https://sinnfein.ie/news/data-centres-pushing-electricity-prices-through-the-roof-lynn-boylan-mep/](https://sinnfein.ie/news/data-centres-pushing-electricity-prices-through-the-roof-lynn-boylan-mep/)  
+   Link: <a href="https://sinnfein.ie/news/data-centres-pushing-electricity-prices-through-the-roof-lynn-boylan-mep/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/data-centres-pushing-electricity-prices-through-the-roof-lynn-boylan-mep/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres pushing electricity prices through the roof10 Dec 2024 — Sinn Féin MEP for Dublin, Lynn Boylan, has said that data centres a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: sinnfein.ie  
-   Link: [https://sinnfein.ie/news/households-paying-twice-as-much-for-electricity-as-compared-to-data-centres-boylan/](https://sinnfein.ie/news/households-paying-twice-as-much-for-electricity-as-compared-to-data-centres-boylan/)  
+   Link: <a href="https://sinnfein.ie/news/households-paying-twice-as-much-for-electricity-as-compared-to-data-centres-boylan/" target="_blank" rel="noopener noreferrer nofollow">https://sinnfein.ie/news/households-paying-twice-as-much-for-electricity-as-compared-to-data-centres-boylan/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Households are paying twice as much for their electricity as data centres according to new figures published by Eurostat...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: bonkers.ie  
    Title: data centres and their impact on the price and supply of electricity  
-   Link: [https://www.bonkers.ie/guides/gas-electricity/data-centres-and-their-impact-on-the-price-and-supply-of-electricity/](https://www.bonkers.ie/guides/gas-electricity/data-centres-and-their-impact-on-the-price-and-supply-of-electricity/)  
+   Link: <a href="https://www.bonkers.ie/guides/gas-electricity/data-centres-and-their-impact-on-the-price-and-supply-of-electricity/" target="_blank" rel="noopener noreferrer nofollow">https://www.bonkers.ie/guides/gas-electricity/data-centres-and-their-impact-on-the-price-and-supply-of-electricity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres and their impact on the price and supply of...In this guide, we explore the role data centres play in Ireland, and their im...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: consumerreports.org  
-   Link: [https://www.consumerreports.org/data-centers/ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678/](https://www.consumerreports.org/data-centers/ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678/)  
+   Link: <a href="https://www.consumerreports.org/data-centers/ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerreports.org/data-centers/ai-data-centers-impact-on-electric-bills-water-and-more-a1040338678/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Data Centers Impact on Electric Bills, Water, and More20 Mar 2026 — John Steinbach was shocked to receive a $281 electricity bill in J...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: waterfordaccountants.ie  
    Title: data centre electricity usage increased by 10 from 2023 to 2024 cso  
-   Link: [https://www.waterfordaccountants.ie/data-centre-electricity-usage-increased-by-10-from-2023-to-2024-cso/](https://www.waterfordaccountants.ie/data-centre-electricity-usage-increased-by-10-from-2023-to-2024-cso/)  
+   Link: <a href="https://www.waterfordaccountants.ie/data-centre-electricity-usage-increased-by-10-from-2023-to-2024-cso/" target="_blank" rel="noopener noreferrer nofollow">https://www.waterfordaccountants.ie/data-centre-electricity-usage-increased-by-10-from-2023-to-2024-cso/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity usage increased by 10% from 2023 to...12 Jun 2025 — The amount of electricity used by data centres increased by...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: iea.org  
    Title: data centre electricity consumption by region base case 2020 2030  
-   Link: [https://www.iea.org/data-and-statistics/charts/data-centre-electricity-consumption-by-region-base-case-2020-2030](https://www.iea.org/data-and-statistics/charts/data-centre-electricity-consumption-by-region-base-case-2020-2030)  
+   Link: <a href="https://www.iea.org/data-and-statistics/charts/data-centre-electricity-consumption-by-region-base-case-2020-2030" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/data-and-statistics/charts/data-centre-electricity-consumption-by-region-base-case-2020-2030</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centre electricity consumption by region, Base Case...10 Apr 2025 — Data centre electricity consumption by region, Base Case, 2020...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: solarpowerportal.co.uk  
    Title: data centres consumed 21 of ireland s metered electricity in 2023  
-   Link: [https://www.solarpowerportal.co.uk/energy-storage/data-centres-consumed-21-of-ireland-s-metered-electricity-in-2023](https://www.solarpowerportal.co.uk/energy-storage/data-centres-consumed-21-of-ireland-s-metered-electricity-in-2023)  
+   Link: <a href="https://www.solarpowerportal.co.uk/energy-storage/data-centres-consumed-21-of-ireland-s-metered-electricity-in-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.solarpowerportal.co.uk/energy-storage/data-centres-consumed-21-of-ireland-s-metered-electricity-in-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data centres consumed 21% of Ireland&#x27;s metered electricity...29 Jul 2024 — New 2023 electricity consumption statistics show data centres...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
    Title: Data centres are significant drivers of electricity demand  
-   Link: [https://www.facebook.com/euronews/posts/data-centres-are-significant-drivers-of-electricity-demand-almost-one-third-of-e/1023563053152358/](https://www.facebook.com/euronews/posts/data-centres-are-significant-drivers-of-electricity-demand-almost-one-third-of-e/1023563053152358/)  
+   Link: <a href="https://www.facebook.com/euronews/posts/data-centres-are-significant-drivers-of-electricity-demand-almost-one-third-of-e/1023563053152358/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/euronews/posts/data-centres-are-significant-drivers-of-electricity-demand-almost-one-third-of-e/1023563053152358/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Almost one-third of electricity demand in Ireland could come from data centres by 2026. #EuropeInMotion. How much energy do AI-powered ch...</p></details>

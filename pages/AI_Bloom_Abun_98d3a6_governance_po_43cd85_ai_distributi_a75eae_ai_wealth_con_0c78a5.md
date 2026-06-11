@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-benefits/
 nav_short_title: AI Wealth
 title: Who Owns the Wealth AI Creates?
-title_full: Who Owns the Wealth AI Creates? | AI Benefits
+title_full: Who Owns the Wealth AI Creates?
 display_title_short: AI Wealth
 display_title: AI Wealth
 heading_title: Who Owns the Wealth AI Creates?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets the Gains in an AI Enabled Society | Power
+date: '2026-06-08 02:03:35'
+parent_title: Who Gets the Gains in an AI Enabled Society
 parent_permalink: /ai-benefits/
 parent_nav_short_title: AI Benefits
 parent_heading_title: Who Gets the Gains in an AI Enabled Society
@@ -266,7 +267,6 @@ next_link:
   permalink: /job-pathways/
   short_title: Job Pathways
   heading_title: Will AI Pull Up the Career Ladder?
-date: '2026-06-08 02:03:35 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-1.webp
@@ -275,24 +275,22 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a7
 
 ## Introduction
 
-In an economy transformed by artificial [intelligence]({{ 'intelligence/' | relative_url }}) (AI), answering “who owns the wealth?” becomes central to whether AI supports broad human flourishing or entrenches inequality. Advanced AI systems are powerful general‑purpose technologies that can dramatically raise productivity and economic output. But if the financial gains from these productivity shocks accrue mainly to capital owners rather than to ordinary workers, the result can be sharp concentration of wealth at the top. This page focuses on how **capital ownership structures and returns to capital in an AI‑rich world could concentrate wealth**, why that matters for distributional outcomes, and what kinds of policy responses are being proposed to address these risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnalyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
-
+In an economy transformed by artificial [intelligence]({{ 'intelligence/' | relative_url }}) (AI), answering “who owns the wealth?” becomes central to whether AI supports broad human flourishing or entrenches inequality. Advanced AI systems are powerful general‑purpose technologies that can dramatically raise productivity and economic output. But if the financial gains from these productivity shocks accrue mainly to capital owners rather than to ordinary workers, the result can be sharp concentration of wealth at the top. This page focuses on how **capital ownership structures and returns to capital in an AI‑rich world could concentrate wealth**, why that matters for distributional outcomes, and what kinds of policy responses are being proposed to address these risks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Analyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-1-dark.svg" | relative_url }}" alt="AI Wealth illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why AI May Raise Returns to Capital
 
-One of the most consistent findings in economic research on technological change is that automation and productivity‑enhancing technologies tend to **shift income toward capital and away from labour**, increasing the share of income captured by owners of productive assets rather than by workers. In a recent dynamic general equilibrium study, scholars found that AI adoption can **increase the return on capital and raise the capital share of income**, exacerbating wealth inequality unless the gains are widely distributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnalyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
+One of the most consistent findings in economic research on technological change is that automation and productivity‑enhancing technologies tend to **shift income toward capital and away from labour**, increasing the share of income captured by owners of productive assets rather than by workers. In a recent dynamic general equilibrium study, scholars found that AI adoption can **increase the return on capital and raise the capital share of income**, exacerbating wealth inequality unless the gains are widely distributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Analyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
 
-A related theoretical analysis by leading economists shows that automation more broadly increases income inequality by raising **returns to wealth**, meaning those who already own capital see their incomes grow faster than wage earners at the bottom of the distribution. This mechanism does not depend on whether AI creates new jobs; it arises from the basic structure of how automated technologies shift economic returns toward asset owners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w28440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">Uneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality | NBER</span><span class="citation-popover-snippet">NBERUneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality | NBER...</span></span></span>
+A related theoretical analysis by leading economists shows that automation more broadly increases income inequality by raising **returns to wealth**, meaning those who already own capital see their incomes grow faster than wage earners at the bottom of the distribution. This mechanism does not depend on whether AI creates new jobs; it arises from the basic structure of how automated technologies shift economic returns toward asset owners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w28440" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">Uneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality &#124; NBER</span><span class="citation-popover-snippet">Uneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality &#124; NBER...</span></span></span>
 
-These patterns are especially important with AI because modern systems are **intensely capital‑intensive**: building and training large models requires expensive hardware (GPUs and TPUs), [data centre]({{ 'power-demand/' | relative_url }}) infrastructure, and proprietary datasets. These inputs are concentrated among a small number of large firms and [institutional]({{ 'institutional-gaps/' | relative_url }}) investors, so the **bulk of financial gains tend to accrue to those with access to capital and ownership stakes in these assets**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">AI Adoption and Inequality</span><span class="citation-popover-snippet">IMFAI Adoption and Inequality...</span></span></span>
+These patterns are especially important with AI because modern systems are **intensely capital‑intensive**: building and training large models requires expensive hardware (GPUs and TPUs), data centre infrastructure, and proprietary datasets. These inputs are concentrated among a small number of large firms and institutional investors, so the **bulk of financial gains tend to accrue to those with access to capital and ownership stakes in these assets**. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imf.org">[IMF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imf.org</span><span class="citation-popover-title">AI Adoption and Inequality</span><span class="citation-popover-snippet">AI Adoption and Inequality...</span></span></span>
 
 ## Concentration of Ownership and Market Power
 
-AI’s economic structure can amplify **winner‑takes‑all dynamics**. As digital platforms and AI infrastructure become more central to economic activity, a small number of firms can capture disproportionate market share, data, and profits. Academic research into the political economy of “AI capitalism” argues that **commodification of data and [control]({{ 'control/' | relative_url }}) of compute capacity tends to concentrate [power]({{ 'power/' | relative_url }}) and profit**, reinforcing dominance by a few large technology firms and their investors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-022-01437-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkDismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech | AI &amp; SOCIETY | Springer Na...</span></span></span>
+AI’s economic structure can amplify **winner‑takes‑all dynamics**. As digital platforms and AI infrastructure become more central to economic activity, a small number of firms can capture disproportionate market share, data, and profits. Academic research into the political economy of “AI capitalism” argues that **commodification of data and [control]({{ 'control/' | relative_url }}) of compute capacity tends to concentrate [power]({{ 'power/' | relative_url }}) and profit**, reinforcing dominance by a few large technology firms and their investors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-022-01437-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkDismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech &#124; AI &amp; SOCIETY &#124; Springer Na...</span></span></span>
 
 From a global perspective, this concentration is visible in how financial markets have rewarded AI firms. CEOs of major asset managers have publicly warned that **the benefits of the AI boom are accruing largely to those already owning significant financial assets**, with implications for broader wealth inequality. For example, the head of a leading global investment firm highlighted that recent gains in AI‑related stocks have driven market capitalisation increases that disproportionately benefit the wealthiest segments of society, given that these groups hold the majority of equities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">While AI is expected to generate significant economic value, Fink emphasized that much of it currently benefits large tech companies and...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oful9hVGNIc" title="Who Owns AI Will Decide Who Gets Rich - And Who Loses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oful9hVGNIc" target="_blank" rel="noopener noreferrer">Who Owns AI Will Decide Who Gets Rich - And Who Loses</a></p><p class="youtube-embed-meta">Channel: The Nick Standlea Show &middot; Views: 127.0K &middot; Uploaded: October 2025 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oful9hVGNIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oful9hVGNIc">Open on YouTube</a></p></div></div></div>
 
@@ -300,15 +298,15 @@ From a global perspective, this concentration is visible in how financial market
 
 **1. Capital‑Intensive Production:**
 
-AI development hinges on specialised infrastructure—[data centres]({{ 'power-demand/' | relative_url }}), dedicated hardware, and proprietary software. These assets require large upfront investments that most individuals and small firms cannot afford, so the economic value generated tends to flow to **large capital holders** and institutional investors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnalyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
+AI development hinges on specialised infrastructure—data centres, dedicated hardware, and proprietary software. These assets require large upfront investments that most individuals and small firms cannot afford, so the economic value generated tends to flow to **large capital holders** and institutional investors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Analyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
 
 **2. Returns to Scale and Network Effects:**
 
-AI platforms often exhibit increasing returns to scale and strong network effects: the more data and users a platform has, the more valuable it becomes. This promotes **superstar firm dynamics** where a few firms dominate key markets, increasing profits and the value of capital ownership in those firms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-022-01437-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkDismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech | AI &amp; SOCIETY | Springer Na...</span></span></span>
+AI platforms often exhibit increasing returns to scale and strong network effects: the more data and users a platform has, the more valuable it becomes. This promotes **superstar firm dynamics** where a few firms dominate key markets, increasing profits and the value of capital ownership in those firms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s00146-022-01437-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer LinkDismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech &#124; AI &amp; SOCIETY &#124; Springer Na...</span></span></span>
 
 **3. Shifts in Income Shares:**
 
-Studies show that technological change, especially AI, can **alter the distribution of income between labour and capital** by increasing the capital share (income going to asset owners) relative to labour share (income going to workers). When capital share rises, wealth concentrates among those who already own assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectAnalyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
+Studies show that technological change, especially AI, can **alter the distribution of income between labour and capital** by increasing the capital share (income going to asset owners) relative to labour share (income going to workers). When capital share rises, wealth concentrates among those who already own assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Analyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</span></span></span>
 
 **4. Labour Displacement with Uneven Gains:**
 
@@ -316,14 +314,12 @@ Even if AI displaces some high‑income labour, the same high‑skill workers of
 
 These mechanisms jointly mean that, without deliberate intervention, AI’s wealth generation can intensify existing patterns of economic inequality.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-2-dark.svg" | relative_url }}" alt="AI Wealth illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Risks of Weak Incentives and Overreach
 
 Concentrated capital ownership can have broader implications beyond inequality. If economic gains are tightly held by a small set of investors and firms, **demand dynamics in the wider economy may weaken** as labour incomes stagnate relative to capital incomes. This can undermine broad‑based consumption and social cohesion, even amidst overall economic growth.
 
 Moreover, concentrated ownership may reduce incentives for investments that benefit the wider population—such as training programmes, public goods, or inclusive technologies—because returns to capital owners often favour ventures with high profit potential over those with social value but lower financial returns.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-3-dark.svg" | relative_url }}" alt="AI Wealth illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_wealth_con_0c78a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policy and Institutional Responses
@@ -333,10 +329,9 @@ To mitigate wealth concentration risks, scholars and policymakers are considerin
 * **Broadening access to capital markets:** Expanding ownership opportunities—for example, through employee equity programmes, community investment vehicles, or policies that encourage broader share ownership—can help more people participate in AI’s financial gains.
 * **Redistribution and progressive taxation:** Tools such as wealth taxes, capital gains taxes, and redistribution mechanisms can aim to reduce inequality by transferring part of capital income into shared public goods or citizen dividends.
 * **Shared ownership or public equity models:** Some proposals envisage mechanisms where AI infrastructure or digital public goods are collectively owned, with value distributed across society rather than accruing solely to private investors.
-* **Inclusive financial instruments:** Ideas like the “consumption‑to‑ownership” mechanism automatically convert a portion of consumer spending on AI‑enabled services into diversified investments on consumers’ behalf, potentially widening ownership of capital returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">SSRNConsumption to Ownership How Consumer Spending Can Build Capital When Labor Cannot by Brian Bruner:: SSRNApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
+* **Inclusive financial instruments:** Ideas like the “consumption‑to‑ownership” mechanism automatically convert a portion of consumer spending on AI‑enabled services into diversified investments on consumers’ behalf, potentially widening ownership of capital returns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Consumption to Ownership How Consumer Spending Can Build Capital When Labor Cannot by Brian Bruner:: SSRNApril 6, 2026...</span><span class="citation-popover-meta">Published: April 6, 2026</span></span></span>
 
 These approaches underscore that **capital ownership does not have to be static or narrowly concentrated**; institutions and policies can play a central role in shaping how AI‑generated wealth circulates in the economy.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W-S4ouArPaU" title="Who Really Owns AI? With Karen Hao &amp; Kate Devlin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W-S4ouArPaU" target="_blank" rel="noopener noreferrer">Who Really Owns AI? With Karen Hao &amp; Kate Devlin</a></p><p class="youtube-embed-meta">Channel: The Conduit &middot; Views: 4.3K &middot; Uploaded: June 2025 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W-S4ouArPaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W-S4ouArPaU">Open on YouTube</a></p></div></div></div>
 
@@ -348,9 +343,7 @@ Yet, if societies rethink ownership structures and create inclusive pathways for
 
 Understanding these dynamics is crucial not only for diagnosing the distributional impacts of AI but also for **designing policies that help steer AI’s benefits toward a flourishing, inclusive future**.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-J106xM1XxQ" title="Is AI the Biggest Wealth Opportunity of Our Lifetime?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-J106xM1XxQ" target="_blank" rel="noopener noreferrer">Is AI the Biggest Wealth Opportunity of Our Lifetime?</a></p><p class="youtube-embed-meta">Channel: Next Era Debates &middot; Uploaded: April 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-J106xM1XxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-J106xM1XxQ">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -748,127 +741,127 @@ Understanding these dynamics is crucial not only for diagnosing the distribution
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2405844025003238](https://www.sciencedirect.com/science/article/pii/S2405844025003238)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectAnalyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844025003238" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844025003238</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing wealth distribution effects of artificial intelligence: A dynamic stochastic general equilibrium approach - Scienc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: imf.org  
    Title: AI Adoption and Inequality  
-   Link: [https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729](https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IMFAI Adoption and Inequality...</p></details>
+   Link: <a href="https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729" target="_blank" rel="noopener noreferrer nofollow">https://www.imf.org/en/publications/wp/issues/2025/04/04/ai-adoption-and-inequality-565729</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Adoption and Inequality...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nber.org  
    Title: Uneven Growth: Automation's Impact on Income and Wealth Inequality | NBER  
-   Link: [https://www.nber.org/papers/w28440](https://www.nber.org/papers/w28440)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBERUneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality | NBER...</p></details>
+   Link: <a href="https://www.nber.org/papers/w28440" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w28440</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Uneven Growth: Automation&#x27;s Impact on Income and Wealth Inequality | NBER...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s00146-022-01437-8](https://link.springer.com/article/10.1007/s00146-022-01437-8)  
+   Link: <a href="https://link.springer.com/article/10.1007/s00146-022-01437-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s00146-022-01437-8</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkDismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech | AI &amp; SOCIETY | Springer Na...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/](https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/)  
+   Link: <a href="https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/blackrock-ceo-fink-backs-staying-invested-amid-volatility-flags-ai-shift-2026-03-23/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>While AI is expected to generate significant economic value, Fink emphasized that much of it currently benefits large tech companies and...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: elibrary.imf.org  
    Title: article A001 en.xml  
-   Link: [https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml](https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml)  
+   Link: <a href="https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.elibrary.imf.org/view/journals/001/2025/068/article-A001-en.xml</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMF eLibraryAI Adoption and Inequality in: IMF Working Papers Volume 2025 Issue 068 (2025)April 4, 2025...</p></details>
    Published: April 4, 2025  
 
 7. <a id="endnote-7"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SSRNConsumption to Ownership How Consumer Spending Can Build Capital When Labor Cannot by Brian Bruner:: SSRNApril 6, 2026...</p></details>
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6539158</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumption to Ownership How Consumer Spending Can Build Capital When Labor Cannot by Brian Bruner:: SSRNApril 6, 2026...</p></details>
    Published: April 6, 2026  
 
 8. <a id="endnote-8"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211272](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211272)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211272" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5211272</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025/068 64 Pages Posted: 10 Apr 2025 See all articles by Emma Rockall EMMA ROCKALL Stanford University; Stanford University - Department...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781327](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781327)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781327" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3781327</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Growth: Automation&#x27;s Impact on Income and Wealth Inequality by Benjamin Moll, Lukasz Rachel, Pascual Restrepo:: SSRNFebruary 8, 2021 — D...</p></details>
    Published: February 8, 2021  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0954349X18300432](https://www.sciencedirect.com/science/article/abs/pii/S0954349X18300432)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDecember 1, 2018 — STRUCTURAL CHANGE AND ECONOMIC DYNAMICS Volume 47, December 2018, Pages 1-8 DEMAND DRIVEN GROWTH AND CAPI...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0954349X18300432" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0954349X18300432</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 1, 2018 — STRUCTURAL CHANGE AND ECONOMIC DYNAMICS Volume 47, December 2018, Pages 1-8 DEMAND DRIVEN GROWTH AND CAPI...</p></details>
    Published: December 1, 2018  
 
 11. <a id="endnote-11"></a>
    Source: nber.org  
-   Link: [https://www.nber.org/papers/w29544](https://www.nber.org/papers/w29544)  
+   Link: <a href="https://www.nber.org/papers/w29544" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w29544</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>king Paper 29544 DOI 10.3386/w29544 Issue Date December 2021 The distributions of wealth in the US and many...</p></details>
    Published: December 2021  
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0160791X24002677](https://www.sciencedirect.com/science/article/pii/S0160791X24002677)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0160791X24002677" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0160791X24002677</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;ScienceDirectARTIFICIAL INTELLIGENCE AND WEALTH INEQUALITY: A COMPREHENSIVE EMPIRICAL EXPLORATION OF SOCIOECONOMIC IMPLICATIONS [https://d...&quot;](https://d...&quot;)...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: econometricsociety.org  
-   Link: [https://www.econometricsociety.org/publications/econometrica/2022/11/01/Uneven-Growth-Automations-Impact-on-Income-and-Wealth-Inequality](https://www.econometricsociety.org/publications/econometrica/2022/11/01/Uneven-Growth-Automations-Impact-on-Income-and-Wealth-Inequality)  
+   Link: <a href="https://www.econometricsociety.org/publications/econometrica/2022/11/01/Uneven-Growth-Automations-Impact-on-Income-and-Wealth-Inequality" target="_blank" rel="noopener noreferrer nofollow">https://www.econometricsociety.org/publications/econometrica/2022/11/01/Uneven-Growth-Automations-Impact-on-Income-and-Wealth-Inequality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>November 1, 2022 — Edited by: Marina Halac • Print ISSN: 0012-9682 • Online ISSN: 1468-0262 Econometrica: Nov, 2022, Volume 90, Issue 6 U...</p></details>
    Published: November 1, 2022  
 
 14. <a id="endnote-14"></a>
    Source: businessthink.unsw.edu.au  
    Title: unsw.edu.au Will AI make a few people much richer, but most people poorer?  
-   Link: [https://www.businessthink.unsw.edu.au/articles/ai-financialisation-technological-concentration-inequality](https://www.businessthink.unsw.edu.au/articles/ai-financialisation-technological-concentration-inequality)  
+   Link: <a href="https://www.businessthink.unsw.edu.au/articles/ai-financialisation-technological-concentration-inequality" target="_blank" rel="noopener noreferrer nofollow">https://www.businessthink.unsw.edu.au/articles/ai-financialisation-technological-concentration-inequality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UNSW BusinessThinkSeptember 28, 2025 — WILL AI MAKE A FEW PEOPLE MUCH RICHER, BUT MOST PEOPLE POORER? Opinion | 28 September 2025 Predict...</p></details>
    Published: September 28, 2025  
 
 15. <a id="endnote-15"></a>
    Source: compens.ai  
    Title: ai economic systems wealth justice democratic economics algorithms 2025  
-   Link: [https://compens.ai/articles/ai-economic-systems-wealth-justice-democratic-economics-algorithms-2025](https://compens.ai/articles/ai-economic-systems-wealth-justice-democratic-economics-algorithms-2025)  
+   Link: <a href="https://compens.ai/articles/ai-economic-systems-wealth-justice-democratic-economics-algorithms-2025" target="_blank" rel="noopener noreferrer nofollow">https://compens.ai/articles/ai-economic-systems-wealth-justice-democratic-economics-algorithms-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, Economic Systems, and Wealth Justice: Building Democratic Economics in the Age of Algorithms | Compens AIAugust 28, 2025 — AI Ethics...</p></details>
    Published: August 28, 2025  
 
 16. <a id="endnote-16"></a>
    Source: collaborate.princeton.edu  
    Title: uneven growth automations impact on income and wealth inequality  
-   Link: [https://collaborate.princeton.edu/en/publications/uneven-growth-automations-impact-on-income-and-wealth-inequality](https://collaborate.princeton.edu/en/publications/uneven-growth-automations-impact-on-income-and-wealth-inequality)  
+   Link: <a href="https://collaborate.princeton.edu/en/publications/uneven-growth-automations-impact-on-income-and-wealth-inequality" target="_blank" rel="noopener noreferrer nofollow">https://collaborate.princeton.edu/en/publications/uneven-growth-automations-impact-on-income-and-wealth-inequality</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Growth: Automation&#x27;s Impact on Income and Wealth Inequality - Princeton UniversityUNEVEN GROWTH: AUTOMATION&#x27;S IMPACT ON INCOME AND WEALTH...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ainvest.com  
    Title: A I's Capital Flow: How Profits Concentrate at the Top  
-   Link: [https://www.ainvest.com/news/ai-capital-flow-profits-concentrate-top-2603/](https://www.ainvest.com/news/ai-capital-flow-profits-concentrate-top-2603/)  
+   Link: <a href="https://www.ainvest.com/news/ai-capital-flow-profits-concentrate-top-2603/" target="_blank" rel="noopener noreferrer nofollow">https://www.ainvest.com/news/ai-capital-flow-profits-concentrate-top-2603/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI&#x27;s Capital Flow: How Profits Concentrate at the TopMarch 6, 2026 — AI&#x27;S CAPITAL FLOW: HOW PROFITS CONCENTRATE AT THE TOP Generated by A...</p></details>
    Published: March 6, 2026  
 
 19. <a id="endnote-19"></a>
    Source: econpapers.repec.org  
    Title: v 3a39 3ay 3a2025 3ai 3a2 3 3ap 3a197 215  
-   Link: [https://econpapers.repec.org/article/tafirapec/v_3a39_3ay_3a2025_3ai_3a2-3_3ap_3a197-215.htm](https://econpapers.repec.org/article/tafirapec/v_3a39_3ay_3a2025_3ai_3a2-3_3ap_3a197-215.htm)  
+   Link: <a href="https://econpapers.repec.org/article/tafirapec/v_3a39_3ay_3a2025_3ai_3a2-3_3ap_3a197-215.htm" target="_blank" rel="noopener noreferrer nofollow">https://econpapers.repec.org/article/tafirapec/v_3a39_3ay_3a2025_3ai_3a2-3_3ap_3a197-215.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>repec.orgEconPapers: Automation, artificial intelligence and capital concentration – A race for the machineMay 2, 2025 — AUTOMATION, ARTI...</p></details>
    Published: May 2, 2025  
 
 20. <a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39897810/](https://pubmed.ncbi.nlm.nih.gov/39897810/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39897810/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39897810/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 Jan 13;11(2):e41943. doi: 10.1016/j.heliyon.2025.e41943. eCollection 2025 Jan 30. ANALYZING WEALTH DISTRIBUTION EFFECTS O...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/03098168261448192](https://journals.sagepub.com/doi/10.1177/03098168261448192)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/03098168261448192" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/03098168261448192</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>techno-feudalism: A monopoly-capital analysis of artificial intelligence investment - Elliot Goodell Ugalde, 2026May 12, 2026 — First pub...</p></details>
    Published: May 12, 2026  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Who Owns AI Will Decide Who Gets Rich  
-   Link: [https://www.youtube.com/watch?v=oful9hVGNIc](https://www.youtube.com/watch?v=oful9hVGNIc)  
+   Link: <a href="https://www.youtube.com/watch?v=oful9hVGNIc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oful9hVGNIc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Wealth: Why Most People Will Get Left Behind...</p></details>

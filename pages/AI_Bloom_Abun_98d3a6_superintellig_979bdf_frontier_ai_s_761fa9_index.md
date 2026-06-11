@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-superintellig/
 description: Focused pages that expand on Safety Frameworks.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_superintellig_979bdf_frontier_ai_s_761fa9
-parent_title: Safety Frameworks | Control
+parent_title: Safety Frameworks
 parent_nav_short_title: Safety Frameworks
 parent_permalink: /safety-frameworks/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /interaction-safety/
 nav_short_title: Risk Checks
 title: The safety checklist robots cannot skip
-title_full: The safety checklist robots cannot skip | Interaction Safety
+title_full: The safety checklist robots cannot skip
 display_title_short: Risk Checks
 display_title: Risk Checks
 heading_title: The safety checklist robots cannot skip
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Managing Risks When Humans and Robots Work Together | Robotics
+date: '2026-06-08 02:11:30'
+parent_title: Managing Risks When Humans and Robots Work Together
 parent_permalink: /interaction-safety/
 parent_nav_short_title: Interaction Safety
 parent_heading_title: Managing Risks When Humans and Robots Work Together
@@ -260,7 +261,6 @@ prev_link:
   permalink: /felt-safety/
   short_title: Felt Safety
   heading_title: Why robot trust matters at work
-date: '2026-06-08 02:11:30 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-1.webp
@@ -271,9 +271,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a
 
 Robot safety standards are often described as if they were fixed rules built into a machine. In practice, the most important safety question is not whether a robot meets a standard in isolation, but whether a specific task can be performed safely by a particular robot, tool and worker in a real workplace.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-1-dark.svg" | relative_url }}" alt="Risk Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That is why modern robot safety increasingly depends on **task-based assessment**. International standards such as ISO 10218 and ISO/TS 15066 do not simply ask whether a robot is certified. They require organisations to examine the exact job being performed: the robot’s movements, the end-of-arm tooling, the materials being handled, the surrounding workspace, the workers involved and the ways people and machines may unexpectedly interact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/obp/ui/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">ISOISO 10218-2:2025(en), Robotics — Safety requirementsThis document has been created in recognition of the hazards that are presented by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/standard/62996.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">ISOISO/TS 15066:2016 - Robots and robotic devicesISO/TS 15066:2016 specifies safety requirements for collaborative industrial robot syste...</span></span></span>
+That is why modern robot safety increasingly depends on **task-based assessment**. International standards such as ISO 10218 and ISO/TS 15066 do not simply ask whether a robot is certified. They require organisations to examine the exact job being performed: the robot’s movements, the end-of-arm tooling, the materials being handled, the surrounding workspace, the workers involved and the ways people and machines may unexpectedly interact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/obp/ui/en/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">ISO 10218-2:2025(en), Robotics — Safety requirementsThis document has been created in recognition of the hazards that are presented by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/standard/62996.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">ISO/TS 15066:2016 - Robots and robotic devicesISO/TS 15066:2016 specifies safety requirements for collaborative industrial robot syste...</span></span></span>
 
 This approach matters far beyond regulatory compliance. If advanced [robotics]({{ 'robotics/' | relative_url }}) is to help remove dangerous, exhausting and repetitive labour—a major part of the broader vision of AI-enabled abundance and human flourishing—people must be able to trust that shared workspaces are genuinely safe. Task-based assessment is the mechanism that turns abstract safety principles into practical protections.
 
@@ -301,15 +300,13 @@ Modern robot standards treat safety as a system property. Assessors must conside
 
 This is why a robot's technical certification is only the starting point. The larger question is how that robot behaves while carrying out a specific task alongside humans.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/itHzlfuUa5k" title="Evaluate a Risk for a Collaborative Robot - Risk Assessment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=itHzlfuUa5k" target="_blank" rel="noopener noreferrer">Evaluate a Risk for a Collaborative Robot - Risk Assessment</a></p><p class="youtube-embed-meta">Channel: Robotiq &middot; Views: 8.6K &middot; Uploaded: July 2016 &middot; Length: 2 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=itHzlfuUa5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=itHzlfuUa5k">Open on YouTube</a></p></div></div></div>
 
 ## What standards require before collaboration begins
 
-The major industrial robot standards require risk assessment before systems are commissioned and deployed. ISO 10218 covers safety requirements for industrial robot systems, while ISO/TS 15066 expands guidance for collaborative workspaces where humans and robots share operating areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/news/2016/03/Ref2057.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">Robots and humans can work together with new...Mar 8, 2016 — ISO/TS 15066 provides guidelines for the design and implementation of a col...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">ISO - International Organization for StandardizationISO is an independent, non-governmental international organization. It brings global...</span></span></span>
+The major industrial robot standards require risk assessment before systems are commissioned and deployed. ISO 10218 covers safety requirements for industrial robot systems, while ISO/TS 15066 expands guidance for collaborative workspaces where humans and robots share operating areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/news/2016/03/Ref2057.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">Robots and humans can work together with new...Mar 8, 2016 — ISO/TS 15066 provides guidelines for the design and implementation of a col...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iso.org/home.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iso.org">[ISO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iso.org</span><span class="citation-popover-snippet">International Organization for StandardizationISO is an independent, non-governmental international organization. It brings global...</span></span></span>
 
 Before collaborative work begins, organisations are expected to identify hazards, estimate risks and implement safeguards appropriate to the application. The process normally includes:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -317,6 +314,94 @@ Before collaborative work begins, organisations are expected to identify hazards
 2. **Identifying hazards** – including collision risks, crushing points, dropped objects, sharp tools and unexpected motion.
 3. **Estimating exposure** – assessing how often workers enter hazardous zones and how close interactions occur.
 4. **Applying controls** – adding sensors, barriers, speed limits, force limits or redesigned workflows.
+5. **Validating performance** – confirming that safety systems actually work under real operating conditions. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm") [2ISO](https://www.iso.org/standard/73933.html)
+
+</div>
+
+Recent revisions of ISO 10218 place even greater emphasis on application-level assessment and [validation]({{ 'validation/' | relative_url }}), reflecting the growing complexity of human–robot collaboration. [The Robot Report](#endnote-24 "Snippet: The Robot ReportISO 10218 industrial robot safety standard receives major...Feb 18, 2025 — ISO 10218 is an international standard that o...") [Automate The logic is straightforward: workers are injured by concrete situations](https://www.automate.org/robotics/blogs/updated-iso-10218-faq), not by abstract categories. A risk assessment therefore has to examine the actual situations people will encounter.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWS1ifmb32U" title="Safety Connection | New ISO 10218:2025: Industrial Robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWS1ifmb32U" target="_blank" rel="noopener noreferrer">Safety Connection | New ISO 10218:2025: Industrial Robots</a></p><p class="youtube-embed-meta">Channel: Workplace Safety &amp; Prevention Services &middot; Views: 619 &middot; Uploaded: October 2025 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWS1ifmb32U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWS1ifmb32U">Open on YouTube</a></p></div></div></div>
+
+## How task-based assessment finds hidden hazards
+
+Many serious hazards only become visible when assessors examine a complete work cycle.
+
+Consider a robot programmed to move slowly while a worker is nearby. At first glance, this appears safe. A task-based assessment may nevertheless uncover problems such as:
+
+* A heavy metal part slipping from the gripper.
+* A worker reaching unexpectedly into the robot's path.
+* A blind spot where sensors cannot reliably detect a person.
+* Finger trapping between a workpiece and a fixture.
+* Maintenance activities that bypass normal safety controls.
+* A robot accelerating after a sensor briefly loses track of a worker. [Universal Robots](https://www.universal-robots.com/manuals/EN/HTML/SW5_21/Content/prod-cable40m/risk_assessment.htm) [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590123026015203)
+
+These risks often arise from interactions between components rather than from any single machine failure.
+
+Research on human–robot collaboration has repeatedly found that collaborative environments create more complex risk profiles than traditional fenced industrial robots. Assessments based solely on checklists or generic assumptions can miss important interactions between workers, tools and automated systems. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm") [2ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0925753521001338)
+
+This complexity increases as AI systems become better at adapting to changing environments. A robot that can alter routes, optimise workflows or respond dynamically to human behaviour may improve productivity, but it also creates more situations that need careful evaluation and monitoring.
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-dark.svg" | relative_url }}" alt="Risk Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why the tool matters as much as the robot
+
+[A striking feature of robot safety standards is how much attention they pay to tooling.](#endnote-26 "Snippet: Understanding ISO10218:2025 Robot Safety StandardsMar 27, 2026 — The standards now spell out how to safely use the robot's tools (the gri...")
+
+A robot arm may have limited force and speed, yet the attached tool can introduce entirely different risks. A polishing attachment creates different hazards from a welding torch. A vacuum gripper creates different hazards from a mechanical clamp. A robot carrying a fragile glass panel presents different dangers from one carrying a cardboard box.
+
+Recent guidance increasingly highlights end effectors, loading operations and handling procedures because many injuries arise from the interaction between tools, workpieces and human workers rather than from the robot arm alone. [Iteh Standards](#endnote-3 "Snippet: Iteh StandardsISO 10218-2:20254.3.2 Risk assessment for contacts between moving parts of the robot application... 5.9.5 End-effectors an...") [2CobotKind](#endnote-26 "Snippet: Understanding ISO10218:2025 Robot Safety StandardsMar 27, 2026 — The standards now spell out how to safely use the robot's tools (the gri")
+
+This is one reason collaborative robotics has evolved away from simplistic claims that a robot can be labelled inherently safe. Safety depends on the entire application and the specific task being performed. ScienceDirect [2Cobots & Machinery Safety](#endnote-25 "Snippet: ​. Key updates...Read more")
+
+## Measuring distance, speed and contact in the real world
+
+Collaborative robot standards define several operating modes designed to reduce risk. These include speed-and-separation monitoring, safety-rated monitored stops and [power]({{ 'power/' | relative_url }})-and-force limiting approaches. [ISO](https://www.iso.org/obp/ui)
+
+Yet implementing these modes requires practical measurement.
+
+For example, a factory using speed-and-separation monitoring must determine:
+
+* How quickly sensors detect a person.
+* How fast the robot can stop.
+* How close workers may approach.
+* Whether the workspace contains obstacles that interfere with detection.
+* How different body positions affect visibility. [Automate](https://www.automate.org/robotics/blogs/updated-iso-10218-faq)
+
+Similarly, power-and-force limiting systems rely on biomechanical limits intended to reduce injury risk if contact occurs. But those limits must be assessed against the actual contact scenario. A brief contact with an arm may present different risks from sustained pressure against a hand, shoulder or head. Researchers have noted that interpreting collision scenarios can be difficult and that different assessments may reach different conclusions if contact conditions are not carefully analysed. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm")
+
+Task-based assessment therefore functions as a reality check. It tests whether theoretical safety mechanisms remain effective under workplace conditions.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yD1i4LQ-Wyw" title="How Does ISO/TS 15066 Address Human-Robot Safety?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer">How Does ISO/TS 15066 Address Human-Robot Safety?</a></p><p class="youtube-embed-meta">Channel: Everything About Robotics Explained &middot; Views: 83 &middot; Uploaded: December 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yD1i4LQ-Wyw">Open on YouTube</a></p></div></div></div>
+
+## Training workers for real shared-workspace conditions
+
+Even the best technical safeguards can fail if workers do not understand how the system behaves.
+
+Training in collaborative environments differs from traditional machine-safety training because workers are expected to share space with automation rather than simply stay away from it. They need to understand:
+
+* Robot operating zones.
+* Expected movement patterns.
+* Sensor limitations.
+* Emergency stop procedures.
+* Restart sequences after interruptions.
+* Safe maintenance and troubleshooting practices.
+* How to recognise unusual robot behaviour. [OSH Wiki](#endnote-27 "Snippet: OSH WikiCollaborating robots - OSHwiki | European Agency for Safety...Sep 30, 2013 — EN ISO 10218-1:2011 describes how safe robots may b...") [2BAuA](https://www.baua.de/EN/Service/Publications/Essays/article3735)
+
+Task-based assessment helps shape this training. Instead of teaching generic rules, organisations can prepare workers for the exact situations they are likely to encounter.
+
+For example, a warehouse employee collaborating with mobile robots faces different risks from a technician working beside a robotic welding station. The training must reflect the realities of the task rather than a broad description of robotics.
+
+This also affects psychological safety. Workers who understand how a robot senses, stops and responds are more likely to trust the system appropriately. Uncertainty about robot behaviour can create stress, hesitation or unsafe workarounds even when technical safeguards are present.
+
+<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-dark.svg" | relative_url }}" alt="Risk Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why this matters for an AI-enabled future
+
+One of the strongest arguments for advanced robotics is that machines could increasingly take over dangerous, repetitive, physically exhausting or unhealthy work. Factories, warehouses, hospitals, farms, construction sites and logistics networks could become safer while allowing people to focus more on supervision, creativity, problem-solving and care-oriented tasks.
+
+But this outcome is not automatic.
+
+The history of industrial technology shows that productivity gains alone do not guarantee safe workplaces. The benefits depend on implementation choices, organisational culture, regulation and continuous assessment. Collaborative robots can reduce exposure to lifting injuries, hazardous substances and repetitive strain, yet they can also introduce new forms of risk if deployment outpaces safety practice. ScienceDirect [3EU-OSHA](#endnote-15 "Snippet: report explores the impact of robotic technologies...26 Jul 2024 — The 'Human–robot interaction: What changes in the workplace?' researc") [3EU-OSHA](#endnote-15 "Snippet: report explores the impact of robotic technologies...26 Jul 2024 — The 'Human–robot interaction: What changes in the workplace?' researc")
+
+Task-based assessment is therefore more than a compliance exercise. It is one of the practical institutions that allows advanced automation to expand without treating human workers as an afterthought. As AI-driven robotics becomes more capable, the challenge is not merely building machines that can work alongside people. It is ensuring that every specific task, workflow and workplace has been examined closely enough that collaboration remains safe, predictable and worthy of trust.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -435,15 +520,15 @@ Before collaborative work begins, organisations are expected to identify hazards
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Single Taken Robots Robotics Engine Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/29fc360afb3b80ec8b56.jpg' | relative_url }}" alt="Listing image for Single Taken Robots Robotics Engine Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warning Beware Of Robots Retro Vintage Style Metal Sign - 8 In X 12 In"><img src="https://i.ebayimg.com/images/g/2EsAAOSw-4BXbYw5/s-l225.jpg" alt="Listing image for Warning Beware Of Robots Retro Vintage Style Metal Sign - 8 In X 12 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Single Taken Robots Robotics Engine Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">Warning Beware Of Robots Retro Vintage Style Metal Sign - 8 In X 12 In</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -451,15 +536,15 @@ Before collaborative work begins, organisations are expected to identify hazards
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Notes Large Cloth Poster Official Goods Japan"><img src="{{ '/assets/images/marketplace-covers/a826b67e58d0f07ddf2d.jpg' | relative_url }}" alt="Listing image for Robotics Notes Large Cloth Poster Official Goods Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00036306)"><img src="https://i.ebayimg.com/images/g/qTwAAeSwYctqGHPP/s-l225.jpg" alt="Listing image for &#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00036306)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Robotics Notes Large Cloth Poster Official Goods Japan</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">&#x27;Futuristic Robot&#x27; Suction Cup Car Window Sign (CG00036306)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -467,15 +552,15 @@ Before collaborative work begins, organisations are expected to identify hazards
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/24a3b5b8515617f18973.jpg' | relative_url }}" alt="Listing image for Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for National Marker sign &quot;Caution: Robots Operating Do Not Enter Authorized Personal"><img src="https://i.ebayimg.com/images/g/jyIAAeSwr75pmK~G/s-l225.jpg" alt="Listing image for National Marker sign &quot;Caution: Robots Operating Do Not Enter Authorized Personal" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Living Robotics Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">National Marker sign &quot;Caution: Robots Operating Do Not Enter Authorized Personal</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +568,15 @@ Before collaborative work begins, organisations are expected to identify hazards
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2e780a32e1d8c26606.jpg' | relative_url }}" alt="Listing image for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CAUTION Robot Operating Area Do Not Enter APO - OSHA Safety SIGN 10&quot; x 14&quot;"><img src="https://i.ebayimg.com/images/g/jEsAAOSw37tWCwXR/s-l225.jpg" alt="Listing image for CAUTION Robot Operating Area Do Not Enter APO - OSHA Safety SIGN 10&quot; x 14&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">CAUTION Robot Operating Area Do Not Enter APO - OSHA Safety SIGN 10&quot; x 14&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot safety sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot safety sign</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,7 +584,7 @@ Before collaborative work begins, organisations are expected to identify hazards
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="risk-checks-the-safety-checklist-robots-cannot-skip-ai-bloom-abundance-superintelligence-and-hum-robotics-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+safety+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-safety-checklist-robots-cannot-skip-robot-safety-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot safety sign" data-ebay-reference="the-safety-checklist-robots-cannot-skip-robot-safety-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -710,311 +795,218 @@ Before collaborative work begins, organisations are expected to identify hazards
 </script>
 </section>
 
-5. **Validating performance** – confirming that safety systems actually work under real operating conditions. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm") [2ISO](https://www.iso.org/standard/73933.html)
-
-</div>
-
-Recent revisions of ISO 10218 place even greater emphasis on application-level assessment and [validation]({{ 'validation/' | relative_url }}), reflecting the growing complexity of human–robot collaboration. [The Robot Report](#endnote-24 "Snippet: The Robot ReportISO 10218 industrial robot safety standard receives major...Feb 18, 2025 — ISO 10218 is an international standard that o...") [Automate The logic is straightforward: workers are injured by concrete situations](https://www.automate.org/robotics/blogs/updated-iso-10218-faq), not by abstract categories. A risk assessment therefore has to examine the actual situations people will encounter.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lWS1ifmb32U" title="Safety Connection | New ISO 10218:2025: Industrial Robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lWS1ifmb32U" target="_blank" rel="noopener noreferrer">Safety Connection | New ISO 10218:2025: Industrial Robots</a></p><p class="youtube-embed-meta">Channel: Workplace Safety &amp; Prevention Services &middot; Views: 619 &middot; Uploaded: October 2025 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lWS1ifmb32U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lWS1ifmb32U">Open on YouTube</a></p></div></div></div>
-
-## How task-based assessment finds hidden hazards
-
-Many serious hazards only become visible when assessors examine a complete work cycle.
-
-Consider a robot programmed to move slowly while a worker is nearby. At first glance, this appears safe. A task-based assessment may nevertheless uncover problems such as:
-
-* A heavy metal part slipping from the gripper.
-* A worker reaching unexpectedly into the robot's path.
-* A blind spot where sensors cannot reliably detect a person.
-* Finger trapping between a workpiece and a fixture.
-* Maintenance activities that bypass normal safety controls.
-* A robot accelerating after a sensor briefly loses track of a worker. [[Universal]({{ 'ai-tutors-f14433/' | relative_url }}) Robots+2ScienceDirect]
-
-These risks often arise from interactions between components rather than from any single machine failure.
-
-Research on human–robot collaboration has repeatedly found that collaborative environments create more complex risk profiles than traditional fenced industrial robots. Assessments based solely on checklists or generic assumptions can miss important interactions between workers, tools and automated systems. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm") [2ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2590123026015203)
-
-This complexity increases as AI systems become better at adapting to changing environments. A robot that can alter routes, optimise workflows or respond dynamically to human behaviour may improve productivity, but it also creates more situations that need careful evaluation and monitoring.
-
-
-<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-dark.svg" | relative_url }}" alt="Risk Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why the tool matters as much as the robot
-
-[A striking feature of robot safety standards is how much attention they pay to tooling.](#endnote-26 "Snippet: Understanding ISO10218:2025 Robot Safety StandardsMar 27, 2026 — The standards now spell out how to safely use the robot's tools (the gri...")
-
-A robot arm may have limited force and speed, yet the attached tool can introduce entirely different risks. A polishing attachment creates different hazards from a welding torch. A vacuum gripper creates different hazards from a mechanical clamp. A robot carrying a fragile glass panel presents different dangers from one carrying a cardboard box.
-
-Recent guidance increasingly highlights end effectors, loading operations and handling procedures because many injuries arise from the interaction between tools, workpieces and human workers rather than from the robot arm alone. [Iteh Standards](#endnote-3 "Snippet: Iteh StandardsISO 10218-2:20254.3.2 Risk assessment for contacts between moving parts of the robot application... 5.9.5 End-effectors an...") [2CobotKind](#endnote-26 "Snippet: Understanding ISO10218:2025 Robot Safety StandardsMar 27, 2026 — The standards now spell out how to safely use the robot's tools (the gri")
-
-This is one reason collaborative robotics has evolved away from simplistic claims that a robot can be labelled inherently safe. Safety depends on the entire application and the specific task being performed. ScienceDirect [2Cobots & Machinery Safety](#endnote-25 "Snippet: ​. Key updates...Read more")
-
-## Measuring distance, speed and contact in the real world
-
-Collaborative robot standards define several operating modes designed to reduce risk. These include speed-and-separation monitoring, safety-rated monitored stops and [power]({{ 'power/' | relative_url }})-and-force limiting approaches. [ISO](https://www.iso.org/obp/ui)
-
-Yet implementing these modes requires practical measurement.
-
-For example, a factory using speed-and-separation monitoring must determine:
-
-* How quickly sensors detect a person.
-* How fast the robot can stop.
-* How close workers may approach.
-* Whether the workspace contains obstacles that interfere with detection.
-* How different body positions affect visibility. [Automate](https://www.automate.org/robotics/blogs/updated-iso-10218-faq)
-
-Similarly, power-and-force limiting systems rely on biomechanical limits intended to reduce injury risk if contact occurs. But those limits must be assessed against the actual contact scenario. A brief contact with an arm may present different risks from sustained pressure against a hand, shoulder or head. Researchers have noted that interpreting collision scenarios can be difficult and that different assessments may reach different conclusions if contact conditions are not carefully analysed. [ScienceDirect](#endnote-4 "Snippet: 2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm")
-
-Task-based assessment therefore functions as a reality check. It tests whether theoretical safety mechanisms remain effective under workplace conditions.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yD1i4LQ-Wyw" title="How Does ISO/TS 15066 Address Human-Robot Safety?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer">How Does ISO/TS 15066 Address Human-Robot Safety?</a></p><p class="youtube-embed-meta">Channel: Everything About Robotics Explained &middot; Views: 83 &middot; Uploaded: December 2025 &middot; Length: 3 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yD1i4LQ-Wyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yD1i4LQ-Wyw">Open on YouTube</a></p></div></div></div>
-
-## Training workers for real shared-workspace conditions
-
-Even the best technical safeguards can fail if workers do not understand how the system behaves.
-
-Training in collaborative environments differs from traditional machine-safety training because workers are expected to share space with automation rather than simply stay away from it. They need to understand:
-
-* Robot operating zones.
-* Expected movement patterns.
-* Sensor limitations.
-* Emergency stop procedures.
-* Restart sequences after interruptions.
-* Safe maintenance and troubleshooting practices.
-* How to recognise unusual robot behaviour. [OSH Wiki](#endnote-27 "Snippet: OSH WikiCollaborating robots - OSHwiki | European Agency for Safety...Sep 30, 2013 — EN ISO 10218-1:2011 describes how safe robots may b...") [2BAuA](https://www.baua.de/EN/Service/Publications/Essays/article3735)
-
-Task-based assessment helps shape this training. Instead of teaching generic rules, organisations can prepare workers for the exact situations they are likely to encounter.
-
-For example, a warehouse employee collaborating with mobile robots faces different risks from a technician working beside a robotic welding station. The training must reflect the realities of the task rather than a broad description of robotics.
-
-This also affects [psychological]({{ 'crew-resilience/' | relative_url }}) safety. Workers who understand how a robot senses, stops and responds are more likely to trust the system appropriately. Uncertainty about robot behaviour can create stress, hesitation or unsafe workarounds even when technical safeguards are present.
-
-
-<img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-dark.svg" | relative_url }}" alt="Risk Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_human_robot_i_5a8fe0_robot_task_ri_4f8853-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why this matters for an AI-enabled future
-
-One of the strongest arguments for advanced robotics is that machines could increasingly take over dangerous, repetitive, physically exhausting or unhealthy work. Factories, warehouses, hospitals, farms, construction sites and logistics networks could become safer while allowing people to focus more on supervision, creativity, problem-solving and care-oriented tasks.
-
-But this outcome is not automatic.
-
-The history of industrial technology shows that productivity gains alone do not guarantee safe workplaces. The benefits depend on implementation choices, organisational culture, regulation and continuous assessment. Collaborative robots can reduce exposure to lifting injuries, hazardous substances and repetitive strain, yet they can also introduce new forms of risk if deployment outpaces safety practice. ScienceDirect [3EU-OSHA](#endnote-15 "Snippet: report explores the impact of robotic technologies...26 Jul 2024 — The 'Human–robot interaction: What changes in the workplace?' researc") [3EU-OSHA](#endnote-15 "Snippet: report explores the impact of robotic technologies...26 Jul 2024 — The 'Human–robot interaction: What changes in the workplace?' researc")
-
-Task-based assessment is therefore more than a compliance exercise. It is one of the practical institutions that allows advanced automation to expand without treating human workers as an afterthought. As AI-driven robotics becomes more capable, the challenge is not merely building machines that can work alongside people. It is ensuring that every specific task, workflow and workplace has been examined closely enough that collaboration remains safe, predictable and worthy of trust.
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/obp/ui/en/](https://www.iso.org/obp/ui/en/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISOISO 10218-2:2025(en), Robotics — Safety requirementsThis document has been created in recognition of the hazards that are presented by...</p></details>
+   Link: <a href="https://www.iso.org/obp/ui/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/obp/ui/en/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 10218-2:2025(en), Robotics — Safety requirementsThis document has been created in recognition of the hazards that are presented by...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/standard/62996.html](https://www.iso.org/standard/62996.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISOISO/TS 15066:2016 - Robots and robotic devicesISO/TS 15066:2016 specifies safety requirements for collaborative industrial robot syste...</p></details>
+   Link: <a href="https://www.iso.org/standard/62996.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/standard/62996.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TS 15066:2016 - Robots and robotic devicesISO/TS 15066:2016 specifies safety requirements for collaborative industrial robot syste...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: cdn.standards.iteh.ai  
-   Link: [https://cdn.standards.iteh.ai/samples/73934/3578b7f9a402489fb9af1cf1ca03ea68/ISO-10218-2-2025.pdf](https://cdn.standards.iteh.ai/samples/73934/3578b7f9a402489fb9af1cf1ca03ea68/ISO-10218-2-2025.pdf)  
+   Link: <a href="https://cdn.standards.iteh.ai/samples/73934/3578b7f9a402489fb9af1cf1ca03ea68/ISO-10218-2-2025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.standards.iteh.ai/samples/73934/3578b7f9a402489fb9af1cf1ca03ea68/ISO-10218-2-2025.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iteh StandardsISO 10218-2:20254.3.2 Risk assessment for contacts between moving parts of the robot application... 5.9.5 End-effectors an...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2590123026015203](https://www.sciencedirect.com/science/article/pii/S2590123026015203)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590123026015203" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590123026015203</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2025)...by D Hartmann · 2026 — Implication: Emphasizes that safety is determined not by the robot alone, but by the overall risk assessm...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: automate.org  
    Title: updated iso 10218 faq  
-   Link: [https://www.automate.org/robotics/blogs/updated-iso-10218-faq](https://www.automate.org/robotics/blogs/updated-iso-10218-faq)  
+   Link: <a href="https://www.automate.org/robotics/blogs/updated-iso-10218-faq" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/blogs/updated-iso-10218-faq</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updated ISO 10218 | Answers to Frequently Asked...Mar 20, 2025 — ISO 10218 is the foundational safety standard for industrial robots, pr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: osha.gov  
-   Link: [https://www.osha.gov/otm/section-4-safety-hazards/chapter-4](https://www.osha.gov/otm/section-4-safety-hazards/chapter-4)  
+   Link: <a href="https://www.osha.gov/otm/section-4-safety-hazards/chapter-4" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/otm/section-4-safety-hazards/chapter-4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSHA Technical Manual (OTM) - Section IV: Chapter 4This chapter is intended as a guide to robot systems found in industrial applications...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0925753521001338](https://www.sciencedirect.com/science/article/abs/pii/S0925753521001338)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRisk assessment tools for industrial human-robot...by TP Huck · 2021 · Cited by 88 — According to the standard ISO 10218–2...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925753521001338" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925753521001338</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Risk assessment tools for industrial human-robot...by TP Huck · 2021 · Cited by 88 — According to the standard ISO 10218–2...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: universal-robots.com  
-   Link: [https://www.universal-robots.com/manuals/EN/HTML/SW5_21/Content/prod-cable40m/risk_assessment.htm](https://www.universal-robots.com/manuals/EN/HTML/SW5_21/Content/prod-cable40m/risk_assessment.htm)  
+   Link: <a href="https://www.universal-robots.com/manuals/EN/HTML/SW5_21/Content/prod-cable40m/risk_assessment.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.universal-robots.com/manuals/EN/HTML/SW5_21/Content/prod-cable40m/risk_assessment.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal RobotsRisk AssessmentJoint, elbow and tool/end effector position limiting: Used to reduce risks associated with certain body pa...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0360835221007312](https://www.sciencedirect.com/science/article/abs/pii/S0360835221007312)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360835221007312" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0360835221007312</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification and classification of risk factors for human-...by N Berx · 2022 · Cited by 127 — This paper identifies and classifies th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753520302290](https://www.sciencedirect.com/science/article/pii/S0925753520302290)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA review of the ISO 15066 standard for collaborative robot...by P Chemweno · 2020 · Cited by 166 — This article reviews req...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753520302290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753520302290</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of the ISO 15066 standard for collaborative robot...by P Chemweno · 2020 · Cited by 166 — This article reviews req...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/news/2016/03/Ref2057.html](https://www.iso.org/news/2016/03/Ref2057.html)  
+   Link: <a href="https://www.iso.org/news/2016/03/Ref2057.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/news/2016/03/Ref2057.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Robots and humans can work together with new...Mar 8, 2016 — ISO/TS 15066 provides guidelines for the design and implementation of a col...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: automate.org  
    Title: iso ts 15066 explained  
-   Link: [https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained](https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutomateTech Papers: ISO/TS 15066 Explained | RobotiqMay 25, 2016 — ISO/TS 15066 provides guidelines for the design and implementation of...</p></details>
+   Link: <a href="https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.automate.org/robotics/tech-papers/iso-ts-15066-explained</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech Papers: ISO/TS 15066 Explained | RobotiqMay 25, 2016 — ISO/TS 15066 provides guidelines for the design and implementation of...</p></details>
    Published: May 25, 2016  
 
 13. <a id="endnote-13"></a>
    Source: baua.de  
-   Link: [https://www.baua.de/EN/Service/Publications/Essays/article3735](https://www.baua.de/EN/Service/Publications/Essays/article3735)  
+   Link: <a href="https://www.baua.de/EN/Service/Publications/Essays/article3735" target="_blank" rel="noopener noreferrer nofollow">https://www.baua.de/EN/Service/Publications/Essays/article3735</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753523002552](https://www.sciencedirect.com/science/article/pii/S0925753523002552)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753523002552" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753523002552</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Occupational health and safety issues in human-robot...by A Giallanza · 2024 · Cited by 120 — Numerous safety concerns are open, and eit...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: osha.europa.eu  
    Title: eurofound report explores impact robotic technologies eu workplaces  
-   Link: [https://osha.europa.eu/en/oshnews/eurofound-report-explores-impact-robotic-technologies-eu-workplaces](https://osha.europa.eu/en/oshnews/eurofound-report-explores-impact-robotic-technologies-eu-workplaces)  
+   Link: <a href="https://osha.europa.eu/en/oshnews/eurofound-report-explores-impact-robotic-technologies-eu-workplaces" target="_blank" rel="noopener noreferrer nofollow">https://osha.europa.eu/en/oshnews/eurofound-report-explores-impact-robotic-technologies-eu-workplaces</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>report explores the impact of robotic technologies...26 Jul 2024 — The &#x27;Human–robot interaction: What changes in the workplace?&#x27; researc...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/home.html](https://www.iso.org/home.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO - International Organization for StandardizationISO is an independent, non-governmental international organization. It brings global...</p></details>
+   Link: <a href="https://www.iso.org/home.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/home.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Organization for StandardizationISO is an independent, non-governmental international organization. It brings global...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/standard/73933.html](https://www.iso.org/standard/73933.html)  
+   Link: <a href="https://www.iso.org/standard/73933.html" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/standard/73933.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 10218-1:2025 - Robotics — Safety requirementsISO 10218-1 is significant as it provides foundational safety guidelines that help mitig...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: iso.org  
-   Link: [https://www.iso.org/obp/ui](https://www.iso.org/obp/ui)  
+   Link: <a href="https://www.iso.org/obp/ui" target="_blank" rel="noopener noreferrer nofollow">https://www.iso.org/obp/ui</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/DIS 10218-1.2(en), Robotics — Safety requirementsThe ISO 10218 series has been created in recognition of the particular hazards that...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0040162525000538](https://www.sciencedirect.com/science/article/abs/pii/S0040162525000538)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0040162525000538" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0040162525000538</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating safety challenges in human-robot collaborationby K Jung · 2025 · Cited by 13 — This study examines the impact of cobot adoptio...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: baua.de  
-   Link: [https://www.baua.de/EN/Research/Research-projects/f2526](https://www.baua.de/EN/Research/Research-projects/f2526)  
+   Link: <a href="https://www.baua.de/EN/Research/Research-projects/f2526" target="_blank" rel="noopener noreferrer nofollow">https://www.baua.de/EN/Research/Research-projects/f2526</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s and AI- based systems as well as needs for action, and recommendations for OSH...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: osha.gov  
-   Link: [https://www.osha.gov/robotics/standards](https://www.osha.gov/robotics/standards)  
+   Link: <a href="https://www.osha.gov/robotics/standards" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/robotics/standards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO/TR 20218-1, Safety Design for End-effectors. Describes how an industrial robot system should handle and manage end-effectors (end...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: universal-robots.com  
    Title: safety faq  
-   Link: [https://www.universal-robots.com/articles/ur/safety/safety-faq/](https://www.universal-robots.com/articles/ur/safety/safety-faq/)  
+   Link: <a href="https://www.universal-robots.com/articles/ur/safety/safety-faq/" target="_blank" rel="noopener noreferrer nofollow">https://www.universal-robots.com/articles/ur/safety/safety-faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>6 May 2026 — ISO 10218-1 is for robot manufacturers. It defines the safety requirements the robot itself must meet. Universal Robots cert...</p></details>
    Published: May 2026  
 
 23. <a id="endnote-23"></a>
    Source: amdmachines.com  
    Title: robot safety standards iso 10218 and ts 15066 explained  
-   Link: [https://amdmachines.com/blog/robot-safety-standards-iso-10218-and-ts-15066-explained/](https://amdmachines.com/blog/robot-safety-standards-iso-10218-and-ts-15066-explained/)  
+   Link: <a href="https://amdmachines.com/blog/robot-safety-standards-iso-10218-and-ts-15066-explained/" target="_blank" rel="noopener noreferrer nofollow">https://amdmachines.com/blog/robot-safety-standards-iso-10218-and-ts-15066-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISO 10218 &amp; ISO/TS 15066 Explained: Robot Safety...Jan 10, 2026 — It covers the safety requirements for the complete robotic system — th...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: therobotreport.com  
    Title: iso 10218 industrial robot safety standard receives major overhaul  
-   Link: [https://www.therobotreport.com/iso-10218-industrial-robot-safety-standard-receives-major-overhaul/](https://www.therobotreport.com/iso-10218-industrial-robot-safety-standard-receives-major-overhaul/)  
+   Link: <a href="https://www.therobotreport.com/iso-10218-industrial-robot-safety-standard-receives-major-overhaul/" target="_blank" rel="noopener noreferrer nofollow">https://www.therobotreport.com/iso-10218-industrial-robot-safety-standard-receives-major-overhaul/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robot ReportISO 10218 industrial robot safety standard receives major...Feb 18, 2025 — ISO 10218 is an international standard that o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cobotsmachinerysafety.co.uk  
    Title: bot risk assessments  
-   Link: [https://www.cobotsmachinerysafety.co.uk/cobot-risk-assessments](https://www.cobotsmachinerysafety.co.uk/cobot-risk-assessments)  
+   Link: <a href="https://www.cobotsmachinerysafety.co.uk/cobot-risk-assessments" target="_blank" rel="noopener noreferrer nofollow">https://www.cobotsmachinerysafety.co.uk/cobot-risk-assessments</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>​. Key updates...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: cobotsuk.com  
    Title: understanding iso10218 2025 robot safety standards  
-   Link: [https://www.cobotsuk.com/post/understanding-iso10218-2025-robot-safety-standards](https://www.cobotsuk.com/post/understanding-iso10218-2025-robot-safety-standards)  
+   Link: <a href="https://www.cobotsuk.com/post/understanding-iso10218-2025-robot-safety-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.cobotsuk.com/post/understanding-iso10218-2025-robot-safety-standards</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ISO10218:2025 Robot Safety StandardsMar 27, 2026 — The standards now spell out how to safely use the robot&#x27;s tools (the gri...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: oshwiki.osha.europa.eu  
-   Link: [https://oshwiki.osha.europa.eu/en/themes/collaborating-robots](https://oshwiki.osha.europa.eu/en/themes/collaborating-robots)  
+   Link: <a href="https://oshwiki.osha.europa.eu/en/themes/collaborating-robots" target="_blank" rel="noopener noreferrer nofollow">https://oshwiki.osha.europa.eu/en/themes/collaborating-robots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSH WikiCollaborating robots - OSHwiki | European Agency for Safety...Sep 30, 2013 — EN ISO 10218-1:2011 describes how safe robots may b...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: osha.europa.eu  
-   Link: [https://osha.europa.eu/en/highlights/assembly-lines-hospitals-8-case-studies-integrating-collaborative-robots-worker-safety-mind](https://osha.europa.eu/en/highlights/assembly-lines-hospitals-8-case-studies-integrating-collaborative-robots-worker-safety-mind)  
+   Link: <a href="https://osha.europa.eu/en/highlights/assembly-lines-hospitals-8-case-studies-integrating-collaborative-robots-worker-safety-mind" target="_blank" rel="noopener noreferrer nofollow">https://osha.europa.eu/en/highlights/assembly-lines-hospitals-8-case-studies-integrating-collaborative-robots-worker-safety-mind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EU-OSHA8 case studies on integrating collaborative robots with worker...30 May 2023 — EU-OSHA has analysed the use of robotics and Artif...</p></details>
    Published: May 2023  
 
 29. <a id="endnote-29"></a>
    Source: osha.europa.eu  
-   Link: [https://osha.europa.eu/en/themes/digitalisation-work/digitalisation-glossary](https://osha.europa.eu/en/themes/digitalisation-work/digitalisation-glossary)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Safety and health at work EU-OSHACobot (collaborative robot). A type of robot designed to perform tasks in collaboration with workers i...</p></details>
+   Link: <a href="https://osha.europa.eu/en/themes/digitalisation-work/digitalisation-glossary" target="_blank" rel="noopener noreferrer nofollow">https://osha.europa.eu/en/themes/digitalisation-work/digitalisation-glossary</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety and health at work EU-OSHACobot (collaborative robot). A type of robot designed to perform tasks in collaboration with workers i...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/](https://www.nist.gov/)  
+   Link: <a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384924892_Safety_Evaluation_in_Human-Robot_Collaboration_Through_Risk_Assessment_Matrix_and_Observational_Measurements](https://www.researchgate.net/publication/384924892_Safety_Evaluation_in_Human-Robot_Collaboration_Through_Risk_Assessment_Matrix_and_Observational_Measurements)  
+   Link: <a href="https://www.researchgate.net/publication/384924892_Safety_Evaluation_in_Human-Robot_Collaboration_Through_Risk_Assessment_Matrix_and_Observational_Measurements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384924892_Safety_Evaluation_in_Human-Robot_Collaboration_Through_Risk_Assessment_Matrix_and_Observational_Measurements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Evaluation in Human-Robot Collaboration Through...15 Oct 2024 — This paper highlights the design and implementation of a risk ass...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: ul.com  
-   Link: [https://www.ul.com/resources/collaborative-robot-safety](https://www.ul.com/resources/collaborative-robot-safety)  
+   Link: <a href="https://www.ul.com/resources/collaborative-robot-safety" target="_blank" rel="noopener noreferrer nofollow">https://www.ul.com/resources/collaborative-robot-safety</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Robot SafetyCollaborative robots present unique risks and can cause serious injuries if they are not configured and program...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: esteri.it  
-   Link: [https://www.esteri.it/en/temi/politica_europea/unione_europea/](https://www.esteri.it/en/temi/politica_europea/unione_europea/)  
+   Link: <a href="https://www.esteri.it/en/temi/politica_europea/unione_europea/" target="_blank" rel="noopener noreferrer nofollow">https://www.esteri.it/en/temi/politica_europea/unione_europea/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>European UnionThe house of Europe is built on solid foundations. A Parliament elected by universal suffrage ensures the Union&#x27;s instituti...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: machinesafetyspecialists.com  
-   Link: [https://www.machinesafetyspecialists.com/mastering-robot-safety-class/](https://www.machinesafetyspecialists.com/mastering-robot-safety-class/)  
+   Link: <a href="https://www.machinesafetyspecialists.com/mastering-robot-safety-class/" target="_blank" rel="noopener noreferrer nofollow">https://www.machinesafetyspecialists.com/mastering-robot-safety-class/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Robot Safety ClassThis specialized training delivers a comprehensive overview of the latest safety standards for both collabora...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: skillaibility.eu  
-   Title: workplace safety in [human robot](&#123;&#123; 'interaction-safety/' | relative_url &#125;&#125;) collaborative environments  
-   Link: [https://skillaibility.eu/2025/05/05/workplace-safety-in-human-robot-collaborative-environments/](https://skillaibility.eu/2025/05/05/workplace-safety-in-human-robot-collaborative-environments/)  
+   Title: workplace safety in human robot collaborative environments  
+   Link: <a href="https://skillaibility.eu/2025/05/05/workplace-safety-in-human-robot-collaborative-environments/" target="_blank" rel="noopener noreferrer nofollow">https://skillaibility.eu/2025/05/05/workplace-safety-in-human-robot-collaborative-environments/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace safety in human-robot collaborative environments5 May 2025 — These technologies are transforming how humans and machines intera...</p></details>
    Published: May 2025  
 
 36. <a id="endnote-36"></a>
    Source: nist.gov  
    Title: working and growing collaborative robots  
-   Link: [https://www.nist.gov/blogs/manufacturing-innovation-blog/working-and-growing-collaborative-robots](https://www.nist.gov/blogs/manufacturing-innovation-blog/working-and-growing-collaborative-robots)  
+   Link: <a href="https://www.nist.gov/blogs/manufacturing-innovation-blog/working-and-growing-collaborative-robots" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/blogs/manufacturing-innovation-blog/working-and-growing-collaborative-robots</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Working and Growing with Collaborative Robots | NISTFeb 22, 2019 — The American National Standards Institute (ANSI) adopted ISO/TS 15066...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: ibf-solutions.com  
    Title: new standards for industrial robots en iso 10218 1 and 2  
-   Link: [https://www.ibf-solutions.com/en/seminars-and-news/news/new-standards-for-industrial-robots-en-iso-10218-1-and-2](https://www.ibf-solutions.com/en/seminars-and-news/news/new-standards-for-industrial-robots-en-iso-10218-1-and-2)  
+   Link: <a href="https://www.ibf-solutions.com/en/seminars-and-news/news/new-standards-for-industrial-robots-en-iso-10218-1-and-2" target="_blank" rel="noopener noreferrer nofollow">https://www.ibf-solutions.com/en/seminars-and-news/news/new-standards-for-industrial-robots-en-iso-10218-1-and-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New standards for industrial robots EN ISO 10218-1 and -2The new standards bring significant updates for the safety of industrial robots...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: cobotsonline.co.uk  
    Title: collaborative robot safety understanding iso 10218 2025  
-   Link: [https://cobotsonline.co.uk/blog/collaborative-robot-safety-understanding-iso-10218-2025](https://cobotsonline.co.uk/blog/collaborative-robot-safety-understanding-iso-10218-2025)  
+   Link: <a href="https://cobotsonline.co.uk/blog/collaborative-robot-safety-understanding-iso-10218-2025" target="_blank" rel="noopener noreferrer nofollow">https://cobotsonline.co.uk/blog/collaborative-robot-safety-understanding-iso-10218-2025</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The New Era of Collaborative Robot SafetyNov 14, 2025 — ISO 10218-2:2025: Focuses on the system integrator&#x27;s responsibility for the compl...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: roboticstomorrow.com  
    Title: safety for collaborative robots new isots 15066  
-   Link: [https://www.roboticstomorrow.com/article/2016/06/safety-for-collaborative-robots-new-isots-15066/8252](https://www.roboticstomorrow.com/article/2016/06/safety-for-collaborative-robots-new-isots-15066/8252)  
+   Link: <a href="https://www.roboticstomorrow.com/article/2016/06/safety-for-collaborative-robots-new-isots-15066/8252" target="_blank" rel="noopener noreferrer nofollow">https://www.roboticstomorrow.com/article/2016/06/safety-for-collaborative-robots-new-isots-15066/8252</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety for Collaborative Robots: New ISO/TS 15066Jun 2, 2016 — In order to make the introduction of a collaborative robot as safe as poss...</p></details>

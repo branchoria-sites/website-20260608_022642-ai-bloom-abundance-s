@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /resilience/
 nav_short_title: Anticipatory Gov
 title: Why Accurate AI Forecasts Still Fail to Prevent Crises
-title_full: Why Accurate AI Forecasts Still Fail to Prevent Crises | Resilience
+title_full: Why Accurate AI Forecasts Still Fail to Prevent Crises
 display_title_short: Anticipatory Gov
 display_title: Anticipatory Gov
 heading_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Help Civilisation Avoid Catastrophe? | AI Bloom
+date: '2026-06-08 01:24:16'
+parent_title: Can AI Help Civilisation Avoid Catastrophe?
 parent_permalink: /resilience/
 parent_nav_short_title: Resilience
 parent_heading_title: Can AI Help Civilisation Avoid Catastrophe?
@@ -273,7 +274,6 @@ next_link:
   permalink: /climate-twins/
   short_title: Climate Twins
   heading_title: Could AI Weather Twins Make Climate Disasters Less Deadly?
-date: '2026-06-08 01:24:16 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-1.webp
@@ -282,13 +282,12 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d60
 
 ## Introduction
 
-Even the most accurate forecasts of pandemics, climate impacts or geopolitical stress do little to change real‑world outcomes unless political systems *act* on them. This gap between *knowing* and *doing* is a central challenge in anticipatory governance — the idea that societies should systematically use foresight and prediction to make decisions before crises become disasters. Anticipatory governance aims to embed foresight into policy and institutional routines so that [early warnings]({{ 'early-warning/' | relative_url }}) *lead* to prevention, resilience and effective action. Yet in practice [political incentives]({{ 'political-incentives/' | relative_url }}), institutional design and short‑term pressures often frustrate this ideal, meaning that improved forecasting alone rarely translates into preventive action. Understanding these political bottlenecks is vital for civilisational resilience — whether against pandemics, climate shocks, war or other systemic risks — and for realising the larger promise that more intelligent, future‑oriented governance can steer humanity toward flourishing rather than catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 13</span><span class="citation-popover-snippet">OECDAnticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation | OECDNovember 23, 2022...</span><span class="citation-popover-meta">Published: November 23, 2022</span></span></span>
-
+Even the most accurate forecasts of pandemics, climate impacts or geopolitical stress do little to change real‑world outcomes unless political systems *act* on them. This gap between *knowing* and *doing* is a central challenge in anticipatory governance — the idea that societies should systematically use foresight and prediction to make decisions before crises become disasters. Anticipatory governance aims to embed foresight into policy and institutional routines so that [early warnings]({{ 'early-warning/' | relative_url }}) *lead* to prevention, resilience and effective action. Yet in practice [political incentives]({{ 'political-incentives/' | relative_url }}), institutional design and short‑term pressures often frustrate this ideal, meaning that improved forecasting alone rarely translates into preventive action. Understanding these political bottlenecks is vital for civilisational resilience — whether against pandemics, climate shocks, war or other systemic risks — and for realising the larger promise that more intelligent, future‑oriented governance can steer humanity toward flourishing rather than catastrophe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 13</span><span class="citation-popover-snippet">Anticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation &#124; OECDNovember 23, 2022...</span><span class="citation-popover-meta">Published: November 23, 2022</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-1-dark.svg" | relative_url }}" alt="Anticipatory Gov illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Anticipatory Governance Means
 
-At its core, anticipatory [governance]({{ 'power/' | relative_url }}) refers to governance systems that *systematically* incorporate foresight, prediction and planning into decision‑making processes to manage uncertain future developments before they escalate into full crises. Rather than responding reactively to shocks, an anticipatory approach seeks to:
+At its core, anticipatory governance refers to governance systems that *systematically* incorporate foresight, prediction and planning into decision‑making processes to manage uncertain future developments before they escalate into full crises. Rather than responding reactively to shocks, an anticipatory approach seeks to:
 
 * **Build foresight capabilities** (horizon scanning, scenario planning, [early warning]({{ 'early-warning/' | relative_url }}) systems).
 
@@ -300,8 +299,7 @@ At its core, anticipatory [governance]({{ 'power/' | relative_url }}) refers to 
 
 </div>
 
-In principle, this kind of governance could help societies make decisions that reduce risk rather than merely mitigate harm after crises unfold. In the context of civilisational [resilience]({{ 'resilience/' | relative_url }}), anticipatory governance connects improved forecasting — whether of disease outbreaks, climate extremes or conflict — with stronger [institutional]({{ 'institutional-gaps/' | relative_url }}) responses, ideally preventing worst‑case scenarios rather than scrambling to manage them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anticipatory_governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anticipatory governance</span><span class="citation-popover-snippet">Anticipatory governance</span></span></span>
-
+In principle, this kind of governance could help societies make decisions that reduce risk rather than merely mitigate harm after crises unfold. In the context of civilisational [resilience]({{ 'resilience/' | relative_url }}), anticipatory governance connects improved forecasting — whether of disease outbreaks, climate extremes or conflict — with stronger institutional responses, ideally preventing worst‑case scenarios rather than scrambling to manage them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Anticipatory_governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anticipatory governance</span><span class="citation-popover-snippet">Anticipatory governance</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mKWzMN3vXdY" title="David Guston, &quot;Understanding &#x27;Anticipatory Governance&#x27;&quot; (Part I)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mKWzMN3vXdY" target="_blank" rel="noopener noreferrer">David Guston, &quot;Understanding &#x27;Anticipatory Governance&#x27;&quot; (Part I)</a></p><p class="youtube-embed-meta">Channel: CSTMS Berkeley &middot; Views: 558 &middot; Uploaded: February 2015 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mKWzMN3vXdY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mKWzMN3vXdY">Open on YouTube</a></p></div></div></div>
 
@@ -311,7 +309,7 @@ Accurate forecasts — even if distributed widely — do not automatically trigg
 
 **1. Incentives for short‑term politics over long‑term prevention**
 
-Governments operate within election cycles, budget cycles and media cycles that prioritise immediate, visible results. The OECD notes that policymakers are “often driven by events rather than visionary or forward‑looking practices,” with crises becoming opportunities for major policy changes by chance rather than by design. Persistent reliance on short‑term decision‑making impedes action on slow‑burn risks, meaning that long‑range forecasts often languish without decisive follow‑up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Anticipatory innovation governance (EN</span><span class="citation-popover-snippet">OECDAnticipatory innovation governance (EN)May 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
+Governments operate within election cycles, budget cycles and media cycles that prioritise immediate, visible results. The OECD notes that policymakers are “often driven by events rather than visionary or forward‑looking practices,” with crises becoming opportunities for major policy changes by chance rather than by design. Persistent reliance on short‑term decision‑making impedes action on slow‑burn risks, meaning that long‑range forecasts often languish without decisive follow‑up. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Anticipatory innovation governance (EN</span><span class="citation-popover-snippet">Anticipatory innovation governance (EN)May 15, 2025...</span><span class="citation-popover-meta">Published: May 15, 2025</span></span></span>
 
 **2. Institutional fragmentation and accountability gaps**
 
@@ -323,12 +321,11 @@ Even when forecasts highlight looming threats, political leaders may lack incent
 
 **4. Forecasts that fit incumbent frames are more likely to be acted on**
 
-Not all anticipatory processes influence policy equally. Empirical research on climate anticipatory governance in the Global South finds that many foresight exercises open up dialogue about uncertainty and pluralistic futures, but policy recommendations tend to be moulded into familiar, technocratic frames that align with existing priorities. In other words, forecasts reshape perceptions but often *don’t alter policy choices* unless they resonate with prevailing political narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378023000602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectIs anticipatory governance opening up or closing down future possibilities? Findings from diverse contexts in the Global Sou...</span></span></span>
+Not all anticipatory processes influence policy equally. Empirical research on climate anticipatory governance in the Global South finds that many foresight exercises open up dialogue about uncertainty and pluralistic futures, but policy recommendations tend to be moulded into familiar, technocratic frames that align with existing priorities. In other words, forecasts reshape perceptions but often *don’t alter policy choices* unless they resonate with prevailing political narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0959378023000602" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Is anticipatory governance opening up or closing down future possibilities? Findings from diverse contexts in the Global Sou...</span></span></span>
 
 **5. Public understanding, trust and legitimacy matter politically**
 
 Governance systems that lack broad futures literacy or public engagement struggle to build collective demand for anticipatory action. Comparative analysis shows that countries with stronger futures literacy and civic trust — where citizens, civil society and government share an orientation toward long‑term planning — are more successful in translated foresight into policy. By contrast, where awareness is low and implementation fragmented, anticipatory governance risks becoming a distant exercise with minimal impact on concrete decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-snippet">University of BristolThe traps and pitfalls of anticipatory governance: Comparative cases of South Korea and the United Kingdom - Univers...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-2-dark.svg" | relative_url }}" alt="Anticipatory Gov illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing Institutions That Act Faster
@@ -351,9 +348,7 @@ Clear rules about who acts on early warnings — and how progress (or lack there
 
 Anticipatory governance is not purely technocratic. Embedding public deliberation and diverse perspectives in foresight — beyond narrow technical scenarios — can legitimise preventive strategies and broaden societal ownership of resilience goals. This includes engaging marginalised communities whose experiences might be overlooked in conventional forecasting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FnTUHSvyCBk" title="Anticipatory Governance: Systems Thinking &amp; Strategic Foresight for SDG-Aligned Integrated Planning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FnTUHSvyCBk" target="_blank" rel="noopener noreferrer">Anticipatory Governance: Systems Thinking &amp; Strategic Foresight for SDG-Aligned Integrated Planning</a></p><p class="youtube-embed-meta">Channel: United Nations Institute for Training and Research (UNITAR) &middot; Views: 214 &middot; Uploaded: March 2026 &middot; Length: 1 hour 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FnTUHSvyCBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FnTUHSvyCBk">Open on YouTube</a></p></div></div></div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tDMHmzpFxkw" title="Why forecasts fail in the game of predicting the future - Forecaster Paul Saffo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tDMHmzpFxkw" target="_blank" rel="noopener noreferrer">Why forecasts fail in the game of predicting the future - Forecaster Paul Saffo</a></p><p class="youtube-embed-meta">Channel: Looking Outside podcast &middot; Views: 347 &middot; Uploaded: May 2025 &middot; Length: 1 hour 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tDMHmzpFxkw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tDMHmzpFxkw">Open on YouTube</a></p></div></div></div>
 
@@ -361,8 +356,7 @@ Anticipatory governance is not purely technocratic. Embedding public deliberatio
 
 Advances in data, AI and modelling can yield earlier and more precise forecasts of disease outbreaks, climate impacts and conflict risk. But without political systems equipped to respond — systems that value prevention, absorb evidence into decision‑making and act collaboratively — these forecasts risk becoming unused signals. Bridging the gap between foresight and governance requires more than better prediction; it demands institutional design that anticipates *political behaviour* as much as natural or social processes.
 
-Anticipatory governance holds potential to rewire how societies interact with future risks, but its success depends on overcoming entrenched political patterns. In the context of AI‑enabled civilisational resilience — whether against pandemics, climate shocks or global systemic threats — aligning governance incentives with preventive action might matter as much as technical forecasting [power]({{ 'power/' | relative_url }}) if humanity is to turn knowledge into flourishing outcomes rather than repeated crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 13</span><span class="citation-popover-snippet">OECDAnticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation | OECDNovember 23, 2022...</span><span class="citation-popover-meta">Published: November 23, 2022</span></span></span>
-
+Anticipatory governance holds potential to rewire how societies interact with future risks, but its success depends on overcoming entrenched political patterns. In the context of AI‑enabled civilisational resilience — whether against pandemics, climate shocks or global systemic threats — aligning governance incentives with preventive action might matter as much as technical forecasting [power]({{ 'power/' | relative_url }}) if humanity is to turn knowledge into flourishing outcomes rather than repeated crises. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">component 13</span><span class="citation-popover-snippet">Anticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation &#124; OECDNovember 23, 2022...</span><span class="citation-popover-meta">Published: November 23, 2022</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-3-dark.svg" | relative_url }}" alt="Anticipatory Gov illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -378,16 +372,16 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=45OmCQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
         </h4>
-        <p class="fr-book-author">By Nate Silver</p>
+        <p class="fr-book-author">By Philip Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Explains challenges of acting on uncertain forecasts.</p>
+        <p class="fr-book-desc">Directly examines how better prediction can improve decisions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -395,16 +389,16 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mcgtAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
         </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
-        
-        <p class="fr-book-desc">Directly relevant to prediction, foresight and decision-making.</p>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 25 Google Books ratings</p>
+        <p class="fr-book-desc">Explains why institutions struggle with rare but high-impact events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -412,16 +406,16 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6aMfnwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signals Are Talking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gd1VDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Signals Are Talking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signals Are Talking">The Signals Are Talking</a>
         </h4>
-        <p class="fr-book-author">By Donella H. Meadows</p>
+        <p class="fr-book-author">By Amy Webb</p>
         
-        <p class="fr-book-desc">Useful for institutional design and anticipatory governance.</p>
+        <p class="fr-book-desc">Focuses on anticipating future developments before crises emerge.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+H.+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -436,7 +430,7 @@ Anticipatory governance holds potential to rewire how societies interact with fu
         </h4>
         <p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Connects foresight to catastrophic risk reduction.</p>
+        <p class="fr-book-desc">Examines proactive approaches to existential risk reduction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -446,7 +440,7 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signals+Are+Talking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signals Are Talking</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -459,7 +453,7 @@ Anticipatory governance holds potential to rewire how societies interact with fu
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -483,15 +477,15 @@ Anticipatory governance holds potential to rewire how societies interact with fu
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Future Sound of London (FSOL) Dead Cities (1996) Poster 40&quot; x 60&quot;"><img src="{{ '/assets/images/marketplace-covers/fd8d7c87893dc82b9e8b.jpg' | relative_url }}" alt="Listing image for Future Sound of London (FSOL) Dead Cities (1996) Poster 40&quot; x 60&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for XHDATA D-608WB Emergency Radio | Crank, NOAA, Bluetooth, Speaker, Flashlight"><img src="https://i.ebayimg.com/images/g/qf0AAeSwoJhp6P5b/s-l225.jpg" alt="Listing image for XHDATA D-608WB Emergency Radio | Crank, NOAA, Bluetooth, Speaker, Flashlight" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Future Sound of London (FSOL) Dead Cities (1996) Poster 40&quot; x 60&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer">XHDATA D-608WB Emergency Radio | Crank, NOAA, Bluetooth, Speaker, Flashlight</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future cities poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future cities poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency radio</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +493,15 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desert future cities Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6e22a80fae81152c0b19.jpg' | relative_url }}" alt="Listing image for Desert future cities Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roxicosly 12000Mah DAB Wind up Emergency Radio with Bluetooth, Hand Crank Solar"><img src="https://i.ebayimg.com/images/g/100AAeSwpAppdSFw/s-l225.jpg" alt="Listing image for Roxicosly 12000Mah DAB Wind up Emergency Radio with Bluetooth, Hand Crank Solar" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Desert future cities Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer">Roxicosly 12000Mah DAB Wind up Emergency Radio with Bluetooth, Hand Crank Solar</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future cities poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future cities poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency radio</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +509,15 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Future Sound Of London - Dead Cities - Mini Poster/Magazine Clipping"><img src="{{ '/assets/images/marketplace-covers/20044a6ea17e3e20f867.jpg' | relative_url }}" alt="Listing image for Future Sound Of London - Dead Cities - Mini Poster/Magazine Clipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1200mAh Wind Up Solar Radio Emergency FM/AM USB Charger LED Light Torch UK"><img src="https://i.ebayimg.com/images/g/wOoAAeSw72lqHSEz/s-l225.jpg" alt="Listing image for 1200mAh Wind Up Solar Radio Emergency FM/AM USB Charger LED Light Torch UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer">Future Sound Of London - Dead Cities - Mini Poster/Magazine Clipping</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer">1200mAh Wind Up Solar Radio Emergency FM/AM USB Charger LED Light Torch UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future cities poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future cities poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency radio</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,15 +525,15 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for THE FUTURE SOUND OF LONDON 1996 original POSTER TYPE ADVERT DEAD CITIES"><img src="{{ '/assets/images/marketplace-covers/55a6570b2655c8b4e886.jpg' | relative_url }}" alt="Listing image for THE FUTURE SOUND OF LONDON 1996 original POSTER TYPE ADVERT DEAD CITIES" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1200mAh Portable Solar Radio Functional Emergency FM/AM USB Charger Led Torch UK"><img src="https://i.ebayimg.com/images/g/m4YAAeSwmyZpV34C/s-l225.jpg" alt="Listing image for 1200mAh Portable Solar Radio Functional Emergency FM/AM USB Charger Led Torch UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer">THE FUTURE SOUND OF LONDON 1996 original POSTER TYPE ADVERT DEAD CITIES</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer">1200mAh Portable Solar Radio Functional Emergency FM/AM USB Charger Led Torch UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for future cities poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: future cities poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency radio">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency radio</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -547,7 +541,7 @@ Anticipatory governance holds potential to rewire how societies interact with fu
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=future+cities+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="future cities poster -book -books" data-ebay-reference="anticipatory-gov-why-accurate-ai-forecasts-still-fail-to-prevent-crises-ai-bloom-abundance-super-future-cities-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency radio" data-ebay-reference="why-accurate-ai-forecasts-still-fail-to-prevent-crises-emergency-radio" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -763,92 +757,92 @@ Anticipatory governance holds potential to rewire how societies interact with fu
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: component 13  
-   Link: [https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html](https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDAnticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation | OECDNovember 23, 2022...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/tackling-policy-challenges-through-public-sector-innovation_052b06b7-en/full-report/component-13.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anticipatory innovation: Tackling Policy Challenges Through Public Sector Innovation | OECDNovember 23, 2022...</p></details>
    Published: November 23, 2022  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Anticipatory governance  
-   Link: [https://en.wikipedia.org/wiki/Anticipatory_governance](https://en.wikipedia.org/wiki/Anticipatory_governance)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anticipatory_governance" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anticipatory_governance</a>  
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
    Title: Anticipatory innovation governance (EN)  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDAnticipatory innovation governance (EN)May 15, 2025...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anticipatory innovation governance (EN)May 15, 2025...</p></details>
    Published: May 15, 2025  
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0959378023000602](https://www.sciencedirect.com/science/article/pii/S0959378023000602)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectIs anticipatory governance opening up or closing down future possibilities? Findings from diverse contexts in the Global Sou...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959378023000602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959378023000602</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Is anticipatory governance opening up or closing down future possibilities? Findings from diverse contexts in the Global Sou...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: cic.nyu.edu  
-   Link: [https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/](https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/)  
+   Link: <a href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow">https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center on International CooperationWarning Without Response: Why Early Warning Fails, and How to Turn Foresight Into PreventionAugust 13...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: research-information.bris.ac.uk  
-   Link: [https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas/](https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas/)  
+   Link: <a href="https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas/" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/en/publications/the-traps-and-pitfalls-of-anticipatory-governance-comparative-cas/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolThe traps and pitfalls of anticipatory governance: Comparative cases of South Korea and the United Kingdom - Univers...</p></details>
 
 ### Additional References
 
 7. <a id="endnote-7"></a>
    Source: gsdrc.org  
-   Link: [https://gsdrc.org/document-library/systemic-disconnects-why-regional-organisations-fail-to-use-early-warning-and-response-mechanisms/](https://gsdrc.org/document-library/systemic-disconnects-why-regional-organisations-fail-to-use-early-warning-and-response-mechanisms/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GSDRCFebruary 18, 2011 — SYSTEMIC DISCONNECTS: WHY REGIONAL ORGANISATIONS FAIL TO USE EARLY WARNING AND RESPONSE MECHANISMS Library Herbe...</p></details>
+   Link: <a href="https://gsdrc.org/document-library/systemic-disconnects-why-regional-organisations-fail-to-use-early-warning-and-response-mechanisms/" target="_blank" rel="noopener noreferrer nofollow">https://gsdrc.org/document-library/systemic-disconnects-why-regional-organisations-fail-to-use-early-warning-and-response-mechanisms/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2011 — SYSTEMIC DISCONNECTS: WHY REGIONAL ORGANISATIONS FAIL TO USE EARLY WARNING AND RESPONSE MECHANISMS Library Herbe...</p></details>
    Published: February 18, 2011  
 
 8. <a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/policyandsociety/article/33/4/317/6422326](https://academic.oup.com/policyandsociety/article/33/4/317/6422326)  
+   Link: <a href="https://academic.oup.com/policyandsociety/article/33/4/317/6422326" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/policyandsociety/article/33/4/317/6422326</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>orders of governance failure: Design mismatches and policy capacity issues in modern governance | Policy and Society | Oxford AcademicDec...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/handle/1874/408825](https://dspace.library.uu.nl/handle/1874/408825)  
+   Link: <a href="https://dspace.library.uu.nl/handle/1874/408825" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/handle/1874/408825</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches to anticipatory climate governance: Different conceptions of the future and implications for the presentFOUR APPROACHES TO ANT...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: dspace.library.uu.nl  
-   Link: [https://dspace.library.uu.nl/handle/1874/424855](https://dspace.library.uu.nl/handle/1874/424855)  
+   Link: <a href="https://dspace.library.uu.nl/handle/1874/424855" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/handle/1874/424855</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>just playing: The politics of designing games for impact on anticipatory climate governanceNOT JUST PLAYING: THE POLITICS OF DESIGNING GA...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/article/10.1007/s13280-014-0604-x](https://link.springer.com/article/10.1007/s13280-014-0604-x)  
+   Link: <a href="https://link.springer.com/article/10.1007/s13280-014-0604-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13280-014-0604-x</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>governance for social-ecological resilience | Ambio | Springer Nature LinkJanuary 9, 2015 — DISCUSSION There are varied and conflicting u...</p></details>
    Published: January 9, 2015  
 
 12. <a id="endnote-12"></a>
    Source: dbc.library.uu.nl  
    Title: nl Is anticipatory governance opening up or closing down future possibilities?  
-   Link: [https://dbc.library.uu.nl/handle/1874/435917](https://dbc.library.uu.nl/handle/1874/435917)  
+   Link: <a href="https://dbc.library.uu.nl/handle/1874/435917" target="_blank" rel="noopener noreferrer nofollow">https://dbc.library.uu.nl/handle/1874/435917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from diverse contexts in the Global SouthIS ANTICIPATORY GOVERNANCE OPENING UP OR CLOSING DOWN FUTURE POSSIBILITIES? FINDINGS FR...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dspace.library.uu.nl  
    Title: nl Is anticipatory governance opening up or closing down future possibilities?  
-   Link: [https://dspace.library.uu.nl/handle/1874/435917](https://dspace.library.uu.nl/handle/1874/435917)  
+   Link: <a href="https://dspace.library.uu.nl/handle/1874/435917" target="_blank" rel="noopener noreferrer nofollow">https://dspace.library.uu.nl/handle/1874/435917</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from diverse contexts in the Global SouthIS ANTICIPATORY GOVERNANCE OPENING UP OR CLOSING DOWN FUTURE POSSIBILITIES? FINDINGS FR...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: research-portal.uu.nl  
    Title: nl Is anticipatory governance opening up or closing down future possibilities?  
-   Link: [https://research-portal.uu.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/](https://research-portal.uu.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/)  
+   Link: <a href="https://research-portal.uu.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uu.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from diverse contexts in the Global South - Utrecht UniversityIS ANTICIPATORY GOVERNANCE OPENING UP OR CLOSING DOWN FUTURE POSSI...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: research.wur.nl  
    Title: nl Is anticipatory governance opening up or closing down future possibilities?  
-   Link: [https://research.wur.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/](https://research.wur.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/)  
+   Link: <a href="https://research.wur.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/is-anticipatory-governance-opening-up-or-closing-down-future-poss/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Findings from diverse contexts in the Global South - Research Portal - Wageningen University &amp; ResearchIS ANTICIPATORY GOVERNANCE OPENING...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: research.wur.nl  
    Title: Muiderman^{*} *, A. Gupta *, J.M. Vervoort *, F. Biermann ^{*}Corr  
-   Link: [https://research.wur.nl/en/publications/four-approaches-to-anticipatory-climate-governance-different-conc/](https://research.wur.nl/en/publications/four-approaches-to-anticipatory-climate-governance-different-conc/)  
+   Link: <a href="https://research.wur.nl/en/publications/four-approaches-to-anticipatory-climate-governance-different-conc/" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/four-approaches-to-anticipatory-climate-governance-different-conc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches to anticipatory climate governance: Different conceptions of the future and implications for the present - Wageningen Universi...</p></details>

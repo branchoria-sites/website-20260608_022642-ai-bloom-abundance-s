@@ -199,6 +199,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-08 01:15:53'
 child_links:
 - basename: AI_Bloom_Abun_98d3a6_superintellig_979bdf
   title: Control | AI Bloom Abundance Superintelligence and Humanity
@@ -250,7 +251,6 @@ child_links:
   permalink: /robotics/
   short_title: Robotics
   heading_title: Could Robots End Dangerous Drudgery?
-date: '2026-06-08 01:15:53 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6-overview-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6-overview.webp
@@ -261,19 +261,18 @@ image: /assets/images/AI_Bloom_Abun_98d3a6-overview-social.jpg
 
 AI bloom is the optimistic but demanding idea that advanced artificial [intelligence]({{ 'intelligence/' | relative_url }}) could help humanity do far more than automate office tasks or raise profits. At its strongest, the claim is that AI could make intelligence itself abundant: accelerating science, medicine, [education]({{ 'education/' | relative_url }}), energy systems, robotics and coordination so dramatically that disease, scarcity, dangerous labour and many present limits on human potential are greatly reduced. That future is not guaranteed. It depends on whether increasingly powerful AI systems can be made reliable, broadly shared, environmentally sustainable and aligned with human flourishing rather than captured by narrow commercial, military or political interests.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6-overview.webp" | relative_url }}" alt="Overview image for AI Bloom Abundance Superintelligence and Humanity" loading="eager" decoding="sync" fetchpriority="high">
 The best way to understand the AI bloom thesis is to hold two thoughts together. First, there are already credible signs that AI can speed up important work, from protein structure prediction to drug development, scientific modelling and personalised tutoring. Second, the leap from “useful tools” to “civilisation-scale flourishing” is enormous. It requires not only better models, but safer institutions, wider access, trustworthy governance and a serious answer to the risks of superintelligence. [International AI Safety Report+3Google DeepMind+3U.S. Food and Drug Administration]
 
 ## What would it mean for humanity to bloom?
 
-An AI-enabled human bloom would not simply mean higher gross domestic product, faster customer service or more digital entertainment. It would mean a durable expansion in what humans can know, make, heal, explore and choose. A blooming civilisation would be one in which intelligence, energy, medicine, education and physical production are less scarce; where people have more years of healthy life; where dangerous and degrading work is reduced; and where humanity becomes better able to protect its long-term future.
+An AI-enabled human bloom would not simply mean higher gross domestic product, faster customer service or more digital entertainment. It would mean a durable expansion in what humans can know, make, heal, explore and choose. A blooming civilisation would be one in which intelligence, [energy]({{ 'energy/' | relative_url }}), medicine, education and physical production are less scarce; where people have more years of healthy life; where dangerous and degrading work is reduced; and where humanity becomes better able to protect its long-term future.
 
 That vision is often described using phrases such as AI abundance, post-scarcity, intelligence explosion and superintelligence. These terms can sound grand, but they point to concrete questions. Could AI make expert-level help cheap enough for nearly everyone? Could it let scientists test thousands of ideas where today they test dozens? Could it help design new materials, medicines and energy systems? Could robots guided by AI make housing, infrastructure and care less constrained by human drudgery? Could better forecasting and coordination help civilisation avoid pandemics, climate disasters, war and technological misuse?
 
 The strongest version of the case is not that AI will magically abolish all scarcity. Even in a world with powerful AI, land, attention, political trust, rare materials, grid capacity, legitimacy and safety would still matter. Recent analysis of “AI abundance” argues that post-scarcity language can be misleading if it ignores the way new technologies shift scarcity from one bottleneck to another: from labour to compute, from knowledge to energy, from production to ownership, from invention to governance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A more grounded AI bloom thesis is therefore conditional: if advanced AI can be made safe and broadly accessible, and if societies choose institutions that distribute gains rather than entrench control, it could loosen many constraints that have shaped human life for centuries. That would still fall short of utopia. But it could be one of the largest improvements in the history of civilisation.
+A more grounded AI bloom thesis is therefore conditional: if advanced AI can be made safe and broadly accessible, and if societies choose institutions that distribute gains rather than entrench [control]({{ 'control/' | relative_url }}), it could loosen many constraints that have shaped human life for centuries. That would still fall short of utopia. But it could be one of the largest improvements in the history of civilisation.
 
 ## The core mechanism: making intelligence abundant
 
@@ -299,7 +298,6 @@ The bottlenecks are serious. Biology is not just a pattern-recognition problem. 
 
 The bloom-relevant lesson is therefore balanced: AI could accelerate medicine most when it supports the full chain from basic biology to clinical evidence, not when it replaces medical judgement with black boxes. The prize is enormous, but the route runs through validation, regulation, transparency and equitable access.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-1-dark.svg" | relative_url }}" alt="AI Bloom Abundance Superintelligence and Humanity illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Scientific acceleration: from isolated breakthroughs to discovery engines
 
@@ -308,7 +306,6 @@ Scientific acceleration is the hinge between ordinary AI optimism and the larger
 AlphaFold is the clearest public example because it converted a difficult scientific prediction problem into a widely used research infrastructure. But the wider trend is broader than protein folding. The World Economic Forum described AI for scientific discovery as a transformative general-purpose technology with potential applications in disease, green materials and life sciences. The UK’s AI for Science Strategy similarly frames AI as a tool for speeding discovery in areas such as materials, plant operations, malaria drug discovery, fusion energy and quantum technologies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weforum.org/publications/top-10-emerging-technologies-2024/in-full/1-ai-for-scientific-discovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weforum.org">[World Economic Forum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weforum.org</span><span class="citation-popover-title">World Economic Forum1. AI for scientific discovery</span><span class="citation-popover-snippet">World Economic Forum1. AI for scientific discovery</span></span></span>
 
 A useful way to think about AI in science is as a stack of accelerators:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,10 +317,9 @@ A useful way to think about AI in science is as a stack of accelerators:
 
 </div>
 
-Yet the bloom case should not overstate what has been proved. A 2026 essay in *Daedalus* argues for “knowledge-centric AI” in science, warning that purely data-driven systems have intrinsic limits unless they are grounded in scientific principles, domain structure and constraints. Another study on AI for scientific discovery argues that benefits remain unevenly distributed and that social and [institutional]({{ 'institutional-gaps/' | relative_url }}) factors, not just technical ones, often determine whether AI helps science in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amacad.org">[American Academy of Arts and Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amacad.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet the bloom case should not overstate what has been proved. A 2026 essay in *Daedalus* argues for “knowledge-centric AI” in science, warning that purely data-driven systems have intrinsic limits unless they are grounded in scientific principles, domain structure and constraints. Another study on AI for scientific discovery argues that benefits remain unevenly distributed and that social and institutional factors, not just technical ones, often determine whether AI helps science in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amacad.org">[American Academy of Arts and Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amacad.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is a recurring pattern. AI can widen the search space, but science still needs instruments, theory, replication, peer criticism, funding, ethics and human judgement. A discovery engine is not just a clever model. It is an ecosystem that turns ideas into reliable knowledge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ELD_2PbJs8" title="AI Safety Expert on Humanity vs Superintelligence: Who Wins? | SparX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ELD_2PbJs8" target="_blank" rel="noopener noreferrer">AI Safety Expert on Humanity vs Superintelligence: Who Wins? | SparX</a></p><p class="youtube-embed-meta">Channel: SparX by Mukesh Bansal &middot; Views: 132.6K &middot; Uploaded: February 2026 &middot; Length: 58 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ELD_2PbJs8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ELD_2PbJs8">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +327,7 @@ This is a recurring pattern. AI can widen the search space, but science still ne
 
 If AI bloom is about expanding human potential, education is central. One-to-one tutoring has long been among the most powerful educational interventions, but it is expensive and unevenly available. AI tutoring raises the possibility that personalised help could become far cheaper and more widely accessible.
 
-The early evidence is promising but not final. A 2025 study in *Scientific Reports* found that students using a custom AI tutor learned significantly more in less time than students in an in-class active learning condition, and reported higher engagement and motivation. A separate exploratory randomised controlled trial with 165 UK secondary school students tested a human-supervised LearnLM tutor on the Eedi mathematics platform; supervising tutors approved most drafted AI messages with zero or minimal edits, and students receiving LearnLM-supported tutoring performed at least as well as those supported by human tutors alone on measured outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">They also feel more engaged</span><span class="citation-popover-snippet">NatureAI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</span></span></span>
+The early evidence is promising but not final. A 2025 study in *Scientific Reports* found that students using a custom AI tutor learned significantly more in less time than students in an in-class active learning condition, and reported higher engagement and motivation. A separate exploratory randomised controlled trial with 165 UK secondary school students tested a human-supervised LearnLM tutor on the Eedi mathematics platform; supervising tutors approved most drafted AI messages with zero or minimal edits, and students receiving LearnLM-supported tutoring performed at least as well as those supported by [human tutors]({{ 'human-role/' | relative_url }}) alone on measured outcomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">They also feel more engaged</span><span class="citation-popover-snippet">AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</span></span></span>
 
 The deeper promise is not just homework help. Good AI tutors could adapt explanations to a learner’s misconceptions, language, disability, pace and goals. A preregistered experiment with 375 participants found that personalised AI dialogue produced larger immediate reductions in stubborn psychology and education misconceptions than textbook-style refutation, although the advantage diminished over time without reinforcement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2666389926000061" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -351,7 +347,6 @@ On the positive side, AI could help solve the very constraints it worsens. AI ca
 
 The honest conclusion is that AI is not automatically green or wasteful. Its environmental effect depends on siting, chip efficiency, clean electricity buildout, workload management, cooling, regulation and whether AI is used to accelerate decarbonisation faster than it increases demand. A bloom scenario is one in which intelligence helps expand clean energy and material abundance. A failure scenario is one in which compute demand becomes another extractive race.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-2-dark.svg" | relative_url }}" alt="AI Bloom Abundance Superintelligence and Humanity illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Robotics and labour: ending drudgery without discarding workers
 
@@ -369,7 +364,7 @@ A humane AI bloom would not define success as “humans no longer needed”. It 
 
 The largest social question is not whether AI can generate wealth. It is whether the gains are distributed widely enough to count as human flourishing. Intelligence, compute, data, chips and deployment channels are already concentrated among a small number of companies and states. If advanced AI becomes the main productive force in the economy, concentration of control could become far more consequential than in earlier technological revolutions.
 
-This is why governance is not a side issue. It is part of the mechanism. AI abundance requires choices about competition policy, [public compute]({{ 'public-compute/' | relative_url }}), open and closed models, safety standards, taxation, labour rights, education, global access, data governance and democratic accountability. Without those choices, advanced AI could produce impressive aggregate growth while deepening dependency and inequality.
+This is why governance is not a side issue. It is part of the mechanism. AI abundance requires choices about competition policy, public compute, open and closed models, safety standards, taxation, labour rights, education, global access, data governance and democratic accountability. Without those choices, advanced AI could produce impressive aggregate growth while deepening dependency and inequality.
 
 International institutions increasingly frame AI as both an opportunity and a distributional risk. The OECD has examined AI’s potential to drive productivity growth in low-income and lower-middle-income countries, while emphasising likely cross-country variation. That matters because a world where only rich countries and large firms can use frontier AI would not be an abundant future for humanity as a whole. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">ai and the global productivity divide c315ea90 en</span><span class="citation-popover-snippet">ai and the global productivity divide c315ea90 en</span></span></span>
 
@@ -377,14 +372,13 @@ OpenAI’s 2026 paper on industrial policy for the intelligence age argues that 
 
 The practical test is whether societies build institutions before the most disruptive systems arrive. Broad benefit is easier to promise than to deliver. It may require public investment in AI for health, education and science; rules for frontier model safety; stronger worker voice; access for poorer countries; and mechanisms that prevent monopoly rents from turning intelligence abundance into political dependence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BS4y-_KMyF4" title="Artificial Utopia? The Future of Humanity in an AI World | World Science Festival" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BS4y-_KMyF4" target="_blank" rel="noopener noreferrer">Artificial Utopia? The Future of Humanity in an AI World | World Science Festival</a></p><p class="youtube-embed-meta">Channel: World Science Festival &middot; Views: 140.2K &middot; Uploaded: April 2026 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BS4y-_KMyF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BS4y-_KMyF4">Open on YouTube</a></p></div></div></div>
 
 ## Superintelligence: the biggest upside and the hardest objection
 
 The superintelligence question is unavoidable because the AI bloom thesis becomes far larger if AI systems surpass human experts across most fields. A safe superintelligence could help solve problems that defeat present institutions: disease, clean energy, materials design, climate adaptation, catastrophic-risk modelling, food security, space engineering and perhaps the design of better governance systems.
 
-But superintelligence is also the strongest objection to easy optimism. Systems that are more capable, autonomous and strategically aware could be harder to test, interpret, restrain or align. The International AI Safety Report 2026 warns that current AI systems still suffer from reliability problems such as fabricated information, flawed code and misleading advice, and that agentic systems create heightened risks because they can act without constant human oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">international ai safety report 2026</span></span></span>
+But superintelligence is also the strongest objection to easy optimism. Systems that are more capable, autonomous and strategically aware could be harder to test, interpret, restrain or align. The International AI Safety Report 2026 warns that current AI systems still suffer from reliability problems such as fabricated information, flawed code and misleading advice, and that agentic systems create heightened risks because they can act without constant [human oversight]({{ 'human-oversight/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: internationalaisafetyreport.org">[International AI Safety Report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">internationalaisafetyreport.org</span><span class="citation-popover-title">international ai safety report 2026</span><span class="citation-popover-snippet">international ai safety report 2026</span></span></span>
 
 UK government material on frontier AI risks has warned that future systems could magnify existing risks, including disinformation, cyber-attacks, fraud, access to harmful information and biased decisions. The UK AI Security Institute says its evaluations of frontier systems since 2023 have focused on domains critical to national security and public safety, reflecting the growing need to measure capabilities rather than rely on company claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
@@ -404,7 +398,6 @@ That dual-use nature is central. The same capability that helps design a medicin
 
 A genuine long-future bloom would therefore combine capability with wisdom. It would not chase maximum speed in every domain. It would ask which forms of acceleration are safe, which require restraint, which should be publicly governed, and which should be shared globally.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-3-dark.svg" | relative_url }}" alt="AI Bloom Abundance Superintelligence and Humanity illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest objections to AI bloom
 
@@ -421,7 +414,6 @@ The optimistic case is powerful, but several objections deserve serious weight.
 **Superintelligence may be uncontrollable.** Some researchers argue that advanced AI could become strategically dangerous if it develops goals misaligned with human welfare or if competitive pressures drive premature deployment. Even experts who disagree on timelines often agree that present safety and governance methods are immature for the strongest systems now being discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aigi.ox.ac.uk">[Oxford Martin AIGI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aigi.ox.ac.uk</span><span class="citation-popover-title">Open Problems in Frontier AI Risk Management Final</span><span class="citation-popover-snippet">Open Problems in Frontier AI Risk Management Final</span></span></span>
 
 **Human flourishing is not just optimisation.** A world of abundant AI-generated content, advice and automation could still be lonely, manipulative or politically brittle. People need agency, trust, relationships, culture, meaning, privacy and self-direction. The goal is not to automate humanity out of its own future, but to expand what humans can become and choose.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SCLHfhu5ZmM" title="Top 15 New Discoveries MADE By AI (2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SCLHfhu5ZmM" target="_blank" rel="noopener noreferrer">Top 15 New Discoveries MADE By AI (2026)</a></p><p class="youtube-embed-meta">Channel: AI Uncovered &middot; Views: 52.7K &middot; Uploaded: February 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SCLHfhu5ZmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SCLHfhu5ZmM">Open on YouTube</a></p></div></div></div>
 
@@ -472,7 +464,7 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
         </h4>
         <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Addresses whether powerful AI can remain aligned with human values and control.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -482,16 +474,16 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Alignment Problem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KGCNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Alignment Problem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Age of A. I. on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iBNqzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Age of A. I." loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Alignment Problem">The Alignment Problem</a>
+          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Age of A. I.">The Age of A. I.</a>
         </h4>
-        <p class="fr-book-author">By Brian Christian</p>
+        <p class="fr-book-author">By Henry Kissinger, Eric Schmidt et al.</p>
         
-        <p class="fr-book-desc">Explains the technical and human challenges behind making AI reliable and beneficial.</p>
+        <p class="fr-book-desc">Examines how AI may reshape science, society, governance and human flourishing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Alignment+Problem+by+Brian+Christian&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Age+of+A.+I.+by+Henry+Kissinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -499,14 +491,14 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YHxnDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Life 3.0 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3_otDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Life 3.0" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life 3.0">Life 3.0</a>
         </h4>
         <p class="fr-book-author">By Max Tegmark</p>
         
-        <p class="fr-book-desc">Explores advanced AI human flourishing existential risk and the long-term future.</p>
+        <p class="fr-book-desc">Considers optimistic and pessimistic futures for advanced artificial intelligence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Life+3.0+by+Max+Tegmark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -516,14 +508,14 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a-26EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
         <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Covers the promise of AI abundance alongside governance containment and societal risk.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -533,7 +525,7 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Alignment+Problem&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Human+Compatible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Human Compatible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Age+of+A.+I.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Age of A. I.</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Life+3.0&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Life 3.0</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -570,15 +562,15 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52587c8494bbf9efb04f.jpg' | relative_url }}" alt="Listing image for RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law"><img src="https://i.ebayimg.com/images/g/FcQAAOSwogJkXo7Z/s-l225.jpg" alt="Listing image for A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">RETRO TECHNOLOGY Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.i. ARTIFICIAL INTELLIGENCE (2001) UK cinema poster Spielberg Kubrick Jude Law</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +578,15 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/093a4c63ea1fa007c8e7.jpg' | relative_url }}" alt="Listing image for Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;"><img src="https://i.ebayimg.com/images/g/d0wAAOSwyPhnmSBl/s-l225.jpg" alt="Listing image for A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Ahead Of Technology Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A.I. - Artificial Intelligence Movie/Film Poster Art PICTURE / PRINT 9&quot; x 8&quot;</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +594,15 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Technology Crew Framed Art Prin Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f62f970539ca4e9c45ab.jpg' | relative_url }}" alt="Listing image for The Technology Crew Framed Art Prin Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/7q0AAeSwc-Fp2SC1/s-l225.jpg" alt="Listing image for Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">The Technology Crew Framed Art Prin Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">Artificial intelligence is no a mat Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,15 +610,15 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9e5e14d28187b4342672.jpg' | relative_url }}" alt="Listing image for Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery"><img src="https://i.ebayimg.com/images/g/-PcAAeSw5GNqCPEC/s-l225.jpg" alt="Listing image for A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">Technology Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">A I Artificial Intelligence 6 Movie Poster Art Print Print Classic Rare Gallery</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: technology poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for artificial intelligence poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: artificial intelligence poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -634,7 +626,7 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=technology+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="technology poster -book -books" data-ebay-reference="ai-bloom-abundance-superintelligence-could-ai-help-humanity-truly-bloom-ai-bloom-abundance-super-technology-poster-book" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ai-help-humanity-truly-bloom-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster" data-ebay-reference="could-ai-help-humanity-truly-bloom-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -849,270 +841,270 @@ But blooming is not the same as growing. Growth can enrich a few, exhaust the pl
 
 1. <a id="endnote-1"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/science/](https://deepmind.google/science/)  
+   Link: <a href="https://deepmind.google/science/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMindScienceAlphaFold solved the protein-folding grand challenge, and has predicted over 200 million protein structures. Recogn...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nature.com  
    Title: They also feel more engaged  
-   Link: [https://www.nature.com/articles/s41598-025-97652-6](https://www.nature.com/articles/s41598-025-97652-6)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-025-97652-6" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-97652-6</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI tutoring outperforms in-class active learningby G Kestin · 2025 · Cited by 187 — We find that students learn significantly more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: papers.ssrn.com  
-   Link: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924462](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924462)  
+   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924462" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5924462</a>  
 
 4. <a id="endnote-4"></a>
    Source: deepmind.google  
-   Link: [https://deepmind.google/science/alphafold/](https://deepmind.google/science/alphafold/)  
+   Link: <a href="https://deepmind.google/science/alphafold/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/science/alphafold/</a>  
 
 5. <a id="endnote-5"></a>
    Source: reuters.com  
    Title: Google-backed Isomorphic raises $2.1 billion to scale AI-driven drug discovery  
-   Link: [https://www.reuters.com/legal/litigation/google-backed-isomorphic-raises-21-billion-scale-ai-driven-drug-discovery-2026-05-12/](https://www.reuters.com/legal/litigation/google-backed-isomorphic-raises-21-billion-scale-ai-driven-drug-discovery-2026-05-12/)  
+   Link: <a href="https://www.reuters.com/legal/litigation/google-backed-isomorphic-raises-21-billion-scale-ai-driven-drug-discovery-2026-05-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/legal/litigation/google-backed-isomorphic-raises-21-billion-scale-ai-driven-drug-discovery-2026-05-12/</a>  
 
 6. <a id="endnote-6"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/healthcare-pharmaceuticals/takeda-deepens-ai-drug-discovery-push-with-17-billion-iambic-deal-2026-02-09/](https://www.reuters.com/business/healthcare-pharmaceuticals/takeda-deepens-ai-drug-discovery-push-with-17-billion-iambic-deal-2026-02-09/)  
+   Link: <a href="https://www.reuters.com/business/healthcare-pharmaceuticals/takeda-deepens-ai-drug-discovery-push-with-17-billion-iambic-deal-2026-02-09/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/healthcare-pharmaceuticals/takeda-deepens-ai-drug-discovery-push-with-17-billion-iambic-deal-2026-02-09/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A key aspect of the collaboration is Takeda&#x27;s access to Iambic&#x27;s AI model, NeuralPLexer, designed to predict how drug molecules bind to p...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: GOV.UK  
    Title: ai for science strategy  
-   Link: [https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy](https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy)  
+   Link: <a href="https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ai-for-science-strategy/ai-for-science-strategy</a>  
 
 8. <a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666389926000061](https://www.sciencedirect.com/science/article/pii/S2666389926000061)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666389926000061" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666389926000061</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.23633](https://arxiv.org/abs/2512.23633)  
+   Link: <a href="https://arxiv.org/abs/2512.23633" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.23633</a>  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0747563225002754](https://www.sciencedirect.com/science/article/pii/S0747563225002754)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563225002754" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563225002754</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2506.09292](https://arxiv.org/abs/2506.09292)  
+   Link: <a href="https://arxiv.org/abs/2506.09292" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2506.09292</a>  
 
 12. <a id="endnote-12"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions](https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions)  
+   Link: <a href="https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/news/data-centre-electricity-use-surged-in-2025-even-with-tightening-bottlenecks-driving-a-scramble-for-solutions</a>  
 
 13. <a id="endnote-13"></a>
    Source: iea.org  
-   Link: [https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai](https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai)  
+   Link: <a href="https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai</a>  
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: AI data centers are forcing dirty 'peaker' power plants back into service  
-   Link: [https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/](https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/)  
+   Link: <a href="https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/energy/ai-data-centers-are-forcing-obsolete-peaker-power-plants-back-into-service-2025-12-23/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About 60% of the oil, gas, and coal plants scheduled for shutdown in PJM territory in 2025 have now had their retirements delayed or canc...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: institute.global  
-   Title: the impact of ai on the [labour market](&#123;&#123; 'labour-impacts/' | relative_url &#125;&#125;)  
-   Link: [https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market](https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market)  
+   Title: the impact of ai on the labour market  
+   Link: <a href="https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/economic-prosperity/the-impact-of-ai-on-the-labour-market</a>  
 
 16. <a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market](https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market)  
+   Link: <a href="https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market</a>  
 
 17. <a id="endnote-17"></a>
    Source: oecd.org  
    Title: ai and the global productivity divide c315ea90 en  
-   Link: [https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html](https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html)  
+   Link: <a href="https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/ai-and-the-global-productivity-divide_c315ea90-en.html</a>  
 
 18. <a id="endnote-18"></a>
    Source: cdn.openai.com  
    Title: Industrial Policy for the Intelligence Age  
-   Link: [https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf)  
+   Link: <a href="https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf</a>  
 
 19. <a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: [https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a](https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a)  
+   Link: <a href="https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper/future-risks-of-frontier-ai-annex-a</a>  
 
 20. <a id="endnote-20"></a>
    Source: aisi.gov.uk  
-   Link: [https://www.aisi.gov.uk/frontier-ai-trends-report](https://www.aisi.gov.uk/frontier-ai-trends-report)  
+   Link: <a href="https://www.aisi.gov.uk/frontier-ai-trends-report" target="_blank" rel="noopener noreferrer nofollow">https://www.aisi.gov.uk/frontier-ai-trends-report</a>  
 
 21. <a id="endnote-21"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2512.01166](https://arxiv.org/abs/2512.01166)  
+   Link: <a href="https://arxiv.org/abs/2512.01166" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.01166</a>  
 
 22. <a id="endnote-22"></a>
    Source: reuters.com  
-   Link: [https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/](https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/)  
+   Link: <a href="https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/business/ai-companies-safety-practices-fail-meet-global-standards-study-shows-2025-12-03/</a>  
 
 23. <a id="endnote-23"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai](https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI used by NASA’s Jet Propulsion Laboratory (JPL), developed in collaboration with [Anthropic](&amp;#123;&amp;#123; &#x27;anthropic-misalignment/&#x27; | relative_url &amp;#125;&amp;#125;) and based on Claude AI models, processed...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-completes-its-1st-drive-planned-by-ai</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The AI used by NASA’s Jet Propulsion Laboratory (JPL), developed in collaboration with Anthropic and based on Claude AI models, processed...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aigi.ox.ac.uk  
    Title: Open Problems in Frontier AI Risk Management Final  
-   Link: [https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf](https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf)  
+   Link: <a href="https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://aigi.ox.ac.uk/wp-content/uploads/2026/02/Open-Problems-in-Frontier-AI-Risk-Management-Final.pdf</a>  
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2352940725003981](https://www.sciencedirect.com/science/article/pii/S2352940725003981)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352940725003981" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352940725003981</a>  
 
 26. <a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0048733325002100](https://www.sciencedirect.com/science/article/pii/S0048733325002100)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0048733325002100" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0048733325002100</a>  
 
 27. <a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118](https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0031699725075118</a>  
 
 28. <a id="endnote-28"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s42003-026-10112-3](https://www.nature.com/articles/s42003-026-10112-3)  
+   Link: <a href="https://www.nature.com/articles/s42003-026-10112-3" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s42003-026-10112-3</a>  
 
 29. <a id="endnote-29"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-025-03713-1](https://www.nature.com/articles/d41586-025-03713-1)  
+   Link: <a href="https://www.nature.com/articles/d41586-025-03713-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-025-03713-1</a>  
 
 30. <a id="endnote-30"></a>
    Source: intelligence.org  
-   Link: [https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/](https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/)  
+   Link: <a href="https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/" target="_blank" rel="noopener noreferrer nofollow">https://intelligence.org/2026/04/13/summary-ai-governance-to-avoid-extinction/</a>  
 
 31. <a id="endnote-31"></a>
    Source: deepmind.google  
    Title: alphafold five years of impact  
-   Link: [https://deepmind.google/blog/alphafold-five-years-of-impact/](https://deepmind.google/blog/alphafold-five-years-of-impact/)  
+   Link: <a href="https://deepmind.google/blog/alphafold-five-years-of-impact/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/alphafold-five-years-of-impact/</a>  
 
 32. <a id="endnote-32"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2605.10310v2](https://arxiv.org/html/2605.10310v2)  
+   Link: <a href="https://arxiv.org/html/2605.10310v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.10310v2</a>  
 
 33. <a id="endnote-33"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2511.10783v3](https://arxiv.org/html/2511.10783v3)  
+   Link: <a href="https://arxiv.org/html/2511.10783v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2511.10783v3</a>  
 
 34. <a id="endnote-34"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.23633v1](https://arxiv.org/html/2512.23633v1)  
+   Link: <a href="https://arxiv.org/html/2512.23633v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.23633v1</a>  
 
 35. <a id="endnote-35"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2512.22399v1](https://arxiv.org/html/2512.22399v1)  
+   Link: <a href="https://arxiv.org/html/2512.22399v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.22399v1</a>  
 
 36. <a id="endnote-36"></a>
    Source: nasa.gov  
    Title: 2024 ai use cases  
-   Link: [https://www.nasa.gov/organizations/ocio/dt/ai/2024-ai-use-cases/](https://www.nasa.gov/organizations/ocio/dt/ai/2024-ai-use-cases/)  
+   Link: <a href="https://www.nasa.gov/organizations/ocio/dt/ai/2024-ai-use-cases/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/organizations/ocio/dt/ai/2024-ai-use-cases/</a>  
 
 37. <a id="endnote-37"></a>
    Source: oecd.org  
    Title: 7376c776 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/06/emerging-divides-in-the-transition-to-artificial-intelligence_eeb5e120/7376c776-en.pdf</a>  
 
 38. <a id="endnote-38"></a>
    Source: fda.gov  
-   Link: [https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/artificial-intelligence-drug-development](https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/artificial-intelligence-drug-development)  
+   Link: <a href="https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/artificial-intelligence-drug-development" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/about-fda/center-drug-evaluation-and-research-cder/artificial-intelligence-drug-development</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Food and Drug AdministrationArtificial Intelligence for Drug DevelopmentFDA recognizes the increased use of AI throughout the drug d...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: internationalaisafetyreport.org  
    Title: international ai safety report 2026  
-   Link: [https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026](https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026)  
+   Link: <a href="https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026" target="_blank" rel="noopener noreferrer nofollow">https://internationalaisafetyreport.org/publication/international-ai-safety-report-2026</a>  
 
 40. <a id="endnote-40"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2025/oct/13/ai-tools-medical-health-liability-artificial-intelligence](https://www.theguardian.com/technology/2025/oct/13/ai-tools-medical-health-liability-artificial-intelligence)  
+   Link: <a href="https://www.theguardian.com/technology/2025/oct/13/ai-tools-medical-health-liability-artificial-intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2025/oct/13/ai-tools-medical-health-liability-artificial-intelligence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A report from a summit organized by the Journal of the American Medical Association (JAMA) highlights the challenges AI presents to legal...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: weforum.org  
    Title: World Economic Forum1. AI for scientific discovery  
-   Link: [https://www.weforum.org/publications/top-10-emerging-technologies-2024/in-full/1-ai-for-scientific-discovery/](https://www.weforum.org/publications/top-10-emerging-technologies-2024/in-full/1-ai-for-scientific-discovery/)  
+   Link: <a href="https://www.weforum.org/publications/top-10-emerging-technologies-2024/in-full/1-ai-for-scientific-discovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.weforum.org/publications/top-10-emerging-technologies-2024/in-full/1-ai-for-scientific-discovery/</a>  
 
 42. <a id="endnote-42"></a>
    Source: amacad.org  
-   Link: [https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery](https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery)  
+   Link: <a href="https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.amacad.org/publication/daedalus/knowledge-centric-ai-for-scientific-discovery</a>  
 
 43. <a id="endnote-43"></a>
    Source: ilo.org  
-   Link: [https://www.ilo.org/sites/default/files/2025-07/ilo%20brief%20work%20transformed%20promise%20and%20peril%20of%20ai.pdf](https://www.ilo.org/sites/default/files/2025-07/ilo%20brief%20work%20transformed%20promise%20and%20peril%20of%20ai.pdf)  
+   Link: <a href="https://www.ilo.org/sites/default/files/2025-07/ilo%20brief%20work%20transformed%20promise%20and%20peril%20of%20ai.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/sites/default/files/2025-07/ilo%20brief%20work%20transformed%20promise%20and%20peril%20of%20ai.pdf</a>  
 
 44. <a id="endnote-44"></a>
    Source: theguardian.com  
    Title: ai automation jobs could increase inequality uk report  
-   Link: [https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report](https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report)  
+   Link: <a href="https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/business/2025/jan/27/ai-automation-jobs-could-increase-inequality-uk-report</a>  
 
 45. <a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges](https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges)  
+   Link: <a href="https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2026/may/29/give-staff-more-say-over-ai-to-ensure-they-share-benefits-uk-thinktank-urges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The report argues that the critical issue is who controls AI-driven changes in the workplace. Recommendations include a legal duty for em...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: esa.int  
    Title: European Space Agency ESA  
-   Link: [https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Artificial_intelligence_in_space](https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Artificial_intelligence_in_space)  
+   Link: <a href="https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Artificial_intelligence_in_space" target="_blank" rel="noopener noreferrer nofollow">https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Artificial_intelligence_in_space</a>  
 
 47. <a id="endnote-47"></a>
    Source: mind-xo.com  
    Title: ai safety report  
-   Link: [https://www.mind-xo.com/insight/ai-safety-report/](https://www.mind-xo.com/insight/ai-safety-report/)  
+   Link: <a href="https://www.mind-xo.com/insight/ai-safety-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.mind-xo.com/insight/ai-safety-report/</a>  
 
 48. <a id="endnote-48"></a>
    Source: aigovernance.com  
-   Link: [https://aigovernance.com/news/international-ai-safety-report-publishes-2026-extended-summary-for-policymakers-documenting-12-frontier-ai-safety-frameworks](https://aigovernance.com/news/international-ai-safety-report-publishes-2026-extended-summary-for-policymakers-documenting-12-frontier-ai-safety-frameworks)  
+   Link: <a href="https://aigovernance.com/news/international-ai-safety-report-publishes-2026-extended-summary-for-policymakers-documenting-12-frontier-ai-safety-frameworks" target="_blank" rel="noopener noreferrer nofollow">https://aigovernance.com/news/international-ai-safety-report-publishes-2026-extended-summary-for-policymakers-documenting-12-frontier-ai-safety-frameworks</a>  
 
 49. <a id="endnote-49"></a>
    Source: blog.google  
    Title: google deepmind isomorphic alphafold 3 ai model  
-   Link: [https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/](https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/)  
+   Link: <a href="https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/" target="_blank" rel="noopener noreferrer nofollow">https://blog.google/innovation-and-ai/products/google-deepmind-isomorphic-alphafold-3-ai-model/</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=BS4y-_KMyF4](https://www.youtube.com/watch?v=BS4y-_KMyF4)  
+   Link: <a href="https://www.youtube.com/watch?v=BS4y-_KMyF4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BS4y-_KMyF4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Godfather of AI: How To Make Safe Superintelligent AI – Yoshua Bengio...</p></details>
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: AI Safety Expert on Humanity vs Superintelligence: Who Wins? | Spar X  
-   Link: [https://www.youtube.com/watch?v=5ELD_2PbJs8](https://www.youtube.com/watch?v=5ELD_2PbJs8)  
+   Link: <a href="https://www.youtube.com/watch?v=5ELD_2PbJs8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5ELD_2PbJs8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>We Have ONE Last Chance to Contain AI — Or We&#x27;re ALL Doomed | Roman Yampolskiy...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: youtube.com  
    Title: Godfather of AI: How To Make Safe Superintelligent AI – Yoshua Bengio  
-   Link: [https://www.youtube.com/watch?v=PZqDFs2sbiY](https://www.youtube.com/watch?v=PZqDFs2sbiY)  
+   Link: <a href="https://www.youtube.com/watch?v=PZqDFs2sbiY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PZqDFs2sbiY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Genius: AI Will Become Earth&#x27;s Dominant Mind | Nick Bostrom...</p></details>
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: Oxford Genius: AI Will Become Earth's Dominant Mind | Nick Bostrom  
-   Link: [https://www.youtube.com/watch?v=ZS3UZhPTzFA](https://www.youtube.com/watch?v=ZS3UZhPTzFA)  
+   Link: <a href="https://www.youtube.com/watch?v=ZS3UZhPTzFA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZS3UZhPTzFA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Safety Expert on Humanity vs Superintelligence: Who Wins? | SparX...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWoWVI-jIbu/](https://www.instagram.com/p/DWoWVI-jIbu/)  
+   Link: <a href="https://www.instagram.com/p/DWoWVI-jIbu/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWoWVI-jIbu/</a>  
 
 55. <a id="endnote-55"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/ai-future-space-industry-transforming-humanitys-final-andre-kyhne](https://www.linkedin.com/pulse/ai-future-space-industry-transforming-humanitys-final-andre-kyhne)  
+   Link: <a href="https://www.linkedin.com/pulse/ai-future-space-industry-transforming-humanitys-final-andre-kyhne" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/ai-future-space-industry-transforming-humanitys-final-andre-kyhne</a>  
 
 56. <a id="endnote-56"></a>
    Source: soa.org  
-   Link: [https://www.soa.org/globalassets/assets/files/resources/research-report/2025/ai-[longevity](https://www.soa.org/globalassets/assets/files/resources/research-report/2025/ai-[longevity)  
+   Link: <a href="https://www.soa.org/globalassets/assets/files/resources/research-report/2025/ai-[longevity" target="_blank" rel="noopener noreferrer nofollow">https://www.soa.org/globalassets/assets/files/resources/research-report/2025/ai-[longevity</a>  
 
 57. <a id="endnote-57"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/EuropeanSpaceAgency/posts/ai-is-taking-space-missions-to-the-next-level-as-we-push-further-into-the-cosmos/1072986258196793/](https://www.facebook.com/EuropeanSpaceAgency/posts/ai-is-taking-space-missions-to-the-next-level-as-we-push-further-into-the-cosmos/1072986258196793/)  
+   Link: <a href="https://www.facebook.com/EuropeanSpaceAgency/posts/ai-is-taking-space-missions-to-the-next-level-as-we-push-further-into-the-cosmos/1072986258196793/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/EuropeanSpaceAgency/posts/ai-is-taking-space-missions-to-the-next-level-as-we-push-further-into-the-cosmos/1072986258196793/</a>  
 
 58. <a id="endnote-58"></a>
    Source: futureoflife.org  
-   Link: [https://futureoflife.org/project/ai-role-in-reshaping-power-distribution/](https://futureoflife.org/project/ai-role-in-reshaping-power-distribution/)  
+   Link: <a href="https://futureoflife.org/project/ai-role-in-reshaping-power-distribution/" target="_blank" rel="noopener noreferrer nofollow">https://futureoflife.org/project/ai-role-in-reshaping-power-distribution/</a>  
 
 59. <a id="endnote-59"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/anewztv/posts/a-new-report-by-the-international-energy-agency-says-electricity-use-from-data-c/122184454604397875/](https://www.facebook.com/anewztv/posts/a-new-report-by-the-international-energy-agency-says-electricity-use-from-data-c/122184454604397875/)  
+   Link: <a href="https://www.facebook.com/anewztv/posts/a-new-report-by-the-international-energy-agency-says-electricity-use-from-data-c/122184454604397875/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/anewztv/posts/a-new-report-by-the-international-energy-agency-says-electricity-use-from-data-c/122184454604397875/</a>

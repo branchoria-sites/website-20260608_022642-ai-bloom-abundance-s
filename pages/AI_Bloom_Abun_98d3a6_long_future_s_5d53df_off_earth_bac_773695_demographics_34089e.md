@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /civilisation-backup/
 nav_short_title: Population Viability
 title: How Many People Are Needed for a Sustainable Space Colony?
-title_full: How Many People Are Needed for a Sustainable Space Colony? | Civilisation backup
+title_full: How Many People Are Needed for a Sustainable Space Colony?
 display_title_short: Population Viability
 display_title: Population Viability
 heading_title: How Many People Are Needed for a Sustainable Space Colony?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can space settlements really back up humanity? | Long Future
+date: '2026-06-08 01:49:09'
+parent_title: Can space settlements really back up humanity?
 parent_permalink: /civilisation-backup/
 parent_nav_short_title: Civilisation backup
 parent_heading_title: Can space settlements really back up humanity?
@@ -266,7 +267,6 @@ next_link:
   permalink: /settlement-technology/
   short_title: Settlement Technology
   heading_title: Can Off Earth Settlements Truly Operate Independently?
-date: '2026-06-08 01:49:09 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-1.webp
@@ -277,9 +277,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_77
 
 If off-Earth settlements are meant to act as a backup for civilisation, one question quickly becomes unavoidable: how many people would actually be needed to keep a human population healthy, stable and self-sustaining across generations?
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-1-dark.svg" | relative_url }}" alt="Population Viability illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The answer is more complicated than simply keeping enough people alive to reproduce. Long-term population viability depends on genetics, demography, social organisation, [education]({{ 'education/' | relative_url }}), fertility patterns, health, and the ability to cope with unexpected shocks. A settlement that begins with only a few hundred people might survive for decades, but still face serious risks from inbreeding, loss of genetic diversity, labour shortages, cultural fragmentation or demographic collapse. Researchers studying population genetics and multi-generational spaceflight have repeatedly found that the numbers required for long-term [resilience]({{ 'resilience/' | relative_url }}) may be much larger than early space-colonisation visions assumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span> 2arXiv
+The answer is more complicated than simply keeping enough people alive to reproduce. Long-term population viability depends on genetics, demography, social organisation, [education]({{ 'education/' | relative_url }}), fertility patterns, health, and the ability to cope with unexpected shocks. A settlement that begins with only a few hundred people might survive for decades, but still face serious risks from inbreeding, loss of genetic diversity, labour shortages, cultural fragmentation or demographic collapse. Researchers studying population genetics and multi-generational spaceflight have repeatedly found that the numbers required for long-term [resilience]({{ 'resilience/' | relative_url }}) may be much larger than early space-colonisation visions assumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span> 2arXiv
 
 Within the broader AI Bloom vision, these questions matter because space settlement is often presented as a way to enlarge and protect humanity’s long-term future. Yet a settlement cannot function as a meaningful civilisational backup if it cannot maintain a viable population over centuries. The demographic problem is therefore not a side issue. It sits at the centre of whether off-Earth communities could ever become genuinely independent branches of human civilisation.
 
@@ -289,7 +288,7 @@ Popular discussions of Mars colonies often focus on rockets, habitats and life-s
 
 Conservation biology uses the concept of a **minimum viable population**: the smallest population likely to avoid extinction over long periods despite accidents, environmental shocks and genetic decline. While humans differ from endangered animal populations in important ways, the underlying principles still apply. Small populations face heightened risks from random demographic fluctuations, unequal birth rates, disease outbreaks and genetic drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Minimum_viable_population" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Minimum viable population</span><span class="citation-popover-snippet">Minimum viable population</span></span></span>
 
-A particularly important distinction is between the **census population** and the **effective population size**. A settlement may contain 1,000 people, but if only a fraction reproduce, if some families have many more children than others, or if sex ratios become unbalanced, the effective population can be dramatically smaller. Population geneticists often focus on effective population size because it better predicts long-term genetic health. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
+A particularly important distinction is between the **census population** and the **effective population size**. A settlement may contain 1,000 people, but if only a fraction reproduce, if some families have many more children than others, or if sex ratios become unbalanced, the effective population can be dramatically smaller. Population geneticists often focus on effective population size because it better predicts long-term genetic health. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
 
 This creates a surprising implication: a colony that appears large enough socially may still be too small genetically.
 
@@ -301,14 +300,14 @@ A colony intended to survive for several decades with regular Earth support requ
 
 Several broad estimates appear repeatedly in the literature:
 
-* Traditional conservation genetics proposed the well-known “50/500 rule”, suggesting roughly 50 breeding individuals to reduce immediate inbreeding risk and around 500 to preserve long-term genetic variation. Later work argued these figures were too low and suggested thresholds closer to 100 and 1,000 effective individuals respectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
-* Research on multi-generational interstellar voyages has produced much larger estimates. Anthropologist Cameron Smith argued that populations of only a few hundred settlers would be insufficient and suggested founding populations in the tens of thousands for robust long-term genetic security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
+* Traditional conservation genetics proposed the well-known “50/500 rule”, suggesting roughly 50 breeding individuals to reduce immediate inbreeding risk and around 500 to preserve long-term genetic variation. Later work argued these figures were too low and suggested thresholds closer to 100 and 1,000 effective individuals respectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
+* Research on multi-generational interstellar voyages has produced much larger estimates. Anthropologist Cameron Smith argued that populations of only a few hundred settlers would be insufficient and suggested founding populations in the tens of thousands for robust long-term genetic security. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
 * Other simulation-based studies reached lower numbers under highly controlled assumptions. The HERITAGE Monte Carlo simulations estimated that roughly 98 people could maintain a genetically healthy population during a long interstellar journey if strict reproductive management rules were followed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.03856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * Agent-based models examining Mars settlements have produced even smaller estimates, sometimes around 20–30 initial settlers, but these studies generally focus on operational survival over decades rather than preserving broad human genetic diversity across centuries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.03856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 These numbers are not really contradictions. They describe different goals.
 
-A settlement designed merely to avoid immediate extinction may require dozens or hundreds of people. A settlement intended to preserve humanity’s evolutionary potential, cultural complexity and long-term adaptability may require populations in the thousands or tens of thousands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
+A settlement designed merely to avoid immediate extinction may require dozens or hundreds of people. A settlement intended to preserve humanity’s evolutionary potential, cultural complexity and long-term adaptability may require populations in the thousands or tens of thousands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
 
 ## The Genetic Diversity Problem
 
@@ -320,7 +319,7 @@ On Earth, large populations constantly exchange genes across regions and contine
 
 All humans carry harmful recessive mutations that rarely cause problems because they are paired with healthy gene variants. In small populations, relatives are more likely to have children together, increasing the chance that harmful mutations become expressed.
 
-This process, known as **inbreeding depression**, can reduce fertility, increase disease susceptibility and raise the frequency of inherited disorders. Conservation biology has documented these effects across many species, and there is little reason to think humans would be immune to the underlying genetic mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
+This process, known as **inbreeding depression**, can reduce fertility, increase disease susceptibility and raise the frequency of inherited disorders. Conservation biology has documented these effects across many species, and there is little reason to think humans would be immune to the underlying genetic mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</span></span></span>
 
 The challenge is magnified by isolation. A terrestrial community suffering from genetic bottlenecks can often recover through migration and intermarriage with neighbouring populations. An autonomous settlement on Mars may have no comparable option for decades or centuries.
 
@@ -328,7 +327,7 @@ The challenge is magnified by isolation. A terrestrial community suffering from 
 
 Even if serious inherited diseases are avoided, small populations face another threat: **genetic drift**.
 
-Random chance causes some genetic variants to disappear over generations. As diversity declines, the population becomes less able to adapt to new diseases, environmental changes or unforeseen biological challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
+Random chance causes some genetic variants to disappear over generations. As diversity declines, the population becomes less able to adapt to new diseases, environmental changes or unforeseen biological challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
 
 This issue matters especially because space environments themselves may introduce novel selective pressures:
 
@@ -340,7 +339,6 @@ This issue matters especially because space environments themselves may introduc
 
 Future settlers may need genetic flexibility precisely because their environment differs so dramatically from Earth. A genetically narrow population could find adaptation harder rather than easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thereader.mitpress.mit.edu/will-life-on-mars-require-a-genetic-rewrite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thereader.mitpress.mit.edu">[The MIT Press Reader]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thereader.mitpress.mit.edu</span><span class="citation-popover-snippet">The MIT Press ReaderWill Life on Mars Require a Genetic Rewrite?Feb 12, 2026 — What Mason and his researchers know for sure is that settl...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B5HORANmzHw" title="Founding An Inbreeding-Free Space Colony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B5HORANmzHw" target="_blank" rel="noopener noreferrer">Founding An Inbreeding-Free Space Colony</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 453.0K &middot; Uploaded: November 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B5HORANmzHw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B5HORANmzHw">Open on YouTube</a></p></div></div></div>
 
 ## Frozen Embryos, Gene Banks and AI-Assisted Genetics
@@ -350,7 +348,6 @@ One reason modern estimates differ from older population calculations is that fu
 Many researchers have proposed large repositories of frozen sperm, eggs and embryos as a way to expand effective genetic diversity without transporting huge populations. The HERITAGE simulations specifically found that cryogenic genetic banks could substantially improve long-term outcomes for multi-generational missions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1806.03856" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 In principle, a settlement might begin with:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,7 +361,6 @@ In principle, a settlement might begin with:
 This could dramatically expand the available gene pool while reducing launch costs.
 
 The idea becomes even more significant in an AI-accelerated future. Advanced AI systems could potentially assist with:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -393,7 +389,6 @@ Too many elderly residents create heavy healthcare and support burdens. Too few 
 
 Earth societies already struggle with ageing populations. A small off-Earth settlement would have far less room for error because every demographic cohort matters more. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/hdy201643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Genetics 163: 429–446. CAS PubMed PubMed...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-2-dark.svg" | relative_url }}" alt="Population Viability illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Fertility and Family Formation
 
@@ -402,7 +397,6 @@ A settlement's long-term viability depends on people choosing to have children.
 This cannot be assumed.
 
 Space settlements may involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -419,7 +413,6 @@ These factors could reduce fertility rates. A colony that consistently falls bel
 
 The challenge becomes particularly important for civilisational-backup arguments. A population that survives technically but steadily declines cannot preserve human civilisation indefinitely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BBb2gC0lByk" title="Can Humans REALLY Leave Earth? [Interstellar Spaceship]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BBb2gC0lByk" target="_blank" rel="noopener noreferrer">Can Humans REALLY Leave Earth? [Interstellar Spaceship]</a></p><p class="youtube-embed-meta">Channel: DamiLee &middot; Views: 1.3M &middot; Uploaded: March 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BBb2gC0lByk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BBb2gC0lByk">Open on YouTube</a></p></div></div></div>
 
 ### Skill Bottlenecks
@@ -434,19 +427,18 @@ A settlement needs:
 * Educators.
 * Scientists.
 * Software specialists.
-* [Governance]({{ 'power/' | relative_url }}) institutions.
+* Governance institutions.
 * Manufacturing expertise.
 
 Modern civilisation depends on extraordinary specialisation. Maintaining enough expertise in a population of only a few hundred people may prove extremely difficult.
 
-This is one reason some analysts argue that genuine independence may require populations far larger than the minimum needed for biological survival. The challenge is not simply preserving human DNA but preserving an entire technological civilisation. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCDealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
+This is one reason some analysts argue that genuine independence may require populations far larger than the minimum needed for biological survival. The challenge is not simply preserving human DNA but preserving an entire technological civilisation. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Dealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</span></span></span>
 
 ## Social and Cultural Continuity May Be the Hardest Problem
 
 Even a genetically healthy population can fail if its social structures break down.
 
 Many discussions of space settlement underestimate how dependent modern societies are on large populations, institutions and cultural networks.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-3-dark.svg" | relative_url }}" alt="Population Viability illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_off_earth_bac_773695_demographics_34089e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Maintaining Shared Knowledge
@@ -455,7 +447,7 @@ A civilisational backup must preserve more than people.
 
 It must preserve:
 
-* [Scientific]({{ 'discovery/' | relative_url }}) knowledge.
+* Scientific knowledge.
 * Technical skills.
 * Historical records.
 * Languages.
@@ -489,7 +481,6 @@ People born in a Martian settlement might question governance systems imposed by
 
 A settlement designed as a backup for humanity could gradually become something different: a separate branch of human civilisation with its own interests.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hIzVDj5XpW8" title="Why Would It Take 110 People to Colonize Mars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hIzVDj5XpW8" target="_blank" rel="noopener noreferrer">Why Would It Take 110 People to Colonize Mars</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE &middot; Views: 18.5K &middot; Uploaded: March 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hIzVDj5XpW8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hIzVDj5XpW8">Open on YouTube</a></p></div></div></div>
 
 ## Could AI Reduce Population Viability Constraints?
@@ -501,7 +492,6 @@ Historically, population size was tied closely to productive capacity. Larger so
 Advanced AI and [robotics]({{ 'robotics/' | relative_url }}) could weaken that relationship.
 
 Potential benefits include:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -547,7 +537,7 @@ For advocates of humanity’s long-term future, this makes population viability 
         </h4>
         <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Examines whether space settlements could become viable societies.</p>
+        <p class="fr-book-desc">Directly examines whether large, self-sustaining space populations are realistic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -557,14 +547,48 @@ For advocates of humanity’s long-term future, this makes population viability 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3aSiDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
+        </h4>
+        <p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
+        
+        <p class="fr-book-desc">Explores population scale and long-term space communities.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
+        </h4>
+        <p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
+        
+        <p class="fr-book-desc">Addresses building viable human populations on Mars.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Precipice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iaejzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Precipice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Precipice">The Precipice</a>
         </h4>
         <p class="fr-book-author">By Toby Ord</p>
         
-        <p class="fr-book-desc">Explains why preserving long-term human civilisation matters.</p>
+        <p class="fr-book-desc">Discusses civilisation resilience and safeguarding humanity&#x27;s future.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Precipice+by+Toby+Ord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -572,43 +596,9 @@ For advocates of humanity’s long-term future, this makes population viability 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Future of Humanity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=d7ktygEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Future of Humanity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
-        
-        <p class="fr-book-desc">Provides broad context for long-term human populations beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
-        
-        <p class="fr-book-desc">Argues for large-scale human expansion beyond Earth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Precipice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Precipice</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+High+Frontier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The High Frontier</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -645,15 +635,15 @@ For advocates of humanity’s long-term future, this makes population viability 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2003 Space Colony PC Windows Rare mini Promo Poster / Ad Page Framed"><img src="{{ '/assets/images/marketplace-covers/70f46d4166dd3c03d3ed.jpg' | relative_url }}" alt="Listing image for 2003 Space Colony PC Windows Rare mini Promo Poster / Ad Page Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rick Guidice - Toroidal Colony Interior - NASA Space Colony Concept Print"><img src="https://i.ebayimg.com/images/g/4RoAAeSw3uFp~TFh/s-l225.jpg" alt="Listing image for Rick Guidice - Toroidal Colony Interior - NASA Space Colony Concept Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer">2003 Space Colony PC Windows Rare mini Promo Poster / Ad Page Framed</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Rick Guidice - Toroidal Colony Interior - NASA Space Colony Concept Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -661,15 +651,15 @@ For advocates of humanity’s long-term future, this makes population viability 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lunar Base Inflatable Habitat Poster Space Colony Concept Wall Art"><img src="{{ '/assets/images/marketplace-covers/ee315f4eef0f8accc36f.jpg' | relative_url }}" alt="Listing image for Lunar Base Inflatable Habitat Poster Space Colony Concept Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stuart Davis Colonial Cubism O 1 Art Print Poster Wall Decor Living Space Modern"><img src="https://i.ebayimg.com/images/g/LboAAeSwBXRp2MLh/s-l225.jpg" alt="Listing image for Stuart Davis Colonial Cubism O 1 Art Print Poster Wall Decor Living Space Modern" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer">Lunar Base Inflatable Habitat Poster Space Colony Concept Wall Art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Stuart Davis Colonial Cubism O 1 Art Print Poster Wall Decor Living Space Modern</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -677,15 +667,15 @@ For advocates of humanity’s long-term future, this makes population viability 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars, colony, astronaut — Vintage space poster, retro space art"><img src="{{ '/assets/images/marketplace-covers/25d1190762eeac45eb5b.jpg' | relative_url }}" alt="Listing image for Mars, colony, astronaut — Vintage space poster, retro space art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/AywAAeSwFMlp1T6Y/s-l225.jpg" alt="Listing image for Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer">Mars, colony, astronaut — Vintage space poster, retro space art</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Awesome Colony Space Ship Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -693,15 +683,15 @@ For advocates of humanity’s long-term future, this makes population viability 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Impression Colony Habitat Station Poster Art Print 30X40 Cm Bb3238B"><img src="{{ '/assets/images/marketplace-covers/6caa770a22b7677d1848.jpg' | relative_url }}" alt="Listing image for Space Impression Colony Habitat Station Poster Art Print 30X40 Cm Bb3238B" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kncAAeSwwNdp1Tnb/s-l225.jpg" alt="Listing image for Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer">Space Impression Colony Habitat Station Poster Art Print 30X40 Cm Bb3238B</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">Space Colony Memories Framed Art Pr Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space colony art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: space colony art print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -709,7 +699,7 @@ For advocates of humanity’s long-term future, this makes population viability 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony poster -book -books" data-ebay-reference="population-viability-how-many-people-are-needed-for-a-sustainable-space-colony-ai-bloom-abundanc-space-colony-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+colony+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space colony art print" data-ebay-reference="how-many-people-are-needed-for-a-sustainable-space-colony-space-colony-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -924,164 +914,164 @@ For advocates of humanity’s long-term future, this makes population viability 
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669](https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectEstimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576513004669</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Estimation of a genetically viable population for...by CM Smith · 2014 · Cited by 57 — I present several formulae as well a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1806.03856](https://arxiv.org/abs/1806.03856)  
+   Link: <a href="https://arxiv.org/abs/1806.03856" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1806.03856</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0006320713004576](https://www.sciencedirect.com/science/article/abs/pii/S0006320713004576)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectRevised recommendations for the 50/500 rules, Red List...by R Frankham · 2014 · Cited by 1349 — Evidence accumulated since...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0006320713004576" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0006320713004576</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revised recommendations for the 50/500 rules, Red List...by R Frankham · 2014 · Cited by 1349 — Evidence accumulated since...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Minimum viable population  
-   Link: [https://en.wikipedia.org/wiki/Minimum_viable_population](https://en.wikipedia.org/wiki/Minimum_viable_population)  
+   Link: <a href="https://en.wikipedia.org/wiki/Minimum_viable_population" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Minimum_viable_population</a>  
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCDealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11645448/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dealing With the Complexity of Effective Population Size in...by A Fedorca · 2024 · Cited by 21 — Effective population size (Ne) is d...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/hdy201643](https://www.nature.com/articles/hdy201643)  
+   Link: <a href="https://www.nature.com/articles/hdy201643" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/hdy201643</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Genetics 163: 429–446. CAS PubMed PubMed...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: 26603 interstellar starship colony population size  
-   Link: [https://www.space.com/26603-interstellar-starship-colony-population-size.html](https://www.space.com/26603-interstellar-starship-colony-population-size.html)  
+   Link: <a href="https://www.space.com/26603-interstellar-starship-colony-population-size.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/26603-interstellar-starship-colony-population-size.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Colonize an Alien Planet? Send 40000 People28 Jul 2014 — Smith&#x27;s calculations, which combine information from population genetics...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1708.08649](https://arxiv.org/abs/1708.08649)  
+   Link: <a href="https://arxiv.org/abs/1708.08649" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1708.08649</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv An Exploration of Mars Colonization with Agent-Based Modeling  
-   Link: [https://arxiv.org/abs/2308.05916](https://arxiv.org/abs/2308.05916)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn Exploration of Mars Colonization with Agent-Based ModelingAugust 11, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2308.05916" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.05916</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploration of Mars Colonization with Agent-Based ModelingAugust 11, 2023...</p></details>
    Published: August 11, 2023  
 
 10. <a id="endnote-10"></a>
    Source: thereader.mitpress.mit.edu  
-   Link: [https://thereader.mitpress.mit.edu/will-life-on-mars-require-a-genetic-rewrite/](https://thereader.mitpress.mit.edu/will-life-on-mars-require-a-genetic-rewrite/)  
+   Link: <a href="https://thereader.mitpress.mit.edu/will-life-on-mars-require-a-genetic-rewrite/" target="_blank" rel="noopener noreferrer nofollow">https://thereader.mitpress.mit.edu/will-life-on-mars-require-a-genetic-rewrite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The MIT Press ReaderWill Life on Mars Require a Genetic Rewrite?Feb 12, 2026 — What Mason and his researchers know for sure is that settl...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41598-020-66740-0](https://www.nature.com/articles/s41598-020-66740-0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureMinimum Number of Settlers for Survival on Another Planetby JM Salotti · 2020 · Cited by 23 — A mathematical model can be used to d...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41598-020-66740-0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-020-66740-0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimum Number of Settlers for Survival on Another Planetby JM Salotti · 2020 · Cited by 23 — A mathematical model can be used to d...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308](https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0265964620300308</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Martian: Possible Scenarios for a Future Human...by K Szocik · 2020 · Cited by 40 — The aim of the article is to present a wide rang...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
    Title: Effective Population Size  
-   Link: [https://www.sciencedirect.com/topics/medicine-and-dentistry/effective-population-size](https://www.sciencedirect.com/topics/medicine-and-dentistry/effective-population-size)  
+   Link: <a href="https://www.sciencedirect.com/topics/medicine-and-dentistry/effective-population-size" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/medicine-and-dentistry/effective-population-size</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewGenerally, effective population size is a fraction of census population size, reflecting variance in the proportion of individ...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045](https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Biodiversity requirements for self-sustaining space coloniesby AR Johnson · 2019 · Cited by 21 — A high degree of biodiversity will be re...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Outer space  
-   Link: [https://en.wikipedia.org/wiki/Outer_space](https://en.wikipedia.org/wiki/Outer_space)  
+   Link: <a href="https://en.wikipedia.org/wiki/Outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Outer_space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Outer spaceOuter space (or simply space) is the expanse that exists beyond Earth&#x27;s atmosphere and between celestial bodies.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Colonization of Mars  
-   Link: [https://en.wikipedia.org/wiki/Colonization_of_Mars](https://en.wikipedia.org/wiki/Colonization_of_Mars)  
+   Link: <a href="https://en.wikipedia.org/wiki/Colonization_of_Mars" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Colonization_of_Mars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Colonization of MarsThe colonization of Mars is the proposed process of establishing permanent human settlements on the planet Mars...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: britannica.com  
    Title: minimum viable population  
-   Link: [https://www.britannica.com/science/minimum-viable-population](https://www.britannica.com/science/minimum-viable-population)  
+   Link: <a href="https://www.britannica.com/science/minimum-viable-population" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/minimum-viable-population</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaMinimum viable population (MVP) | Definition, Examples, &amp;...Apr 10, 2026 — They created the “50/500” rule, which...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: britannica.com  
    Title: 50 500 rule  
-   Link: [https://www.britannica.com/science/50-500-rule](https://www.britannica.com/science/50-500-rule)  
+   Link: <a href="https://www.britannica.com/science/50-500-rule" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/science/50-500-rule</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>50/500 rule | biology and population analysis8 Apr 2026 — The &quot;50/500 rule&quot; is a guideline in conservation biology suggesting a minimum p...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: marspedia.org  
-   Link: [https://marspedia.org/Population](https://marspedia.org/Population)  
+   Link: <a href="https://marspedia.org/Population" target="_blank" rel="noopener noreferrer nofollow">https://marspedia.org/Population</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>May 11, 2019 — The composition of the Population of a colony on Mars will be subject to several conditions. This article tries to outline...</p></details>
    Published: May 11, 2019  
 
 20. <a id="endnote-20"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/minimum](https://www.vocabulary.com/dictionary/minimum)  
+   Link: <a href="https://www.vocabulary.com/dictionary/minimum" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/minimum</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsThe minimum is the lowest or smallest amount possible or acceptable. If you do the minimum amount of work a...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: smad.com  
-   Link: [https://smad.com/wp-content/uploads/2023/01/50-year-Window-to-Establish-a-Space-Faring-Civilization.pdf](https://smad.com/wp-content/uploads/2023/01/50-year-Window-to-Establish-a-Space-Faring-Civilization.pdf)  
+   Link: <a href="https://smad.com/wp-content/uploads/2023/01/50-year-Window-to-Establish-a-Space-Faring-Civilization.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smad.com/wp-content/uploads/2023/01/50-year-Window-to-Establish-a-Space-Faring-Civilization.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>physicist Paul Davies pointed out that, &quot;A Martian colony could keep the flame of civilization and culture alive until Earth could be rev...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: minimumfashion.com  
-   Link: [https://minimumfashion.com/](https://minimumfashion.com/)  
+   Link: <a href="https://minimumfashion.com/" target="_blank" rel="noopener noreferrer nofollow">https://minimumfashion.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimum Officiel Webshop | Clothing for Men &amp; WomenMinimum Official Webshop | ✓ styles online for men and women ✓ ️Quick delivery ✓ ️High...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/minimum](https://www.merriam-webster.com/dictionary/minimum)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/minimum" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/minimum</a>  
 
 24. <a id="endnote-24"></a>
    Source: geneticliteracyproject.org  
    Title: heres what potential mars colonists really need from earth a large gene pool  
-   Link: [https://geneticliteracyproject.org/2018/03/16/heres-what-potential-mars-colonists-really-need-from-earth-a-large-gene-pool/](https://geneticliteracyproject.org/2018/03/16/heres-what-potential-mars-colonists-really-need-from-earth-a-large-gene-pool/)  
+   Link: <a href="https://geneticliteracyproject.org/2018/03/16/heres-what-potential-mars-colonists-really-need-from-earth-a-large-gene-pool/" target="_blank" rel="noopener noreferrer nofollow">https://geneticliteracyproject.org/2018/03/16/heres-what-potential-mars-colonists-really-need-from-earth-a-large-gene-pool/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s what potential Mars colonists really need from EarthMar 16, 2018 — Establishment of a Mars colony will depend on genetic diversity...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: research.fs.usda.gov  
    Title: (MVP), the population size required to provide some.Read  
-   Link: [https://research.fs.usda.gov/treesearch/download/38156.pdf](https://research.fs.usda.gov/treesearch/download/38156.pdf)  
+   Link: <a href="https://research.fs.usda.gov/treesearch/download/38156.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/treesearch/download/38156.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>viable populationsby CH Flather · 2011 · Cited by 326 — To inform conservation policy, recent studies have revived the concept of the min...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: worldbuilding.stackexchange.com  
    Title: what is the minimum human population necessary for a sustainable colony  
-   Link: [https://worldbuilding.stackexchange.com/questions/3/what-is-the-minimum-human-population-necessary-for-a-sustainable-colony](https://worldbuilding.stackexchange.com/questions/3/what-is-the-minimum-human-population-necessary-for-a-sustainable-colony)  
+   Link: <a href="https://worldbuilding.stackexchange.com/questions/3/what-is-the-minimum-human-population-necessary-for-a-sustainable-colony" target="_blank" rel="noopener noreferrer nofollow">https://worldbuilding.stackexchange.com/questions/3/what-is-the-minimum-human-population-necessary-for-a-sustainable-colony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the minimum human population necessary for...16 Sept 2014 — The answer to this is a ~40 based on the Sentinelese tribe(s) that are lo...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCA comprehensive blueprint for Mars colonization  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10884476/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehensive blueprint for Mars colonization - PMC - NIHby F Neukart · 2024 · Cited by 55 — This paper thoroughly explores the feasibili...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: [discovery](&#123;&#123; 'discovery/' | relative_url &#125;&#125;). ucl.ac.uk  
-   Link: [https://discovery.ucl.ac.uk/10081208/1/Reiss_AAM_Szocik%2C%20Norman%20%26%20Reiss%202019%20SciEngineerEthics%20Ethical%20challenges%20in%20human%20space%20missions.pdf](https://discovery.ucl.ac.uk/10081208/1/Reiss_AAM_Szocik%2C%20Norman%20%26%20Reiss%202019%20SciEngineerEthics%20Ethical%20challenges%20in%20human%20space%20missions.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/10081208/1/Reiss_AAM_Szocik%2C%20Norman%20%26%20Reiss%202019%20SciEngineerEthics%20Ethical%20challenges%20in%20human%20space%20missions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10081208/1/Reiss_AAM_Szocik%2C%20Norman%20%26%20Reiss%202019%20SciEngineerEthics%20Ethical%20challenges%20in%20human%20space%20missions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he chances for our species&#x27; survival, this goal seems likely to trump other competing values.Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: space.stackexchange.com  
    Title: what is the smallest number of humans required for colonization  
-   Link: [https://space.stackexchange.com/questions/450/what-is-the-smallest-number-of-humans-required-for-colonization](https://space.stackexchange.com/questions/450/what-is-the-smallest-number-of-humans-required-for-colonization)  
+   Link: <a href="https://space.stackexchange.com/questions/450/what-is-the-smallest-number-of-humans-required-for-colonization" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/450/what-is-the-smallest-number-of-humans-required-for-colonization</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>is the smallest number of humans required for...19 Jul 2013 — There is an estimate at Understanding Genetics that the minimum number of...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: universetoday.com  
    Title: whats the bare minimum number of people for a mars habitat  
-   Link: [https://www.universetoday.com/articles/whats-the-bare-minimum-number-of-people-for-a-mars-habitat](https://www.universetoday.com/articles/whats-the-bare-minimum-number-of-people-for-a-mars-habitat)  
+   Link: <a href="https://www.universetoday.com/articles/whats-the-bare-minimum-number-of-people-for-a-mars-habitat" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/whats-the-bare-minimum-number-of-people-for-a-mars-habitat</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s the Bare Minimum Number of People for a Mars...6 Sept 2023 — But if this most recent study proves accurately that a future Mars c...</p></details>

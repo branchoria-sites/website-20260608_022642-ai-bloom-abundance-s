@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /gno-me-materials/
 nav_short_title: Validation
 title: What the first tests really prove
-title_full: What the first tests really prove | GNo ME materials
+title_full: What the first tests really prove
 display_title_short: Validation
 display_title: Validation
 heading_title: What the first tests really prove
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI find the materials abundance needs? | Discovery
+date: '2026-06-08 02:17:09'
+parent_title: Can AI find the materials abundance needs?
 parent_permalink: /gno-me-materials/
 parent_nav_short_title: GNo ME materials
 parent_heading_title: Can AI find the materials abundance needs?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /stable-vs-useful/
   short_title: Stable vs useful
   heading_title: Why stable materials are not enough
-date: '2026-06-08 02:17:09 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-1.webp
@@ -271,17 +271,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2d
 
 The most important thing early GNoME validation proves is not that AI has already solved materials science. It proves something narrower, but still significant: AI-generated predictions can sometimes survive contact with physical reality.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-1-dark.svg" | relative_url }}" alt="Validation illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because materials [discovery]({{ 'discovery/' | relative_url }}) has long suffered from a painful gap between theory and experiment. Researchers can generate huge numbers of hypothetical compounds on computers, but many never become real materials in a laboratory. GNoME's early validation results suggest that at least some of its predicted crystal structures are not merely mathematical artefacts. They correspond to compounds that can actually exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</span></span></span>
+That matters because materials [discovery]({{ 'discovery/' | relative_url }}) has long suffered from a painful gap between theory and experiment. Researchers can generate huge numbers of hypothetical compounds on computers, but many never become real materials in a laboratory. GNoME's early validation results suggest that at least some of its predicted crystal structures are not merely mathematical artefacts. They correspond to compounds that can actually exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</span></span></span>
 
-For advocates of an AI-enabled [scientific]({{ 'discovery/' | relative_url }}) bloom, this is an encouraging signal. It suggests that advanced AI may help widen the search space of science and identify promising regions humans would otherwise miss. But the validation does not show that hundreds of thousands of useful materials are ready for industry, nor that abundance follows automatically from large prediction counts. The distance between a synthesised crystal and a civilisation-changing technology remains enormous.
+For advocates of an AI-enabled scientific bloom, this is an encouraging signal. It suggests that advanced AI may help widen the search space of science and identify promising regions humans would otherwise miss. But the validation does not show that hundreds of thousands of useful materials are ready for industry, nor that abundance follows automatically from large prediction counts. The distance between a synthesised crystal and a civilisation-changing technology remains enormous.
 
 ## What successful synthesis shows
 
 The strongest evidence behind GNoME is not the headline figure of hundreds of thousands of predicted stable materials. It is the smaller set of cases where predictions were independently matched or physically created.
 
-DeepMind reported that 736 structures predicted by GNoME were later found to match materials that experimental researchers had independently synthesised. Because the model was trained on database snapshots from before those discoveries entered the literature, these matches provide evidence that the system was identifying real regions of materials space rather than merely memorising known compounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
+DeepMind reported that 736 structures predicted by GNoME were later found to match materials that experimental researchers had independently synthesised. Because the model was trained on database snapshots from before those discoveries entered the literature, these matches provide evidence that the system was identifying real regions of materials space rather than merely memorising known compounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
 
 An even more concrete test came through collaboration with Berkeley Lab's autonomous "A-Lab". In one widely discussed experiment, the robotic laboratory attempted to synthesise 58 candidate materials and successfully produced 41 of them over 17 days. The result demonstrated that a substantial fraction of selected AI-guided targets could be realised experimentally. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newscenter.lbl.gov">[Berkeley Lab News Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newscenter.lbl.gov</span><span class="citation-popover-title">google deepmind new compounds materials project</span><span class="citation-popover-snippet">Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...Nov 29, 2023 — Over 17 days of independent operation, A-La...</span></span></span>
 
@@ -290,7 +289,7 @@ These results support several important claims:
 * AI can identify previously unknown crystal structures that appear physically achievable.
 * Machine learning can help navigate an enormous search space that would be difficult for humans to explore manually.
 * Automated laboratories can partially close the gap between computational prediction and experimental testing.
-* Materials discovery may become more scalable than traditional trial-and-error approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
+* Materials discovery may become more scalable than traditional trial-and-error approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
 
 For the broader AI bloom argument, this is the key signal. The significance is not any individual crystal. It is evidence that AI systems may increasingly function as engines for generating scientific hypotheses that can be validated in the physical world.
 
@@ -300,12 +299,11 @@ Many AI breakthroughs remain entirely digital. A model may perform well on bench
 
 Materials science is different because reality is unforgiving. A crystal either forms or it does not. Laboratory synthesis provides a harder test than many software benchmarks because nature itself acts as the judge.
 
-This is why the A-Lab experiments attracted attention. They were not simply checking whether GNoME agreed with another computer model. They were testing whether matter would organise itself into the predicted structures under real experimental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
+This is why the A-Lab experiments attracted attention. They were not simply checking whether GNoME agreed with another computer model. They were testing whether matter would organise itself into the predicted structures under real experimental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
 
-That does not mean every successful synthesis validates all of GNoME's predictions. But it does provide evidence that the overall approach is grounded in genuine physical regularities. The model appears to have learned something useful about which atomic arrangements can exist as stable materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
+That does not mean every successful synthesis validates all of GNoME's predictions. But it does provide evidence that the overall approach is grounded in genuine physical regularities. The model appears to have learned something useful about which atomic arrangements can exist as stable materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</span></span></span>
 
 In that sense, early validation resembles what AlphaFold achieved for protein structures. The important milestone is not that every prediction immediately becomes a medical breakthrough. It is that AI demonstrates a reliable ability to uncover real structures that were previously unknown or difficult to identify.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CJHu3yDOYGI" title="Did Google DeepMind Just Revolutionize Materials Science?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer">Did Google DeepMind Just Revolutionize Materials Science?</a></p><p class="youtube-embed-meta">Channel: The AI Daily Brief: Artificial Intelligence News &middot; Views: 11.0K &middot; Uploaded: December 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CJHu3yDOYGI">Open on YouTube</a></p></div></div></div>
 
@@ -318,7 +316,6 @@ A material can exist without being valuable.
 Many predicted compounds may have no commercially important properties. Others may perform worse than existing materials. Some may be impossible to manufacture economically at scale. Others may require rare elements, difficult processing methods or extreme conditions that limit practical deployment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Google Deep Mind&#x27;s AI Dreamed Up 380,000 New Materials</span><span class="citation-popover-snippet">The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</span></span></span>
 
 Even when a material has promising characteristics, researchers must answer additional questions:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -335,15 +332,14 @@ Battery research provides a useful example. A crystal might appear to have excel
 
 This is why many materials scientists welcomed GNoME while simultaneously warning against overinterpretation. Predicting stability is an important step, but it is only one step in a much longer chain of discovery, optimisation and deployment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-title">Publications Artificial Intelligence Driving Materials Discovery?</span><span class="citation-popover-snippet">AK Cheetham · 2024 · Cited by 164 — The tools of artificial intelligence and machine learning (AI/ML) to propose new co...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-2-dark.svg" | relative_url }}" alt="Validation illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper bottleneck: synthesisable versus merely stable
 
 One lesson emerging from follow-up research is that "stable" and "synthesisable" are not identical concepts.
 
-Many computational methods evaluate thermodynamic stability: whether a structure represents a low-[energy]({{ 'energy/' | relative_url }}) state. Real laboratories, however, operate under kinetic constraints, impurities, temperature variations and practical synthesis pathways. Some theoretically attractive materials remain extremely difficult to create in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.09161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+Many computational methods evaluate thermodynamic stability: whether a structure represents a low-[energy]({{ 'energy/' | relative_url }}) state. Real laboratories, however, operate under kinetic constraints, impurities, temperature variations and practical synthesis pathways. Some theoretically attractive materials remain extremely difficult to create in practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.09161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
-This has become a growing research area in its own right. Scientists are now developing models that try to predict not merely whether a material should exist, but whether researchers are likely to be able to make it successfully. Recent studies explicitly describe this as an attempt to bridge the gap between computational prediction and experimental realisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.09161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivBridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
+This has become a growing research area in its own right. Scientists are now developing models that try to predict not merely whether a material should exist, but whether researchers are likely to be able to make it successfully. Recent studies explicitly describe this as an attempt to bridge the gap between computational prediction and experimental realisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2505.09161" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span>
 
 The emergence of this field highlights an important point about GNoME's validation. The early successes show that the bridge between AI prediction and reality exists. They do not show that the bridge is complete.
 
@@ -357,9 +353,7 @@ The question is whether the entire discovery pipeline can accelerate.
 
 A future of dramatically cheaper energy, better batteries, advanced manufacturing or climate-repair technologies would require repeated success across multiple stages:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4OugrTYqCA0" title="Google’s GNoME AI: 800 Year Leap Makes 2,200,000 New Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4OugrTYqCA0" target="_blank" rel="noopener noreferrer">Google’s GNoME AI: 800 Year Leap Makes 2,200,000 New Discoveries</a></p><p class="youtube-embed-meta">Channel: AI News &middot; Views: 55.2K &middot; Uploaded: December 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4OugrTYqCA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4OugrTYqCA0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -372,7 +366,7 @@ A future of dramatically cheaper energy, better batteries, advanced manufacturin
 
 </div>
 
-GNoME's validation addresses mainly the first transition: from prediction to physical existence. It says relatively little about the later stages where costs, regulation, engineering complexity and [supply chains]({{ 'risky-elements/' | relative_url }}) become dominant constraints.
+GNoME's validation addresses mainly the first transition: from prediction to physical existence. It says relatively little about the later stages where costs, regulation, engineering complexity and supply chains become dominant constraints.
 
 This distinction matters because abundance depends on systems, not samples. A single laboratory producing dozens of new compounds is scientifically impressive. A civilisation producing better batteries, cheaper clean energy systems or radically improved industrial materials at global scale is a much larger achievement.
 
@@ -381,7 +375,6 @@ Researchers involved in the field have repeatedly noted that synthesis and testi
 The optimistic interpretation is that this bottleneck can itself become increasingly automated. Autonomous laboratories, machine-learning-guided synthesis planning and AI-assisted experimentation all aim to accelerate the slower stages of discovery. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pepr-diadem.fr">[PEPR Diadem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pepr-diadem.fr</span><span class="citation-popover-snippet">GNoME artificial intelligence and the autonomous A-lab...1 Dec 2023 — This platform uses simulation calculations, existing bibliographic...</span></span></span>
 
 The sceptical interpretation is that the physical world remains stubbornly resistant to software-style scaling. Discovering possibilities may become cheap while proving usefulness remains expensive.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-3-dark.svg" | relative_url }}" alt="Validation illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_gnome_materia_2df6a0_gnome_validat_38429c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the first tests mean for the AI bloom case
@@ -396,9 +389,7 @@ What the first tests really prove is that AI can contribute something scientific
 
 For the broader AI bloom vision, that is the genuine signal. The promise is not that GNoME has already delivered abundance. The promise is that [intelligence]({{ 'intelligence/' | relative_url }}) itself may be becoming a scalable scientific tool — one capable of expanding the frontier of discoverable knowledge faster than traditional research methods alone. Whether that eventually translates into widespread material abundance depends on everything that comes after the first successful crystal.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-q8EFTbg1VM" title="Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer">Google&#x27;s GNoME AI Model: Reshaping Industries with Material Discoveries</a></p><p class="youtube-embed-meta">Channel: AI Breakthroughs &middot; Views: 3.2K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-q8EFTbg1VM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-q8EFTbg1VM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -493,7 +484,7 @@ For the broader AI bloom vision, that is the genuine signal. The promise is not 
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -514,71 +505,75 @@ For the broader AI bloom vision, that is the genuine signal. The promise is not 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-crystal-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-crystal-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open crystal model on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20crystal%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECrystal%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECrystal%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for crystal model on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">crystal model</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Crystal</span><span class="fr-search-tag">Model</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-crystal-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-crystal-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crystal Blocks - Basing Kit/ Basing Bits/ Tufts/ Model Scenery/ Goon Master"><img src="https://i.ebayimg.com/images/g/lw4AAOSwMNVoU-e9/s-l225.jpg" alt="Listing image for Crystal Blocks - Basing Kit/ Basing Bits/ Tufts/ Model Scenery/ Goon Master" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer">Crystal Blocks - Basing Kit/ Basing Bits/ Tufts/ Model Scenery/ Goon Master</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crystal model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: crystal model kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+safety+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-ai-safety-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI safety poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-ai-safety-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI safety poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20safety%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Safety%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESafety%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI safety poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">AI safety poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Safety</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+safety+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-ai-safety-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI safety poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-ai-safety-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skeksis Head - The Dark Crystal Inspired Model Kit"><img src="https://i.ebayimg.com/images/g/Cq0AAeSwlD9puWdk/s-l225.jpg" alt="Listing image for Skeksis Head - The Dark Crystal Inspired Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer">Skeksis Head - The Dark Crystal Inspired Model Kit</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crystal model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: crystal model kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">artificial intelligence poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blokees Transformers Defender 7th Crystal Galvatron Assembly Figure Model Kit"><img src="https://i.ebayimg.com/images/g/T9UAAeSwFbNp-FTR/s-l225.jpg" alt="Listing image for Blokees Transformers Defender 7th Crystal Galvatron Assembly Figure Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer">Blokees Transformers Defender 7th Crystal Galvatron Assembly Figure Model Kit</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crystal model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: crystal model kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-machine-learning-poster-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-machine-learning-poster-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open machine learning poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20machine%20learning%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMachine%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELearning%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMachine%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELearning%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for machine learning poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">machine learning poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Machine</span><span class="fr-search-tag">Learning</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=machine+learning+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-machine-learning-poster-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="machine learning poster -book -books -dvd" data-ebay-reference="validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-machine-learning-poster-b" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crystal Structure Model Kit Chemistry Molecular Model Kit Standard"><img src="https://i.ebayimg.com/images/g/fyAAAeSw~9Bp3Sn1/s-l225.jpg" alt="Listing image for Crystal Structure Model Kit Chemistry Molecular Model Kit Standard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer">Crystal Structure Model Kit Chemistry Molecular Model Kit Standard</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for crystal model kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: crystal model kit</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=validation-what-the-first-tests-really-prove-ai-bloom-abundance-superintelligence-and-humanity-crystal-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=crystal+model+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-first-tests-really-prove-crystal-model-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="crystal model kit" data-ebay-reference="what-the-first-tests-really-prove-crystal-model-kit" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -792,131 +787,131 @@ For the broader AI bloom vision, that is the genuine signal. The promise is not 
 
 1. <a id="endnote-1"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06735-9](https://www.nature.com/articles/s41586-023-06735-9)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureScaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06735-9" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06735-9</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling deep learning for materials discoveryby A Merchant · 2023 · Cited by 1833 — Concurrent to our discovery efforts, researcher...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: deepmind.google  
    Title: millions of new materials discovered with deep learning  
-   Link: [https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/](https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/)  
+   Link: <a href="https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/" target="_blank" rel="noopener noreferrer nofollow">https://deepmind.google/blog/millions-of-new-materials-discovered-with-deep-learning/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Nov 2023 — External researchers have independently created 736 of GNoME&#x27;s new materials in the lab, demonstrating that our model&#x27;s pre...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: law.berkeley.edu  
    Title: Millions of new materials discovered with deep learning Google Deep Mind  
-   Link: [https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf](https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf)  
+   Link: <a href="https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.law.berkeley.edu/wp-content/uploads/2024/02/Millions-of-new-materials-discovered-with-deep-learning-Google-DeepMind.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Berkeley LawMillions of new materials discovered with deep learning29 Nov 2023 — External researchers have independently created 736 o...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-023-06734-w](https://www.nature.com/articles/s41586-023-06734-w)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NatureAn autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</p></details>
+   Link: <a href="https://www.nature.com/articles/s41586-023-06734-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41586-023-06734-w</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>An autonomous laboratory for the accelerated synthesis of...Nov 29, 2023 — We introduce the A-Lab, an autonomous laboratory for th...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ceder.berkeley.edu  
    Title: [a lab](&#123;&#123; 'a-lab/' | relative_url &#125;&#125;) paper published in nature featured in news story  
-   Link: [https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/](https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/)  
+   Link: <a href="https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/" target="_blank" rel="noopener noreferrer nofollow">https://ceder.berkeley.edu/news/a-lab-paper-published-in-nature-featured-in-news-story/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google DeepMind&#x27;s AI system for novel materials discovery (GNoME) to synthesize 41 new inorganic materials in 17 days. Both A-lab and GNoME...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
    Title: Google Deep Mind's AI Dreamed Up 380,000 New Materials  
-   Link: [https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them](https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them)  
+   Link: <a href="https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/an-ai-dreamed-up-380000-new-materials-the-next-challenge-is-making-them</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Challenge Is Making ThemGoogle DeepMind developed an AI program, GNoME, which has predicted 380,000 new stable materials, expand...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: time.com  
-   Link: [https://time.com/6340681/deepmind-gnome-ai-materials/](https://time.com/6340681/deepmind-gnome-ai-materials/)  
+   Link: <a href="https://time.com/6340681/deepmind-gnome-ai-materials/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6340681/deepmind-gnome-ai-materials/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Their AI tool, GNoME, was trained with data from the Materials Project and has accurately predicted 381,000 stable materials, significant...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: pubs.acs.org  
    Title: Publications Artificial Intelligence Driving Materials Discovery?  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643](https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemmater.4c00643</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AK Cheetham · 2024 · Cited by 164 — The tools of artificial intelligence and machine learning (AI/ML) to propose new co...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.09161](https://arxiv.org/abs/2505.09161)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivBridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.09161" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.09161</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging Theory and Experiment in Materials Discovery: Machine-Learning-Assisted Prediction of Synthesizable StructuresMay 14, 2025...</p></details>
    Published: May 14, 2025  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
    Title: arXiv A Synthesizability-Guided Pipeline for Materials Discovery  
-   Link: [https://arxiv.org/abs/2511.01790](https://arxiv.org/abs/2511.01790)  
+   Link: <a href="https://arxiv.org/abs/2511.01790" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2511.01790</a>  
 
 12. <a id="endnote-12"></a>
    Source: pepr-diadem.fr  
-   Link: [https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/](https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/)  
+   Link: <a href="https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.pepr-diadem.fr/2023/12/01/gnome-artificial-intelligence-and-the-autonomous-a-lab-laboratory-combine-to-discover-new-crystals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GNoME artificial intelligence and the autonomous A-lab...1 Dec 2023 — This platform uses simulation calculations, existing bibliographic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2309.16721](https://arxiv.org/abs/2309.16721)  
+   Link: <a href="https://arxiv.org/abs/2309.16721" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2309.16721</a>  
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2509.06580v6](https://arxiv.org/html/2509.06580v6)  
+   Link: <a href="https://arxiv.org/html/2509.06580v6" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2509.06580v6</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI for Scientific Discovery is a Social ProblemMar 14, 2026 — In materials science, Google DeepMind&#x27;s GNoME has discovered 2.2 million ne...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: newscenter.lbl.gov  
    Title: google deepmind new compounds materials project  
-   Link: [https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/](https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/)  
+   Link: <a href="https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/" target="_blank" rel="noopener noreferrer nofollow">https://newscenter.lbl.gov/2023/11/29/google-deepmind-new-compounds-materials-project/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Lab News CenterGoogle DeepMind Adds Nearly 400000 New Compounds to...Nov 29, 2023 — Over 17 days of independent operation, A-La...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: cypris.ai  
-   Link: [https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d](https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d)  
+   Link: <a href="https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d" target="_blank" rel="noopener noreferrer nofollow">https://www.cypris.ai/insights/ai-accelerated-materials-discovery-in-2025-how-generative-models-graph-neural-networks-and-autonomous-labs-are-transforming-r-d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-Accelerated Materials DiscoveryGoogle DeepMind released GNoME (Graph Networks for Materials Exploration), predicting 2.4 million stabl...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/1572893699951268/posts/2093645264542773/](https://www.facebook.com/groups/1572893699951268/posts/2093645264542773/)  
+   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2093645264542773/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2093645264542773/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google AI discovers 2.2 million new materialsThe GNoME tool has discovered no less than 2.2 million new inorganic crystals, and identifie...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88](https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88)  
+   Link: <a href="https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shibilahammad/how-ai-is-supercharging-materials-science-inside-deepminds-breakthrough-materials-discovery-a4515395be88</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside DeepMind&#x27;s Breakthrough Materials Discovery Engine.Researchers at Lawrence Berkeley National Lab produced 41 new crystalline mater...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/physorg/posts/crystallographic-[disorder](https://www.facebook.com/physorg/posts/crystallographic-[disorder)  
+   Link: <a href="https://www.facebook.com/physorg/posts/crystallographic-[disorder" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/physorg/posts/crystallographic-[disorder</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limitations of AI-based material predictionCrystallographic disorder poses a significant challenge for AI-based material prediction, ofte...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f](https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f)  
+   Link: <a href="https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40EduardoLarranaga/millions-of-new-materials-discovered-with-deep-learning-d64c56ab226f</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Millions of New Materials Discovered with Deep LearningExternal researchers have independently created 736 of GNoME&#x27;s new materials in th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: singularityhub.com  
-   Link: [https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/](https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/)  
+   Link: <a href="https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/" target="_blank" rel="noopener noreferrer nofollow">https://singularityhub.com/2023/11/30/a-google-deepmind-ai-just-discovered-380000-new-materials-this-robot-is-cooking-them-up/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Google DeepMind AI Just Discovered 380000 New...30 Nov 2023 — Using DeepMind&#x27;s cookbook, A-Lab ran for 17 days and synthesized 41 out...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: scitechdaily.com  
    Title: google scientists discovered 380000 new materials using artificial intelligence  
-   Link: [https://scitechdaily.com/google-scientists-discovered-380000-new-materials-using-artificial-intelligence/](https://scitechdaily.com/google-scientists-discovered-380000-new-materials-using-artificial-intelligence/)  
+   Link: <a href="https://scitechdaily.com/google-scientists-discovered-380000-new-materials-using-artificial-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://scitechdaily.com/google-scientists-discovered-380000-new-materials-using-artificial-intelligence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Scientists Discovered 380000 New Materials Using...16 Jan 2024 — “External researchers have already verified more than 736 of GNo...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCArtificial Intelligence Driving Materials Discovery?  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11044265/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AK Cheetham · 2024 · Cited by 169 — We propose that impactful predictions of new materials should lie somewhere within...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CJHu3yDOYGI](https://www.youtube.com/watch?v=CJHu3yDOYGI)  
+   Link: <a href="https://www.youtube.com/watch?v=CJHu3yDOYGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CJHu3yDOYGI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Did Google DeepMind Just Revolutionize Materials Science?Deepmind&#x27;s GNoME AI has 10x&#x27;d the number of known stable materials, and more tha...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thelab.brookesbell.com  
    Title: googles deepmind ai tool makes material science breakthrough 158802  
-   Link: [https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/](https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/)  
+   Link: <a href="https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/" target="_blank" rel="noopener noreferrer nofollow">https://thelab.brookesbell.com/about/news/googles-deepmind-ai-tool-makes-material-science-breakthrough-158802/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>brookesbell.comGoogle&#x27;s DeepMind AI Tool Makes Material Science...14 Dec 2023 — Of the 2.2 million new crystals discovered by GNoME appr...</p></details>

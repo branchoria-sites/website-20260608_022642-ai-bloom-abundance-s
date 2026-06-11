@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /life-support/
 nav_short_title: Past Lessons
 title: What Closed Ecosystem Experiments Got Wrong
-title_full: What Closed Ecosystem Experiments Got Wrong | Life support
+title_full: What Closed Ecosystem Experiments Got Wrong
 display_title_short: Past Lessons
 display_title: Past Lessons
 heading_title: What Closed Ecosystem Experiments Got Wrong
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who keeps a closed space habitat alive? | Long Future
+date: '2026-06-08 02:06:37'
+parent_title: Who keeps a closed space habitat alive?
 parent_permalink: /life-support/
 parent_nav_short_title: Life support
 parent_heading_title: Who keeps a closed space habitat alive?
@@ -260,7 +261,6 @@ prev_link:
   permalink: /living-loops/
   short_title: Living Loops
   heading_title: Can AI Keep a Tiny Ecosystem Alive?
-date: '2026-06-08 02:06:37 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-1.webp
@@ -271,7 +271,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e7
 
 The history of closed ecosystem experiments is often told as a story about engineering ambition. For future space settlements, it is more useful as a warning about complexity. The Soviet BIOS-3 facility and the American Biosphere 2 project were both attempts to create self-contained environments where humans could live while air, water and much of their food were regenerated internally. Yet they produced sharply different results.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-1-dark.svg" | relative_url }}" alt="Past Lessons illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 BIOS-3 appeared to show that long-duration human [life support]({{ 'life-support/' | relative_url }}) with biological recycling was achievable under carefully controlled conditions. Biosphere 2 demonstrated how quickly hidden ecological interactions can overwhelm expectations once a system becomes larger, more diverse and less tightly constrained. Together, they suggest that the hardest problem for future AI-managed habitats may not be operating individual machines. It may be understanding and controlling the behaviour of entire living systems whose interactions remain only partly predictable.
 
@@ -279,23 +278,22 @@ For advocates of long-term human expansion into space, these experiments matter 
 
 ## What BIOS-3 Appeared to Prove
 
-BIOS-3 was developed in Krasnoyarsk in the Soviet Union beginning in the 1960s. Unlike later, more famous projects, it was relatively small and intentionally simplified. The facility relied heavily on algae cultivation and controlled crop production rather than trying to recreate multiple natural ecosystems. Experiments eventually supported crews living inside the sealed environment for months at a time while recycling air and water through biological processes. Food regeneration reached roughly 80–90% of crew requirements depending on the experiment, while atmospheric and water regeneration approached complete closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">CORECreation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+BIOS-3 was developed in Krasnoyarsk in the Soviet Union beginning in the 1960s. Unlike later, more famous projects, it was relatively small and intentionally simplified. The facility relied heavily on algae cultivation and controlled crop production rather than trying to recreate multiple natural ecosystems. Experiments eventually supported crews living inside the sealed environment for months at a time while recycling air and water through biological processes. Food regeneration reached roughly 80–90% of crew requirements depending on the experiment, while atmospheric and water regeneration approached complete closure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 The achievement was important because it demonstrated several principles that remain central to modern bioregenerative life-support research:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Humans can survive for extended periods in environments where oxygen is regenerated biologically.
 * Water recycling can reach very high levels of closure.
 * Crop production can become an active component of life support rather than merely food supply.
-* Long-duration habitation becomes more practical when biological and engineering systems operate together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">CORECreation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+* Long-duration habitation becomes more practical when biological and engineering systems operate together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 </div>
 
 What made BIOS-3 relatively successful was not that it reproduced Earth's biosphere. It largely avoided attempting to do so.
 
-The system relied on a comparatively limited set of organisms and carefully controlled environmental conditions. Researchers deliberately reduced ecological complexity wherever possible. Instead of managing thousands of interacting species, they concentrated on maintaining a small number of biological processes that could be measured and adjusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">CORECreation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
+The system relied on a comparatively limited set of organisms and carefully controlled environmental conditions. Researchers deliberately reduced ecological complexity wherever possible. Instead of managing thousands of interacting species, they concentrated on maintaining a small number of biological processes that could be measured and adjusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: core.ac.uk">[CORE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">core.ac.uk</span><span class="citation-popover-snippet">Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</span><span class="citation-popover-meta">Published: February 4, 2008</span></span></span>
 
 For future AI habitat designers, this may be one of the most important lessons. Ecological richness is not automatically an advantage. Greater biodiversity can improve [resilience]({{ 'resilience/' | relative_url }}) in some contexts, but it also creates more interactions, more feedback loops and more opportunities for unexpected behaviour. BIOS-3 succeeded partly because it constrained the problem.
 
@@ -305,13 +303,13 @@ Biosphere 2 attempted something far more ambitious.
 
 Constructed in Arizona and sealed in 1991, the facility contained multiple miniature biomes including rainforest, ocean, desert and agricultural systems. Eight people lived inside for two years while attempting to operate the structure as a materially closed ecosystem. It remains the largest closed ecological experiment ever built. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Biosphere 2</span><span class="citation-popover-snippet">Biosphere 2</span></span></span>
 
-The project generated valuable [scientific]({{ 'discovery/' | relative_url }}) findings, but it also revealed how difficult it is to predict the behaviour of a complex artificial biosphere.
+The project generated valuable scientific findings, but it also revealed how difficult it is to predict the behaviour of a complex artificial biosphere.
 
 ### The oxygen crisis nobody expected
 
 The most famous failure involved atmospheric oxygen.
 
-During the first closure experiment, oxygen levels steadily fell from around 21% to roughly 14%, equivalent to conditions at high altitude. Crew members experienced fatigue and other symptoms, and outside oxygen eventually had to be injected to maintain safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">ScienceBiosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</span><span class="citation-popover-meta">Published: January 1993</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
+During the first closure experiment, oxygen levels steadily fell from around 21% to roughly 14%, equivalent to conditions at high altitude. Crew members experienced fatigue and other symptoms, and outside oxygen eventually had to be injected to maintain safety. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.org">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.org</span><span class="citation-popover-snippet">Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</span><span class="citation-popover-meta">Published: January 1993</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 What made the episode especially important was that researchers initially struggled to identify the cause.
 
@@ -320,7 +318,6 @@ The straightforward explanation would have been that oxygen loss should correspo
 The lesson is striking. A system can appear stable at the level of individual measurements while important failures develop through interactions between biological, chemical and structural processes.
 
 For future space habitats, this means monitoring oxygen alone would be insufficient. Operators would need to understand how hundreds of linked processes affect one another over time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-yAcD3wuY2Q" title="Inside Biosphere 2: The World&#x27;s Largest Earth Science Experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-yAcD3wuY2Q" target="_blank" rel="noopener noreferrer">Inside Biosphere 2: The World&#x27;s Largest Earth Science Experiment</a></p><p class="youtube-embed-meta">Channel: The Good Stuff &middot; Views: 2.5M &middot; Uploaded: October 2015 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-yAcD3wuY2Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-yAcD3wuY2Q">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +341,6 @@ The broader lesson is that a closed habitat is not merely a machine.
 
 A machine can often be understood by analysing its components individually. Ecosystems generate emergent behaviour: system-level outcomes that arise from interactions among many parts. Biosphere 2 revealed how difficult it is to anticipate those interactions even when researchers have extensive monitoring and direct access to the facility.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-2-dark.svg" | relative_url }}" alt="Past Lessons illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Deeper Warning: Solving Subsystems Is Not Enough
 
@@ -363,7 +359,6 @@ Yet the habitat can still become unstable if interactions between those systems 
 Biosphere 2 showed that optimisation of components does not guarantee optimisation of the whole. Oxygen decline emerged from interactions between soils, microbes, plants, atmospheric chemistry and construction materials. No single subsystem failure fully explained the outcome. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</span></span></span>
 
 This distinction matters for AI because many current AI successes come from narrow optimisation tasks. Managing a closed biosphere requires something different: understanding system-wide dynamics across biological, chemical and engineering domains simultaneously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nFk1PGh6oYo" title="They Tried to Build Earth in the Arizona Desert - Exploring Biosphere 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nFk1PGh6oYo" target="_blank" rel="noopener noreferrer">They Tried to Build Earth in the Arizona Desert - Exploring Biosphere 2</a></p><p class="youtube-embed-meta">Channel: Sidetrack Adventures &middot; Views: 550.3K &middot; Uploaded: January 2026 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nFk1PGh6oYo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nFk1PGh6oYo">Open on YouTube</a></p></div></div></div>
 
@@ -385,7 +380,6 @@ One likely application is the creation of habitat "digital twins" — continuous
 
 Instead of merely observing current conditions, AI systems could estimate future states under thousands of possible scenarios:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Crop failure.
@@ -399,7 +393,6 @@ Instead of merely observing current conditions, AI systems could estimate future
 The goal would not be perfect prediction. Ecosystems remain partly unpredictable. Rather, it would allow operators to explore likely outcomes before making interventions.
 
 In effect, AI could help transform habitat management from reactive control into probabilistic forecasting.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-3-dark.svg" | relative_url }}" alt="Past Lessons illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_ai_life_suppo_e70776_closed_ecosys_459e00-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Managing trade-offs rather than chasing fixed targets
@@ -416,7 +409,6 @@ AI may help navigate trade-offs such as:
 Instead of attempting to maximise a single variable, habitat managers may need systems that continuously balance competing goals.
 
 This resembles managing an economy or an ecosystem more than operating a spacecraft.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oUJGR6qNVzA" title="Biosphere 2: An American Space Odyssey | Retro Report | The New York Times" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oUJGR6qNVzA" target="_blank" rel="noopener noreferrer">Biosphere 2: An American Space Odyssey | Retro Report | The New York Times</a></p><p class="youtube-embed-meta">Channel: The New York Times &middot; Views: 243.9K &middot; Uploaded: June 2013 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oUJGR6qNVzA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oUJGR6qNVzA">Open on YouTube</a></p></div></div></div>
 
@@ -551,15 +543,15 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions"><img src="{{ '/assets/images/marketplace-covers/ddc99051294d4d07c150.jpg' | relative_url }}" alt="Listing image for DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays"><img src="https://i.ebayimg.com/images/g/jAsAAeSwdCZqH0cF/s-l225.jpg" alt="Listing image for Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">DIY Terrarium Full Kit With Plants/ Premium Substrate/Step-by-Step Instructions</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Elegant Glass House-Shaped Terrarium - 9.1&quot;L x 5.4&quot;W x 7.3&quot;H for Unique Displays</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -567,15 +559,15 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Terrarium Substrate Kit Pack LECA, Charcoal and Soil Upgrade for Plants, Stone a"><img src="{{ '/assets/images/marketplace-covers/2e0c777c7f78f3d870dd.jpg' | relative_url }}" alt="Listing image for Terrarium Substrate Kit Pack LECA, Charcoal and Soil Upgrade for Plants, Stone a" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case"><img src="https://i.ebayimg.com/images/g/6S8AAeSwRzRpryl6/s-l225.jpg" alt="Listing image for Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">Terrarium Substrate Kit Pack LECA, Charcoal and Soil Upgrade for Plants, Stone a</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage 1970s Butterfly &amp; Artificial Flowers Terrarium Glass &amp; Wood Display Case</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -583,15 +575,15 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Full Terrarium Kit with Plants &amp; Glass Gift Set - Soil DIY Tools Idea"><img src="{{ '/assets/images/marketplace-covers/ee2a6ce16265fdda19d7.jpg' | relative_url }}" alt="Listing image for Full Terrarium Kit with Plants &amp; Glass Gift Set - Soil DIY Tools Idea" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC"><img src="https://i.ebayimg.com/images/g/-oIAAeSwZklo~h6R/s-l225.jpg" alt="Listing image for Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">Full Terrarium Kit with Plants &amp; Glass Gift Set - Soil DIY Tools Idea</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Vintage Glass &amp; Brass Triangular Terrarium/Display Case VGC</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -599,15 +591,15 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O"><img src="{{ '/assets/images/marketplace-covers/8b069002db3c1b3cf91f.jpg' | relative_url }}" alt="Listing image for Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration"><img src="https://i.ebayimg.com/images/g/HEwAAeSw~7JqGkDb/s-l225.jpg" alt="Listing image for Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">Terrarium Substrate Starter Pack | Gravel, Charcoal, Soil, Decorative Stones | O</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">Round Glass Dome Cloche Terrarium Display Case with Wood Base DIY Decoration</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium kit</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for terrarium display">Search <span data-ebay-domain-label>eBay.co.uk</span>: terrarium display</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -615,7 +607,7 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium kit" data-ebay-reference="past-lessons-what-closed-ecosystem-experiments-got-wrong-ai-bloom-abundance-superintelligence-an-terrarium-kit" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=terrarium+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-closed-ecosystem-experiments-got-wrong-terrarium-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="terrarium display" data-ebay-reference="what-closed-ecosystem-experiments-got-wrong-terrarium-display" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -830,169 +822,169 @@ BIOS-3 suggested that carefully constrained biological life support can work. Bi
 
 1. <a id="endnote-1"></a>
    Source: core.ac.uk  
-   Link: [https://core.ac.uk/download/pdf/38632677.pdf](https://core.ac.uk/download/pdf/38632677.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CORECreation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</p></details>
+   Link: <a href="https://core.ac.uk/download/pdf/38632677.pdf" target="_blank" rel="noopener noreferrer nofollow">https://core.ac.uk/download/pdf/38632677.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creation of Closed Ecological Life Support SystemsFebruary 4, 2008 — by II Gitelsona · 2008 · Cited by 25 — Bios-3 was the first to m...</p></details>
    Published: February 4, 2008  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Biosphere 2  
-   Link: [https://en.wikipedia.org/wiki/Biosphere_2](https://en.wikipedia.org/wiki/Biosphere_2)  
+   Link: <a href="https://en.wikipedia.org/wiki/Biosphere_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere_2</a>  
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913](https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0925857498000913</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Biosphere 2 closed systemby B Zabel · 1999 · Cited by 66 — In this paper we emphasize material selection, super-structure...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Biosphere 2  
-   Link: [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectBiosphere 2 - an overviewDuring the first human experiment oxygen concentration in the atmosphere decreased dramatically bec...</p></details>
+   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/biosphere-2</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 - an overviewDuring the first human experiment oxygen concentration in the atmosphere decreased dramatically bec...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Biosphere](https://en.wikipedia.org/wiki/Biosphere)  
+   Link: <a href="https://en.wikipedia.org/wiki/Biosphere" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Biosphere</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>BiosphereThe biosphere is the global ecological system integrating all living beings and their relationships, including their interact...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: biosphere2.org  
-   Link: [https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf](https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf)  
+   Link: <a href="https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21216_Press_02_Discover02lo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life under the bubbleAs oxygen was converted to carbon dioxide, free oxygen in the atmo- sphere declined. By January 1993, Biosphere 2&#x27;s...</p></details>
    Published: January 1993  
 
 7. <a id="endnote-7"></a>
    Source: biosphere2.org  
-   Link: [https://biosphere2.org/](https://biosphere2.org/)  
+   Link: <a href="https://biosphere2.org/" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nforest stop absorbing more carbon dioxide from the air...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: biosphere2.org  
-   Link: [https://biosphere2.org/research/research-initiatives/tropical-rain-forest](https://biosphere2.org/research/research-initiatives/tropical-rain-forest)  
+   Link: <a href="https://biosphere2.org/research/research-initiatives/tropical-rain-forest" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/research/research-initiatives/tropical-rain-forest</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tropical Rain ForestWe will place particular focus on diverse volatile and nonvolatile carbon metabolites, their role in plant and microb...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: biosphere2.org  
-   Link: [https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf](https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf)  
+   Link: <a href="https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf" target="_blank" rel="noopener noreferrer nofollow">https://biosphere2.org/sites/default/files/2021-08/B21307_Press_History02lo.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experiment in place and timeThe main factor contributing to a dramatic imbalance in oxygen and carbon dioxide was the abundant microbe...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030](https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117703001030</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The legacy of biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — Medical research inside Biosphere 2 included the effects on...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X](https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311770301202X</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light is from 12,000 W of high pressure sodium lamps over planting...Rea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045](https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0016328718303045</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>m...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725](https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117713001725</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Key ecological challenges for closed systems facilitiesby M Nelson · 2013 · Cited by 38 — These challenges include being able to handle f...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: uapress.arizona.edu  
    Title: what have i gotten myself into insights from biosphere 2  
-   Link: [https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2](https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2)  
+   Link: <a href="https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://uapress.arizona.edu/2018/01/what-have-i-gotten-myself-into-insights-from-biosphere-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Insights from Biosphere 2Jan 4, 2018 — B1 is our planet&#x27;s life support system. Biosphere 2 was built to study how biospheres work, creati...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: science.org  
-   Link: [https://www.science.org/doi/10.1126/science.274.5290.1150](https://www.science.org/doi/10.1126/science.274.5290.1150)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceBiosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</p></details>
+   Link: <a href="https://www.science.org/doi/10.1126/science.274.5290.1150" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/doi/10.1126/science.274.5290.1150</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biosphere 2 and Biodiversity--The Lessons So FarBy January 1993, 1.4 years after material closure of Biosphere 2, the oxygen conce...</p></details>
    Published: January 1993  
 
 16. <a id="endnote-16"></a>
    Source: publish.obsidian.md  
    Title: Biosphere 2  
-   Link: [https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2](https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2)  
+   Link: <a href="https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2" target="_blank" rel="noopener noreferrer nofollow">https://publish.obsidian.md/disruptively-useful/The%2BHeat%2BStrikes/Civil%2BResistance/Case%2BStudies/Biosphere%2B2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - disruptively-usefulThe cause—excessive oxygen consumption by microbes—showed how difficult it is to balance all components of a close...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: spj.science.org  
-   Link: [https://spj.science.org/doi/10.34133/2021/8067539](https://spj.science.org/doi/10.34133/2021/8067539)  
+   Link: <a href="https://spj.science.org/doi/10.34133/2021/8067539" target="_blank" rel="noopener noreferrer nofollow">https://spj.science.org/doi/10.34133/2021/8067539</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science AdvancesBiosphere 2&#x27;s Lessons about Living on Earth and in SpaceBiosphere 2 was important as a first step towards learning how to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: mynasadata.larc.nasa.gov  
    Title: about biosphere  
-   Link: [https://mynasadata.larc.nasa.gov/basic-page/about-biosphere](https://mynasadata.larc.nasa.gov/basic-page/about-biosphere)  
+   Link: <a href="https://mynasadata.larc.nasa.gov/basic-page/about-biosphere" target="_blank" rel="noopener noreferrer nofollow">https://mynasadata.larc.nasa.gov/basic-page/about-biosphere</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biosphere | MyNASADataThe Biosphere includes all life on Earth including life living on the Earth&#x27;s Geosphere and in Hydrosphere, inc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2004/12/biosphere/](https://www.wired.com/2004/12/biosphere/)  
+   Link: <a href="https://www.wired.com/2004/12/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2004/12/biosphere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Lessons from Biosphere 21 Dec 2004 — One lesson: Don&#x27;t use concrete. It sucks up CO2, which plants need to produce oxygen. 5. Long spa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: edgeeffects.net  
    Title: biosphere 2  
-   Link: [https://edgeeffects.net/biosphere-2/](https://edgeeffects.net/biosphere-2/)  
+   Link: <a href="https://edgeeffects.net/biosphere-2/" target="_blank" rel="noopener noreferrer nofollow">https://edgeeffects.net/biosphere-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why an Eccentric Ecological Experiment Still...Dec 15, 2016 — Crucial lessons were learned about how to engineer large closed systems (t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thewonderofscience.com  
    Title: biosphere 2  
-   Link: [https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2](https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2)  
+   Link: <a href="https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2" target="_blank" rel="noopener noreferrer nofollow">https://thewonderofscience.com/phenomenon/2018/6/10/biosphere-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2018 — Plants in the biosphere produced oxygen and food for the inhabitants. The carbon dioxide released during respiration was ta...</p></details>
 
 ### Additional References
 
 22. <a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project](https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project)  
+   Link: <a href="https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242368741_Lessons_Learned_from_Biosphere_2_and_Laboratory_Biosphere_Closed_Systems_Experiments_for_the_Mars_On_Earth_Project</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Lessons Learned from Biosphere 2 and Laboratory...10 Aug 2025 — Key features selected for the Mars On Earth® life support system b...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/](https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/)  
+   Link: <a href="https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/isaacarthur/posts/1990739461229253/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lessons from Biosphere 2 for space habitatsAt first, the researchers could not track down the excess carbon dioxide those microbes should...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: simoc.space  
-   Link: [https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf](https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SIMOC-B2 Lesson PlansMicroorganisms in the soil consumed more O2 and produced more CO2 than expected. 2. Concrete Carbonation. Concrete c...</p></details>
+   Link: <a href="https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://simoc.space/wp-content/uploads/2023/05/SIMOC-B2_Lesson_Plans.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>B2 Lesson PlansMicroorganisms in the soil consumed more O2 and produced more CO2 than expected. 2. Concrete Carbonation. Concrete c...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: jstage.jst.go.jp  
-   Link: [https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article](https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article)  
+   Link: <a href="https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article" target="_blank" rel="noopener noreferrer nofollow">https://www.jstage.jst.go.jp/article/bss/19/4/19_4_250/_article</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learned from Biosphere 2 and Laboratory...The overall design will address not only the functional requirements for maintaining long term...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: bpsscience.weebly.com  
    Title: 8 biosphere 2 an experiment in isolation (populations and ecosystems – sy16)  
-   Link: [https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf](https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf)  
+   Link: <a href="https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpsscience.weebly.com/uploads/2/2/1/3/2213712/8_biosphere_2_-_an_experiment_in_isolation_%28populations_and_ecosystems_%E2%80%93_sy16%29.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2: An Experiment In IsolationWhere was the oxygen going? Analysis revealed that the soil in Biosphere. 2 was too rich in organic matter...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: universetoday.com  
    Title: space and sustainability how the lessons of b2 inspired samc2b2  
-   Link: [https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2](https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2)  
+   Link: <a href="https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/space-and-sustainability-how-the-lessons-of-b2-inspired-samc2b2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space and Sustainability: How the Lessons of Biosphere 2...27 Jan 2021 — By 1968, BIOS-3 reached a system efficiency of 99% in terms of...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/14503500/](https://pubmed.ncbi.nlm.nih.gov/14503500/)  
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/14503500/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/14503500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>legacy of Biosphere 2 for the study...by JP Allen · 2003 · Cited by 75 — The many lessons learned from Biosphere 2 are being used by its...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ryestrategy.com  
-   Link: [https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure](https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure)  
+   Link: <a href="https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.ryestrategy.com/blog/biosphere-2-learning-from-failure</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>xide at a much faster rate. This resulted in...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: [education](&#123;&#123; 'education/' | relative_url &#125;&#125;). nationalgeographic.org  
-   Link: [https://education.nationalgeographic.org/resource/biosphere/](https://education.nationalgeographic.org/resource/biosphere/)  
+   Link: <a href="https://education.nationalgeographic.org/resource/biosphere/" target="_blank" rel="noopener noreferrer nofollow">https://education.nationalgeographic.org/resource/biosphere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Geographic EducationAug 19, 2025 — The biosphere is made up of the parts of Earth where life exists—all ecosystems...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: reddit.com  
    Title: They didn't need to add oxygen because it failed.Read more  
-   Link: [https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/](https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/)  
+   Link: <a href="https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/todayilearned/comments/vr6l92/til_biosphere_2_was_a_closed_ecological_system/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TIL &quot;Biosphere 2&quot; was a closed ecological system which...Biosphere 2 failed because it couldn&#x27;t produce enough, oxygen, food, and water...</p></details>

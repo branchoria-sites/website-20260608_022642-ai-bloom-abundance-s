@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-ai-education/
 description: Focused pages that expand on Tutor Guardrails.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_ai_education_8e0228_ai_tutor_guar_a28a38
-parent_title: Tutor Guardrails | Education
+parent_title: Tutor Guardrails
 parent_nav_short_title: Tutor Guardrails
 parent_permalink: /tutor-guardrails/
 ---

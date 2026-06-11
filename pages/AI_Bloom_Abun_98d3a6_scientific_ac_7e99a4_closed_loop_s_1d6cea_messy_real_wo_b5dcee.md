@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /closed-loops/
 nav_short_title: Messy Labs
 title: Why Real Science Still Breaks Automated Labs
-title_full: Why Real Science Still Breaks Automated Labs | Closed loops
+title_full: Why Real Science Still Breaks Automated Labs
 display_title_short: Messy Labs
 display_title: Messy Labs
 heading_title: Why Real Science Still Breaks Automated Labs
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: The missing loop in AI science | Discovery
+date: '2026-06-08 02:16:18'
+parent_title: The missing loop in AI science
 parent_permalink: /closed-loops/
 parent_nav_short_title: Closed loops
 parent_heading_title: The missing loop in AI science
@@ -260,7 +261,6 @@ prev_link:
   permalink: /cloud-labs/
   short_title: Cloud Labs
   heading_title: Who Gets Access to Automated Science Infrastructure?
-date: '2026-06-08 02:16:18 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-1.webp
@@ -271,18 +271,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d
 
 Self-driving laboratories are one of the most important tests of the wider AI bloom idea. If advanced AI can help humanity accelerate science, then it must eventually do more than generate theories. It must help turn ideas into reliable discoveries in the physical world.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-1-dark.svg" | relative_url }}" alt="Messy Labs illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In controlled settings, autonomous laboratories have already produced impressive results. AI systems can choose experiments, robotic equipment can run them, and software can analyse outcomes and decide what to test next. In some materials science and chemistry applications, this can compress research cycles from weeks to hours. Yet the most ambitious vision — laboratories that can autonomously navigate the full messiness of real [scientific]({{ 'discovery/' | relative_url }}) work — remains much harder than many headlines imply. The central obstacle is not computation. It is reality. Scientific environments contain hidden variables, tacit human knowledge, fragile procedures and biological complexity that resist standardisation. The closer automation gets to the real world, the more these difficulties matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAutonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
+In controlled settings, autonomous laboratories have already produced impressive results. AI systems can choose experiments, robotic equipment can run them, and software can analyse outcomes and decide what to test next. In some materials science and chemistry applications, this can compress research cycles from weeks to hours. Yet the most ambitious vision — laboratories that can autonomously navigate the full messiness of real scientific work — remains much harder than many headlines imply. The central obstacle is not computation. It is reality. Scientific environments contain hidden variables, tacit human knowledge, fragile procedures and biological complexity that resist standardisation. The closer automation gets to the real world, the more these difficulties matter. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
 
 ## Where closed-loop systems succeed today
 
 The strongest successes in self-driving laboratories tend to appear in domains where experiments are highly structured, variables are tightly controlled and outcomes can be measured automatically.
 
-Materials science has become a leading example. Researchers have built systems that repeatedly synthesise materials, measure their properties and use machine-learning models to select the next experiment. Closed-loop platforms have explored vast combinations of processing conditions, compositions and structures far faster than conventional trial-and-error approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOn-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</span><span class="citation-popover-meta">Published: June 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 726 — More advanced SDLs combinin...</span></span></span>
+Materials science has become a leading example. Researchers have built systems that repeatedly synthesise materials, measure their properties and use machine-learning models to select the next experiment. Closed-loop platforms have explored vast combinations of processing conditions, compositions and structures far faster than conventional trial-and-error approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</span><span class="citation-popover-meta">Published: June 11, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.acs.org">[ACS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.acs.org</span><span class="citation-popover-snippet">ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 726 — More advanced SDLs combinin...</span></span></span>
 
 This works particularly well when:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -294,7 +292,7 @@ This works particularly well when:
 
 </div>
 
-Many materials problems fit this pattern. Researchers may be trying to maximise conductivity, stability, catalytic efficiency or another measurable property. Once the optimisation target is defined, active-learning systems can efficiently search through thousands of possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivOn-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</span><span class="citation-popover-meta">Published: June 11, 2020</span></span></span>
+Many materials problems fit this pattern. Researchers may be trying to maximise conductivity, stability, catalytic efficiency or another measurable property. Once the optimisation target is defined, active-learning systems can efficiently search through thousands of possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</span><span class="citation-popover-meta">Published: June 11, 2020</span></span></span>
 
 This is why many demonstrations of autonomous science focus on batteries, catalysts, thin films, semiconductors and related areas. The laboratory environment is still complex, but the experiment itself is often more repeatable than in biological research. As a result, AI-guided experimentation can generate genuine throughput gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://collegium.ethz.ch/events/fellow-year-2024-2025/the-rise-of-self-driving-labs-in-chemistry-and-materials-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: collegium.ethz.ch">[Collegium Helveticum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">collegium.ethz.ch</span><span class="citation-popover-snippet">Collegium HelveticumThe Rise of Self-Driving Labs in Chemistry and Materials...This lecture will explore how the convergence of automati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sheffield.ac.uk/cmbe/news/self-driving-labs-making-chemical-research-faster-and-smarter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sheffield.ac.uk">[sheffield]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sheffield.ac.uk</span><span class="citation-popover-title">self driving labs making chemical research faster and smarter</span><span class="citation-popover-snippet">Sheffield UniversitySelf-driving labs: making chemical research faster and...9 May 2025 — Researchers have built an automated platform...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> The success of these systems matters for the broader scientific-acceleration story. They show that parts of [discovery]({{ 'discovery/' | relative_url }}) can already be transformed into high-speed feedback loops between algorithms and physical experiments. But they also reveal an important limitation: many of the easiest domains to automate are not representative of science as a whole.
 
@@ -306,10 +304,9 @@ Scientific papers often describe experiments as though they are fully specified 
 
 A protocol may say that a sample should be mixed gently. An experienced scientist knows what "gently" means in a particular context. A robotic system does not. A paper may describe a culture preparation method that technically reproduces a procedure while missing dozens of small practical details that affect results. Experienced researchers often detect problems through subtle observations that are difficult to formalise into software rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-information.bris.ac.uk/ws/portalfiles/portal/450758294/Two_Kinds_of_Science_D24-for_PoS.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-information.bris.ac.uk">[University of Bristol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-information.bris.ac.uk</span><span class="citation-popover-title">Two Kinds of Science D24 for Po S</span><span class="citation-popover-snippet">University of BristolCollins, H., Shrager, J., Bartlett, A., Conley, S., Hale, R., &amp;...by H Collins — “Can Robots Help Solve the Reprodu...</span></span></span>
 
-This problem appears repeatedly in discussions of scientific reproducibility. Even when laboratories attempt to follow identical protocols, results can diverge because crucial information never entered the formal record. Automation can improve consistency once a process is fully specified, but many scientific processes are not fully specified to begin with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crukcambridgecentre.org.uk">[crukcambridgecentre.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crukcambridgecentre.org.uk</span><span class="citation-popover-title">‘robot scientist’ eve finds less one third scientific results are reproducible</span><span class="citation-popover-snippet">Robot scientist&#x27; Eve finds that less than one third of...6 Apr 2022 — Statistically significant evidence for repeatability was found fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">PMCby K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
+This problem appears repeatedly in discussions of scientific reproducibility. Even when laboratories attempt to follow identical protocols, results can diverge because crucial information never entered the formal record. Automation can improve consistency once a process is fully specified, but many scientific processes are not fully specified to begin with. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crukcambridgecentre.org.uk">[crukcambridgecentre.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crukcambridgecentre.org.uk</span><span class="citation-popover-title">‘robot scientist’ eve finds less one third scientific results are reproducible</span><span class="citation-popover-snippet">Robot scientist&#x27; Eve finds that less than one third of...6 Apr 2022 — Statistically significant evidence for repeatability was found fo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">by K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
 
 Human researchers routinely make adjustments based on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,10 +318,9 @@ Human researchers routinely make adjustments based on:
 
 </div>
 
-These interventions are often invisible in published methods sections. A robotic platform can only automate what has been captured and encoded. When key knowledge exists mainly in people's heads, automation encounters a hidden wall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">NLRPerspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
+These interventions are often invisible in published methods sections. A robotic platform can only automate what has been captured and encoded. When key knowledge exists mainly in people's heads, automation encounters a hidden wall. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">Perspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
 
 This creates a paradox. The scientific fields that appear most ripe for automation are often those that have already become highly standardised. The more exploratory and uncertain a field becomes, the more tacit knowledge tends to matter.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoGyefEIbH0" title="Inside the DOE&#x27;s Autonomous Lab for Materials Discovery - David Milsted, Lab Systems Engineer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoGyefEIbH0" target="_blank" rel="noopener noreferrer">Inside the DOE&#x27;s Autonomous Lab for Materials Discovery - David Milsted, Lab Systems Engineer</a></p><p class="youtube-embed-meta">Channel: Discovery Engines – with Nabil &middot; Views: 850 &middot; Uploaded: April 2025 &middot; Length: 1 hour 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoGyefEIbH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoGyefEIbH0">Open on YouTube</a></p></div></div></div>
 
@@ -336,12 +332,11 @@ A closed-loop system assumes that experimental results can be trusted as feedbac
 
 A pipette may clog. A reagent may degrade. A sensor may drift. A culture may become contaminated. A robotic arm may slightly misalign a sample. A measurement may appear valid while quietly incorporating systematic error.
 
-Human scientists often recognise these failures because they understand the broader context of the experiment. They notice unusual smells, colours, textures, timing irregularities or equipment behaviour. Many of these signals remain difficult to capture through automated monitoring systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAutonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
+Human scientists often recognise these failures because they understand the broader context of the experiment. They notice unusual smells, colours, textures, timing irregularities or equipment behaviour. Many of these signals remain difficult to capture through automated monitoring systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
 
 This becomes especially problematic in autonomous systems because errors can propagate. If the AI interprets a faulty measurement as genuine scientific information, it may choose subsequent experiments based on a false signal. The laboratory can then optimise towards artefacts rather than discoveries.
 
 The problem resembles challenges seen in autonomous vehicles. Driving works well on carefully mapped roads under predictable conditions. Edge cases create disproportionate difficulty. Scientific laboratories have their own version of edge cases, except they occur constantly because experimentation is fundamentally about probing the unknown.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/blooHbR5_eM" title="An autonomous laboratory for the accelerated synthesis of novel materials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer">An autonomous laboratory for the accelerated synthesis of novel materials</a></p><p class="youtube-embed-meta">Channel: Arman Simohartono &middot; Views: 443 &middot; Uploaded: December 2023 &middot; Length: 2 minutes 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=blooHbR5_eM">Open on YouTube</a></p></div></div></div>
 
@@ -353,41 +348,39 @@ Materials systems are often complicated, but they can be relatively stable. Rese
 
 Biology is different.
 
-Living systems are noisy, adaptive and context-dependent. Cells change behaviour over time. Genetic pathways interact with one another. Small environmental differences can produce large effects. Experimental outcomes often depend on factors that researchers do not yet fully understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">NLRPerspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
+Living systems are noisy, adaptive and context-dependent. Cells change behaviour over time. Genetic pathways interact with one another. Small environmental differences can produce large effects. Experimental outcomes often depend on factors that researchers do not yet fully understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">Perspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
 
-Even supposedly standard biological materials vary. Cell lines drift genetically. Reagents age. Organisms respond differently to environmental conditions. Biological systems contain layers of feedback that make outcomes difficult to predict and difficult to reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">PMCby K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
+Even supposedly standard biological materials vary. Cell lines drift genetically. Reagents age. Organisms respond differently to environmental conditions. Biological systems contain layers of feedback that make outcomes difficult to predict and difficult to reproduce. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">by K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
 
 This creates several difficulties for autonomous laboratories:
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-2-dark.svg" | relative_url }}" alt="Messy Labs illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Measurement is often ambiguous
 
 In materials science, success may be measured through a clear property such as conductivity or strength.
 
-In biology, researchers often care about complex phenomena such as toxicity, immune response, disease progression or cellular differentiation. These outcomes may not have a single straightforward measurement. Multiple competing interpretations can fit the same data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAutonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</span></span></span>
+In biology, researchers often care about complex phenomena such as toxicity, immune response, disease progression or cellular differentiation. These outcomes may not have a single straightforward measurement. Multiple competing interpretations can fit the same data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Autonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</span></span></span>
 
 ### Experimental timescales are longer
 
 Many biological processes unfold over days, weeks or months.
 
-A materials experiment might complete in minutes. A biological experiment may require cell growth, incubation, sequencing, imaging and multiple [validation]({{ 'validation/' | relative_url }}) stages. This reduces the speed advantage of closed-loop optimisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">NLRPerspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
+A materials experiment might complete in minutes. A biological experiment may require cell growth, incubation, sequencing, imaging and multiple [validation]({{ 'validation/' | relative_url }}) stages. This reduces the speed advantage of closed-loop optimisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: docs.nlr.gov">[NLR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">docs.nlr.gov</span><span class="citation-popover-title">Perspectives for self-driving labs in synthetic biology</span><span class="citation-popover-snippet">Perspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</span><span class="citation-popover-meta">Published: January 23, 2023</span></span></span>
 
 ### Translation to the real world is harder
 
 Drug discovery illustrates the problem.
 
-A system may autonomously optimise compounds in cell cultures, yet success in a controlled laboratory environment does not guarantee success in animals or humans. Toxicity, metabolism, side effects and regulatory constraints introduce layers of complexity that cannot be fully captured by a narrow experimental loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInAutonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</span></span></span>
+A system may autonomously optimise compounds in cell cultures, yet success in a controlled laboratory environment does not guarantee success in animals or humans. Toxicity, metabolism, side effects and regulatory constraints introduce layers of complexity that cannot be fully captured by a narrow experimental loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Autonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</span></span></span>
 
 As a result, many impressive autonomous demonstrations solve only a small part of the broader scientific challenge.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-3-dark.svg" | relative_url }}" alt="Messy Labs illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_scientific_ac_7e99a4_closed_loop_s_1d6cea_messy_real_wo_b5dcee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The reproducibility problem cuts both ways
 
 Automation is often presented as a solution to science's reproducibility crisis.
 
-There is truth in this claim. Robots can execute procedures more consistently than humans. Automated systems can log actions in greater detail and reduce variation introduced by individual researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">PMCby K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
+There is truth in this claim. Robots can execute procedures more consistently than humans. Automated systems can log actions in greater detail and reduce variation introduced by individual researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTesting the reproducibility and robustness of the cancer</span><span class="citation-popover-snippet">by K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</span></span></span>
 
 Yet automation also exposes a deeper problem.
 
@@ -397,7 +390,6 @@ The challenge is not merely performing experiments faster. It is ensuring that t
 
 This distinction matters for AI-driven scientific acceleration. A future with millions of autonomous experiments per day only improves discovery if those experiments produce reliable knowledge rather than automated noise.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_uyFHvC5Tvc" title="The Rise of Autonomous Self-Driving Laboratories | AI, Robotics &amp; the Scientific Discovery | Uplatz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_uyFHvC5Tvc" target="_blank" rel="noopener noreferrer">The Rise of Autonomous Self-Driving Laboratories | AI, Robotics &amp; the Scientific Discovery | Uplatz</a></p><p class="youtube-embed-meta">Channel: Uplatz &middot; Views: 47 &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_uyFHvC5Tvc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_uyFHvC5Tvc">Open on YouTube</a></p></div></div></div>
 
 ## The hardware bottleneck remains stubbornly physical
@@ -406,9 +398,9 @@ Much AI progress comes from software scaling.
 
 Laboratories do not scale that way.
 
-Every experiment still requires physical infrastructure: instruments, chemicals, sensors, maintenance, calibration and safety systems. Expanding experimental throughput often means purchasing additional hardware rather than simply allocating more computation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectDemocratizing self-driving labs: advances in low-cost 3D...by S Doloi · 2025 · Cited by 32 — Laboratory automation through...</span></span></span>
+Every experiment still requires physical infrastructure: instruments, chemicals, sensors, maintenance, calibration and safety systems. Expanding experimental throughput often means purchasing additional hardware rather than simply allocating more computation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Democratizing self-driving labs: advances in low-cost 3D...by S Doloi · 2025 · Cited by 32 — Laboratory automation through...</span></span></span>
 
-Researchers reviewing self-driving laboratories consistently identify hardware integration as one of the hardest engineering challenges. Scientific instruments are frequently designed as standalone devices rather than components in a unified autonomous system. Connecting them into reliable workflows requires substantial custom engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedAutonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
+Researchers reviewing self-driving laboratories consistently identify hardware integration as one of the hardest engineering challenges. Scientific instruments are frequently designed as standalone devices rather than components in a unified autonomous system. Connecting them into reliable workflows requires substantial custom engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Autonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</span></span></span>
 
 Even highly capable AI systems cannot eliminate these constraints.
 
@@ -792,147 +784,147 @@ For advocates of long-run human flourishing, that distinction matters. The futur
 
 1. <a id="endnote-1"></a>
    Source: pubs.acs.org  
-   Link: [https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055](https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055)  
+   Link: <a href="https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055" target="_blank" rel="noopener noreferrer nofollow">https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00055</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ACS PublicationsSelf-Driving Laboratories for Chemistry and Materials Scienceby G Tom · 2024 · Cited by 726 — More advanced SDLs combinin...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2006.06141](https://arxiv.org/abs/2006.06141)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOn-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2006.06141" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.06141</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>On-the-fly Closed-loop Autonomous Materials Discovery via Bayesian Active LearningJune 11, 2020...</p></details>
    Published: June 11, 2020  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12290927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12290927/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12290927/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12290927/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-Driving Laboratories: Translating Materials Science from...by AKY Low · 2025 · Cited by 15 — We argue that self-driving labo...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: crukcambridgecentre.org.uk  
    Title: ‘robot scientist’ eve finds less one third scientific results are reproducible  
-   Link: [https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible](https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible)  
+   Link: <a href="https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible" target="_blank" rel="noopener noreferrer nofollow">https://crukcambridgecentre.org.uk/news/%E2%80%98robot-scientist%E2%80%99-eve-finds-less-one-third-scientific-results-are-reproducible</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Robot scientist&#x27; Eve finds that less than one third of...6 Apr 2022 — Statistically significant evidence for repeatability was found fo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTesting the reproducibility and robustness of the cancer  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8984295/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by K Roper · 2022 · Cited by 27 — Automation makes experimental replication technically easier, as laboratory robotics are more accura...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: docs.nlr.gov  
    Title: Perspectives for self-driving labs in synthetic biology  
-   Link: [https://docs.nlr.gov/docs/fy23osti/84830.pdf](https://docs.nlr.gov/docs/fy23osti/84830.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NLRPerspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</p></details>
+   Link: <a href="https://docs.nlr.gov/docs/fy23osti/84830.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.nlr.gov/docs/fy23osti/84830.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perspectives for self-driving labs in synthetic biologyJanuary 23, 2023 — by D Arnold · 2023 · Cited by 123 — Self-driving labs (SDLs)...</p></details>
    Published: January 23, 2023  
 
 7. <a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis](https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInAutonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/tarselli_will-self-driving-robot-labs-replace-biologists-activity-7430570231183347712-5Cis</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Labs in Nature Magazine: A New Frontier for...Autonomous systems explore combinatorial space at industrial scale. Sha...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/self-driving-laboratories-drug-discovery-ai-automation-nagesh-nama-lvube](https://www.linkedin.com/pulse/self-driving-laboratories-drug-discovery-ai-automation-nagesh-nama-lvube)  
+   Link: <a href="https://www.linkedin.com/pulse/self-driving-laboratories-drug-discovery-ai-automation-nagesh-nama-lvube" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/self-driving-laboratories-drug-discovery-ai-automation-nagesh-nama-lvube</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Driving Laboratories in Drug Discovery: AI and AutomatiA self-driving laboratory (SDL) is an automated research platform that uses a...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968](https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDemocratizing self-driving labs: advances in low-cost 3D...by S Doloi · 2025 · Cited by 32 — Laboratory automation through...</p></details>
+   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2635098X25000968</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Democratizing self-driving labs: advances in low-cost 3D...by S Doloi · 2025 · Cited by 32 — Laboratory automation through...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/has-our-industrial-scientific-communitybeen-acting-little-qyqje](https://www.linkedin.com/pulse/has-our-industrial-scientific-communitybeen-acting-little-qyqje)  
+   Link: <a href="https://www.linkedin.com/pulse/has-our-industrial-scientific-communitybeen-acting-little-qyqje" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/has-our-industrial-scientific-communitybeen-acting-little-qyqje</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ads or in ad-hoc conversations. Reproducibility was...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: An autonomous laboratory for the accelerated synthesis of novel materials  
-   Link: [https://www.youtube.com/watch?v=blooHbR5_eM](https://www.youtube.com/watch?v=blooHbR5_eM)  
+   Link: <a href="https://www.youtube.com/watch?v=blooHbR5_eM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=blooHbR5_eM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIH...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40852582/](https://pubmed.ncbi.nlm.nih.gov/40852582/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAutonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40852582/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40852582/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides perspe...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: collegium.ethz.ch  
-   Link: [https://collegium.ethz.ch/events/fellow-year-2024-2025/the-rise-of-self-driving-labs-in-chemistry-and-materials-science](https://collegium.ethz.ch/events/fellow-year-2024-2025/the-rise-of-self-driving-labs-in-chemistry-and-materials-science)  
+   Link: <a href="https://collegium.ethz.ch/events/fellow-year-2024-2025/the-rise-of-self-driving-labs-in-chemistry-and-materials-science" target="_blank" rel="noopener noreferrer nofollow">https://collegium.ethz.ch/events/fellow-year-2024-2025/the-rise-of-self-driving-labs-in-chemistry-and-materials-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collegium HelveticumThe Rise of Self-Driving Labs in Chemistry and Materials...This lecture will explore how the convergence of automati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: sheffield.ac.uk  
    Title: self driving labs making chemical research faster and smarter  
-   Link: [https://sheffield.ac.uk/cmbe/news/self-driving-labs-making-chemical-research-faster-and-smarter](https://sheffield.ac.uk/cmbe/news/self-driving-labs-making-chemical-research-faster-and-smarter)  
+   Link: <a href="https://sheffield.ac.uk/cmbe/news/self-driving-labs-making-chemical-research-faster-and-smarter" target="_blank" rel="noopener noreferrer nofollow">https://sheffield.ac.uk/cmbe/news/self-driving-labs-making-chemical-research-faster-and-smarter</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sheffield UniversitySelf-driving labs: making chemical research faster and...9 May 2025 — Researchers have built an automated platform...</p></details>
    Published: May 2025  
 
 15. <a id="endnote-15"></a>
    Source: research-information.bris.ac.uk  
    Title: Two Kinds of Science D24 for Po S  
-   Link: [https://research-information.bris.ac.uk/ws/portalfiles/portal/450758294/Two_Kinds_of_Science_D24-for_PoS.pdf](https://research-information.bris.ac.uk/ws/portalfiles/portal/450758294/Two_Kinds_of_Science_D24-for_PoS.pdf)  
+   Link: <a href="https://research-information.bris.ac.uk/ws/portalfiles/portal/450758294/Two_Kinds_of_Science_D24-for_PoS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research-information.bris.ac.uk/ws/portalfiles/portal/450758294/Two_Kinds_of_Science_D24-for_PoS.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of BristolCollins, H., Shrager, J., Bartlett, A., Conley, S., Hale, R., &amp;...by H Collins — “Can Robots Help Solve the Reprodu...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nature.com  
-   Link: [https://www.nature.com/articles/d41586-026-00974-2](https://www.nature.com/articles/d41586-026-00974-2)  
+   Link: <a href="https://www.nature.com/articles/d41586-026-00974-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/d41586-026-00974-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the &#x27;self-driving&#x27; lab revolution30 Mar 2026 — Self-driving laboratories, advanced immunotherapies and five more technologies to w...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery](https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery)  
+   Link: <a href="https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397193999_The_Bright_Future_of_Materials_Science_with_AI_Self-Driving_Laboratories_and_Closed-Loop_Discovery</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...3 Nov 2025 — This review provides a comprehensive overview of self-drivin...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: institute.global  
-   Link: [https://institute.global/insights/tech-and-digitalisation/a-new-national-purpose-reimagining-uk-science-and-technology-through-lovelace-disruptive-invention-laboratories](https://institute.global/insights/tech-and-digitalisation/a-new-national-purpose-reimagining-uk-science-and-technology-through-lovelace-disruptive-invention-laboratories)  
+   Link: <a href="https://institute.global/insights/tech-and-digitalisation/a-new-national-purpose-reimagining-uk-science-and-technology-through-lovelace-disruptive-invention-laboratories" target="_blank" rel="noopener noreferrer nofollow">https://institute.global/insights/tech-and-digitalisation/a-new-national-purpose-reimagining-uk-science-and-technology-through-lovelace-disruptive-invention-laboratories</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A New National Purpose: Reimagining UK Science and...20 Nov 2025 — Lovelace disruptive invention labs would focus on vision-oriented, hi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cam.ac.uk  
    Title: opinion the science reproducibility crisis and what can be done about it  
-   Link: [https://www.cam.ac.uk/research/news/opinion-the-science-reproducibility-crisis-and-what-can-be-done-about-it](https://www.cam.ac.uk/research/news/opinion-the-science-reproducibility-crisis-and-what-can-be-done-about-it)  
+   Link: <a href="https://www.cam.ac.uk/research/news/opinion-the-science-reproducibility-crisis-and-what-can-be-done-about-it" target="_blank" rel="noopener noreferrer nofollow">https://www.cam.ac.uk/research/news/opinion-the-science-reproducibility-crisis-and-what-can-be-done-about-it</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of CambridgeOpinion: The science &#x27;reproducibility crisis&#x27; – and what can...20 Mar 2017 — Reproducibility is the idea that an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: viterbischool.usc.edu  
    Title: Viterbi | School of Engineering The Reproducibility Crisis in Science  
-   Link: [https://viterbischool.usc.edu/news/2022/11/the-reproducibility-crisis-in-science-these-researchers-have-a-fix/](https://viterbischool.usc.edu/news/2022/11/the-reproducibility-crisis-in-science-these-researchers-have-a-fix/)  
+   Link: <a href="https://viterbischool.usc.edu/news/2022/11/the-reproducibility-crisis-in-science-these-researchers-have-a-fix/" target="_blank" rel="noopener noreferrer nofollow">https://viterbischool.usc.edu/news/2022/11/the-reproducibility-crisis-in-science-these-researchers-have-a-fix/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>USC Viterbi | School of EngineeringThe Reproducibility Crisis in Science - These Researchers...2 Nov 2022 — A team from USC&#x27;s Informatio...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: synbiobeta.com  
    Title: briefly bio launches to tackle reproducibility crisis in science  
-   Link: [https://www.synbiobeta.com/read/briefly-bio-launches-to-tackle-reproducibility-crisis-in-science](https://www.synbiobeta.com/read/briefly-bio-launches-to-tackle-reproducibility-crisis-in-science)  
+   Link: <a href="https://www.synbiobeta.com/read/briefly-bio-launches-to-tackle-reproducibility-crisis-in-science" target="_blank" rel="noopener noreferrer nofollow">https://www.synbiobeta.com/read/briefly-bio-launches-to-tackle-reproducibility-crisis-in-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Briefly Bio Launches to Tackle Reproducibility Crisis in...17 Jul 2024 — In a significant step towards addressing the reproducibility cr...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flyingpenguins.io  
    Title: This isn't a daring prediction so much as a foregone  
-   Link: [https://www.flyingpenguins.io/p/will-ai-make-sciences-reproducibility](https://www.flyingpenguins.io/p/will-ai-make-sciences-reproducibility)  
+   Link: <a href="https://www.flyingpenguins.io/p/will-ai-make-sciences-reproducibility" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingpenguins.io/p/will-ai-make-sciences-reproducibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Will AI make science&#x27;s reproducibility crisis worse?5 Feb 2025 — The question “Will AI make the reproducibility crisis worse?” has an obv...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: ifp.org  
    Title: scaling materials discovery with self driving labs  
-   Link: [https://ifp.org/scaling-materials-discovery-with-self-driving-labs/](https://ifp.org/scaling-materials-discovery-with-self-driving-labs/)  
+   Link: <a href="https://ifp.org/scaling-materials-discovery-with-self-driving-labs/" target="_blank" rel="noopener noreferrer nofollow">https://ifp.org/scaling-materials-discovery-with-self-driving-labs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scaling Materials Discovery with Self-Driving Labs11 Aug 2025 — Self-driving labs — AI-guided, fully automated experimentation platforms...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: preprints.org  
    Title: These systems integrate machine learning, robotic  
-   Link: [https://www.preprints.org/manuscript/202509.1369](https://www.preprints.org/manuscript/202509.1369)  
+   Link: <a href="https://www.preprints.org/manuscript/202509.1369" target="_blank" rel="noopener noreferrer nofollow">https://www.preprints.org/manuscript/202509.1369</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bright Future of Materials Science with AI: Self-Driving...15 Sept 2025 — Autonomous laboratories represent a significant developmen...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: royalsocietypublishing.org  
-   Link: [https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of](https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of)  
+   Link: <a href="https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of" target="_blank" rel="noopener noreferrer nofollow">https://royalsocietypublishing.org/rsos/article/12/7/250646/235354/Autonomous-self-driving-laboratories-a-review-of</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous &#x27;self-driving&#x27; laboratories: a review of technology...by AV Tobias · 2025 · Cited by 65 — This article reviews and provides p...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NaturePortfolioJournals/posts/a-technology-feature-in-nature-outlines-the-advances-made-to-self-driving-labs-w/1431959458960316/](https://www.facebook.com/NaturePortfolioJournals/posts/a-technology-feature-in-nature-outlines-the-advances-made-to-self-driving-labs-w/1431959458960316/)  
+   Link: <a href="https://www.facebook.com/NaturePortfolioJournals/posts/a-technology-feature-in-nature-outlines-the-advances-made-to-self-driving-labs-w/1431959458960316/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NaturePortfolioJournals/posts/a-technology-feature-in-nature-outlines-the-advances-made-to-self-driving-labs-w/1431959458960316/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>riving labs&quot; – automated systems that can design, synthesize, and...</p></details>

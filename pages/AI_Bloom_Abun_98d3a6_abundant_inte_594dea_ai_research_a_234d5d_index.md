@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-abundant-inte/
 description: Focused pages that expand on Research Agents.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_abundant_inte_594dea_ai_research_a_234d5d
-parent_title: Research Agents | Intelligence
+parent_title: Research Agents
 parent_nav_short_title: Research Agents
 parent_permalink: /research-agents/
 ---

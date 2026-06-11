@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-governance-po/
 description: Focused pages that expand on Power.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_governance_po_43cd85
-parent_title: Power | AI Bloom Abundance Superintelligence and Humanity
+parent_title: Power
 parent_nav_short_title: Power
 parent_permalink: /power/
 ---

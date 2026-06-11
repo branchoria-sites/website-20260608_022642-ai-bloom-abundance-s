@@ -34,7 +34,7 @@ sidebar_expanded_urls:
 - /ai-bloom-abundance-superintelligence/
 nav_short_title: Robotics
 title: Could Robots End Dangerous Drudgery?
-title_full: Could Robots End Dangerous Drudgery? | AI Bloom
+title_full: Could Robots End Dangerous Drudgery?
 display_title_short: Robotics
 display_title: Robotics
 heading_title: Could Robots End Dangerous Drudgery?
@@ -209,6 +209,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-06-08 01:20:16'
 parent_title: AI Bloom
 parent_permalink: /ai-bloom-abundance-superintelligence/
 parent_nav_short_title: AI Bloom
@@ -301,7 +302,6 @@ prev_link:
   permalink: /resilience/
   short_title: Resilience
   heading_title: Can AI Help Civilisation Avoid Catastrophe?
-date: '2026-06-08 01:20:16 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-overview-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-overview.webp
@@ -310,8 +310,7 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-overview-social.
 
 ## Introduction
 
-One of the clearest ways artificial [intelligence]({{ 'intelligence/' | relative_url }}) could help human civilisation “bloom” is by reducing labour that is dangerous, physically exhausting, or degrading. Historically, humans have endured perilous work — from mines and construction sites to offshore platforms and chemical plants — because certain tasks were hard to automate and often poorly paid despite high risk. AI‑enabled robotics now promises to take on many of these hazardous jobs, potentially saving lives and improving wellbeing. But that promise comes with complex trade‑offs: new safety concerns, shifts in skills and wages, and questions about dignity, trust and employment. The future of dangerous work isn’t simply “robots replace people”; it’s a reshaping of where and how humans contribute to work in a world where physical and [cognitive]({{ 'broad-access/' | relative_url }}) tasks are increasingly shared with machines.
-
+One of the clearest ways artificial [intelligence]({{ 'intelligence/' | relative_url }}) could help human civilisation “bloom” is by reducing labour that is dangerous, physically exhausting, or degrading. Historically, humans have endured perilous work — from mines and construction sites to offshore platforms and chemical plants — because certain tasks were hard to automate and often poorly paid despite high risk. AI‑enabled robotics now promises to take on many of these hazardous jobs, potentially saving lives and improving wellbeing. But that promise comes with complex trade‑offs: new safety concerns, shifts in skills and wages, and questions about dignity, trust and employment. The future of dangerous work isn’t simply “robots replace people”; it’s a reshaping of where and how humans contribute to work in a world where physical and cognitive tasks are increasingly shared with machines.
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-overview.webp" | relative_url }}" alt="Overview image for Robotics" loading="eager" decoding="sync" fetchpriority="high">
 ## Robots in High‑Risk Environments: What They Can Do
@@ -320,23 +319,21 @@ Robotic systems are already in use performing tasks that previously put humans a
 
 * **Inspection and remote operation**: Robots can inspect offshore oil rigs, confined spaces or high structures without exposing human workers to falls or toxic environments. Drones let farmers apply pesticides or monitor crops without chemical exposure. Autonomous or remotely controlled vehicles could reduce motor‑vehicle crash risk for delivery workers.[CDC]
 * **Collaborative and wearable robotics**: “Cobots” (collaborative robots equipped with AI and sensors) work alongside humans, assisting with patient handling in healthcare to reduce musculoskeletal injuries and other physically stressful tasks. Wearable exoskeletons can augment human strength and reduce strain.[CDC]
-* **Broader future testing**: Early deployments of humanoid robots for baggage handling and airport support illustrate work environments where humans have traditionally faced physical strain. As these systems prove reliable, industries with dense manual work could see deeper automation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Humanoid Robots Enter the Workforce as AI Takes On Real Jobs</span><span class="citation-popover-snippet">RedditHumanoid Robots Enter the Workforce as AI Takes On Real JobsMay 2, 2026...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span>
+* **Broader future testing**: Early deployments of humanoid robots for baggage handling and airport support illustrate work environments where humans have traditionally faced physical strain. As these systems prove reliable, industries with dense manual work could see deeper automation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Humanoid Robots Enter the Workforce as AI Takes On Real Jobs</span><span class="citation-popover-snippet">Humanoid Robots Enter the Workforce as AI Takes On Real JobsMay 2, 2026...</span><span class="citation-popover-meta">Published: May 2, 2026</span></span></span>
 
-These integrations show how physical AI can reduce exposure to harm and take on jobs that are dull, dirty or dangerous — a longstanding robotics goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
-
+These integrations show how physical AI can reduce exposure to harm and take on jobs that are dull, dirty or dangerous — a longstanding robotics goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Dull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-1-dark.svg" | relative_url }}" alt="Robotics illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Work Displaced, Redesigned and Protected
 
-Replacing specific high‑risk tasks with robots will reshape the [labour market]({{ 'labour-impacts/' | relative_url }}) rather than eliminate work outright. Research across sectors suggests a mix of outcomes:
+Replacing specific high‑risk tasks with robots will reshape the labour market rather than eliminate work outright. Research across sectors suggests a mix of outcomes:
 
-* **Task level automation**: Rather than entire occupations vanishing, robots and AI tend to automate discrete parts of jobs, particularly those that are hazardous or highly routine. This can free workers to focus on oversight, coordination, judgement and social skills where humans remain comparatively strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human Labour: A Systematic Review | Legal Infor...</span></span></span> University Press & Assessment
+* **Task level automation**: Rather than entire occupations vanishing, robots and AI tend to automate discrete parts of jobs, particularly those that are hazardous or highly routine. This can free workers to focus on oversight, coordination, judgement and social skills where humans remain comparatively strong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human Labour: A Systematic Review &#124; Legal Infor...</span></span></span> University Press & Assessment
 * **New roles and training**: As dangerous tasks are automated, new roles will emerge in robot supervision, maintenance, design and human‑robot interaction. Governments and firms will need to invest in training pathways that allow workers to transition into these roles.
-* **Wage and bargaining shifts**: Automation can change the bargaining [power]({{ 'power/' | relative_url }}) of workers. There is emerging evidence that AI management systems can influence compensation structures in ways that reduce wages without reducing motivation — a reminder that technological change interacts with labour institutions and norms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
-* **Geographic and sectoral unevenness**: Some regions and industries may benefit more than others. Local economies historically dependent on hazardous manual labour could face deeper disruption without targeted policies, while sectors with strong labour representation might negotiate protections and [retraining]({{ 'retraining/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human Labour: A Systematic Review | Legal Infor...</span></span></span> University Press & Assessment
+* **Wage and bargaining shifts**: Automation can change the bargaining [power]({{ 'power/' | relative_url }}) of workers. There is emerging evidence that AI management systems can influence compensation structures in ways that reduce wages without reducing motivation — a reminder that technological change interacts with labour institutions and norms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Dull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+* **Geographic and sectoral unevenness**: Some regions and industries may benefit more than others. Local economies historically dependent on hazardous manual labour could face deeper disruption without targeted policies, while sectors with strong labour representation might negotiate protections and [retraining]({{ 'retraining/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human Labour: A Systematic Review &#124; Legal Infor...</span></span></span> University Press & Assessment
 
-Debates about automation’s net impact on jobs are shifting from simplistic “robots take jobs” narratives to more nuanced views that emphasise evolving roles rather than abrupt eliminations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentThe AI Labor Debate: Three Views on the Future of Work | Carnegie Endowment for International PeaceApril 23, 2026...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
-
+Debates about automation’s net impact on jobs are shifting from simplistic “robots take jobs” narratives to more nuanced views that emphasise evolving roles rather than abrupt eliminations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carnegieendowment.org">[Carnegie Endowment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carnegieendowment.org</span><span class="citation-popover-snippet">Carnegie EndowmentThe AI Labor Debate: Three Views on the Future of Work &#124; Carnegie Endowment for International PeaceApril 23, 2026...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JMxKpo_Llt8" title="Humanoid robots take over manual job at auto parts plant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JMxKpo_Llt8" target="_blank" rel="noopener noreferrer">Humanoid robots take over manual job at auto parts plant</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 143.8K &middot; Uploaded: April 2026 &middot; Length: 4 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JMxKpo_Llt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JMxKpo_Llt8">Open on YouTube</a></p></div></div></div>
 
@@ -344,14 +341,12 @@ Debates about automation’s net impact on jobs are shifting from simplistic “
 
 Bringing robots into dangerous work raises its own set of safety challenges and ethical questions:
 
-* **Human–robot interaction risks**: Robots operating near people introduce new hazards — unexpected contact, distraction, or [psychological]({{ 'crew-resilience/' | relative_url }}) stress for workers who must collaborate with machines in dynamic environments. Ensuring safety requires robust design standards, risk assessment and training.[CDC]
-* **Trust and acceptance**: Public perception influences how and where robotics are adopted. Surveys show people tend to be more comfortable with robots in structured settings like factories than in ambiguous environments, underscoring the need for transparency, clear roles and ethical [governance]({{ 'power/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Despite advancements in robotics, widespread adoption now hinges more on public confidence than on technical capabilities. In the UK, 52%...</span></span></span>
-* **Algorithmic and decision risks**: AI‑driven robotics — especially those using large language models or autonomous decision‑making — can behave unpredictably. Research has flagged the risk of biased or unsafe actions when robots interpret instructions without adequate safeguards, making robust oversight essential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivDull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
+* **Human–robot interaction risks**: Robots operating near people introduce new hazards — unexpected contact, distraction, or psychological stress for workers who must collaborate with machines in dynamic environments. Ensuring safety requires robust design standards, risk assessment and training.[CDC]
+* **Trust and acceptance**: Public perception influences how and where robotics are adopted. Surveys show people tend to be more comfortable with robots in structured settings like factories than in ambiguous environments, underscoring the need for transparency, clear roles and ethical governance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">Despite advancements in robotics, widespread adoption now hinges more on public confidence than on technical capabilities. In the UK, 52%...</span></span></span>
+* **Algorithmic and decision risks**: AI‑driven robotics — especially those using large language models or autonomous decision‑making — can behave unpredictably. Research has flagged the risk of biased or unsafe actions when robots interpret instructions without adequate safeguards, making robust oversight essential.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Dull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</span><span class="citation-popover-meta">Published: February 4, 2026</span></span></span>
 * **Dignity and identity**: Work is not only about wages; it is also tied to identity and social roles. Transitioning dangerous jobs to machines should be accompanied by societal recognition of human dignity, opportunities for fulfilling employment and measures to prevent stigma or marginalisation of displaced workers.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YOozI5IbLew" title="Building Robots for Dirty, Dangerous Work: Lucid Bots CEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YOozI5IbLew" target="_blank" rel="noopener noreferrer">Building Robots for Dirty, Dangerous Work: Lucid Bots CEO</a></p><p class="youtube-embed-meta">Channel: Octopart &middot; Views: 431 &middot; Uploaded: June 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YOozI5IbLew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YOozI5IbLew">Open on YouTube</a></p></div></div></div>
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-3-dark.svg" | relative_url }}" alt="Robotics illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -366,9 +361,7 @@ AI‑enabled robotics holds the promise of sharply reducing injuries, fatalities
 
 The future of dangerous work isn’t merely about machines replacing people. It is about reimagining what work means when humans no longer have to risk illness, injury or exhaustion to support themselves and their communities — a step toward a world where intelligence and effort are abundant, safer and more fulfilling.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/01ZSOp4yYAE" title="Potential dangers of humanoid robots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=01ZSOp4yYAE" target="_blank" rel="noopener noreferrer">Potential dangers of humanoid robots</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 97.5K &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=01ZSOp4yYAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=01ZSOp4yYAE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -382,16 +375,16 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rise of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=auvHEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rise of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coming Wave on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=b0y5zwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Coming Wave" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rise of the Robots">Rise of the Robots</a>
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coming Wave">The Coming Wave</a>
         </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+        <p class="fr-book-author">By Mustafa Suleyman</p>
         
-        <p class="fr-book-desc">Addresses automation of labour and the economic consequences of robots replacing human tasks.</p>
+        <p class="fr-book-desc">Directly addresses whether advanced AI can deliver broad civilisational benefits while remaining governable.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rise+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Coming+Wave+by+Mustafa+Suleyman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -399,16 +392,16 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Second Machine Age on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PMBUAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Second Machine Age" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Army of None on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sjMsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Army of None" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Second Machine Age">The Second Machine Age</a>
+          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Army of None">Army of None</a>
         </h4>
-        <p class="fr-book-author">By Erik Brynjolfsson, Andrew McAfee</p>
+        <p class="fr-book-author">By Paul Scharre</p>
         
-        <p class="fr-book-desc">Explains how AI and robotics reshape work, productivity and human opportunity.</p>
+        <p class="fr-book-desc">Directly addresses regulation and control of autonomous systems.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Second+Machine+Age+by+Erik+Brynjolfsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Army+of+None+by+Paul+Scharre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -416,16 +409,16 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rule of the Robots on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eF82EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Rule of the Robots" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rule of the Robots">Rule of the Robots</a>
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
         </h4>
-        <p class="fr-book-author">By Martin Ford</p>
+        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
         
-        <p class="fr-book-desc">Covers how AI and robotics may transform physical and cognitive work.</p>
+        <p class="fr-book-desc">Explains why public institutions matter for distributing technology gains.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Rule+of+the+Robots+by+Martin+Ford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -433,16 +426,16 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Fourth+Industrial+Revolution+by+Klaus+Schwab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fourth Industrial Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Compatible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BKVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Human Compatible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fourth+Industrial+Revolution+by+Klaus+Schwab&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fourth Industrial Revolution">The Fourth Industrial Revolution</a>
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Compatible">Human Compatible</a>
         </h4>
-        <p class="fr-book-author">By Klaus Schwab</p>
+        <p class="fr-book-author">By Stuart Russell</p>
         
-        <p class="fr-book-desc">Frames robotics and automation as part of wider industrial transformation.</p>
+        <p class="fr-book-desc">Explores how powerful AI could advance humanity if aligned with human values.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fourth+Industrial+Revolution+by+Klaus+Schwab&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Human+Compatible+by+Stuart+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -450,7 +443,7 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rise+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rise of the Robots</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Second+Machine+Age&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Second Machine Age</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Rule+of+the+Robots&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Rule of the Robots</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coming+Wave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coming Wave</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Army+of+None&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Army of None</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Power+and+Progress&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Power and Progress</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -487,15 +480,15 @@ The future of dangerous work isn’t merely about machines replacing people. It 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888"><img src="{{ '/assets/images/marketplace-covers/3a4ac80ce6b010e09f3d.jpg' | relative_url }}" alt="Listing image for STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit"><img src="https://i.ebayimg.com/images/g/jogAAeSwuBRpSrAO/s-l225.jpg" alt="Listing image for EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer">STEM Spider DIY Robot Toy Electric Educational Science Kit Kids 6+ Model KX888</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">EcoBot Robotics Toy Build and Learn Science Museum STEM Building Robot Kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -503,15 +496,15 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/b30325d85176fb1bdbd6.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JetBot AI robot Kit Waveshare"><img src="https://i.ebayimg.com/images/g/9JoAAeSwLxhqKpOL/s-l225.jpg" alt="Listing image for JetBot AI robot Kit Waveshare" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">JetBot AI robot Kit Waveshare</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -519,15 +512,15 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy"><img src="{{ '/assets/images/marketplace-covers/3c7f3f7475affbd6fb3e.jpg' | relative_url }}" alt="Listing image for Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only"><img src="https://i.ebayimg.com/images/g/4P0AAeSwg2ZqGxAi/s-l225.jpg" alt="Listing image for Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer">Mengshan 1/144 Mecha Robot Assembly Model Kit Collectible Display Toy</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">Maplin USB Programmable Robot Arm Educational STEM Robotics Kit, PC USB only</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -535,15 +528,15 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A"><img src="{{ '/assets/images/marketplace-covers/eb59ab056055fff4fbe5.jpg' | relative_url }}" alt="Listing image for Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK"><img src="https://i.ebayimg.com/images/g/gYgAAeSwcWdqENas/s-l225.jpg" alt="Listing image for 1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer">Anime Mecha Robot Model Kit 15cm Movable Action Figure Combat Type A</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">1512PCS RC Robotic Arm STEM Building Set Control Mech SciFi Robot Kit Technic UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot model">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics kit</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -551,7 +544,7 @@ The future of dangerous work isn’t merely about machines replacing people. It 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot model" data-ebay-reference="robotics-could-robots-end-dangerous-drudgery-ai-bloom-abundance-superintelligence-and-humanity-robot-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-robots-end-dangerous-drudgery-robotics-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics kit" data-ebay-reference="could-robots-end-dangerous-drudgery-robotics-kit" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -766,86 +759,86 @@ The future of dangerous work isn’t merely about machines replacing people. It 
 
 1. <a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: [https://www.cdc.gov/niosh/robotics/index.html](https://www.cdc.gov/niosh/robotics/index.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CDCRobotics in the Workplace: An Overview | Robotics | CDCFebruary 9, 2024...</p></details>
+   Link: <a href="https://www.cdc.gov/niosh/robotics/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/robotics/index.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robotics in the Workplace: An Overview | Robotics | CDCFebruary 9, 2024...</p></details>
    Published: February 9, 2024  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Humanoid Robots Enter the Workforce as AI Takes On Real Jobs  
-   Link: [https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/](https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHumanoid Robots Enter the Workforce as AI Takes On Real JobsMay 2, 2026...</p></details>
+   Link: <a href="https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/1t23inj/humanoid_robots_enter_the_workforce_as_ai_takes/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Humanoid Robots Enter the Workforce as AI Takes On Real JobsMay 2, 2026...</p></details>
    Published: May 2, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2602.04746](https://arxiv.org/abs/2602.04746)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivDull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2602.04746" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.04746</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dull, Dirty, Dangerous: Understanding the Past, Present, and Future of a Key Motivation for RoboticsFebruary 4, 2026...</p></details>
    Published: February 4, 2026  
 
 4. <a id="endnote-4"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA](https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA)  
+   Link: <a href="https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/legal-information-management/article/abs/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review/7E13446EDCF143BD3048765A55BD90AA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentEffects of Artificial Intelligence and Robotics on Human Labour: A Systematic Review | Legal Infor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.21752](https://arxiv.org/abs/2505.21752)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExperimental Evidence That AI-Managed Workers Tolerate Lower Pay Without DemotivationMay 27, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.21752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.21752</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence That AI-Managed Workers Tolerate Lower Pay Without DemotivationMay 27, 2025...</p></details>
    Published: May 27, 2025  
 
 6. <a id="endnote-6"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale](https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale)  
+   Link: <a href="https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/what-the-uks-robot-anxiety-reveals-about-how-automation-will-scale</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite advancements in robotics, widespread adoption now hinges more on public confidence than on technical capabilities. In the UK, 52%...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2406.08824](https://arxiv.org/abs/2406.08824)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivLLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful ActionsJune 13, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2406.08824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.08824</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LLM-Driven Robots Risk Enacting Discrimination, Violence, and Unlawful ActionsJune 13, 2024...</p></details>
    Published: June 13, 2024  
 
 8. <a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7E13446EDCF143BD3048765A55BD90AA/S1472669624000264a.pdf/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review.pdf](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7E13446EDCF143BD3048765A55BD90AA/S1472669624000264a.pdf/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review.pdf)  
+   Link: <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7E13446EDCF143BD3048765A55BD90AA/S1472669624000264a.pdf/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/services/aop-cambridge-core/content/view/7E13446EDCF143BD3048765A55BD90AA/S1472669624000264a.pdf/effects-of-artificial-intelligence-and-robotics-on-human-labour-a-systematic-review.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 30, 2024 — EFFECTS OF ARTIFICIAL INTELLIGENCE AND ROBOTICS ON HUMAN LABOUR: A SYSTEMATIC REVIEW Published online by Cambridge Uni...</p></details>
    Published: October 30, 2024  
 
 9. <a id="endnote-9"></a>
    Source: cdc.gov  
    Title: algorithms fow  
-   Link: [https://www.cdc.gov/niosh/bulletin/2022/algorithms-fow.html](https://www.cdc.gov/niosh/bulletin/2022/algorithms-fow.html)  
+   Link: <a href="https://www.cdc.gov/niosh/bulletin/2022/algorithms-fow.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/bulletin/2022/algorithms-fow.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>21, 2022 WHAT TO KNOW Summary: The use of algorithm-enabled systems and devices will bring many benefits to occupational safety a...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cdc.gov  
    Title: robotics fow  
-   Link: [https://www.cdc.gov/niosh/bulletin/2022/robotics-fow.html](https://www.cdc.gov/niosh/bulletin/2022/robotics-fow.html)  
+   Link: <a href="https://www.cdc.gov/niosh/bulletin/2022/robotics-fow.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/bulletin/2022/robotics-fow.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Robotics in the Future of Work | NIOSH Science Bulletin | CDCJune 3, 2022 — THE ROLE OF ROBOTICS IN THE FUTURE OF WORK Posted...</p></details>
    Published: June 3, 2022  
 
 11. <a id="endnote-11"></a>
    Source: cdc.gov  
    Title: tech job displacement fow  
-   Link: [https://www.cdc.gov/niosh/bulletin/2022/tech-job-displacement-fow.html](https://www.cdc.gov/niosh/bulletin/2022/tech-job-displacement-fow.html)  
+   Link: <a href="https://www.cdc.gov/niosh/bulletin/2022/tech-job-displacement-fow.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/bulletin/2022/tech-job-displacement-fow.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15, 2022 WHAT TO KNOW Summary: It is critical to consider trends in technological job displacement a...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cdc.gov  
    Title: ai work  
-   Link: [https://www.cdc.gov/niosh/bulletin/2019/ai-work.html](https://www.cdc.gov/niosh/bulletin/2019/ai-work.html)  
+   Link: <a href="https://www.cdc.gov/niosh/bulletin/2019/ai-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/bulletin/2019/ai-work.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence: Implications for the Future of Work | NIOSH Science Bulletin | CDCAugust 26, 2019 — ROBOTIC DEVICES Recently, th...</p></details>
    Published: August 26, 2019  
 
 13. <a id="endnote-13"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work](https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work)  
+   Link: <a href="https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/middle-east/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie EndowmentThe AI Labor Debate: Three Views on the Future of Work | Carnegie Endowment for International PeaceApril 23, 2026...</p></details>
    Published: April 23, 2026  
 
 14. <a id="endnote-14"></a>
    Source: carnegieendowment.org  
-   Link: [https://carnegieendowment.org/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work](https://carnegieendowment.org/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work)  
+   Link: <a href="https://carnegieendowment.org/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://carnegieendowment.org/research/2026/04/the-ai-labor-debate-three-views-on-the-future-of-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>April 23, 2026 — * Image: Humanoid robots follow technicians to learn job skills at the data collection area of an embodied AI robot inno...</p></details>
    Published: April 23, 2026  
 
@@ -853,65 +846,65 @@ The future of dangerous work isn’t merely about machines replacing people. It 
 
 15. <a id="endnote-15"></a>
    Source: ilo.org  
-   Link: [https://www.ilo.org/resource/news/ai-and-digitalization-are-transforming-safety-and-health-work](https://www.ilo.org/resource/news/ai-and-digitalization-are-transforming-safety-and-health-work)  
+   Link: <a href="https://www.ilo.org/resource/news/ai-and-digitalization-are-transforming-safety-and-health-work" target="_blank" rel="noopener noreferrer nofollow">https://www.ilo.org/resource/news/ai-and-digitalization-are-transforming-safety-and-health-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and digitalization are transforming safety and health at work | International Labour OrganizationApril 23, 2025 — Image: Engineer trai...</p></details>
    Published: April 23, 2025  
 
 16. <a id="endnote-16"></a>
    Source: mscdirect.com  
-   Link: [https://www.mscdirect.com/knowledge-center/articles/robots-make-workplaces-safer-but-bring-risks](https://www.mscdirect.com/knowledge-center/articles/robots-make-workplaces-safer-but-bring-risks)  
+   Link: <a href="https://www.mscdirect.com/knowledge-center/articles/robots-make-workplaces-safer-but-bring-risks" target="_blank" rel="noopener noreferrer nofollow">https://www.mscdirect.com/knowledge-center/articles/robots-make-workplaces-safer-but-bring-risks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 13, 2023 — ROBOTS CAN MAKE WORKPLACES SAFER BUT THEY BRING NEW RISKS, TOO Industrial robots improve processes, increase output speed...</p></details>
    Published: July 13, 2023  
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
    Title: Robot application and occupational injuries: Are robots necessarily safer?  
-   Link: [https://www.sciencedirect.com/science/article/pii/S092575352100463X](https://www.sciencedirect.com/science/article/pii/S092575352100463X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectHowever, this argument may not be entirely correct. Since artificial intelligence is restricted and strong artificial intell...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S092575352100463X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S092575352100463X</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, this argument may not be entirely correct. Since artificial intelligence is restricted and strong artificial intell...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: The focus of this study is a systematic review of publi  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7454321/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7454321/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7454321/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7454321/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scenarios and Hazards in the Work of the Future: A Systematic Review of the Peer-Reviewed and Gray Literatures - PMCJuly 28, 2020 — ABSTR...</p></details>
    Published: July 28, 2020  
 
 19. <a id="endnote-19"></a>
    Source: globalissues.org  
    Title: © ILO/Marcel Crozet A man works in a packaging factory in Cairo, Egypt  
-   Link: [https://www.globalissues.org/news/2025/04/23/39673](https://www.globalissues.org/news/2025/04/23/39673)  
+   Link: <a href="https://www.globalissues.org/news/2025/04/23/39673" target="_blank" rel="noopener noreferrer nofollow">https://www.globalissues.org/news/2025/04/23/39673</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI lightens the workload – but risks remain, labour agency warns — Global IssuesApril 23, 2025 — AI LIGHTENS THE WORKLOAD – BUT RISKS REM...</p></details>
    Published: April 23, 2025  
 
 20. <a id="endnote-20"></a>
    Source: ifr.org  
    Title: Do robots save lives and prevent workplace injuries?  
-   Link: [https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries](https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries)  
+   Link: <a href="https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries" target="_blank" rel="noopener noreferrer nofollow">https://ifr.org/post/do-robots-save-lives-and-prevent-workplace-injuries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Federation of RoboticsDO ROBOTS SAVE LIVES AND PREVENT WORKPLACE INJURIES? NEW EVIDENCE FROM EUROPE ON WORK SAFETY The deba...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: nsc.org  
    Title: work to zero initiative unveils new research o  
-   Link: [https://www.nsc.org/newsroom/nsc-work-to-zero-initiative-unveils-new-research-o](https://www.nsc.org/newsroom/nsc-work-to-zero-initiative-unveils-new-research-o)  
+   Link: <a href="https://www.nsc.org/newsroom/nsc-work-to-zero-initiative-unveils-new-research-o" target="_blank" rel="noopener noreferrer nofollow">https://www.nsc.org/newsroom/nsc-work-to-zero-initiative-unveils-new-research-o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>n Improving Workplace Safety with Robotics - National Safety CouncilMay 25, 2023 — NSC WORK TO ZERO INITIATIVE UNVEILS NEW RESEARCH ON IM...</p></details>
    Published: May 25, 2023  
 
 22. <a id="endnote-22"></a>
    Source: eurofound.europa.eu  
    Title: eu Human–robot interaction: What changes in the workplace?  
-   Link: [https://www.eurofound.europa.eu/en/publications/all/human-robot-interaction-what-changes-workplace](https://www.eurofound.europa.eu/en/publications/all/human-robot-interaction-what-changes-workplace)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| EurofoundJuly 21, 2024 — Research report HUMAN–ROBOT INTERACTION: WHAT CHANGES IN THE WORKPLACE?...</p></details>
+   Link: <a href="https://www.eurofound.europa.eu/en/publications/all/human-robot-interaction-what-changes-workplace" target="_blank" rel="noopener noreferrer nofollow">https://www.eurofound.europa.eu/en/publications/all/human-robot-interaction-what-changes-workplace</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EurofoundJuly 21, 2024 — Research report HUMAN–ROBOT INTERACTION: WHAT CHANGES IN THE WORKPLACE?...</p></details>
    Published: July 21, 2024  
 
 23. <a id="endnote-23"></a>
    Source: atlanticcouncil.org  
    Title: Will AI and robots kill jobs?  
-   Link: [https://www.atlanticcouncil.org/in-depth-research-reports/will-ai-and-robots-kill-jobs/](https://www.atlanticcouncil.org/in-depth-research-reports/will-ai-and-robots-kill-jobs/)  
+   Link: <a href="https://www.atlanticcouncil.org/in-depth-research-reports/will-ai-and-robots-kill-jobs/" target="_blank" rel="noopener noreferrer nofollow">https://www.atlanticcouncil.org/in-depth-research-reports/will-ai-and-robots-kill-jobs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atlantic CouncilJuly 7, 2020 — CATASTROPHIC RISKS The urgency of developing a global consensus on ethics and operating principles for AI...</p></details>
    Published: July 7, 2020  
 
 24. <a id="endnote-24"></a>
    Source: epale.ec.europa.eu  
    Title: eu Robotok és munkavédelem  
-   Link: [https://epale.ec.europa.eu/en/blog/epale-mooc-robots-and-occupational-safety-impact-ai-osh](https://epale.ec.europa.eu/en/blog/epale-mooc-robots-and-occupational-safety-impact-ai-osh)  
+   Link: <a href="https://epale.ec.europa.eu/en/blog/epale-mooc-robots-and-occupational-safety-impact-ai-osh" target="_blank" rel="noopener noreferrer nofollow">https://epale.ec.europa.eu/en/blog/epale-mooc-robots-and-occupational-safety-impact-ai-osh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADOPTION OF 3D WORK BY AI ROBOTS Workplace robots are gradually gaining ground and are becoming more mobile, intelligent and collaborativ...</p></details>

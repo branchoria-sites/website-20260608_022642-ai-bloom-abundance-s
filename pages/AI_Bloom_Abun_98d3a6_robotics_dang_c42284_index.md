@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-bloom-abun-98d3a6-robotics-dang/
 description: Focused pages that expand on Robotics.
-date: '2026-06-08'
+date: '2026-06-11'
 layout: default
 parent_basename: AI_Bloom_Abun_98d3a6_robotics_dang_c42284
-parent_title: Robotics | AI Bloom Abundance Superintelligence and Humanity
+parent_title: Robotics
 parent_nav_short_title: Robotics
 parent_permalink: /robotics/
 ---

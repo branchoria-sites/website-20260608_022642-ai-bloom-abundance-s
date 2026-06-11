@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /long-future/
 nav_short_title: Who benefits
 title: Who gets to own the space future?
-title_full: Who gets to own the space future? | Long Future
+title_full: Who gets to own the space future?
 display_title_short: Who benefits
 display_title: Who benefits
 heading_title: Who gets to own the space future?
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Big Could Humanity's Future Become? | AI Bloom
+date: '2026-06-08 01:32:43'
+parent_title: How Big Could Humanity's Future Become?
 parent_permalink: /long-future/
 parent_nav_short_title: Long Future
 parent_heading_title: How Big Could Humanity's Future Become?
@@ -273,7 +274,6 @@ prev_link:
   permalink: /moon-and-mars/
   short_title: Moon and Mars
   heading_title: Are Moon and Mars bases the first step?
-date: '2026-06-08 01:32:43 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-1.webp
@@ -284,9 +284,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_60
 
 If humanity eventually builds permanent settlements on the Moon, Mars, orbital habitats or elsewhere in the Solar System, one of the hardest questions will not be technical. It will be political: who gets to decide how these places are governed, who is allowed to live there, who owns valuable resources, and who benefits from the wealth and opportunities created beyond Earth.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-1-dark.svg" | relative_url }}" alt="Who benefits illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The optimistic vision behind space settlement is often linked to a much larger future of human flourishing. Advanced AI, [robotics]({{ 'robotics/' | relative_url }}) and automation could make it easier to build habitats, manage life-support systems and use local resources, potentially allowing civilisation to expand far beyond Earth's limits. But technical success alone would not determine whether that future is broadly shared. The institutions built around settlement could create new opportunities for billions of people, or they could concentrate power among a small number of states, corporations and early settlers. The [governance]({{ 'power/' | relative_url }}) choices made during the first stages of space expansion may shape human society for centuries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/artemis-accords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASAArtemis AccordsThe Artemis Accords provide a common set of principles to enhance the governance of the civil exploration and use of o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTowards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span>
+The optimistic vision behind space settlement is often linked to a much larger future of human flourishing. Advanced AI, [robotics]({{ 'robotics/' | relative_url }}) and automation could make it easier to build habitats, manage life-support systems and use local resources, potentially allowing civilisation to expand far beyond Earth's limits. But technical success alone would not determine whether that future is broadly shared. The institutions built around settlement could create new opportunities for billions of people, or they could concentrate [power]({{ 'power/' | relative_url }}) among a small number of states, corporations and early settlers. The governance choices made during the first stages of space expansion may shape human society for centuries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/artemis-accords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Artemis AccordsThe Artemis Accords provide a common set of principles to enhance the governance of the civil exploration and use of o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Towards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span>
 
 ## Who gets to own the space future?
 
@@ -316,12 +315,11 @@ Water ice on the Moon, for example, may become strategically important because i
 
 Current treaties prohibit national appropriation of celestial bodies, but they leave many questions about private rights unanswered. Some legal interpretations argue that extracted resources can be owned even if territory itself cannot. Others fear this distinction could become a pathway toward de facto territorial control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://iisl.space/kc-resources/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iisl.space">[iisl.space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iisl.space</span><span class="citation-popover-snippet">KC Category – Space Resources​In considering the concept of “space resources,” the Outer Space Treaty offers internal contradiction. Firs...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.polytechnique-insights.com/en/columns/space/private-property-and-militarization-the-new-frontiers-of-space-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: polytechnique-insights.com">[Polytechnique Insights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">polytechnique-insights.com</span><span class="citation-popover-snippet">Polytechnique InsightsPrivate property and militarisation: the new frontiers of...28 Oct 2025 — The Outer Space Treaty prohibits soverei...</span></span></span>
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[**Who receives economic benefits?**]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Fostering Socio-Economic Benefits in the Global SouthThe Space Economy Humanity will inevitably expand beyond Earth — developing off-plan...</span></span></span>
+**Who receives economic benefits?** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Fostering Socio-Economic Benefits in the Global SouthThe Space Economy Humanity will inevitably expand beyond Earth — developing off-plan...</span></span></span>
 
 If asteroid mining or large-scale space industry eventually becomes profitable, should returns flow mainly to investors and sponsoring governments, or should some benefits be distributed more broadly? The question resembles debates over natural resources on Earth, where oil, minerals and fisheries have generated both prosperity and severe inequality depending on governance arrangements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/14777622.2017.1381824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">In a...Read more...</span></span></span>
 
 These issues matter because the earliest rules often become difficult to reverse. Infrastructure, legal precedent and economic networks can create path dependence, allowing initial advantages to compound over time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6lILajGlrZk" title="Law &amp; Order In Space: Treaties &amp; Regulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6lILajGlrZk" target="_blank" rel="noopener noreferrer">Law &amp; Order In Space: Treaties &amp; Regulations</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur &middot; Views: 63.1K &middot; Uploaded: January 2024 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6lILajGlrZk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6lILajGlrZk">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +327,7 @@ These issues matter because the earliest rules often become difficult to reverse
 
 Current debates increasingly centre on two broad governance visions.
 
-The first treats space as a global commons. Under this approach, outer space is considered a shared domain whose benefits should ultimately serve humanity as a whole. Advocates often point to language in international treaties describing space as the province of all humankind. They argue for international oversight, benefit-sharing mechanisms and protections against monopolisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">UNOOSAMoon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecommonsjournal.org/articles/10.5334/ijc.1271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommonsjournal.org">[International Journal of the Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommonsjournal.org</span><span class="citation-popover-snippet">International Journal of the CommonsOuter Space as a Global Commons: An Empirical Study of...by P Pic · 2023 · Cited by 28 — This articl...</span></span></span>
+The first treats space as a global commons. Under this approach, outer space is considered a shared domain whose benefits should ultimately serve humanity as a whole. Advocates often point to language in international treaties describing space as the province of all humankind. They argue for international oversight, benefit-sharing mechanisms and protections against monopolisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Moon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecommonsjournal.org/articles/10.5334/ijc.1271" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommonsjournal.org">[International Journal of the Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommonsjournal.org</span><span class="citation-popover-snippet">International Journal of the CommonsOuter Space as a Global Commons: An Empirical Study of...by P Pic · 2023 · Cited by 28 — This articl...</span></span></span>
 
 The second vision emphasises commercial development. Proponents argue that ambitious settlement will only happen if entrepreneurs, investors and governments can expect meaningful returns. They contend that excessive restrictions could slow development, discourage innovation and leave valuable resources unused for generations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cjil.uchicago.edu/online-archive/who-dares-wins-how-property-rights-space-could-be-dictated-countries-willing-make" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cjil.uchicago.edu">[cjil.uchicago.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cjil.uchicago.edu</span><span class="citation-popover-snippet">“Who Dares, Wins:” How Property Rights in Space Could...13 Jun 2022 — The Accords make clear that extraction is not outlawed as national...</span></span></span>
 
@@ -338,7 +336,6 @@ In practice, most emerging proposals sit somewhere between these extremes.
 The [Artemis Accords]({{ 'artemis-accords/' | relative_url }}), a framework signed by dozens of countries participating in NASA-led lunar exploration efforts, attempt to establish norms for cooperation, transparency and resource use without creating a comprehensive global property regime. Supporters view them as a practical way to coordinate activity. Critics argue that they may gradually normalise resource extraction rules shaped primarily by leading spacefaring powers rather than through fully inclusive international negotiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sites.temple.edu/ticlj/files/2025/05/Posey-The-Aftermath-of-the-Artemis-Accords-Power-Dynamics-Past-and-Present-in-International-Space-Law.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sites.temple.edu">[Sites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sites.temple.edu</span><span class="citation-popover-title">Sites The Aftermath of the Artemis Accords: Power Dynamics</span><span class="citation-popover-snippet">Aftermath of the Artemis Accords: Power Dynamics...May 1, 2025 — The Artemis Accords, led by the United States, reinforce a privatized...</span><span class="citation-popover-meta">Published: May 1, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/artemis-accords-evolution-or-revolution-in-international-space-law/DC08E6D42F7D5A971067E6A1BA442DF1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[3NASA 3Cambridge University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentTHE ARTEMIS ACCORDS: EVOLUTION OR REVOLUTION...by R Deplano · 2021 · Cited by 173 — The Artemis A...</span></span></span> Press & Assessment](#endnote-10 "Snippet: Cambridge University Press & AssessmentTHE ARTEMIS ACCORDS: EVOLUTION OR REVOLUTION...by R Deplano · 2021 · Cited by 173 — The Artemis A")
 
 The deeper question is whether humanity can create institutions that encourage investment while preventing permanent concentration of control.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m3lFF6FC2rE" title="Who Benefits From The Privatization Of Space?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m3lFF6FC2rE" target="_blank" rel="noopener noreferrer">Who Benefits From The Privatization Of Space?</a></p><p class="youtube-embed-meta">Channel: Second Thought &middot; Views: 135.5K &middot; Uploaded: June 2020 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m3lFF6FC2rE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m3lFF6FC2rE">Open on YouTube</a></p></div></div></div>
 
@@ -356,7 +353,6 @@ Some scholars therefore argue that future settlements should move toward forms o
 
 The concern is not merely theoretical. Throughout history, frontier settlements have often developed tensions between distant authorities and local populations. Space settlements could face similar pressures, but under conditions where survival itself depends on tightly managed infrastructure.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-2-dark.svg" | relative_url }}" alt="Who benefits illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could AI make concentration of power worse?
 
@@ -366,7 +362,7 @@ Advanced AI systems could dramatically lower the cost of designing habitats, man
 
 But the opposite outcome is also possible.
 
-If the most advanced AI systems remain controlled by a small number of governments or firms, those organisations could gain extraordinary advantages in space development. Superior AI could accelerate resource mapping, engineering design, autonomous construction and strategic planning, allowing early leaders to pull further ahead. In that scenario, AI would not automatically democratise access to the space future; it could amplify existing asymmetries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTowards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span>
+If the most advanced AI systems remain controlled by a small number of governments or firms, those organisations could gain extraordinary advantages in space development. Superior AI could accelerate resource mapping, engineering design, autonomous construction and strategic planning, allowing early leaders to pull further ahead. In that scenario, AI would not automatically democratise access to the space future; it could amplify existing asymmetries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Towards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span>
 
 This is one reason governance questions about AI and governance questions about space settlement increasingly overlap. The distribution of [intelligence]({{ 'intelligence/' | relative_url }}), not only the distribution of material resources, may shape who benefits from expansion beyond Earth.
 
@@ -380,12 +376,11 @@ This raises questions rarely encountered in ordinary politics.
 
 Should future settlers inherit constitutional protections that cannot easily be removed? How should settlements balance adaptation with preservation of founding principles? What obligations do present generations have to leave future communities access to resources rather than exhausting the most valuable sites immediately?
 
-The 1979 Moon Agreement attempted to address some of these concerns by describing lunar resources as the "common heritage of mankind" and envisioning future international arrangements for their management. However, major spacefaring powers never adopted the treaty, limiting its practical influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">UNOOSAMoon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfr.org">[Council on Foreign Relations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfr.org</span><span class="citation-popover-title">artemis accords and next generation outer space governance</span><span class="citation-popover-snippet">Council on Foreign RelationsThe Artemis Accords and the Next Generation of Outer...Jun 2, 2020 — This treaty has been controversial beca...</span></span></span>
+The 1979 Moon Agreement attempted to address some of these concerns by describing lunar resources as the "common heritage of mankind" and envisioning future international arrangements for their management. However, major spacefaring powers never adopted the treaty, limiting its practical influence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Moon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfr.org">[Council on Foreign Relations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfr.org</span><span class="citation-popover-title">artemis accords and next generation outer space governance</span><span class="citation-popover-snippet">Council on Foreign RelationsThe Artemis Accords and the Next Generation of Outer...Jun 2, 2020 — This treaty has been controversial beca...</span></span></span>
 
 More recent proposals include resource royalties, protected scientific zones, limits on exclusive control of strategic locations and governance structures inspired by management of shared terrestrial resources. Some researchers argue that space should be governed less as a territory to be divided and more as a long-term commons requiring stewardship across generations. International Journal of the Commons <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.belfercenter.org/research-analysis/space-cop-governance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belfercenter.org">[Belfer Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belfercenter.org</span><span class="citation-popover-title">space cop governance</span><span class="citation-popover-snippet">Governing Outer Space: A Conference of the Parties for...8 Dec 2025 — In this context, this paper proposes a new solution to make progre...</span></span></span>
 
 The challenge is to create institutions that allow growth while preserving opportunities for people who may live hundreds of years in the future.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-3-dark.svg" | relative_url }}" alt="Who benefits illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_long_future_s_5d53df_space_governa_6011bd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest arguments for broad benefit-sharing
@@ -400,7 +395,6 @@ Third, supporters of broader distribution argue that legitimacy matters. If larg
 
 Possible mechanisms include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * International resource royalties directed toward scientific research or global development.
@@ -414,16 +408,15 @@ Possible mechanisms include:
 
 None of these proposals has achieved broad consensus, but they illustrate how governance choices could influence whether space settlement becomes widely beneficial or narrowly concentrated.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vz6zt8iCkg0" title="The ethics of space settlement - with Erika Nesvold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vz6zt8iCkg0" target="_blank" rel="noopener noreferrer">The ethics of space settlement - with Erika Nesvold</a></p><p class="youtube-embed-meta">Channel: The Royal Institution &middot; Views: 19.0K &middot; Uploaded: January 2024 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vz6zt8iCkg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vz6zt8iCkg0">Open on YouTube</a></p></div></div></div>
 
 ## Why governance may matter as much as rockets
 
-The most optimistic visions of humanity's [long future]({{ 'long-future/' | relative_url }}) imagine civilisation spreading beyond Earth, supported by advanced AI, abundant energy, automated industry and expanding scientific knowledge. In that future, space settlement is not merely an engineering achievement. It becomes a question about what kind of civilisation humanity chooses to build.
+The most optimistic visions of humanity's [long future]({{ 'long-future/' | relative_url }}) imagine civilisation spreading beyond Earth, supported by advanced AI, abundant [energy]({{ 'energy/' | relative_url }}), automated industry and expanding scientific knowledge. In that future, space settlement is not merely an engineering achievement. It becomes a question about what kind of civilisation humanity chooses to build.
 
 The central governance challenge is not whether humans can eventually live beyond Earth. It is whether new settlements become extensions of existing inequalities or opportunities to create institutions that distribute power, security and opportunity more broadly.
 
-If future settlements remain dominated by a small number of states, firms or elites, the benefits of expansion could be concentrated despite extraordinary technological progress. If governance evolves toward wider participation, stronger stewardship and more inclusive access, then space settlement could contribute to the larger AI bloom vision: a future in which humanity's growing capabilities enlarge the scope of flourishing rather than merely the scale of power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">governance in space mining the moon and beyond</span><span class="citation-popover-snippet">RAND CorporationGovernance in Space: Mining the Moon and Beyond18 Nov 2022 — Space mining is subject to relatively little existing policy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectTowards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span> & Francis Online](#endnote-16 "Snippet: In a...Read more")
+If future settlements remain dominated by a small number of states, firms or elites, the benefits of expansion could be concentrated despite extraordinary technological progress. If governance evolves toward wider participation, stronger stewardship and more inclusive access, then space settlement could contribute to the larger AI bloom vision: a future in which humanity's growing capabilities enlarge the scope of flourishing rather than merely the scale of power. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">governance in space mining the moon and beyond</span><span class="citation-popover-snippet">RAND CorporationGovernance in Space: Mining the Moon and Beyond18 Nov 2022 — Space mining is subject to relatively little existing policy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Taylor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Towards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</span></span></span> & Francis Online](#endnote-16 "Snippet: In a...Read more")
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -437,33 +430,16 @@ If future settlements remain dominated by a small number of states, firms or eli
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8pqb0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A City on Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2m6vEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for A City on Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
+          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A City on Mars">A City on Mars</a>
         </h4>
-        <p class="fr-book-author">By DR. KELLY. WEINERSMITH WEINERSMITH (ZACH.)</p>
+        <p class="fr-book-author">By Kelly Weinersmith, Zach Weinersmith</p>
         
-        <p class="fr-book-desc">Directly discusses legal, political and ethical problems of building societies beyond Earth.</p>
+        <p class="fr-book-desc">Covers legal, political and social questions around settling space.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+DR.+KELLY.+WEINERSMITH+WEINERSMITH+%28ZACH.%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Space on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0PqVDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Case for Space" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Space">The Case for Space</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin</p>
-        
-        <p class="fr-book-desc">Addresses economic and institutional questions around space development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Space+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=A+City+on+Mars+by+Kelly+Weinersmith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -478,7 +454,7 @@ If future settlements remain dominated by a small number of states, firms or eli
         </h4>
         <p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Gives broad context for who might shape humanity&#x27;s expansion beyond Earth.</p>
+        <p class="fr-book-desc">Frames the broad future of humanity beyond Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -488,16 +464,33 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The High Frontier on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W7PuAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The High Frontier" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Value+of+Everything+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Value of Everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ERwXDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Value of Everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The High Frontier">The High Frontier</a>
+          <a href="https://www.amazon.com/s?k=The+Value+of+Everything+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Value of Everything">The Value of Everything</a>
         </h4>
-        <p class="fr-book-author">By Gerard K. O&#x27;Neill, David Gump et al.</p>
+        <p class="fr-book-author">By Mariana Mazzucato</p>
         
-        <p class="fr-book-desc">Influential vision of orbital settlements and off-Earth society.</p>
+        <p class="fr-book-desc">Useful for thinking about who captures value from shared frontiers.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+High+Frontier+by+Gerard+K.+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Value+of+Everything+by+Mariana+Mazzucato&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Power and Progress on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Y4Jr0AEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Power and Progress" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Power and Progress">Power and Progress</a>
+        </h4>
+        <p class="fr-book-author">By Daron Acemoglu, Simon Johnson</p>
+        
+        <p class="fr-book-desc">Explains how institutions shape who benefits from new technologies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Power+and+Progress+by+Daron+Acemoglu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -505,7 +498,7 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Space&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Space</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+City+on+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A City on Mars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Future+of+Humanity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Future of Humanity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Value+of+Everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Value of Everything</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -542,15 +535,15 @@ If future settlements remain dominated by a small number of states, firms or eli
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy astrology zodiac map sun moon stars antique illustration poster print"><img src="{{ '/assets/images/marketplace-covers/3d0b48364a748fc26e56.jpg' | relative_url }}" alt="Listing image for Astronomy astrology zodiac map sun moon stars antique illustration poster print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="https://i.ebayimg.com/images/g/ARYAAeSwHpZpCoPf/s-l225.jpg" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Astronomy astrology zodiac map sun moon stars antique illustration poster print</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -558,15 +551,15 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5e36c338af7977a3e48a.jpg' | relative_url }}" alt="Listing image for VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LARGE MOON MAP poster featuring detailed space art print in photo picture format"><img src="https://i.ebayimg.com/images/g/b28AAOSw~oFXEyiw/s-l225.jpg" alt="Listing image for LARGE MOON MAP poster featuring detailed space art print in photo picture format" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">LARGE MOON MAP poster featuring detailed space art print in photo picture format</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -574,15 +567,15 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/WdsAAOSwOrxZ2qJF/s-l225.jpg" alt="Listing image for VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">VINTAGE 1965 USAF LUNAR MOON MAP A3 POSTER PRINT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -590,15 +583,15 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster"><img src="{{ '/assets/images/marketplace-covers/58299ae79a51aade6e68.jpg' | relative_url }}" alt="Listing image for Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift"><img src="https://i.ebayimg.com/images/g/4V4AAeSwsSFpwsjf/s-l225.jpg" alt="Listing image for Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">Antique map MOON selenographic Victorian Dower 1852 astronomy art print poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">Custom Moon Phase Map Print Personalised Night Sky Anniversary Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for moon map print">Search <span data-ebay-domain-label>eBay.co.uk</span>: moon map print</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -606,7 +599,7 @@ If future settlements remain dominated by a small number of states, firms or eli
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map poster -book -books" data-ebay-reference="who-benefits-who-gets-to-own-the-space-future-ai-bloom-abundance-superintelligence-and-humanity-moon-map-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=moon+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-gets-to-own-the-space-future-moon-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="moon map print" data-ebay-reference="who-gets-to-own-the-space-future-moon-map-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -821,179 +814,179 @@ If future settlements remain dominated by a small number of states, firms or eli
 
 1. <a id="endnote-1"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/artemis-accords/](https://www.nasa.gov/artemis-accords/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAArtemis AccordsThe Artemis Accords provide a common set of principles to enhance the governance of the civil exploration and use of o...</p></details>
+   Link: <a href="https://www.nasa.gov/artemis-accords/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/artemis-accords/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artemis AccordsThe Artemis Accords provide a common set of principles to enhance the governance of the civil exploration and use of o...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2589811623000101](https://www.sciencedirect.com/science/article/pii/S2589811623000101)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectTowards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2589811623000101" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2589811623000101</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards earth-space governance in a multi-planetary eraby XS Yap · 2023 · Cited by 32 — We propose a new governance model, e...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: rand.org  
    Title: governance in space mining the moon and beyond  
-   Link: [https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html](https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html)  
+   Link: <a href="https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/pubs/commentary/2022/11/governance-in-space-mining-the-moon-and-beyond.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationGovernance in Space: Mining the Moon and Beyond18 Nov 2022 — Space mining is subject to relatively little existing policy...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: iisl.space  
-   Link: [https://iisl.space/kc-resources/](https://iisl.space/kc-resources/)  
+   Link: <a href="https://iisl.space/kc-resources/" target="_blank" rel="noopener noreferrer nofollow">https://iisl.space/kc-resources/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>KC Category – Space Resources​In considering the concept of “space resources,” the Outer Space Treaty offers internal contradiction. Firs...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0094576523002977](https://www.sciencedirect.com/science/article/pii/S0094576523002977)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576523002977" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576523002977</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space resource activities and the evolution of international...by M de Zwart · 2023 · Cited by 46 — This article explores the likely imp...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: cjil.uchicago.edu  
-   Link: [https://cjil.uchicago.edu/online-archive/who-dares-wins-how-property-rights-space-could-be-dictated-countries-willing-make](https://cjil.uchicago.edu/online-archive/who-dares-wins-how-property-rights-space-could-be-dictated-countries-willing-make)  
+   Link: <a href="https://cjil.uchicago.edu/online-archive/who-dares-wins-how-property-rights-space-could-be-dictated-countries-willing-make" target="_blank" rel="noopener noreferrer nofollow">https://cjil.uchicago.edu/online-archive/who-dares-wins-how-property-rights-space-could-be-dictated-countries-willing-make</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Who Dares, Wins:” How Property Rights in Space Could...13 Jun 2022 — The Accords make clear that extraction is not outlawed as national...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/book/10.1007/978-981-95-0152-6](https://link.springer.com/book/10.1007/978-981-95-0152-6)  
+   Link: <a href="https://link.springer.com/book/10.1007/978-981-95-0152-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/book/10.1007/978-981-95-0152-6</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkArtemis Accords and Resource Mining in Outer SpaceThe book critically examines the potential for space resource mining to pe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: polytechnique-insights.com  
-   Link: [https://www.polytechnique-insights.com/en/columns/space/private-property-and-militarization-the-new-frontiers-of-space-law/](https://www.polytechnique-insights.com/en/columns/space/private-property-and-militarization-the-new-frontiers-of-space-law/)  
+   Link: <a href="https://www.polytechnique-insights.com/en/columns/space/private-property-and-militarization-the-new-frontiers-of-space-law/" target="_blank" rel="noopener noreferrer nofollow">https://www.polytechnique-insights.com/en/columns/space/private-property-and-militarization-the-new-frontiers-of-space-law/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Polytechnique InsightsPrivate property and militarisation: the new frontiers of...28 Oct 2025 — The Outer Space Treaty prohibits soverei...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: unoosa.org  
-   Link: [https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html](https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNOOSAMoon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</p></details>
+   Link: <a href="https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties/moon-agreement.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon AgreementAgreement Governing the Activities of States on the Moon and Other Celestial Bodies. The General Assembly. Reaffirmi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: [https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/artemis-accords-evolution-or-revolution-in-international-space-law/DC08E6D42F7D5A971067E6A1BA442DF1](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/artemis-accords-evolution-or-revolution-in-international-space-law/DC08E6D42F7D5A971067E6A1BA442DF1)  
+   Link: <a href="https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/artemis-accords-evolution-or-revolution-in-international-space-law/DC08E6D42F7D5A971067E6A1BA442DF1" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/artemis-accords-evolution-or-revolution-in-international-space-law/DC08E6D42F7D5A971067E6A1BA442DF1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentTHE ARTEMIS ACCORDS: EVOLUTION OR REVOLUTION...by R Deplano · 2021 · Cited by 173 — The Artemis A...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-981-96-3276-3_17](https://link.springer.com/chapter/10.1007/978-981-96-3276-3_17)  
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-981-96-3276-3_17" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-981-96-3276-3_17</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer LinkLegal Challenges in Establishing Human Settlements in Spaceby Z Ahmad · 2023 · Cited by 3 — This paper delves into the legal...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0265964622000479](https://www.sciencedirect.com/science/article/pii/S0265964622000479)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0265964622000479" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0265964622000479</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Centring Environmentalism in Space Governanceby A Marino · 2023 · Cited by 31 — This article brings into conversation scholarship in law...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
    Title: Artemis Accords signed 13Oct2020  
-   Link: [https://www.nasa.gov/wp-content/uploads/2022/11/Artemis-Accords-signed-13Oct2020.pdf](https://www.nasa.gov/wp-content/uploads/2022/11/Artemis-Accords-signed-13Oct2020.pdf)  
+   Link: <a href="https://www.nasa.gov/wp-content/uploads/2022/11/Artemis-Accords-signed-13Oct2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2022/11/Artemis-Accords-signed-13Oct2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THE ARTEMIS ACCORDSOct 13, 2020 — The purpose of these Accords is to establish a common vision via a practical set of principles, guideli...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nasa.gov  
    Title: space colonization  
-   Link: [https://www.nasa.gov/headquarters/library/find/bibliographies/space-colonization/](https://www.nasa.gov/headquarters/library/find/bibliographies/space-colonization/)  
+   Link: <a href="https://www.nasa.gov/headquarters/library/find/bibliographies/space-colonization/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/headquarters/library/find/bibliographies/space-colonization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Sept 2023 — The subject of space colonization has rapidly moved several steps closer to becoming a reality thanks to major advances in...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sites.temple.edu  
    Title: Sites The Aftermath of the Artemis Accords: Power Dynamics  
-   Link: [https://sites.temple.edu/ticlj/files/2025/05/Posey-The-Aftermath-of-the-Artemis-Accords-Power-Dynamics-Past-and-Present-in-International-Space-Law.pdf](https://sites.temple.edu/ticlj/files/2025/05/Posey-The-Aftermath-of-the-Artemis-Accords-Power-Dynamics-Past-and-Present-in-International-Space-Law.pdf)  
+   Link: <a href="https://sites.temple.edu/ticlj/files/2025/05/Posey-The-Aftermath-of-the-Artemis-Accords-Power-Dynamics-Past-and-Present-in-International-Space-Law.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sites.temple.edu/ticlj/files/2025/05/Posey-The-Aftermath-of-the-Artemis-Accords-Power-Dynamics-Past-and-Present-in-International-Space-Law.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aftermath of the Artemis Accords: Power Dynamics...May 1, 2025 — The Artemis Accords, led by the United States, reinforce a privatized...</p></details>
    Published: May 1, 2025  
 
 16. <a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/abs/10.1080/14777622.2017.1381824](https://www.tandfonline.com/doi/abs/10.1080/14777622.2017.1381824)  
+   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/14777622.2017.1381824" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/14777622.2017.1381824</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In a...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: thecommonsjournal.org  
-   Link: [https://thecommonsjournal.org/articles/10.5334/ijc.1271](https://thecommonsjournal.org/articles/10.5334/ijc.1271)  
+   Link: <a href="https://thecommonsjournal.org/articles/10.5334/ijc.1271" target="_blank" rel="noopener noreferrer nofollow">https://thecommonsjournal.org/articles/10.5334/ijc.1271</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of the CommonsOuter Space as a Global Commons: An Empirical Study of...by P Pic · 2023 · Cited by 28 — This articl...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thecommonsjournal.org  
-   Link: [https://thecommonsjournal.org/articles/10.5334/ijc.1378](https://thecommonsjournal.org/articles/10.5334/ijc.1378)  
+   Link: <a href="https://thecommonsjournal.org/articles/10.5334/ijc.1378" target="_blank" rel="noopener noreferrer nofollow">https://thecommonsjournal.org/articles/10.5334/ijc.1378</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of the CommonsGoverning Outer Space as a Commons is Critical for...by MA Janssen · 2024 · Cited by 8 — We will sho...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/21680256251414949](https://journals.sagepub.com/doi/10.1177/21680256251414949)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/21680256251414949" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/21680256251414949</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA 21st Century Political Economy Research Agenda13 Jan 2026 — Many developing countries and many marginalized communities wi...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: cfr.org  
    Title: artemis accords and next generation outer space governance  
-   Link: [https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance](https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance)  
+   Link: <a href="https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.cfr.org/articles/artemis-accords-and-next-generation-outer-space-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Council on Foreign RelationsThe Artemis Accords and the Next Generation of Outer...Jun 2, 2020 — This treaty has been controversial beca...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: belfercenter.org  
    Title: space cop governance  
-   Link: [https://www.belfercenter.org/research-analysis/space-cop-governance](https://www.belfercenter.org/research-analysis/space-cop-governance)  
+   Link: <a href="https://www.belfercenter.org/research-analysis/space-cop-governance" target="_blank" rel="noopener noreferrer nofollow">https://www.belfercenter.org/research-analysis/space-cop-governance</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Governing Outer Space: A Conference of the Parties for...8 Dec 2025 — In this context, this paper proposes a new solution to make progre...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1375830/full](https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1375830/full)  
+   Link: <a href="https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1375830/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/space-technologies/articles/10.3389/frspt.2024.1375830/full</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessing benefits and risks between the space...by T Cernev · 2024 · Cited by 7 — This paper presents the findings from an expert elici...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: diplomacy.edu  
    Title: The Artemis Accords  
-   Link: [https://www.diplomacy.edu/resource/the-artemis-accords/](https://www.diplomacy.edu/resource/the-artemis-accords/)  
+   Link: <a href="https://www.diplomacy.edu/resource/the-artemis-accords/" target="_blank" rel="noopener noreferrer nofollow">https://www.diplomacy.edu/resource/the-artemis-accords/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Diplo ResourceOct 13, 2020 — The Artemis Accords are a set of principles and guidelines for international cooperation in the exploration...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: docs.un.org  
-   Link: [https://docs.un.org/en/A/C.4/77/SR.16](https://docs.un.org/en/A/C.4/77/SR.16)  
+   Link: <a href="https://docs.un.org/en/A/C.4/77/SR.16" target="_blank" rel="noopener noreferrer nofollow">https://docs.un.org/en/A/C.4/77/SR.16</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Assembly - the United NationsJan 31, 2023 — The growing interest in joining the Artemis Accords was encouraging; 21 countries now...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo](https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Socio-Economic Benefits in the Global SouthThe [Space Economy](&amp;#123;&amp;#123; &#x27;economic-sustainability/&#x27; | relative_url &amp;#125;&amp;#125;) Humanity will inevitably expand beyond Earth — developing off-plan...</p></details>
+   Link: <a href="https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/anthony-p-d-costa-9688774_new-space-economy-a-21st-century-political-activity-7429295398877384704-PPxo</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering Socio-Economic Benefits in the Global SouthThe Space Economy Humanity will inevitably expand beyond Earth — developing off-plan...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: scholarsforsociety.com  
-   Link: [https://scholarsforsociety.com/space-settlement/](https://scholarsforsociety.com/space-settlement/)  
+   Link: <a href="https://scholarsforsociety.com/space-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://scholarsforsociety.com/space-settlement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space SettlementObjectors to space settlement assert that the massive investment necessary would further exacerbate pre-existing issues o...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: international-and-comparative-law-review.law.miami.edu  
    Title: the need for comprehensive space governance in the age of space colonization  
-   Link: [https://international-and-comparative-law-review.law.miami.edu/the-need-for-comprehensive-space-governance-in-the-age-of-space-colonization/](https://international-and-comparative-law-review.law.miami.edu/the-need-for-comprehensive-space-governance-in-the-age-of-space-colonization/)  
+   Link: <a href="https://international-and-comparative-law-review.law.miami.edu/the-need-for-comprehensive-space-governance-in-the-age-of-space-colonization/" target="_blank" rel="noopener noreferrer nofollow">https://international-and-comparative-law-review.law.miami.edu/the-need-for-comprehensive-space-governance-in-the-age-of-space-colonization/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Need for Comprehensive Space Governance in the Age...16 Nov 2023 — This agreement aimed to build upon the principles of the Outer Space...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: 2021-2025.state.gov  
    Title: U.S. Department of State Artemis Accords  
-   Link: [https://2021-2025.state.gov/artemis-accords/](https://2021-2025.state.gov/artemis-accords/)  
+   Link: <a href="https://2021-2025.state.gov/artemis-accords/" target="_blank" rel="noopener noreferrer nofollow">https://2021-2025.state.gov/artemis-accords/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of StateArtemis Accords - United States Department of StateThe Artemis Accords are a non-binding set of principles design...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: asljournal.org  
-   Link: [https://asljournal.org/15-5/](https://asljournal.org/15-5/)  
+   Link: <a href="https://asljournal.org/15-5/" target="_blank" rel="noopener noreferrer nofollow">https://asljournal.org/15-5/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>shed international legal frameworks, such as the Outer Space Treaty and the...Read more...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: thespacereview.com  
-   Link: [https://www.thespacereview.com/article/4270/1](https://www.thespacereview.com/article/4270/1)  
+   Link: <a href="https://www.thespacereview.com/article/4270/1" target="_blank" rel="noopener noreferrer nofollow">https://www.thespacereview.com/article/4270/1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Space ReviewIs outer space a de jure common-pool resource?Oct 25, 2021 — Outer space would be considered a non-exclusive, non-subtrac...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: cba.org  
-   Link: [https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/](https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/)  
+   Link: <a href="https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/" target="_blank" rel="noopener noreferrer nofollow">https://www.cba.org/sections/air-and-space-law/resources/equity-in-the-space-frontier-the-laws-of-commercial-space-mining-and-solutions-for-common-benefit/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The laws of commercial space mining, and solutions for...Sep 11, 2024 — Unlike the OST which has different interpretations, the Artemis...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: nyujilp.org  
    Title: nyi 54 2 181 254 Tepper  
-   Link: [https://www.nyujilp.org/wp-content/uploads/2022/05/nyi_54-2-181-254_Tepper.pdf](https://www.nyujilp.org/wp-content/uploads/2022/05/nyi_54-2-181-254_Tepper.pdf)  
+   Link: <a href="https://www.nyujilp.org/wp-content/uploads/2022/05/nyi_54-2-181-254_Tepper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nyujilp.org/wp-content/uploads/2022/05/nyi_54-2-181-254_Tepper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There have been no new treaties since, and none are expected in the foreseeable future.Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: youtube.com  
    Title: Law & Order In Space: Treaties & Regulations  
-   Link: [https://www.youtube.com/watch?v=6lILajGlrZk](https://www.youtube.com/watch?v=6lILajGlrZk)  
+   Link: <a href="https://www.youtube.com/watch?v=6lILajGlrZk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6lILajGlrZk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy Cast Episode 670: Governing Space - The Outer Space Treaty of 1967 and More...</p></details>

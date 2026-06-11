@@ -30,7 +30,7 @@ sidebar_expanded_urls:
 - /resilience/
 nav_short_title: Pandemic AI
 title: Can AI Really Warn US Before the Next Pandemic?
-title_full: Can AI Really Warn US Before the Next Pandemic? | Resilience
+title_full: Can AI Really Warn US Before the Next Pandemic?
 display_title_short: Pandemic AI
 display_title: Pandemic AI
 heading_title: Can AI Really Warn US Before the Next Pandemic?
@@ -205,7 +205,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can AI Help Civilisation Avoid Catastrophe? | AI Bloom
+date: '2026-06-08 01:28:27'
+parent_title: Can AI Help Civilisation Avoid Catastrophe?
 parent_permalink: /resilience/
 parent_nav_short_title: Resilience
 parent_heading_title: Can AI Help Civilisation Avoid Catastrophe?
@@ -273,7 +274,6 @@ prev_link:
   permalink: /conflict-ai/
   short_title: Conflict AI
   heading_title: When Conflict Forecasting Helps And When It Fails
-date: '2026-06-08 01:28:27 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-1.webp
@@ -282,67 +282,60 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_54
 
 ## Introduction
 
-AI‑enhanced pandemic forecasting and [early warning]({{ 'early-warning/' | relative_url }}) systems are among the most tangible ways advanced [intelligence]({{ 'intelligence/' | relative_url }}) technologies could help civilisation *anticipate* and *mitigate* outbreaks before they overwhelm health systems and societies. By analysing diverse, large‑scale data in real time, AI holds out the promise of detecting signals of emerging disease far earlier than traditional epidemiological reporting alone. Yet the practical reality is nuanced: these tools have demonstrated promising improvements in outbreak detection and short‑term forecasting, but they also face structural and data‑driven limits that mean truly reliable early warning — especially for novel pathogens — remains a hard frontier. Understanding both the capabilities and the limits of pandemic forecasting AI is crucial for assessing its role in civilisational resilience and the broader “AI bloom” potential to narrow surprise and strengthen global preparedness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40626156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedArtificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
-
+AI‑enhanced pandemic forecasting and [early warning]({{ 'early-warning/' | relative_url }}) systems are among the most tangible ways advanced [intelligence]({{ 'intelligence/' | relative_url }}) technologies could help civilisation *anticipate* and *mitigate* outbreaks before they overwhelm health systems and societies. By analysing diverse, large‑scale data in real time, AI holds out the promise of detecting signals of emerging disease far earlier than traditional epidemiological reporting alone. Yet the practical reality is nuanced: these tools have demonstrated promising improvements in outbreak detection and short‑term forecasting, but they also face structural and data‑driven limits that mean truly reliable early warning — especially for novel pathogens — remains a hard frontier. Understanding both the capabilities and the limits of pandemic forecasting AI is crucial for assessing its role in civilisational resilience and the broader “AI bloom” potential to narrow surprise and strengthen global preparedness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40626156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Artificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-1-dark.svg" | relative_url }}" alt="Pandemic AI illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How AI Forecasting Systems Work
 
-AI‑based early warning systems (EWS) for infectious disease combine machine learning, deep learning and, increasingly, natural language processing (NLP) with multi‑source data to detect and forecast outbreaks. Models typically ingest epidemiological time‑series data, digital surveillance streams (news reports, web searches, social media), environmental and climate data, and sometimes policy or mobility signals. Algorithms such as Long Short‑Term Memory networks (LSTMs), random forests, ensemble methods and other regression or classification techniques detect patterns or anomalies that may presage rising case counts or outbreak events. In some experimental frameworks, large language models (LLMs) are also being adapted to integrate textual policy and genomic surveillance information into forecasting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+AI‑based early warning systems (EWS) for infectious disease combine machine learning, deep learning and, increasingly, natural language processing (NLP) with multi‑source data to detect and forecast outbreaks. Models typically ingest epidemiological time‑series data, digital surveillance streams (news reports, web searches, social media), environmental and climate data, and sometimes policy or mobility signals. Algorithms such as Long Short‑Term Memory networks (LSTMs), random forests, ensemble methods and other regression or classification techniques detect patterns or anomalies that may presage rising case counts or outbreak events. In some experimental frameworks, large language models (LLMs) are also being adapted to integrate textual policy and genomic surveillance information into forecasting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
-Across the literature, machine learning systems frequently outperform baseline statistical models in early detection and short‑range forecasting — for example, improving accuracy and timeliness of case count projections over one to several weeks. They also automate data integration across sources that conventional surveillance alone struggles to unify, potentially offering earlier clues to emerging threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-
+Across the literature, machine learning systems frequently outperform baseline statistical models in early detection and short‑range forecasting — for example, improving accuracy and timeliness of case count projections over one to several weeks. They also automate data integration across sources that conventional surveillance alone struggles to unify, potentially offering earlier clues to emerging threats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JJYQlhwgWQ4" title="What the science of uncertainty tells us about human nature | Adam Kucharski | TEDxLondon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JJYQlhwgWQ4" target="_blank" rel="noopener noreferrer">What the science of uncertainty tells us about human nature | Adam Kucharski | TEDxLondon</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 23.1K &middot; Uploaded: March 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JJYQlhwgWQ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JJYQlhwgWQ4">Open on YouTube</a></p></div></div></div>
 
 ## Where Early Warning Has Succeeded
 
-In practice, AI‑augmented systems have delivered useful signals ahead of traditional reporting in certain settings. Commercial and research systems using open‑source data streams such as news and search trends were able to flag COVID‑19 anomalies earlier than some formal health systems during the pandemic, illustrating that automated pattern recognition can sometimes buy valuable time for situational awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+In practice, AI‑augmented systems have delivered useful signals ahead of traditional reporting in certain settings. Commercial and research systems using open‑source data streams such as news and search trends were able to flag COVID‑19 anomalies earlier than some formal health systems during the pandemic, illustrating that automated pattern recognition can sometimes buy valuable time for situational awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 More broadly, systematic reviews of AI applications in early epidemic detection show that models can reliably identify patterns associated with outbreaks when sufficient historical and real‑time data are available. Neural networks and ensemble models have shown strong performance in forecasting seasonal outbreaks of known diseases like dengue, influenza and malaria. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</span></span></span>
 
-These successes tend to cluster around *situations where the underlying dynamics are familiar* — seasonal diseases with relatively stable historical patterns, comprehensive data streams and known influencing factors such as climate or mobility. In such contexts, AI can enhance traditional surveillance and even provide useful short‑term predictions that support public‑health planning and resource allocation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-
+These successes tend to cluster around *situations where the underlying dynamics are familiar* — seasonal diseases with relatively stable historical patterns, comprehensive data streams and known influencing factors such as climate or mobility. In such contexts, AI can enhance traditional surveillance and even provide useful short‑term predictions that support public‑health planning and resource allocation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-2-dark.svg" | relative_url }}" alt="Pandemic AI illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Novel Outbreaks Still Surprise Models
 
 Despite encouraging use cases, AI forecasting systems have inherent limits that constrain their reliability — especially when a truly *novel* pathogen or outbreak pattern emerges.
 
-**Data Quality and Availability:** AI models are fundamentally dependent on input data. In early outbreak stages, reporting is sparse, inconsistent across jurisdictions, and often delayed. Poor quality, incomplete or biased datasets yield unreliable predictions (“garbage in, garbage out”), and models may perform poorly when the training distributions do not reflect the actual unfolding dynamics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+**Data Quality and Availability:** AI models are fundamentally dependent on input data. In early outbreak stages, reporting is sparse, inconsistent across jurisdictions, and often delayed. Poor quality, incomplete or biased datasets yield unreliable predictions (“garbage in, garbage out”), and models may perform poorly when the training distributions do not reflect the actual unfolding dynamics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">June 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
 **Generalisability and Bias:** Many models are trained on data from particular regions, diseases or demographic contexts. When applied to new settings — different geographies, unobserved transmission patterns, or entirely novel agents — their forecasts can degrade rapidly due to lack of generalisability. AI models may also encode biases that underrepresent certain populations, further weakening early detection in those communities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/full/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</span></span></span>
 
-**Structural “[Black Box]({{ 'black-box-ai/' | relative_url }})” Challenges:** Advanced AI models, especially deep learning systems, often lack transparency. Their internal decision processes can be opaque to public‑health officials, making it difficult to validate or contextualise predictions. This “black box” nature complicates trust and integration into public health workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+**Structural “Black Box” Challenges:** Advanced AI models, especially deep learning systems, often lack transparency. Their internal decision processes can be opaque to public‑health officials, making it difficult to validate or contextualise predictions. This “black box” nature complicates trust and integration into public health workflows. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">June 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
-**Complex, Non‑Linear Dynamics:** Disease spread is shaped by human behaviour, policy interventions, mobility, climate, immunity landscapes, and socio‑political factors. Data‑driven models struggle to disentangle such complex dynamics when they are unprecedented or rapidly shifting, leading to poor [predictive]({{ 'failure-warnings/' | relative_url }}) performance early in a new crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/full/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</span></span></span>
+**Complex, Non‑Linear Dynamics:** Disease spread is shaped by human behaviour, policy interventions, mobility, climate, immunity landscapes, and socio‑political factors. Data‑driven models struggle to disentangle such complex dynamics when they are unprecedented or rapidly shifting, leading to poor predictive performance early in a new crisis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/full/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</span></span></span>
 
 **Limitations for Long‑Range Forecasts:** Most AI systems show degradation in performance over longer prediction horizons. Forecasts that look weeks ahead are far less reliable than short, near‑term predictions — a key limitation when policymakers seek *early* warning well before exponential growth accelerates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/full/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IhCTCfW-pdg" title="AI, qualitative data, and the case for statistical rigour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer">AI, qualitative data, and the case for statistical rigour</a></p><p class="youtube-embed-meta">Channel: PEI Innovation Forum &middot; Views: 169 &middot; Uploaded: May 2026 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IhCTCfW-pdg">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Promise and Limits
 
-AI forecasting systems represent a clear incremental advance over traditional surveillance approaches, particularly for enhancing situational awareness, integrating diverse data streams and improving short‑range outbreak detection. In those roles, they strengthen early warning and help allocate public health resources more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
+AI forecasting systems represent a clear incremental advance over traditional surveillance approaches, particularly for enhancing situational awareness, integrating diverse data streams and improving short‑range outbreak detection. In those roles, they strengthen early warning and help allocate public health resources more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
-At the same time, the current generation of AI models is constrained by data limitations, bias, structural opacity and limited adaptability to novel conditions. These aren’t just technical quirks but fundamental challenges of predicting systems with high uncertainty and sparse early data. Even the most advanced AI cannot reliably ‘foresee’ the first emergence of a truly new pathogen before any observable signals exist to learn from or model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+At the same time, the current generation of AI models is constrained by data limitations, bias, structural opacity and limited adaptability to novel conditions. These aren’t just technical quirks but fundamental challenges of predicting systems with high uncertainty and sparse early data. Even the most advanced AI cannot reliably ‘foresee’ the first emergence of a truly new pathogen before any observable signals exist to learn from or model. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">June 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
 This limits the ability of AI alone to guarantee early warning on its own — novel outbreaks can and do outrun prediction models until sufficient data has accumulated and system biases are corrected. Building [resilience]({{ 'resilience/' | relative_url }}) therefore hinges not only on better models but on improving data infrastructure, transparency, equitable data access and integration with expert epidemiological judgement.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-3-dark.svg" | relative_url }}" alt="Pandemic AI illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_pandemic_fore_542374-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Implications for Civilisational Resilience
 
 In the broader context of civilisational resilience and the “AI bloom” framework, pandemic forecasting AI offers valuable evidence that intelligent systems can help human societies *narrow surprise* and *respond quicker* to emerging health threats. They show how AI can extend human analytical capacity across complex, multi‑dimensional data and support decision‑making in crisis conditions.
 
-Yet the limits of early warning remind us that technology is not a panacea: advancing forecasting should go hand‑in‑hand with [governance]({{ 'power/' | relative_url }}) improvements, data sharing, ethical deployment, and investments in health systems — especially in under‑resourced settings. Early warning AI matters most when it forms part of a broader, robust preparedness ecosystem rather than a stand‑alone predictor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40626156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedArtificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
+Yet the limits of early warning remind us that technology is not a panacea: advancing forecasting should go hand‑in‑hand with governance improvements, data sharing, ethical deployment, and investments in health systems — especially in under‑resourced settings. Early warning AI matters most when it forms part of a broader, robust preparedness ecosystem rather than a stand‑alone predictor. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/40626156/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Artificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</span><span class="citation-popover-meta">Published: June 23, 2025</span></span></span>
 
-In sum, AI can significantly enhance pandemic preparedness, but truly overcoming the surprise of novel pathogens will require both technological innovation and systemic strengthening of global public health infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
-
+In sum, AI can significantly enhance pandemic preparedness, but truly overcoming the surprise of novel pathogens will require both technological innovation and systemic strengthening of global public health infrastructure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Frontiers &#124; AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</span><span class="citation-popover-meta">Published: July 30, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-qSNJYZPegg" title="EpiWatch Product Demonstration Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-qSNJYZPegg" target="_blank" rel="noopener noreferrer">EpiWatch Product Demonstration Video</a></p><p class="youtube-embed-meta">Channel: EpiWatch Internal &middot; Views: 1.1K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-qSNJYZPegg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-qSNJYZPegg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -363,9 +356,26 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
         </h4>
         <p class="fr-book-author">By Michael Lewis</p>
         
-        <p class="fr-book-desc">Directly addresses forecasting, preparedness and outbreak response.</p>
+        <p class="fr-book-desc">Explores early warning, forecasting and public-health response.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rules of Contagion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TmYtzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Rules of Contagion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rules of Contagion">The Rules of Contagion</a>
+        </h4>
+        <p class="fr-book-author">By Adam Kucharski</p>
+        
+        <p class="fr-book-desc">Explains modelling, spread and prediction of epidemics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Rules+of+Contagion+by+Adam+Kucharski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,7 +390,7 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
         </h4>
         <p class="fr-book-author">By David Quammen</p>
         
-        <p class="fr-book-desc">Explains origins and emergence of infectious diseases.</p>
+        <p class="fr-book-desc">Provides foundational understanding of outbreak emergence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spillover+by+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -397,7 +407,7 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
         </h4>
         <p class="fr-book-author">By Nicholas A. Christakis</p>
         
-        <p class="fr-book-desc">Examines societal responses to pandemics.</p>
+        <p class="fr-book-desc">Examines societal responses to pandemics and preparedness.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Apollo%27s+Arrow+by+Nicholas+A.+Christakis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -405,26 +415,9 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
-        </h4>
-        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
-        
-        <p class="fr-book-desc">Relevant to outbreak prediction and forecasting methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Apollo%27s+Arrow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Apollo&#x27;s Arrow</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rules+of+Contagion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rules of Contagion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spillover&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spillover</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -437,7 +430,7 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
         <p class="fr-section-kicker">eBay marketplace picks</p>
         <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
       </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
@@ -461,15 +454,15 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S"><img src="{{ '/assets/images/marketplace-covers/7d44048355434783e1e8.jpg' | relative_url }}" alt="Listing image for Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100x-250x Pocket Mini Microscope Kids Adults Handheld Miniscope LED Science Gift"><img src="https://i.ebayimg.com/images/g/hqYAAeSwe1Np31n5/s-l225.jpg" alt="Listing image for 100x-250x Pocket Mini Microscope Kids Adults Handheld Miniscope LED Science Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer">Resident Evil Nemisis - Resin Model / Figure / Statue Fan Art T-Virus S.T.A.R.S</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer">100x-250x Pocket Mini Microscope Kids Adults Handheld Miniscope LED Science Gift</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -477,15 +470,15 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model"><img src="{{ '/assets/images/marketplace-covers/23f626484455964245a1.jpg' | relative_url }}" alt="Listing image for Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100X Portable Digital Magnifier 1080P HD Microscope 2.8-inch IPS Handheld UK"><img src="https://i.ebayimg.com/images/g/bLYAAeSwvfVqKAiF/s-l225.jpg" alt="Listing image for 100X Portable Digital Magnifier 1080P HD Microscope 2.8-inch IPS Handheld UK" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer">Figure Man Virus Thermometer Hazmat Crew Mask Painted Diorama 1:24 Scale Model</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer">100X Portable Digital Magnifier 1080P HD Microscope 2.8-inch IPS Handheld UK</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -493,15 +486,15 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Virus Model Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/88b04877a841973f16cc.jpg' | relative_url }}" alt="Listing image for Virus Model Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOMLOV DM9 Max 10.1&quot; Microscope w/ 64GB, Ideal for Classroom Teaching &amp; Learning"><img src="https://i.ebayimg.com/images/g/hBYAAOSw3WdoLXLG/s-l225.jpg" alt="Listing image for TOMLOV DM9 Max 10.1&quot; Microscope w/ 64GB, Ideal for Classroom Teaching &amp; Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer">Virus Model Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer">TOMLOV DM9 Max 10.1&quot; Microscope w/ 64GB, Ideal for Classroom Teaching &amp; Learning</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -509,15 +502,15 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color"><img src="{{ '/assets/images/marketplace-covers/1c534a3aea1094228159.jpg' | relative_url }}" alt="Listing image for Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Elikliv DM4 LCD Digital Microscope 1000X Coin Magnifier For Computer PCB Repair"><img src="https://i.ebayimg.com/images/g/oEsAAOSw~eFkYdTo/s-l225.jpg" alt="Listing image for Elikliv DM4 LCD Digital Microscope 1000X Coin Magnifier For Computer PCB Repair" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer">Coronavirus COVID Virus Model Sculpture Pandemic Pathogen - Pick Size, Color</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer">Elikliv DM4 LCD Digital Microscope 1000X Coin Magnifier For Computer PCB Repair</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for virus model">Search <span data-ebay-domain-label>eBay.co.uk</span>: virus model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for microscope">Search <span data-ebay-domain-label>eBay.co.uk</span>: microscope</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -525,7 +518,7 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=virus+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="virus model" data-ebay-reference="pandemic-ai-can-ai-really-warn-us-before-the-next-pandemic-ai-bloom-abundance-superintelligence-virus-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=microscope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-ai-really-warn-us-before-the-next-pandemic-microscope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="microscope" data-ebay-reference="can-ai-really-warn-us-before-the-next-pandemic-microscope" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -740,110 +733,110 @@ In sum, AI can significantly enhance pandemic preparedness, but truly overcoming
 
 1. <a id="endnote-1"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/40626156/](https://pubmed.ncbi.nlm.nih.gov/40626156/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedArtificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40626156/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40626156/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence in early warning systems for infectious disease surveillance: a systematic review - PubMedJune 23, 2025...</p></details>
    Published: June 23, 2025  
 
 2. <a id="endnote-2"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/articles/10.3389/fpubh.2025.1609615/full](https://www.frontiersin.org/articles/10.3389/fpubh.2025.1609615/full)  
+   Link: <a href="https://www.frontiersin.org/articles/10.3389/fpubh.2025.1609615/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/articles/10.3389/fpubh.2025.1609615/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Artificial intelligence in early warning systems for infectious disease surveillance: a systematic reviewJune 23, 2025...</p></details>
    Published: June 23, 2025  
 
 3. <a id="endnote-3"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1609615/abstract](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1609615/abstract)  
+   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1609615/abstract" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2025.1609615/abstract</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersFrontiers | Artificial intelligence in early warning systems for infectious disease surveillance: a systematic reviewJune 23, 2025...</p></details>
    Published: June 23, 2025  
 
 4. <a id="endnote-4"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/10.1177/14604582241275844](https://journals.sagepub.com/doi/10.1177/14604582241275844)  
+   Link: <a href="https://journals.sagepub.com/doi/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/14604582241275844</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCJune 23, 2025...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12230060/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>June 23, 2025...</p></details>
    Published: June 23, 2025  
 
 6. <a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: [https://journals.sagepub.com/doi/full/10.1177/14604582241275844](https://journals.sagepub.com/doi/full/10.1177/14604582241275844)  
+   Link: <a href="https://journals.sagepub.com/doi/full/10.1177/14604582241275844" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/full/10.1177/14604582241275844</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAI-based epidemic and pandemic early warning systems: A systematic scoping review - Christo El Morr, Deniz Ozdemir, Yasmeen...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/39172555/](https://pubmed.ncbi.nlm.nih.gov/39172555/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedAI-based epidemic and pandemic early warning systems: A systematic scoping review - PubMed...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39172555/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39172555/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-based epidemic and pandemic early warning systems: A systematic scoping review - PubMed...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: [https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full)  
+   Link: <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1645467/full</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frontiers | AI-driven epidemic intelligence: the future of outbreak detection and responseJuly 30, 2025 — EPIDEMIOLOGICAL MODELING AND AI...</p></details>
    Published: July 30, 2025  
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Harnessing AI for early epidemic detection  
-   Link: [https://www.youtube.com/watch?v=-qSNJYZPegg](https://www.youtube.com/watch?v=-qSNJYZPegg)  
+   Link: <a href="https://www.youtube.com/watch?v=-qSNJYZPegg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-qSNJYZPegg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>PMC - NIH...</p></details>
 
 ### Additional References
 
 10. <a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2504-4990/8/1/15](https://www.mdpi.com/2504-4990/8/1/15)  
+   Link: <a href="https://www.mdpi.com/2504-4990/8/1/15" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-4990/8/1/15</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tive Performance AnalysisJanuary 7, 2026 — ABSTRACT Background: Mosquito-borne viral diseases are a growing global health threat, and art...</p></details>
    Published: January 7, 2026  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2949924026000066](https://www.sciencedirect.com/science/article/pii/S2949924026000066)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2949924026000066" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2949924026000066</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHALLENGES AND LIMITATIONS Despite the transformative potential of AI and big data in infectious disease modeling, several challenges con...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: In response, many population-level computational modeling approaches ha  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9702983/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9702983/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9702983/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9702983/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>approaches for early warning and monitoring of pandemic situations as well as decision support - PMCNovember 14, 2022 — ABSTRACT The COVI...</p></details>
    Published: November 14, 2022  
 
 13. <a id="endnote-13"></a>
    Source: link.springer.com  
    Title: The limitations presented in most studies often include rel  
-   Link: [https://link.springer.com/article/10.1186/s12982-025-00573-y](https://link.springer.com/article/10.1186/s12982-025-00573-y)  
+   Link: <a href="https://link.springer.com/article/10.1186/s12982-025-00573-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12982-025-00573-y</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forecasting for future pandemics: a review of pathogens, models, and data | Discover Public Health | Springer Nature LinkApril 30, 2025 —...</p></details>
    Published: April 30, 2025  
 
 14. <a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10052500/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10052500/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10052500/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10052500/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence in public health: the potential of epidemic early warning systems - PMCMarch 26, 2023 — ABSTRACT The use of artificial intel...</p></details>
    Published: March 26, 2023  
 
 15. <a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC11731462/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11731462/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11731462/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11731462/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Dec 3;10(2):410–422. doi: 10.1016/j.idm.2024.12.001 GLOBAL INFECTIOUS DISEASE EARLY WARNING MODELS: AN UPDATED REVIEW AND LESSONS FR...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC13111277/](https://pmc.ncbi.nlm.nih.gov/articles/PMC13111277/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13111277/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13111277/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHALLENGES The continual development of novel predictive models drives the advancement of forecasting techniques aimed at reducing the ga...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.06962](https://arxiv.org/abs/2404.06962)  
+   Link: <a href="https://arxiv.org/abs/2404.06962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.06962</a>  
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Beyond the Genome: Tracking Climate-Driven Epidemic Risk with AI  
-   Link: [https://www.youtube.com/watch?v=G_itaJHx1Iw](https://www.youtube.com/watch?v=G_itaJHx1Iw)  
+   Link: <a href="https://www.youtube.com/watch?v=G_itaJHx1Iw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_itaJHx1Iw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI, qualitative data, and the case for statistical rigour...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: AI, qualitative data, and the case for statistical rigour  
-   Link: [https://www.youtube.com/watch?v=IhCTCfW-pdg](https://www.youtube.com/watch?v=IhCTCfW-pdg)  
+   Link: <a href="https://www.youtube.com/watch?v=IhCTCfW-pdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhCTCfW-pdg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Building a Grounded Approach to AI in Public Health Surveillance...</p></details>

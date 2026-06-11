@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /labour-impacts/
 nav_short_title: Deskilling
 title: Can safer work become worse work?
-title_full: Can safer work become worse work? | Labour Impacts
+title_full: Can safer work become worse work?
 display_title_short: Deskilling
 display_title: Deskilling
 heading_title: Can safer work become worse work?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Automation of Dangerous Work Reshapes Jobs and Wages | Robotics
+date: '2026-06-08 02:13:33'
+parent_title: How Automation of Dangerous Work Reshapes Jobs and Wages
 parent_permalink: /labour-impacts/
 parent_nav_short_title: Labour Impacts
 parent_heading_title: How Automation of Dangerous Work Reshapes Jobs and Wages
@@ -260,7 +261,6 @@ next_link:
   permalink: /remote-roles/
   short_title: Remote roles
   heading_title: When dangerous jobs move to control rooms
-date: '2026-06-08 02:13:33 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-1.webp
@@ -270,7 +270,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1f
 ## Introduction
 
 Automating dangerous work can remove some of the worst features of industrial life. Fewer workers need to enter unstable mines, handle toxic chemicals, climb hazardous structures or perform physically damaging repetitive labour. For supporters of an AI-enabled future of abundance, that matters because reducing injury, illness and premature death is one of the clearest ways technology can expand human flourishing.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-1-dark.svg" | relative_url }}" alt="Deskilling illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 But safer work is not automatically better work. A factory, warehouse, transport network or [energy]({{ 'energy/' | relative_url }}) facility can become physically safer while simultaneously becoming more monitored, more monotonous and less dependent on human judgement. Workers may move from active problem-solving roles into passive supervisory positions where software makes most decisions and humans intervene only when something goes wrong. In extreme cases, people become attendants to machines rather than skilled participants in production.
@@ -285,7 +284,7 @@ A mining worker who no longer enters unstable tunnels is clearly safer. A wareho
 
 Yet these gains can arrive alongside a different set of losses. The worker may now spend most of the day watching screens, responding to automated alerts and following software-generated instructions. Instead of exercising judgement throughout a task, they may only be permitted to intervene during rare exceptions.
 
-The OECD has repeatedly highlighted this tension. AI can improve occupational safety and some aspects of job quality, while also creating risks around loss of agency, excessive monitoring and reduced worker control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">artificial intelligence job quality and inclusiveness a713d0ad</span><span class="citation-popover-snippet">OECDArtificial intelligence, job quality and inclusiveness11 Jul 2023 — This chapter reviews the current empirical evidence of the effect...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI and workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational safety...</span></span></span>
+The OECD has repeatedly highlighted this tension. AI can improve occupational safety and some aspects of job quality, while also creating risks around loss of agency, excessive monitoring and reduced worker control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">artificial intelligence job quality and inclusiveness a713d0ad</span><span class="citation-popover-snippet">Artificial intelligence, job quality and inclusiveness11 Jul 2023 — This chapter reviews the current empirical evidence of the effect...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">AI and workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational safety...</span></span></span>
 
 This distinction matters because people generally value more than wages and safety alone. Research on work quality consistently finds that autonomy, skill development, social recognition and the ability to exercise judgement are major contributors to job satisfaction. A role can become physically easier while becoming psychologically thinner.
 
@@ -295,7 +294,7 @@ In the optimistic AI bloom scenario, dangerous labour is not merely removed. Hum
 
 Deskilling occurs when technology reduces the need for workers to develop, maintain or exercise skills that were previously central to their role.
 
-Historically, this has appeared in many industries. Skilled crafts were sometimes broken into simpler standardised tasks. Digital systems later automated portions of clerical, technical and professional work. AI extends this process because it can increasingly perform [cognitive]({{ 'broad-access/' | relative_url }}) tasks as well as physical ones.
+Historically, this has appeared in many industries. Skilled crafts were sometimes broken into simpler standardised tasks. Digital systems later automated portions of clerical, technical and professional work. AI extends this process because it can increasingly perform cognitive tasks as well as physical ones.
 
 Several mechanisms repeatedly appear.
 
@@ -303,12 +302,11 @@ Several mechanisms repeatedly appear.
 
 **Conversion of judgement into procedure.** Activities once requiring experience become structured workflows with predefined options. Instead of diagnosing problems independently, workers follow software prompts and escalation rules.
 
-**Loss of apprenticeship pathways.** Many professions rely on juniors learning through repeated exposure to routine work. When AI or automation absorbs those tasks, training pipelines can weaken. Concerns about disappearing learning opportunities have appeared in fields ranging from law and software development to technical operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zephoria.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zephoria.medium.com</span><span class="citation-popover-title">Deskilling on the Job</span><span class="citation-popover-snippet">MediumDeskilling on the Job - danah boydApril 21, 2023 — We may be fine with deskilling junior lawyers now, but how do we generate future...</span><span class="citation-popover-meta">Published: April 21, 2023</span></span></span>
+**Loss of apprenticeship pathways.** Many professions rely on juniors learning through repeated exposure to routine work. When AI or automation absorbs those tasks, training pipelines can weaken. Concerns about disappearing learning opportunities have appeared in fields ranging from law and software development to technical operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: zephoria.medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">zephoria.medium.com</span><span class="citation-popover-title">Deskilling on the Job</span><span class="citation-popover-snippet">Deskilling on the Job - danah boydApril 21, 2023 — We may be fine with deskilling junior lawyers now, but how do we generate future...</span><span class="citation-popover-meta">Published: April 21, 2023</span></span></span>
 
 **Concentration of expertise.** Knowledge can migrate from frontline workers into software systems, engineering teams or central management functions. Workers continue operating the system but have less influence over how it functions.
 
 The result is not necessarily unemployment. Many workers remain employed. The concern is that their role becomes narrower, making them easier to replace and less able to develop deeper expertise over time.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RlZSqacBJ8s" title="Workplace Monitoring In The Era Of Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RlZSqacBJ8s" target="_blank" rel="noopener noreferrer">Workplace Monitoring In The Era Of Artificial Intelligence</a></p><p class="youtube-embed-meta">Channel: European Parliamentary Research Service &middot; Views: 1.6K &middot; Uploaded: February 2021 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RlZSqacBJ8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RlZSqacBJ8s">Open on YouTube</a></p></div></div></div>
 
@@ -348,7 +346,6 @@ The concern is not simply privacy. It is the transformation of work into a serie
 
 Several recent analyses of algorithmic management argue that excessive monitoring can contribute to deskilling by reducing workers' ability to decide how tasks should be performed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ifow.org/news-articles/making-algorithmic-management-safe-for-workers-new-regulation-is-needed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifow.org">[ifow.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifow.org</span><span class="citation-popover-title">making algorithmic management safe for workers new regulation is needed</span><span class="citation-popover-snippet">Making Algorithmic Management safe for workers28 Jul 2023 — AM&#x27;s automation of tasks can lead to deskilling, where workers see a fall in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nelp.org/new-report-details-employers-harmful-use-of-digital-surveillance-and-automated-decision-systems-highlights-urgent-need-for-policy-action/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nelp.org">[National Employment Law Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nelp.org</span><span class="citation-popover-snippet">New Report Details Employers&#x27; Harmful Use of Digital...15 Jul 2025 —... dangers posed by digital surveillance and automated decision sy...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-2-dark.svg" | relative_url }}" alt="Deskilling illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden long-term problem: who still knows how the system works?
 
@@ -368,14 +365,13 @@ The issue becomes even more important in a future where advanced AI systems may 
 
 Critics of AI optimism often point to this possibility. A civilisation may become technologically powerful while losing distributed human competence. The challenge is not only economic. It concerns [resilience]({{ 'resilience/' | relative_url }}) and human agency.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PqDh2mXib4U" title="Your Boss is Using AI to Track Your Every Move" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PqDh2mXib4U" target="_blank" rel="noopener noreferrer">Your Boss is Using AI to Track Your Every Move</a></p><p class="youtube-embed-meta">Channel: CareerGuide &middot; Views: 275 &middot; Uploaded: April 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PqDh2mXib4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PqDh2mXib4U">Open on YouTube</a></p></div></div></div>
 
 ## Ways to preserve autonomy, mastery and human judgement
 
 The existence of deskilling risks does not mean automation inevitably produces worse work.
 
-Many researchers and policymakers now focus on how technology can augment workers rather than merely constrain them. OECD work on AI and the future of work increasingly emphasises worker empowerment, skills and job quality alongside productivity and safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">algorithmic management in the workplace 287c13c4 en</span><span class="citation-popover-snippet">OECDAlgorithmic management in the workplaceby A Milanez · 2025 · Cited by 48 — Algorithmic management – the use of software, which may in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">algorithmic management in the workplace</span><span class="citation-popover-snippet">6 Feb 2025 — The survey offers unprecedented insights into algorithmic management in the workplace, its perceived impacts and firm-level...</span></span></span>
+Many researchers and policymakers now focus on how technology can augment workers rather than merely constrain them. OECD work on AI and the future of work increasingly emphasises worker empowerment, skills and job quality alongside productivity and safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">algorithmic management in the workplace 287c13c4 en</span><span class="citation-popover-snippet">Algorithmic management in the workplaceby A Milanez · 2025 · Cited by 48 — Algorithmic management – the use of software, which may in...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">algorithmic management in the workplace</span><span class="citation-popover-snippet">6 Feb 2025 — The survey offers unprecedented insights into algorithmic management in the workplace, its perceived impacts and firm-level...</span></span></span>
 
 Several design principles appear repeatedly.
 
@@ -386,7 +382,6 @@ The strongest augmentation models leave meaningful decisions with humans.
 Instead of generating instructions that workers must follow, AI systems can provide analysis, forecasts, risk warnings and recommendations that support decision-making. Workers remain active participants rather than passive recipients of commands.
 
 This approach tends to preserve learning because people continue exercising judgement.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-3-dark.svg" | relative_url }}" alt="Deskilling illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_labour_market_1fbaa5_deskilling_sa_abbe0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Protect opportunities to build expertise
@@ -403,7 +398,6 @@ Research on automation frequently finds better outcomes when workers participate
 
 Worker involvement can help ensure that automation removes hazards without unnecessarily removing discretion.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1AOs7VYRmDM" title="Dangerously Incompetent: How AI and Robots Are Deskilling the Workforce | Matt Beane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1AOs7VYRmDM" target="_blank" rel="noopener noreferrer">Dangerously Incompetent: How AI and Robots Are Deskilling the Workforce | Matt Beane</a></p><p class="youtube-embed-meta">Channel: Dart Lindsley &middot; Views: 153 &middot; Uploaded: October 2024 &middot; Length: 1 hour 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1AOs7VYRmDM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1AOs7VYRmDM">Open on YouTube</a></p></div></div></div>
 
 ### Measure success beyond injury rates
@@ -411,7 +405,6 @@ Worker involvement can help ensure that automation removes hazards without unnec
 A factory that halves workplace injuries has achieved something valuable. But injury reduction alone should not define success.
 
 Organisations can also track:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -555,15 +548,15 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/af746335bf5be63e6531.jpg' | relative_url }}" alt="Listing image for Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2785"><img src="https://i.ebayimg.com/images/g/YK0AAOSw9EdnAUma/s-l225.jpg" alt="Listing image for The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2785" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Robotics Robot Artificial Intellige Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2785</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -571,15 +564,15 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Notes Large Cloth Poster Official Goods Japan"><img src="{{ '/assets/images/marketplace-covers/a826b67e58d0f07ddf2d.jpg' | relative_url }}" alt="Listing image for Robotics Notes Large Cloth Poster Official Goods Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Wild Robot 2024 Teaser Movie Poster"><img src="https://i.ebayimg.com/images/g/r2kAAOSwDmJl9vo1/s-l225.jpg" alt="Listing image for The Wild Robot 2024 Teaser Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Robotics Notes Large Cloth Poster Official Goods Japan</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">The Wild Robot 2024 Teaser Movie Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -587,15 +580,15 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/1f2e780a32e1d8c26606.jpg' | relative_url }}" alt="Listing image for Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/COoAAeSw24tp1~SN/s-l225.jpg" alt="Listing image for Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Robotics Teacher Definition Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">Robot Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -603,15 +596,15 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/71d1e510f51f2b89794e.jpg' | relative_url }}" alt="Listing image for Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2784"><img src="https://i.ebayimg.com/images/g/jPYAAOSwbqNnAUm5/s-l225.jpg" alt="Listing image for The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2784" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Robotics no. 2 Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">The Wild Robot 2024 Movie Poster Wall Art Print A5 A4 A3 A2 A1 Maxi 2784</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robotics poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robotics poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for robot poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: robot poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -619,7 +612,7 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robotics+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robotics poster -book -books" data-ebay-reference="deskilling-can-safer-work-become-worse-work-ai-bloom-abundance-superintelligence-and-humanity-robotics-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=robot+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-safer-work-become-worse-work-robot-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="robot poster" data-ebay-reference="can-safer-work-become-worse-work-robot-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -835,165 +828,165 @@ For advocates of an AI-enabled long-term future, the challenge is therefore larg
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: artificial [intelligence](&#123;&#123; 'intelligence/' | relative_url &#125;&#125;) job quality and inclusiveness a713d0ad  
-   Link: [https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html](https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDArtificial intelligence, job quality and inclusiveness11 Jul 2023 — This chapter reviews the current empirical evidence of the effect...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-job-quality-and-inclusiveness_a713d0ad.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence, job quality and inclusiveness11 Jul 2023 — This chapter reviews the current empirical evidence of the effect...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/sub-issues/ai-and-work.html](https://www.oecd.org/en/topics/sub-issues/ai-and-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-and-work.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational safety...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/ai-and-work.html](https://www.oecd.org/en/topics/ai-and-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/ai-and-work.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational safety...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aubreydaniels.com  
    Title: is deskilling a threat to safety in your workplace  
-   Link: [https://www.aubreydaniels.com/blog/is-deskilling-a-threat-to-safety-in-your-workplace](https://www.aubreydaniels.com/blog/is-deskilling-a-threat-to-safety-in-your-workplace)  
+   Link: <a href="https://www.aubreydaniels.com/blog/is-deskilling-a-threat-to-safety-in-your-workplace" target="_blank" rel="noopener noreferrer nofollow">https://www.aubreydaniels.com/blog/is-deskilling-a-threat-to-safety-in-your-workplace</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maybe you&#x27;ve heard the term de-skilling. It refers to the loss of knowledge or skills on...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: zephoria.medium.com  
    Title: Deskilling on the Job  
-   Link: [https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435](https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumDeskilling on the Job - danah boydApril 21, 2023 — We may be fine with deskilling junior lawyers now, but how do we generate future...</p></details>
+   Link: <a href="https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435" target="_blank" rel="noopener noreferrer nofollow">https://zephoria.medium.com/deskilling-on-the-job-bbd71a74a435</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deskilling on the Job - danah boydApril 21, 2023 — We may be fine with deskilling junior lawyers now, but how do we generate future...</p></details>
    Published: April 21, 2023  
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
    Title: algorithmic management in the workplace 287c13c4 en  
-   Link: [https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html](https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDAlgorithmic management in the workplaceby A Milanez · 2025 · Cited by 48 — Algorithmic management – the use of software, which may in...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/algorithmic-management-in-the-workplace_287c13c4-en.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic management in the workplaceby A Milanez · 2025 · Cited by 48 — Algorithmic management – the use of software, which may in...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: oecd.ai  
    Title: algorithmic management in the workplace  
-   Link: [https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace](https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace)  
+   Link: <a href="https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/ai-publications/algorithmic-management-in-the-workplace</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Feb 2025 — The survey offers unprecedented insights into algorithmic management in the workplace, its perceived impacts and firm-level...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ifow.org  
    Title: making algorithmic management safe for workers new regulation is needed  
-   Link: [https://www.ifow.org/news-articles/making-algorithmic-management-safe-for-workers-new-regulation-is-needed](https://www.ifow.org/news-articles/making-algorithmic-management-safe-for-workers-new-regulation-is-needed)  
+   Link: <a href="https://www.ifow.org/news-articles/making-algorithmic-management-safe-for-workers-new-regulation-is-needed" target="_blank" rel="noopener noreferrer nofollow">https://www.ifow.org/news-articles/making-algorithmic-management-safe-for-workers-new-regulation-is-needed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Making Algorithmic Management safe for workers28 Jul 2023 — AM&#x27;s automation of tasks can lead to deskilling, where workers see a fall in...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/working-group-future-of-work](https://oecd.ai/en/working-group-future-of-work)  
+   Link: <a href="https://oecd.ai/en/working-group-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/working-group-future-of-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of WorkThe OECD and GPAI&#x27;s work analyses AI&#x27;s effects on job markets, workplace practices, and hiring processes while explorin...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: oecd.org  
    Title: making ai work why investing in skills matters  
-   Link: [https://www.oecd.org/en/blogs/2026/01/making-ai-work-why-investing-in-skills-matters.html](https://www.oecd.org/en/blogs/2026/01/making-ai-work-why-investing-in-skills-matters.html)  
+   Link: <a href="https://www.oecd.org/en/blogs/2026/01/making-ai-work-why-investing-in-skills-matters.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/blogs/2026/01/making-ai-work-why-investing-in-skills-matters.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Making AI Work: Why Investing in Skills Matters2 Feb 2026 — Skills will be a key driver of AI&#x27;s impact on productivity and growth. This b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/community/gpai-working-group-on-the-future-of-work](https://oecd.ai/en/community/gpai-working-group-on-the-future-of-work)  
+   Link: <a href="https://oecd.ai/en/community/gpai-working-group-on-the-future-of-work" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/community/gpai-working-group-on-the-future-of-work</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Future of Work Working Group: AI ExpertA focus will be on how workers and employers can prepare for the future of work, and how job...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: dl.acm.org  
    Title: This, in turn  
-   Link: [https://dl.acm.org/doi/10.1145/3613904.3642907](https://dl.acm.org/doi/10.1145/3613904.3642907)  
+   Link: <a href="https://dl.acm.org/doi/10.1145/3613904.3642907" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3613904.3642907</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryExploring Labor Relations in Workplace Automation and...11 May 2024 — The developers&#x27; efforts to exert more control c...</p></details>
    Published: May 2024  
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/future-of-work.html](https://www.oecd.org/en/topics/future-of-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/future-of-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/future-of-work.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational saf...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oecd.org  
    Title: full report  
-   Link: [https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en/full-report.html](https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en/full-report.html)  
+   Link: <a href="https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en/full-report.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/how-widespread-is-algorithmic-management-in-workplaces_cda7a114-en/full-report.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How widespread is algorithmic management in workplaces?Dec 19, 2025 — In most countries, firms are less likely to adopt algorithmic manag...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/policy-issues/future-of-work.html](https://www.oecd.org/en/topics/policy-issues/future-of-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/policy-issues/future-of-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/future-of-work.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of workHowever, there are risks too, such as automation, loss of agency, bias and discrimination, breaches of privacy and a lack o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oecd.org  
    Title: 59e89d7f en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/defining-and-classifying-ai-in-the-workplace_35d2d069/59e89d7f-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/defining-and-classifying-ai-in-the-workplace_35d2d069/59e89d7f-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/defining-and-classifying-ai-in-the-workplace_35d2d069/59e89d7f-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/03/defining-and-classifying-ai-in-the-workplace_35d2d069/59e89d7f-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining and classifying AI in the workplaceby M Williams · 2023 · Cited by 27 — AI-enabled monitoring and scheduling tools can negativel...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: publications.jrc.ec.europa.eu  
    Title: JRC Publications Electronic Monitoring and Surveillance in the Workplace  
-   Link: [https://publications.jrc.ec.europa.eu/repository/bitstream/JRC125716/jrc125716_electronic_monitoring_and_surveillance_in_the_workplace_final.pdf](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC125716/jrc125716_electronic_monitoring_and_surveillance_in_the_workplace_final.pdf)  
+   Link: <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC125716/jrc125716_electronic_monitoring_and_surveillance_in_the_workplace_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.jrc.ec.europa.eu/repository/bitstream/JRC125716/jrc125716_electronic_monitoring_and_surveillance_in_the_workplace_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JRC PublicationsElectronic Monitoring and Surveillance in the WorkplaceNovember 22, 2021 — by K BALL · Cited by 200 — When remote working...</p></details>
    Published: November 22, 2021  
 
 19. <a id="endnote-19"></a>
    Source: nelp.org  
-   Link: [https://www.nelp.org/new-report-details-employers-harmful-use-of-digital-surveillance-and-automated-decision-systems-highlights-urgent-need-for-policy-action/](https://www.nelp.org/new-report-details-employers-harmful-use-of-digital-surveillance-and-automated-decision-systems-highlights-urgent-need-for-policy-action/)  
+   Link: <a href="https://www.nelp.org/new-report-details-employers-harmful-use-of-digital-surveillance-and-automated-decision-systems-highlights-urgent-need-for-policy-action/" target="_blank" rel="noopener noreferrer nofollow">https://www.nelp.org/new-report-details-employers-harmful-use-of-digital-surveillance-and-automated-decision-systems-highlights-urgent-need-for-policy-action/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Report Details Employers&#x27; Harmful Use of Digital...15 Jul 2025 —... dangers posed by digital surveillance and automated decision sy...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/ai-tools-are-deskilling-workers-philosophy-professor-2025-11](https://www.businessinsider.com/ai-tools-are-deskilling-workers-philosophy-professor-2025-11)  
+   Link: <a href="https://www.businessinsider.com/ai-tools-are-deskilling-workers-philosophy-professor-2025-11" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/ai-tools-are-deskilling-workers-philosophy-professor-2025-11</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>While companies believe AI boosts productivity, Berg argues it&#x27;s undermining workers&#x27; skills, particularly among junior employees. These...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: equitablegrowth.org  
-   Link: [https://equitablegrowth.org/research-paper/estimating-the-prevalence-of-automated-management-and-surveillance-technologies-at-work-and-their-impact-on-workers-well-being/](https://equitablegrowth.org/research-paper/estimating-the-prevalence-of-automated-management-and-surveillance-technologies-at-work-and-their-impact-on-workers-well-being/)  
+   Link: <a href="https://equitablegrowth.org/research-paper/estimating-the-prevalence-of-automated-management-and-surveillance-technologies-at-work-and-their-impact-on-workers-well-being/" target="_blank" rel="noopener noreferrer nofollow">https://equitablegrowth.org/research-paper/estimating-the-prevalence-of-automated-management-and-surveillance-technologies-at-work-and-their-impact-on-workers-well-being/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>work at unsafe speeds, though a judge later cleared Amazon of... While the potential risks posed by automated management and surveillance...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: tuac.org  
-   Link: [https://tuac.org/news/new-oecd-report-on-algorithmic-management-reveals-urgent-need-for-worker-protections/](https://tuac.org/news/new-oecd-report-on-algorithmic-management-reveals-urgent-need-for-worker-protections/)  
+   Link: <a href="https://tuac.org/news/new-oecd-report-on-algorithmic-management-reveals-urgent-need-for-worker-protections/" target="_blank" rel="noopener noreferrer nofollow">https://tuac.org/news/new-oecd-report-on-algorithmic-management-reveals-urgent-need-for-worker-protections/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New OECD report on algorithmic management reveals urgent...7 Feb 2025 — The OECD Working Paper &#x27;Algorithmic Management in the Workplace&#x27;...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: uclalawreview.org  
-   Link: [https://www.uclalawreview.org/the-consequences-of-automating-and-deskilling-the-police/](https://www.uclalawreview.org/the-consequences-of-automating-and-deskilling-the-police/)  
+   Link: <a href="https://www.uclalawreview.org/the-consequences-of-automating-and-deskilling-the-police/" target="_blank" rel="noopener noreferrer nofollow">https://www.uclalawreview.org/the-consequences-of-automating-and-deskilling-the-police/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The deskilling of the police is inevitable because automation is increasingly becoming a part of...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: GOV.UK  
-   Title: assessment of ai capabilities and the impact on the uk [labour market](&#123;&#123; 'labour-impacts/' | relative_url &#125;&#125;)  
-   Link: [https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market](https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market)  
+   Title: assessment of ai capabilities and the impact on the uk labour market  
+   Link: <a href="https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market/assessment-of-ai-capabilities-and-the-impact-on-the-uk-labour-market</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of AI capabilities and the impact on...28 Jan 2026 — The AI and Future of Work Unit has been established in part to address this gap by...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0925753525000888](https://www.sciencedirect.com/science/article/pii/S0925753525000888)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0925753525000888" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0925753525000888</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Algorithmic management and occupational healthby KH Nilsson · 2025 · Cited by 26 — These risks can result in hazardous work practices, su...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: onlabor.org  
    Title: Training Your Replacement, One Keystroke at a Time2 days ago —  
-   Link: [https://onlabor.org/training-your-replacement-one-keystroke-at-a-time/](https://onlabor.org/training-your-replacement-one-keystroke-at-a-time/)  
+   Link: <a href="https://onlabor.org/training-your-replacement-one-keystroke-at-a-time/" target="_blank" rel="noopener noreferrer nofollow">https://onlabor.org/training-your-replacement-one-keystroke-at-a-time/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>monitoring, deskilling, or replacing it. As TechCrunch put it, Meta... job to be automated or deskilled. With automated capture, the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: academy.evalcommunity.com  
    Title: how do oecd ai principles support monitoring and evaluation me  
-   Link: [https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/](https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/)  
+   Link: <a href="https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/" target="_blank" rel="noopener noreferrer nofollow">https://academy.evalcommunity.com/how-do-oecd-ai-principles-support-monitoring-and-evaluation-me/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Principles in Monitoring and EvaluationFeb 16, 2026 — The OECD AI Principles support monitoring and evaluation (M&amp;E) by establishing g...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: inc.com  
    Title: how ai automation is quietly deskilling white collar workers  
-   Link: [https://www.inc.com/andrea-olson/how-ai-automation-is-quietly-deskilling-white-collar-workers/91316067](https://www.inc.com/andrea-olson/how-ai-automation-is-quietly-deskilling-white-collar-workers/91316067)  
+   Link: <a href="https://www.inc.com/andrea-olson/how-ai-automation-is-quietly-deskilling-white-collar-workers/91316067" target="_blank" rel="noopener noreferrer nofollow">https://www.inc.com/andrea-olson/how-ai-automation-is-quietly-deskilling-white-collar-workers/91316067</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI Automation Is Quietly De-Skilling White-Collar Workers23 Mar 2026 — Economists call it de-skilling—the process by which normally s...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 376490098 Job Security in the Artificial Intelligence and Automation Era  
-   Link: [https://www.researchgate.net/publication/376490098_Job_Security_in_the_Artificial_Intelligence_and_Automation_Era](https://www.researchgate.net/publication/376490098_Job_Security_in_the_Artificial_Intelligence_and_Automation_Era)  
+   Link: <a href="https://www.researchgate.net/publication/376490098_Job_Security_in_the_Artificial_Intelligence_and_Automation_Era" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/376490098_Job_Security_in_the_Artificial_Intelligence_and_Automation_Era</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Deskilling teachers: An excessive... control [100]. Tech dependency risks: Reliance on sophisticated. automation...</p></details>

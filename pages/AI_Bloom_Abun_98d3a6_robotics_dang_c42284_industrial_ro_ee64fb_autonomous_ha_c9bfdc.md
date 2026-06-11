@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /industrial-robotics/
 nav_short_title: Autonomous Haulage
 title: 'Autonomous Mining Trucks: Reducing Accidents and Risk'
-title_full: 'Autonomous Mining Trucks: Reducing Accidents and Risk | Industrial Robotics'
+title_full: 'Autonomous Mining Trucks: Reducing Accidents and Risk'
 display_title_short: Autonomous Haulage
 display_title: Autonomous Haulage
 heading_title: 'Autonomous Mining Trucks: Reducing Accidents and Risk'
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How AI Robots Are Reducing Risk in Dangerous Industries | Robotics
+date: '2026-06-08 02:12:16'
+parent_title: How AI Robots Are Reducing Risk in Dangerous Industries
 parent_permalink: /industrial-robotics/
 parent_nav_short_title: Industrial Robotics
 parent_heading_title: How AI Robots Are Reducing Risk in Dangerous Industries
@@ -260,7 +261,6 @@ next_link:
   permalink: /industrial-exoskeletons/
   short_title: Industrial Exoskeletons
   heading_title: How Wearable Exoskeletons Protect Workers in Industry
-date: '2026-06-08 02:12:16 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-1.webp
@@ -271,18 +271,16 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee
 
 Autonomous haul trucks are among the most mature examples of AI-enabled [robotics]({{ 'robotics/' | relative_url }}) replacing dangerous human work in heavy industry. Instead of placing drivers inside vehicles that can weigh hundreds of tonnes and operate around steep pit walls, blasting zones, dust clouds and heavy traffic, mining companies increasingly use trucks that navigate, haul and coordinate themselves under computer supervision.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-1-dark.svg" | relative_url }}" alt="Autonomous Haulage illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For supporters of the broader AI abundance vision, this matters because it demonstrates a practical pathway for reducing dangerous labour rather than merely making it more efficient. Mining remains one of the industries most exposed to vehicle collisions, fatigue-related mistakes and hazardous environmental conditions. Autonomous haulage systems aim to remove people from those risks while maintaining or increasing production. The technology is already operating at large scale in iron ore and copper mines run by companies such as Rio Tinto, BHP and Anglo American, using autonomous systems developed by firms including Komatsu and Caterpillar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation | MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span> Komatsu The significance reaches beyond mining. Autonomous haul trucks offer a real-world example of a broader possibility within AI-enabled robotics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[komatsu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-snippet">KomatsuFrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</span></span></span>: shifting humans away from dangerous frontline tasks and towards supervision, planning, maintenance and system management.
+For supporters of the broader AI abundance vision, this matters because it demonstrates a practical pathway for reducing dangerous labour rather than merely making it more efficient. Mining remains one of the industries most exposed to vehicle collisions, fatigue-related mistakes and hazardous environmental conditions. Autonomous haulage systems aim to remove people from those risks while maintaining or increasing production. The technology is already operating at large scale in iron ore and copper mines run by companies such as Rio Tinto, BHP and Anglo American, using autonomous systems developed by firms including Komatsu and Caterpillar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation &#124; MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span> Komatsu The significance reaches beyond mining. Autonomous haul trucks offer a real-world example of a broader possibility within AI-enabled robotics <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[komatsu.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-snippet">FrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</span></span></span>: shifting humans away from dangerous frontline tasks and towards supervision, planning, maintenance and system management.
 
 ## How Autonomous Haulage Removes People From Mining Hazards
 
 Open-pit mines rely on large fleets of haul trucks that continuously transport ore and waste rock between loading and dumping points. Traditionally, every vehicle required a human driver working long shifts in a difficult environment.
 
-Autonomous haulage systems change that model. Trucks are equipped with GPS positioning, radar, lidar, onboard computers, obstacle-detection systems and wireless communications links. Rather than following a driver's decisions, vehicles follow digitally defined routes while continuously monitoring surrounding conditions. Central [control]({{ 'control/' | relative_url }}) software tracks the location, speed and direction of all participating vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation | MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powerfleet.com">[2powerfleet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powerfleet.com</span><span class="citation-popover-snippet">Learn the benefits of autonomous mining fleets, including increased productivity...</span></span></span>
+Autonomous haulage systems change that model. Trucks are equipped with GPS positioning, radar, lidar, onboard computers, obstacle-detection systems and wireless communications links. Rather than following a driver's decisions, vehicles follow digitally defined routes while continuously monitoring surrounding conditions. Central [control]({{ 'control/' | relative_url }}) software tracks the location, speed and direction of all participating vehicles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation &#124; MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: powerfleet.com">[2powerfleet.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">powerfleet.com</span><span class="citation-popover-snippet">Learn the benefits of autonomous mining fleets, including increased productivity...</span></span></span>
 
 The most direct safety gain comes from reducing exposure. Human operators no longer need to spend entire shifts inside vehicles travelling through:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -294,7 +292,7 @@ The most direct safety gain comes from reducing exposure. Human operators no lon
 
 </div>
 
-Mining researchers and industry operators repeatedly identify powered haulage as one of the industry's major safety hazards. Autonomous systems attempt to eliminate a large share of the human error associated with vehicle operation by removing the driver from the vehicle itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Implementing autonomous haulage trucks in mining: Safety</span><span class="citation-popover-snippet">ResearchGateImplementing autonomous haulage trucks in mining: Safety...November 30, 2025 — 3 Mar 2026 — This study investigates the impl...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">cdc 148735 DS1</span><span class="citation-popover-snippet">CDC StacksAn Assessment of the Automation Impact on Worker Safety...by J Haight · 2023 — The importance of well-designed and maintained...</span></span></span>
+Mining researchers and industry operators repeatedly identify powered haulage as one of the industry's major safety hazards. Autonomous systems attempt to eliminate a large share of the human error associated with vehicle operation by removing the driver from the vehicle itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Implementing autonomous haulage trucks in mining: Safety</span><span class="citation-popover-snippet">Implementing autonomous haulage trucks in mining: Safety...November 30, 2025 — 3 Mar 2026 — This study investigates the impl...</span><span class="citation-popover-meta">Published: November 30, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stacks.cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stacks.cdc.gov</span><span class="citation-popover-title">cdc 148735 DS1</span><span class="citation-popover-snippet">CDC StacksAn Assessment of the Automation Impact on Worker Safety...by J Haight · 2023 — The importance of well-designed and maintained...</span></span></span>
 
 This does not mean mines become fully unmanned. Human workers still oversee operations, maintain vehicles, coordinate production and intervene when unusual situations arise. The shift is from direct exposure to remote supervision.
 
@@ -312,10 +310,9 @@ This approach proved particularly useful in areas affected by unstable ground, r
 
 Modern autonomous haulage systems increasingly move beyond teleoperation. Instead of continuously controlling individual trucks, human supervisors monitor entire fleets.
 
-Rio Tinto's autonomous trucks in Western Australia operate using predefined GPS routes and a supervisory control system that continuously knows vehicle locations, directions and speeds. The trucks navigate haul roads and intersections without onboard drivers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation | MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span>
+Rio Tinto's autonomous trucks in Western Australia operate using predefined GPS routes and a supervisory control system that continuously knows vehicle locations, directions and speeds. The trucks navigate haul roads and intersections without onboard drivers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation &#124; MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span>
 
 This changes the role of labour. A single control room team can oversee numerous vehicles simultaneously, focusing on exceptions rather than routine driving. The system handles the repetitive transport task while people manage higher-level decisions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NUfcPfh1Rcg" title="Jimblebar autonomous trucks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NUfcPfh1Rcg" target="_blank" rel="noopener noreferrer">Jimblebar autonomous trucks</a></p><p class="youtube-embed-meta">Channel: BHP &middot; Views: 31.2K &middot; Uploaded: July 2017 &middot; Length: 4 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NUfcPfh1Rcg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NUfcPfh1Rcg">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ The most impressive feature of autonomous haulage is often not the truck itself 
 
 A modern mine may operate dozens or even hundreds of large vehicles simultaneously. The system must continuously decide:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which truck should travel where.
@@ -342,12 +338,11 @@ A modern mine may operate dozens or even hundreds of large vehicles simultaneous
 
 </div>
 
-Komatsu's FrontRunner system and Caterpillar's MineStar Command are designed around this fleet-level coordination problem rather than simple vehicle automation. The objective is to create a mine-wide transport system that behaves predictably and safely at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-snippet">KomatsuFrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</span></span></span>
+Komatsu's FrontRunner system and Caterpillar's MineStar Command are designed around this fleet-level coordination problem rather than simple vehicle automation. The objective is to create a mine-wide transport system that behaves predictably and safely at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-snippet">FrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</span></span></span>
 
-Researchers increasingly treat haulage as a large optimisation challenge involving scheduling, traffic management and operational constraints. Recent work has explored AI planning methods capable of dynamically dispatching trucks while satisfying safety and production requirements across complex mining environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.16200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivMCTS Based Dispatch of Autonomous Vehicles under Operational Constraints for Continuous TransportationJuly 23, 2024...</span><span class="citation-popover-meta">Published: July 23, 2024</span></span></span>
+Researchers increasingly treat haulage as a large optimisation challenge involving scheduling, traffic management and operational constraints. Recent work has explored AI planning methods capable of dynamically dispatching trucks while satisfying safety and production requirements across complex mining environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2407.16200" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">MCTS Based Dispatch of Autonomous Vehicles under Operational Constraints for Continuous TransportationJuly 23, 2024...</span><span class="citation-popover-meta">Published: July 23, 2024</span></span></span>
 
 This is one reason autonomous haulage is relevant to larger discussions about AI-enabled civilisation. The core capability is not merely robotic movement. It is the coordination of many machines operating together in a changing environment while maintaining safety and productivity.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-2-dark.svg" | relative_url }}" alt="Autonomous Haulage illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Safety Improvements Have Actually Been Reported?
@@ -356,10 +351,9 @@ Mining companies frequently report substantial reductions in accidents after dep
 
 Industry reporting on Australian operations has cited reductions of around 90% in haul truck accidents alongside productivity gains and lower operating costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mine.nridigital.com/mine_australia_jun24/robotics-revolution-mining-australia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mine.nridigital.com">[mine.nridigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mine.nridigital.com</span><span class="citation-popover-title">robotics revolution mining australia</span><span class="citation-popover-snippet">reduction in operating costs and a 90% reduction in haul truck accidents. “The mining sector in Australia has seen a substantial increase...</span></span></span>
 
-Rio Tinto has become one of the best-known large-scale deployments. The company operates more than 130 autonomous trucks across its Pilbara iron ore operations and has spent years expanding automation through its broader Mine of the Future programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation | MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span>
+Rio Tinto has become one of the best-known large-scale deployments. The company operates more than 130 autonomous trucks across its Pilbara iron ore operations and has spent years expanding automation through its broader Mine of the Future programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riotinto.com">[Rio Tinto]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riotinto.com</span><span class="citation-popover-snippet">Rio TintoAutomation &#124; MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</span></span></span>
 
 Several mechanisms contribute to improved safety:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,10 +366,9 @@ Several mechanisms contribute to improved safety:
 
 </div>
 
-Komatsu states that autonomous haulage has been operating commercially since 2008 and presents safety improvement as one of the system's central benefits. The company has expanded deployments across multiple continents and continues to scale the technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-title">australian mining increasing productivity autonomously</span><span class="citation-popover-snippet">KomatsuAustralian Mining: Increasing productivity autonomouslyKomatsu&#x27;s AHS was first commercially implemented in 2008, and for the 16 ye...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-title">komatsu becomes first oem to commission 1000 ultra class autonomous haul trucks</span><span class="citation-popover-snippet">930E autonomous ultra-class haul truckApr 21, 2026 — FrontRunner Autonomous Haulage System continues to create value for customer operati...</span></span></span>
+Komatsu states that autonomous haulage has been operating commercially since 2008 and presents safety improvement as one of the system's central benefits. The company has expanded deployments across multiple continents and continues to scale the technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-title">australian mining increasing productivity autonomously</span><span class="citation-popover-snippet">Australian Mining: Increasing productivity autonomouslyKomatsu&#x27;s AHS was first commercially implemented in 2008, and for the 16 ye...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: komatsu.com">[Komatsu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">komatsu.com</span><span class="citation-popover-title">komatsu becomes first oem to commission 1000 ultra class autonomous haul trucks</span><span class="citation-popover-snippet">930E autonomous ultra-class haul truckApr 21, 2026 — FrontRunner Autonomous Haulage System continues to create value for customer operati...</span></span></span>
 
 The broader pattern is important. The safety gains do not mainly come from making individual workers more careful. They come from redesigning the transport process so that fewer workers are exposed to the underlying hazard in the first place.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Nw7q0t2A9o" title="Komatsu Autonomous Haulage System (AHS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Nw7q0t2A9o" target="_blank" rel="noopener noreferrer">Komatsu Autonomous Haulage System (AHS)</a></p><p class="youtube-embed-meta">Channel: Komatsu Mining &middot; Views: 80.3K &middot; Uploaded: April 2019 &middot; Length: 2 minutes 52 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Nw7q0t2A9o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Nw7q0t2A9o">Open on YouTube</a></p></div></div></div>
 
@@ -398,14 +391,12 @@ This matters for understanding the wider AI robotics story. Technologies that im
 
 In the optimistic AI bloom framework, this is an important pattern. Dangerous labour becomes easier to eliminate when safer systems are also economically attractive.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-3-dark.svg" | relative_url }}" alt="Autonomous Haulage illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_robotics_dang_c42284_industrial_ro_ee64fb_autonomous_ha_c9bfdc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Technology Is Not Risk-Free
 
 The strongest arguments for autonomous haulage are substantial, but they do not eliminate safety concerns.
 
 Autonomous systems introduce new risks that differ from traditional driving hazards: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smsequipment.com/en-ca/advanced-technologies/smart-mining/autonomous-haulage-systems/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smsequipment.com">[smsequipment.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smsequipment.com</span><span class="citation-popover-title">Autonomous Haulage Systems</span><span class="citation-popover-snippet">Smart MiningIncrease productivity and reduce risk with Komatsu Autonomous Haulage Systems. Proven in mining, AHS helps you move more mate...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -418,12 +409,11 @@ Autonomous systems introduce new risks that differ from traditional driving haza
 
 </div>
 
-Researchers studying autonomous haulage repeatedly emphasise [verification]({{ 'verification/' | relative_url }}), [validation]({{ 'validation/' | relative_url }}) and safety architecture as critical requirements rather than optional extras. Mining environments contain unusual terrain, changing road conditions and operational complexity that can challenge autonomous systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">MDPIAutonomous Haulage Systems in the Mining Industryby T Gaber · 2021 · Cited by 125 — We conclude that addressing cybersecurity issues...</span></span></span>
+Researchers studying autonomous haulage repeatedly emphasise [verification]({{ 'verification/' | relative_url }}), [validation]({{ 'validation/' | relative_url }}) and safety architecture as critical requirements rather than optional extras. Mining environments contain unusual terrain, changing road conditions and operational complexity that can challenge autonomous systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Autonomous Haulage Systems in the Mining Industryby T Gaber · 2021 · Cited by 125 — We conclude that addressing cybersecurity issues...</span></span></span>
 
 Real-world incidents have also shown that automation does not remove the need for scrutiny. In 2025, a union at BHP's Escondida mine in Chile raised concerns following accidents involving autonomous trucks, arguing that new operational risks require careful oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/sustainability/chiles-escondida-union-warns-safety-risks-after-autonomous-truck-accidents-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Chile&#x27;s Escondida union warns of safety risks after autonomous truck accidents</span><span class="citation-popover-snippet">This follows BHP&#x27;s July announcement of completing a five-year process to fully implement autonomous operations at the Escondida Norte si...</span></span></span>
 
 The key question is therefore not whether autonomous haulage can eliminate risk entirely. It is whether the total risk profile becomes safer than conventional operations when the technology is deployed responsibly and monitored continuously.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hppn_uOt1l8" title="Komatsu: Unearthing new levels of mining automation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hppn_uOt1l8" target="_blank" rel="noopener noreferrer">Komatsu: Unearthing new levels of mining automation</a></p><p class="youtube-embed-meta">Channel: Nokia &middot; Views: 1.4K &middot; Uploaded: February 2023 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hppn_uOt1l8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hppn_uOt1l8">Open on YouTube</a></p></div></div></div>
 
@@ -554,15 +544,15 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit"><img src="{{ '/assets/images/marketplace-covers/c48d2284e02d54126149.jpg' | relative_url }}" alt="Listing image for QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit"><img src="https://i.ebayimg.com/images/g/6~kAAOSwEhVnHlJi/s-l225.jpg" alt="Listing image for QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">QUARRY TRANSPORTER MINING TRUCK mechanical DIY model kit</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -570,15 +560,15 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LEGO Technic Mining Truck 42035 two model set incl. manual (Possibly incomplete)"><img src="{{ '/assets/images/marketplace-covers/8aa773c8290531569979.jpg' | relative_url }}" alt="Listing image for LEGO Technic Mining Truck 42035 two model set incl. manual (Possibly incomplete)" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Huina 1/50 Articulating Dump Truck Mining Earth Moving Diecast Model (5271)"><img src="https://i.ebayimg.com/images/g/0xwAAeSwh-pqJwHH/s-l225.jpg" alt="Listing image for Huina 1/50 Articulating Dump Truck Mining Earth Moving Diecast Model (5271)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">LEGO Technic Mining Truck 42035 two model set incl. manual (Possibly incomplete)</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">Huina 1/50 Articulating Dump Truck Mining Earth Moving Diecast Model (5271)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -586,15 +576,15 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEALED lego 42035 TECHNIC set MINING TRUCK MODEL BULLDOZER 2 in 1 complete"><img src="{{ '/assets/images/marketplace-covers/abc347c00f620db7d843.jpg' | relative_url }}" alt="Listing image for SEALED lego 42035 TECHNIC set MINING TRUCK MODEL BULLDOZER 2 in 1 complete" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for for XCMG XDE440 DOUBLE BRIDGE RIGID MINING TRUCK 1:47 Truck Pre-built Model"><img src="https://i.ebayimg.com/images/g/ByMAAeSwcgho6F1t/s-l225.jpg" alt="Listing image for for XCMG XDE440 DOUBLE BRIDGE RIGID MINING TRUCK 1:47 Truck Pre-built Model" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">SEALED lego 42035 TECHNIC set MINING TRUCK MODEL BULLDOZER 2 in 1 complete</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">for XCMG XDE440 DOUBLE BRIDGE RIGID MINING TRUCK 1:47 Truck Pre-built Model</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -602,15 +592,15 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal-3D-Model-Mining Truck Engineering Vehicle Laser Cut Puzzle Jigsaw Toy UK"><img src="{{ '/assets/images/marketplace-covers/55be744a4729b9d77573.jpg' | relative_url }}" alt="Listing image for Metal-3D-Model-Mining Truck Engineering Vehicle Laser Cut Puzzle Jigsaw Toy UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3d Metal Model Kit Mining Truck"><img src="https://i.ebayimg.com/images/g/CaUAAeSwOzRpy7Ks/s-l225.jpg" alt="Listing image for 3d Metal Model Kit Mining Truck" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">Metal-3D-Model-Mining Truck Engineering Vehicle Laser Cut Puzzle Jigsaw Toy UK</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">3d Metal Model Kit Mining Truck</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for mining truck model">Search <span data-ebay-domain-label>eBay.co.uk</span>: mining truck model</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -618,7 +608,7 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-haulage-autonomous-mining-trucks-reducing-accidents-and-risk-ai-bloom-abundance-super-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=mining+truck+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="mining truck model" data-ebay-reference="autonomous-mining-trucks-reducing-accidents-and-risk-mining-truck-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -833,253 +823,253 @@ That remains a partial and unfinished transition. But autonomous mining trucks a
 
 1. <a id="endnote-1"></a>
    Source: komatsu.com  
-   Link: [https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system](https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KomatsuFrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</p></details>
+   Link: <a href="https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-us/technology/smart-mining/loading-and-haulage/autonomous-haulage-system</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontRunner Autonomous Haulage SystemFrontRunner AHS is designed to help mines move material more safely and consistently while lo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: caterpillar.com  
    Title: scaling autonomy system  
-   Link: [https://www.caterpillar.com/en/news/caterpillarNews/2026/scaling-autonomy-system.html](https://www.caterpillar.com/en/news/caterpillarNews/2026/scaling-autonomy-system.html)  
+   Link: <a href="https://www.caterpillar.com/en/news/caterpillarNews/2026/scaling-autonomy-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.caterpillar.com/en/news/caterpillarNews/2026/scaling-autonomy-system.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>[https://www.caterpillar.com/en.htmlScaling](https://www.caterpillar.com/en.htmlScaling) a Proven Autonomy System to Support New...7 Jan 2026 — The Caterpillar autonomous haulage sys...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: powerfleet.com  
-   Link: [https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/](https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/)  
+   Link: <a href="https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/" target="_blank" rel="noopener noreferrer nofollow">https://www.powerfleet.com/us/blog/the-rise-of-autonomous-trucks-in-the-mining-industry/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the benefits of autonomous mining fleets, including increased productivity...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: researchgate.net  
    Title: Research Gate Implementing autonomous haulage trucks in mining: Safety  
-   Link: [https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges](https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGateImplementing autonomous haulage trucks in mining: Safety...November 30, 2025 — 3 Mar 2026 — This study investigates the impl...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398126104_Implementing_autonomous_haulage_trucks_in_mining_Safety_benefits_and_management_challenges</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing autonomous haulage trucks in mining: Safety...November 30, 2025 — 3 Mar 2026 — This study investigates the impl...</p></details>
    Published: November 30, 2025  
 
 5. <a id="endnote-5"></a>
    Source: stacks.cdc.gov  
    Title: cdc 148735 DS1  
-   Link: [https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf](https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf)  
+   Link: <a href="https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stacks.cdc.gov/view/cdc/148735/cdc_148735_DS1.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDC StacksAn Assessment of the Automation Impact on Worker Safety...by J Haight · 2023 — The importance of well-designed and maintained...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: jksmer.or.kr  
-   Link: [https://www.jksmer.or.kr/articles/article/LVrg/](https://www.jksmer.or.kr/articles/article/LVrg/)  
+   Link: <a href="https://www.jksmer.or.kr/articles/article/LVrg/" target="_blank" rel="noopener noreferrer nofollow">https://www.jksmer.or.kr/articles/article/LVrg/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Review of Autonomous Mining Trucks by Leading Global...by M Jang · 2025 — This study reviews the concept of the Autonomous Haulage Sys...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: blogs.cisco.com  
    Title: autonomous operations in mining  
-   Link: [https://blogs.cisco.com/energy/autonomous-operations-in-mining](https://blogs.cisco.com/energy/autonomous-operations-in-mining)  
+   Link: <a href="https://blogs.cisco.com/energy/autonomous-operations-in-mining" target="_blank" rel="noopener noreferrer nofollow">https://blogs.cisco.com/energy/autonomous-operations-in-mining</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cisco BlogsAutonomous Operations in MiningJun 22, 2022 — In 2017, Rio Tinto identified that in one year, each of their autonomous trucks...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai](https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MDPIAutonomous Haulage Systems in the Mining Industryby T Gaber · 2021 · Cited by 125 — We conclude that addressing cybersecurity issues...</p></details>
+   Link: <a href="https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2079-9292/10/11/1357?ref=examples.tely.ai</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Haulage Systems in the Mining Industryby T Gaber · 2021 · Cited by 125 — We conclude that addressing cybersecurity issues...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2407.16200](https://arxiv.org/abs/2407.16200)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivMCTS Based Dispatch of Autonomous Vehicles under Operational Constraints for Continuous TransportationJuly 23, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2407.16200" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2407.16200</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MCTS Based Dispatch of Autonomous Vehicles under Operational Constraints for Continuous TransportationJuly 23, 2024...</p></details>
    Published: July 23, 2024  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Scenarios Engineering driven Autonomous Transportation in Open-Pit Mines  
-   Link: [https://arxiv.org/abs/2405.00690](https://arxiv.org/abs/2405.00690)  
+   Link: <a href="https://arxiv.org/abs/2405.00690" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.00690</a>  
 
 11. <a id="endnote-11"></a>
    Source: mine.nridigital.com  
    Title: robotics revolution mining australia  
-   Link: [https://mine.nridigital.com/mine_australia_jun24/robotics-revolution-mining-australia](https://mine.nridigital.com/mine_australia_jun24/robotics-revolution-mining-australia)  
+   Link: <a href="https://mine.nridigital.com/mine_australia_jun24/robotics-revolution-mining-australia" target="_blank" rel="noopener noreferrer nofollow">https://mine.nridigital.com/mine_australia_jun24/robotics-revolution-mining-australia</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reduction in operating costs and a 90% reduction in haul truck accidents. “The mining sector in Australia has seen a substantial increase...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: komatsu.com  
    Title: australian mining increasing productivity autonomously  
-   Link: [https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously](https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KomatsuAustralian Mining: Increasing productivity autonomouslyKomatsu&#x27;s AHS was first commercially implemented in 2008, and for the 16 ye...</p></details>
+   Link: <a href="https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-us/newsroom/2023/australian-mining-increasing-productivity-autonomously</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australian Mining: Increasing productivity autonomouslyKomatsu&#x27;s AHS was first commercially implemented in 2008, and for the 16 ye...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: komatsu.com  
    Title: komatsu becomes first oem to commission 1000 ultra class autonomous haul trucks  
-   Link: [https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks](https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks)  
+   Link: <a href="https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-us/newsroom/2026/komatsu-becomes-first-oem-to-commission-1000-ultra-class-autonomous-haul-trucks</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>930E autonomous ultra-class haul truckApr 21, 2026 — FrontRunner Autonomous Haulage System continues to create value for customer operati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reuters.com  
    Title: Chile's Escondida union warns of safety risks after autonomous truck accidents  
-   Link: [https://www.reuters.com/sustainability/chiles-escondida-union-warns-safety-risks-after-autonomous-truck-accidents-2025-08-27/](https://www.reuters.com/sustainability/chiles-escondida-union-warns-safety-risks-after-autonomous-truck-accidents-2025-08-27/)  
+   Link: <a href="https://www.reuters.com/sustainability/chiles-escondida-union-warns-safety-risks-after-autonomous-truck-accidents-2025-08-27/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/sustainability/chiles-escondida-union-warns-safety-risks-after-autonomous-truck-accidents-2025-08-27/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This follows BHP&#x27;s July announcement of completing a five-year process to fully implement autonomous operations at the Escondida Norte si...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: komatsu.com  
-   Link: [https://www.komatsu.com/en-nz/technology/smart-solutions/smart-mining/autonomous-haulage-system](https://www.komatsu.com/en-nz/technology/smart-solutions/smart-mining/autonomous-haulage-system)  
+   Link: <a href="https://www.komatsu.com/en-nz/technology/smart-solutions/smart-mining/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-nz/technology/smart-solutions/smart-mining/autonomous-haulage-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous haulage systemThey are able to operate around-the-clock, 24 hours a day, seven days a week, delivering significant safety, pro...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: komatsu.com  
-   Link: [https://www.komatsu.com/en-us/newsroom/2022/komatsu-to-deploy-autonomous-haulage-system-at-los-bronces-copper-mine](https://www.komatsu.com/en-us/newsroom/2022/komatsu-to-deploy-autonomous-haulage-system-at-los-bronces-copper-mine)  
+   Link: <a href="https://www.komatsu.com/en-us/newsroom/2022/komatsu-to-deploy-autonomous-haulage-system-at-los-bronces-copper-mine" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-us/newsroom/2022/komatsu-to-deploy-autonomous-haulage-system-at-los-bronces-copper-mine</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu announces plan to deploy Autonomous Haulage...Komatsu FrontRunner Autonomous Haulage System (AHS) to be deployed on a total of 6...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: komatsu.com  
-   Link: [https://www.komatsu.com/en-za/technology/loading-and-haulage/autonomous-haulage-system](https://www.komatsu.com/en-za/technology/loading-and-haulage/autonomous-haulage-system)  
+   Link: <a href="https://www.komatsu.com/en-za/technology/loading-and-haulage/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com/en-za/technology/loading-and-haulage/autonomous-haulage-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontRunner Autonomous Haulage System (AHS)Combining the reliability and durability of Komatsu electric drive trucks with the [power](&amp;#123;&amp;#123; &#x27;power/&#x27; | relative_url &amp;#125;&amp;#125;) of ou...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/369378628_Rio_Tinto_Autonomous_Haulage_System](https://www.researchgate.net/publication/369378628_Rio_Tinto_Autonomous_Haulage_System)  
+   Link: <a href="https://www.researchgate.net/publication/369378628_Rio_Tinto_Autonomous_Haulage_System" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369378628_Rio_Tinto_Autonomous_Haulage_System</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Rio Tinto Autonomous Haulage SystemThe purpose of this report is to examine in detail the innovative engineering systems of the com...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: komatsu.jp  
-   Link: [https://www.komatsu.jp/en/newsroom/2026/20260422](https://www.komatsu.jp/en/newsroom/2026/20260422)  
+   Link: <a href="https://www.komatsu.jp/en/newsroom/2026/20260422" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.jp/en/newsroom/2026/20260422</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontRunner Autonomous Haulage System continues to...Apr 22, 2026 — Beyond haulage, Komatsu continues to expand automation across mine-s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: komatsu.jp  
-   Link: [https://www.komatsu.jp/en/newsroom/2022/20220603](https://www.komatsu.jp/en/newsroom/2022/20220603)  
+   Link: <a href="https://www.komatsu.jp/en/newsroom/2022/20220603" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.jp/en/newsroom/2022/20220603</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu announces to deploy Autonomous Haulage System...Jun 3, 2022 — Komatsu are pleased to announce plans for Komatsu FrontRunner, an...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: Komatsu Autonomous Haulage System (AHS)  
-   Link: [https://www.youtube.com/watch?v=6Nw7q0t2A9o](https://www.youtube.com/watch?v=6Nw7q0t2A9o)  
+   Link: <a href="https://www.youtube.com/watch?v=6Nw7q0t2A9o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6Nw7q0t2A9o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Huawei Brings Autonomous Mining to Life...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: Jimblebar autonomous trucks  
-   Link: [https://www.youtube.com/watch?v=NUfcPfh1Rcg](https://www.youtube.com/watch?v=NUfcPfh1Rcg)  
+   Link: <a href="https://www.youtube.com/watch?v=NUfcPfh1Rcg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NUfcPfh1Rcg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu: Unearthing new levels of mining automation...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Komatsu: Unearthing new levels of mining automation  
-   Link: [https://www.youtube.com/watch?v=hppn_uOt1l8](https://www.youtube.com/watch?v=hppn_uOt1l8)  
+   Link: <a href="https://www.youtube.com/watch?v=hppn_uOt1l8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=hppn_uOt1l8</a>  
 
 24. <a id="endnote-24"></a>
    Source: riotinto.com  
-   Link: [https://www.riotinto.com/en/mn/about/innovation/automation](https://www.riotinto.com/en/mn/about/innovation/automation)  
+   Link: <a href="https://www.riotinto.com/en/mn/about/innovation/automation" target="_blank" rel="noopener noreferrer nofollow">https://www.riotinto.com/en/mn/about/innovation/automation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rio TintoAutomation | MongoliaAutonomous trucks. We run more than 130 autonomous trucks, part of our Autonomous Haulage System, across ou...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: komatsu.co.id  
    Title: Home Page  
-   Link: [https://www.komatsu.co.id/](https://www.komatsu.co.id/)  
+   Link: <a href="https://www.komatsu.co.id/" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.co.id/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu Official IDKomatsu: membangun masa depan dengan teknologi maju, mesin berat bertahan lama, dan kualitas yang terpercaya untuk men...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: globalminingreview.com  
    Title: rio tinto reaches autonomous truck fleet milestone  
-   Link: [https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/](https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/)  
+   Link: <a href="https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalminingreview.com/mining/30012018/rio-tinto-reaches-autonomous-truck-fleet-milestone/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rio Tinto reaches autonomous truck milestoneJan 30, 2018 — Rio Tinto&#x27;s autonomous truck milestone has moved its one billionth tonne of ma...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/komatsu-mining_komatsumining-miningtechnology-autonomous-activity-7282404908572549120-MJYF](https://www.linkedin.com/posts/komatsu-mining_komatsumining-miningtechnology-autonomous-activity-7282404908572549120-MJYF)  
+   Link: <a href="https://www.linkedin.com/posts/komatsu-mining_komatsumining-miningtechnology-autonomous-activity-7282404908572549120-MJYF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/komatsu-mining_komatsumining-miningtechnology-autonomous-activity-7282404908572549120-MJYF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu Mining | 11 commentsOur Autonomous Haulage System (AHS) is bringing new possibilities to mining—enhancing efficiency and precisio...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/abdalla-yousif-ay1993_mining-activity-7430125780405395456-8rwO](https://www.linkedin.com/posts/abdalla-yousif-ay1993_mining-activity-7430125780405395456-8rwO)  
+   Link: <a href="https://www.linkedin.com/posts/abdalla-yousif-ay1993_mining-activity-7430125780405395456-8rwO" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/abdalla-yousif-ay1993_mining-activity-7430125780405395456-8rwO</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>rk. Komatsu is proud to be featured in a BBC...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/komatsu-sa-pty-ltd_mining-activity-7420513595035189248-mqmF](https://www.linkedin.com/posts/komatsu-sa-pty-ltd_mining-activity-7420513595035189248-mqmF)  
+   Link: <a href="https://www.linkedin.com/posts/komatsu-sa-pty-ltd_mining-activity-7420513595035189248-mqmF" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/komatsu-sa-pty-ltd_mining-activity-7420513595035189248-mqmF</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>work. Komatsu is proud to be featured in a BBC...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: appliedintuition.com  
    Title: applied intuition komatsu partnership  
-   Link: [https://www.appliedintuition.com/blog/applied-intuition-komatsu-partnership](https://www.appliedintuition.com/blog/applied-intuition-komatsu-partnership)  
+   Link: <a href="https://www.appliedintuition.com/blog/applied-intuition-komatsu-partnership" target="_blank" rel="noopener noreferrer nofollow">https://www.appliedintuition.com/blog/applied-intuition-komatsu-partnership</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu and Applied Intuition partner9 Sept 2025 — Beyond autonomy, Applied Intuition and Komatsu are advancing mining safety, operator p...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: smsequipment.com  
    Title: Autonomous Haulage Systems  
-   Link: [https://www.smsequipment.com/en-ca/advanced-technologies/smart-mining/autonomous-haulage-systems/](https://www.smsequipment.com/en-ca/advanced-technologies/smart-mining/autonomous-haulage-systems/)  
+   Link: <a href="https://www.smsequipment.com/en-ca/advanced-technologies/smart-mining/autonomous-haulage-systems/" target="_blank" rel="noopener noreferrer nofollow">https://www.smsequipment.com/en-ca/advanced-technologies/smart-mining/autonomous-haulage-systems/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart MiningIncrease productivity and reduce risk with Komatsu Autonomous Haulage Systems. Proven in mining, AHS helps you move more mate...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: komatsu.com.au  
    Title: Autonomous Haulage System  
-   Link: [https://www.komatsu.com.au/innovation/autonomous-haulage-system](https://www.komatsu.com.au/innovation/autonomous-haulage-system)  
+   Link: <a href="https://www.komatsu.com.au/innovation/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.com.au/innovation/autonomous-haulage-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Komatsu AustraliaKomatsu Autonomous Haulage System has delivered proven benefits in safety, productivity and system flexibility in an arr...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: marketstatsinsight.com  
-   Link: [https://www.marketstatsinsight.com/rio-tinto-case-study/](https://www.marketstatsinsight.com/rio-tinto-case-study/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rio Tinto Case Study: AI in Mining Market GrowthRio Tinto&#x27;s AI-driven autonomous haulage and [predictive](&amp;#123;&amp;#123; &#x27;failure-warnings/&#x27; | relative_url &amp;#125;&amp;#125;) maintenance showcase the future o...</p></details>
+   Link: <a href="https://www.marketstatsinsight.com/rio-tinto-case-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.marketstatsinsight.com/rio-tinto-case-study/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rio Tinto Case Study: AI in Mining Market GrowthRio Tinto&#x27;s AI-driven autonomous haulage and predictive maintenance showcase the future o...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: azomining.com  
-   Link: [https://www.azomining.com/Article.aspx?ArticleID=1860](https://www.azomining.com/Article.aspx?ArticleID=1860)  
+   Link: <a href="https://www.azomining.com/Article.aspx?ArticleID=1860" target="_blank" rel="noopener noreferrer nofollow">https://www.azomining.com/Article.aspx?ArticleID=1860</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Mining Incidents Less Common &amp; What Technology is...May 1, 2025 — At Minera San Cristóbal in Bolivia, this system reduced near-miss...</p></details>
    Published: May 1, 2025  
 
 35. <a id="endnote-35"></a>
    Source: mixtelematics.com  
-   Link: [https://www.mixtelematics.com/us/resources/blog/autonomous-trucks-in-mining/](https://www.mixtelematics.com/us/resources/blog/autonomous-trucks-in-mining/)  
+   Link: <a href="https://www.mixtelematics.com/us/resources/blog/autonomous-trucks-in-mining/" target="_blank" rel="noopener noreferrer nofollow">https://www.mixtelematics.com/us/resources/blog/autonomous-trucks-in-mining/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the benefits of autonomous mining fleets, including increased productivity...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: komatsu.co.nz  
-   Link: [https://www.komatsu.co.nz/innovation/autonomous-haulage-system](https://www.komatsu.co.nz/innovation/autonomous-haulage-system)  
+   Link: <a href="https://www.komatsu.co.nz/innovation/autonomous-haulage-system" target="_blank" rel="noopener noreferrer nofollow">https://www.komatsu.co.nz/innovation/autonomous-haulage-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Haulage SystemOur AHS technology has delivered proven benefits in safety, productivity, environmental resistance and system fl...</p></details>
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: scania.com  
-   Link: [https://www.scania.com/group/en/home/newsroom/press-releases/press-release-detail-page.html/4373588-scania-and-rio-tinto-agree-to-develop-autonomous-haulage-solutions-supporting-a-pathway-to-lower-emi](https://www.scania.com/group/en/home/newsroom/press-releases/press-release-detail-page.html/4373588-scania-and-rio-tinto-agree-to-develop-autonomous-haulage-solutions-supporting-a-pathway-to-lower-emi)  
+   Link: <a href="https://www.scania.com/group/en/home/newsroom/press-releases/press-release-detail-page.html/4373588-scania-and-rio-tinto-agree-to-develop-autonomous-haulage-solutions-supporting-a-pathway-to-lower-emi" target="_blank" rel="noopener noreferrer nofollow">https://www.scania.com/group/en/home/newsroom/press-releases/press-release-detail-page.html/4373588-scania-and-rio-tinto-agree-to-develop-autonomous-haulage-solutions-supporting-a-pathway-to-lower-emi</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Scania and Rio Tinto agree to develop autonomous...14 Oct 2022 — Scania and Rio Tinto are developing more agile autonomous haul trucks a...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: cat.com  
-   Link: [https://www.cat.com/en_US/news/machine-press-releases/caterpillar-achieves-two-billion-tonnes-hauled-with-autonomous-trucks-system.html](https://www.cat.com/en_US/news/machine-press-releases/caterpillar-achieves-two-billion-tonnes-hauled-with-autonomous-trucks-system.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caterpillar achieves 2 billion tonnes hauled with autonomous...Caterpillar is again hitting a significant milestone in autonomous haulag...</p></details>
+   Link: <a href="https://www.cat.com/en_US/news/machine-press-releases/caterpillar-achieves-two-billion-tonnes-hauled-with-autonomous-trucks-system.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cat.com/en_US/news/machine-press-releases/caterpillar-achieves-two-billion-tonnes-hauled-with-autonomous-trucks-system.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>erpillar achieves 2 billion tonnes hauled with autonomous...Caterpillar is again hitting a significant milestone in autonomous haulag...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: wjaets.com  
-   Link: [https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf](https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf)  
+   Link: <a href="https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf</a>  
 
 40. <a id="endnote-40"></a>
    Source: scholarlyreview.org  
-   Link: [https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf](https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf)  
+   Link: <a href="https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scholarlyreview.org/article/124875-the-impact-of-autonomous-vehicles-on-mining-operations-enhancing-safety-and-productivity-through-technological-advancements.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Suncor, and BHP demonstrate that AVs lead to substantial increases in productivity, reduced safety incidents, and cost-effective.Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
    Title: more mines are transitioning to autonomous haulage solutions and realizing a ful  
-   Link: [https://www.facebook.com/KomatsuMining/posts/more-mines-are-transitioning-to-autonomous-haulage-solutions-and-realizing-a-ful/7969808799725779/](https://www.facebook.com/KomatsuMining/posts/more-mines-are-transitioning-to-autonomous-haulage-solutions-and-realizing-a-ful/7969808799725779/)  
+   Link: <a href="https://www.facebook.com/KomatsuMining/posts/more-mines-are-transitioning-to-autonomous-haulage-solutions-and-realizing-a-ful/7969808799725779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KomatsuMining/posts/more-mines-are-transitioning-to-autonomous-haulage-solutions-and-realizing-a-ful/7969808799725779/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More mines are transitioning to autonomous haulage...Since its launch in 2008, Komatsu&#x27;s Autonomous Haulage System (AHS) has been boosti...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: discoveryalert.com.au  
    Title: revolutionizing mining autonomous technologies 2025 safety productivity  
-   Link: [https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/](https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/)  
+   Link: <a href="https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://discoveryalert.com.au/revolutionizing-mining-autonomous-technologies-2025-safety-productivity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Mining: Transforming Trucks and Drilling...14 Oct 2025 — Discover how autonomous trucks and drilling systems in mining are re...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: im-mining.com  
    Title: caterpillar sets out to hit over 2000 autonomous mining trucks by 2030  
-   Link: [https://im-mining.com/2025/11/07/caterpillar-sets-out-to-hit-over-2000-autonomous-mining-trucks-by-2030/](https://im-mining.com/2025/11/07/caterpillar-sets-out-to-hit-over-2000-autonomous-mining-trucks-by-2030/)  
+   Link: <a href="https://im-mining.com/2025/11/07/caterpillar-sets-out-to-hit-over-2000-autonomous-mining-trucks-by-2030/" target="_blank" rel="noopener noreferrer nofollow">https://im-mining.com/2025/11/07/caterpillar-sets-out-to-hit-over-2000-autonomous-mining-trucks-by-2030/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Caterpillar sets out to hit over 2000 autonomous...7 Nov 2025 — Caterpillar states that it had 690 autonomous trucks using its Command f...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: journalwjaets.com  
-   Link: [https://journalwjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf](https://journalwjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf)  
+   Link: <a href="https://journalwjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf" target="_blank" rel="noopener noreferrer nofollow">https://journalwjaets.com/sites/default/files/fulltext_pdf/WJAETS-2025-1492.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mining demonstrates substantial safety... Rio Tinto autonomous trucks now hauling a quarter...Read more...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: gmggroup.org  
    Title: 2021 01 11 Rio Tintos Experience with Automation and People  
-   Link: [https://gmggroup.org/wp-content/uploads/2023/12/2021-01-11-Rio-Tintos-Experience-with-Automation-and-People.pdf](https://gmggroup.org/wp-content/uploads/2023/12/2021-01-11-Rio-Tintos-Experience-with-Automation-and-People.pdf)  
+   Link: <a href="https://gmggroup.org/wp-content/uploads/2023/12/2021-01-11-Rio-Tintos-Experience-with-Automation-and-People.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gmggroup.org/wp-content/uploads/2023/12/2021-01-11-Rio-Tintos-Experience-with-Automation-and-People.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CASE STUDY: RIO TINTO&#x27;S EXPERIENCE WITH...15 Mar 2021 — This case study covers: 1. How virtual reality has helped prevent dangerous situ...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: miningdoc.tech  
-   Link: [https://www.miningdoc.tech/question/what-does-the-research-say-about-the-effectiveness-of-autonomous-haulage-systems-ahs-on-mine-productivity-and-safety/](https://www.miningdoc.tech/question/what-does-the-research-say-about-the-effectiveness-of-autonomous-haulage-systems-ahs-on-mine-productivity-and-safety/)  
+   Link: <a href="https://www.miningdoc.tech/question/what-does-the-research-say-about-the-effectiveness-of-autonomous-haulage-systems-ahs-on-mine-productivity-and-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.miningdoc.tech/question/what-does-the-research-say-about-the-effectiveness-of-autonomous-haulage-systems-ahs-on-mine-productivity-and-safety/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ducing the risk of accidents from human error by removing workers from mining...Read more...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-benefits/
 nav_short_title: Job Pathways
 title: Will AI Pull Up the Career Ladder?
-title_full: Will AI Pull Up the Career Ladder? | AI Benefits
+title_full: Will AI Pull Up the Career Ladder?
 display_title_short: Job Pathways
 display_title: Job Pathways
 heading_title: Will AI Pull Up the Career Ladder?
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Who Gets the Gains in an AI Enabled Society | Power
+date: '2026-06-08 02:03:15'
+parent_title: Who Gets the Gains in an AI Enabled Society
 parent_permalink: /ai-benefits/
 parent_nav_short_title: AI Benefits
 parent_heading_title: Who Gets the Gains in an AI Enabled Society
@@ -260,7 +261,6 @@ prev_link:
   permalink: /ai-wealth/
   short_title: AI Wealth
   heading_title: Who Owns the Wealth AI Creates?
-date: '2026-06-08 02:03:15 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-1.webp
@@ -271,9 +271,8 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a7
 
 AI could eventually make societies far richer. If advanced systems help automate routine work, accelerate science, improve healthcare, and raise productivity across entire industries, the long-run gains could be enormous. But one of the sharpest concerns in the transition period is not simply whether jobs disappear. It is whether the normal routes into skilled careers begin to break down.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-1-dark.svg" | relative_url }}" alt="Job Pathways illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Many professions depend on a ladder structure. New workers start with simpler tasks, learn through supervised practice, and gradually take on more responsibility. Generative AI often performs exactly those simpler tasks first: drafting documents, writing basic code, producing reports, handling customer queries, summarising research, or processing administrative work. If firms automate too much of this layer, they may save money today while weakening the pipeline that produces experienced professionals tomorrow. The result could be an economy that becomes more productive overall while leaving many younger workers struggling to gain experience, credentials, and stable career footholds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">who will be the workers most affected by ai 14dc6f89 en</span><span class="citation-popover-snippet">OECDWho will be the workers most affected by AI?by M Lane · 2024 · Cited by 23 — As AI can automate non-routine, cognitive tasks, tertiar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-demand-yet_5aebe670.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">OECDArtificial intelligence and jobs: No signs of slowing labour...Jul 11, 2023 — High-skilled, white‑collar occupations have been most...</span></span></span>
+Many professions depend on a ladder structure. New workers start with simpler tasks, learn through supervised practice, and gradually take on more responsibility. Generative AI often performs exactly those simpler tasks first: drafting documents, writing basic code, producing reports, handling customer queries, summarising research, or processing administrative work. If firms automate too much of this layer, they may save money today while weakening the pipeline that produces experienced professionals tomorrow. The result could be an economy that becomes more productive overall while leaving many younger workers struggling to gain experience, credentials, and stable career footholds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">who will be the workers most affected by ai 14dc6f89 en</span><span class="citation-popover-snippet">Who will be the workers most affected by AI?by M Lane · 2024 · Cited by 23 — As AI can automate non-routine, cognitive tasks, tertiar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Artificial intelligence and jobs: No signs of slowing labour...Jul 11, 2023 — High-skilled, white‑collar occupations have been most...</span></span></span>
 
 This matters directly to the broader question of AI abundance. A future of widespread prosperity depends not only on technological capability but on whether people can still participate meaningfully in economic life, build expertise, and share in the gains.
 
@@ -288,10 +287,10 @@ The important distinction is that AI often targets tasks rather than whole occup
 Several categories appear especially exposed:
 
 * Junior software development and testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[tomshardware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</span></span></span>
-* Basic legal research and document drafting. * Entry-level accounting and auditing work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[tomshardware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[* Administrative and clerical roles.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</span></span></span>
+* Basic legal research and document drafting. * Entry-level accounting and auditing work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[tomshardware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</span></span></span> * Administrative and clerical roles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomshardware.com">[tomshardware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomshardware.com</span><span class="citation-popover-snippet">Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</span></span></span>
 * Customer support and call-centre work.
 * Content production, translation, and routine marketing tasks.
-* Research assistance and information synthesis roles. [Anthropic]({{ 'anthropic-misalignment/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-snippet">Anthropic Identifies the Jobs Most Exposed to AI Risks—Is...10 Mar 2026 — Computer programmers, customer service representatives and dat...</span></span></span> The Anthropic Economic Index, which studies real-world AI usage patterns, finds particularly heavy adoption in software development, writing, analysis, and information-processing tasks. These are precisely the kinds of activities that often serve as training grounds for younger workers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/labor-market-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">AnthropicLabor market impacts of AI: A new measure and early...by T Claude — A job&#x27;s exposure is higher if: Its tasks are theoretically...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/economic-index" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">economic index</span><span class="citation-popover-snippet">Anthropic Economic Index Understanding AI&#x27;s effects...24 Mar 2026 — The Anthropic Economic Index reveals the shape of AI adoption across...</span></span></span>
+* Research assistance and information synthesis roles. Anthropic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-snippet">Anthropic Identifies the Jobs Most Exposed to AI Risks—Is...10 Mar 2026 — Computer programmers, customer service representatives and dat...</span></span></span> The Anthropic Economic Index, which studies real-world AI usage patterns, finds particularly heavy adoption in software development, writing, analysis, and information-processing tasks. These are precisely the kinds of activities that often serve as training grounds for younger workers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/research/labor-market-impacts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-snippet">Labor market impacts of AI: A new measure and early...by T Claude — A job&#x27;s exposure is higher if: Its tasks are theoretically...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.anthropic.com/economic-index" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anthropic.com">[Anthropic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anthropic.com</span><span class="citation-popover-title">economic index</span><span class="citation-popover-snippet">Anthropic Economic Index Understanding AI&#x27;s effects...24 Mar 2026 — The Anthropic Economic Index reveals the shape of AI adoption across...</span></span></span>
 
 This does not necessarily mean entire professions disappear. It does mean the first rung of the ladder may become narrower.
 
@@ -300,7 +299,6 @@ This does not necessarily mean entire professions disappear. It does mean the fi
 The reason entry-level work is vulnerable is not mysterious. Junior workers are often hired to perform tasks that are structured, repetitive, heavily supervised, and relatively low-risk. Those same characteristics make them attractive targets for automation.
 
 In many firms, graduates spend their first years:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -324,7 +322,6 @@ Other evidence remains more cautious. Some researchers argue that remote work, p
 
 The uncertainty is important. The evidence does not yet show a civilisation-wide collapse of entry-level employment. It does show enough warning signs that policymakers and employers are increasingly discussing the issue.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iMmo_cZFovE" title="AI could take more than 1/4 of jobs warns OECD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iMmo_cZFovE" target="_blank" rel="noopener noreferrer">AI could take more than 1/4 of jobs warns OECD</a></p><p class="youtube-embed-meta">Channel: The Globe and Mail &middot; Views: 421 &middot; Uploaded: July 2023 &middot; Length: 1 minute 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iMmo_cZFovE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iMmo_cZFovE">Open on YouTube</a></p></div></div></div>
 
 ## The Hidden Problem: Expertise Comes From Practice
@@ -335,11 +332,11 @@ Many professions rely on apprenticeship-like learning structures. Junior lawyers
 
 The early work is often repetitive, but it serves an educational purpose.
 
-If AI performs much of this foundational work, future professionals may accumulate less practical experience before reaching positions that require judgment. A firm may become more productive in the [short term]({{ 'political-incentives/' | relative_url }}) while creating a shortage of experienced talent later.
+If AI performs much of this foundational work, future professionals may accumulate less practical experience before reaching positions that require judgment. A firm may become more productive in the short term while creating a shortage of experienced talent later.
 
 This creates a potential paradox. AI may increase the productivity of senior workers while reducing opportunities for people to become senior workers in the first place.
 
-Economists sometimes describe this as a pipeline problem. The [labour market]({{ 'labour-impacts/' | relative_url }}) does not simply allocate workers; it develops them. Career ladders are part of society's knowledge-production system.
+Economists sometimes describe this as a pipeline problem. The labour market does not simply allocate workers; it develops them. Career ladders are part of society's knowledge-production system.
 
 The issue is especially significant in sectors that depend on tacit knowledge: skills that are difficult to learn from textbooks alone and instead emerge through repeated exposure to real-world cases, mistakes, and mentorship.
 
@@ -347,14 +344,13 @@ The issue is especially significant in sectors that depend on tacit knowledge: s
 
 One reason AI labour disruption generates political tension is that aggregate prosperity and individual opportunity are not the same thing.
 
-Imagine a future where AI raises national productivity dramatically. Goods become cheaper. Medical treatments improve. [Scientific]({{ 'discovery/' | relative_url }}) progress accelerates. Average living standards rise.
+Imagine a future where AI raises national productivity dramatically. Goods become cheaper. Medical treatments improve. Scientific progress accelerates. Average living standards rise.
 
 Yet a graduate entering the workforce may still face a much harder path than earlier generations.
 
 This creates a distributional problem that standard economic statistics may miss.
 
 A society can become wealthier while simultaneously producing:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -368,10 +364,9 @@ A society can become wealthier while simultaneously producing:
 
 The result may feel unfair even if total output rises.
 
-This concern echoes broader debates in economic history. Industrialisation increased overall wealth enormously, but the benefits did not automatically arrive in a smooth or equal way. Institutions, labour protections, education systems, and social insurance played major roles in spreading gains across society.
+This concern echoes broader debates in economic history. Industrialisation increased overall wealth enormously, but the benefits did not automatically arrive in a smooth or equal way. Institutions, labour protections, [education]({{ 'education/' | relative_url }}) systems, and social insurance played major roles in spreading gains across society.
 
 The AI transition may require similar institutional adaptation.
-
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-2-dark.svg" | relative_url }}" alt="Job Pathways illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Could AI Also Create New Career Ladders?
@@ -395,7 +390,6 @@ The risk is that firms use AI primarily to reduce headcount rather than expand c
 ## What Happens If Career Ladders Break?
 
 If entry routes shrink substantially across multiple professions, the effects could extend beyond individual workers.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hU8mysZaPts" title="The AI Economy’s New Career Ladder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hU8mysZaPts" target="_blank" rel="noopener noreferrer">The AI Economy’s New Career Ladder</a></p><p class="youtube-embed-meta">Channel: CNBC &middot; Views: 61.6K &middot; Uploaded: May 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hU8mysZaPts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hU8mysZaPts">Open on YouTube</a></p></div></div></div>
 
@@ -427,7 +421,6 @@ Engineers, scientists, doctors, managers, and researchers are not created instan
 
 This is one reason the issue matters even within an optimistic AI bloom framework. A flourishing future requires both powerful machines and a continual supply of capable humans.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-3-dark.svg" | relative_url }}" alt="Job Pathways illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_governance_po_43cd85_ai_distributi_a75eae_ai_career_lad_875271-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Policies for Fair Labour Transitions
 
@@ -449,8 +442,7 @@ If AI becomes a powerful tutor, mentor, and learning assistant, it could help wo
 
 The distributional question is whether these tools remain expensive premium services or become widely accessible educational infrastructure.
 
-This links directly to broader debates about public-interest AI and [universal]({{ 'ai-tutors-f14433/' | relative_url }}) access to advanced systems.
-
+This links directly to broader debates about public-interest AI and universal access to advanced systems.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0lwftepuvYA" title="AI Will Replace White Collar Jobs in 12 Months? The Truth No One Explains" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0lwftepuvYA" target="_blank" rel="noopener noreferrer">AI Will Replace White Collar Jobs in 12 Months? The Truth No One Explains</a></p><p class="youtube-embed-meta">Channel: Asian Dad Energy &middot; Views: 330.2K &middot; Uploaded: February 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0lwftepuvYA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0lwftepuvYA">Open on YouTube</a></p></div></div></div>
 
@@ -458,7 +450,7 @@ This links directly to broader debates about public-interest AI and [universal](
 
 Labour disruption will not affect only new graduates.
 
-Workers whose roles become partially automated may need retraining, career counselling, wage insurance, or transition support.
+Workers whose roles become partially automated may need [retraining]({{ 'retraining/' | relative_url }}), career counselling, wage insurance, or transition support.
 
 The goal is not to freeze existing jobs but to reduce the human cost of economic adjustment.
 
@@ -885,252 +877,252 @@ The state of the career ladder may therefore become one of the most important te
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: who will be the workers most affected by ai 14dc6f89 en  
-   Link: [https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html](https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDWho will be the workers most affected by AI?by M Lane · 2024 · Cited by 23 — As AI can automate non-routine, [cognitive](&amp;#123;&amp;#123; &#x27;broad-access/&#x27; | relative_url &amp;#125;&amp;#125;) tasks, tertiar...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/who-will-be-the-workers-most-affected-by-ai_14dc6f89-en.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Who will be the workers most affected by AI?by M Lane · 2024 · Cited by 23 — As AI can automate non-routine, cognitive tasks, tertiar...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-demand-yet_5aebe670.html](https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-intelligence-and-jobs-no-signs-of-slowing-labour-demand-yet_5aebe670.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDArtificial intelligence and jobs: No signs of slowing labour...Jul 11, 2023 — High-skilled, white‑collar occupations have been most...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-[intelligence" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-employment-outlook-2023_08785bba-en/full-report/artificial-[intelligence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial intelligence and jobs: No signs of slowing labour...Jul 11, 2023 — High-skilled, white‑collar occupations have been most...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: oecd.org  
    Title: the impact of artificial intelligence on the labour market a4b9cac2  
-   Link: [https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html](https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html)  
+   Link: <a href="https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2021/01/the-impact-of-artificial-intelligence-on-the-labour-market_a4b9cac2.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of Artificial Intelligence on the labour marketby M Lane · 2021 · Cited by 354 — This literature review takes stock of what is...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: anthropic.com  
-   Link: [https://www.anthropic.com/research/labor-market-impacts](https://www.anthropic.com/research/labor-market-impacts)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicLabor market impacts of AI: A new measure and early...by T Claude — A job&#x27;s exposure is higher if: Its tasks are theoretically...</p></details>
+   Link: <a href="https://www.anthropic.com/research/labor-market-impacts" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/labor-market-impacts</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Labor market impacts of AI: A new measure and early...by T Claude — A job&#x27;s exposure is higher if: Its tasks are theoretically...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: investopedia.com  
-   Link: [https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109](https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109)  
+   Link: <a href="https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/anthropic-identifies-jobs-most-exposed-to-ai-risks-is-your-occupation-affected-11922109</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Identifies the Jobs Most Exposed to AI Risks—Is...10 Mar 2026 — Computer programmers, customer service representatives and dat...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: anthropic.com  
    Title: economic index  
-   Link: [https://www.anthropic.com/economic-index](https://www.anthropic.com/economic-index)  
+   Link: <a href="https://www.anthropic.com/economic-index" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/economic-index</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Economic Index Understanding AI&#x27;s effects...24 Mar 2026 — The Anthropic Economic Index reveals the shape of AI adoption across...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: anthropic.com  
    Title: economic index march 2026 report  
-   Link: [https://www.anthropic.com/research/economic-index-march-2026-report](https://www.anthropic.com/research/economic-index-march-2026-report)  
+   Link: <a href="https://www.anthropic.com/research/economic-index-march-2026-report" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/economic-index-march-2026-report</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Economic Index report: Learning curves24 Mar 2026 — The Anthropic Economic Index uses our privacy-preserving data analysis syst...</p></details>
    Published: march 2026  
 
 8. <a id="endnote-8"></a>
    Source: finance.yahoo.com  
    Title: anthropic ai influence over labor 110500564  
-   Link: [https://finance.yahoo.com/news/anthropic-ai-influence-over-labor-110500564.html](https://finance.yahoo.com/news/anthropic-ai-influence-over-labor-110500564.html)  
+   Link: <a href="https://finance.yahoo.com/news/anthropic-ai-influence-over-labor-110500564.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/anthropic-ai-influence-over-labor-110500564.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yahoo FinanceAnthropic: AI&#x27;s influence over the labor market is only...13 Mar 2026 — Citing a 2025 study from Brynjolfsson et al., Anthr...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv AI and jobs. A review of theory, estimates, and evidence  
-   Link: [https://arxiv.org/abs/2509.15265](https://arxiv.org/abs/2509.15265)  
+   Link: <a href="https://arxiv.org/abs/2509.15265" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2509.15265</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.00843](https://arxiv.org/abs/2605.00843)  
+   Link: <a href="https://arxiv.org/abs/2605.00843" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.00843</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2601.06087](https://arxiv.org/abs/2601.06087)  
+   Link: <a href="https://arxiv.org/abs/2601.06087" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2601.06087</a>  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2507.22748](https://arxiv.org/abs/2507.22748)  
+   Link: <a href="https://arxiv.org/abs/2507.22748" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2507.22748</a>  
 
 13. <a id="endnote-13"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/policy-issues/future-of-work.html](https://www.oecd.org/en/topics/policy-issues/future-of-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/policy-issues/future-of-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/policy-issues/future-of-work.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Future of workAI can bring many benefits to the workplace such as higher productivity, improved job quality and stronger occupational saf...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en.html](https://www.oecd.org/en.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD: The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: oecd.org  
    Title: 194a947b en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-employment-outlook-2025_5345f034/194a947b-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-employment-outlook-2025_5345f034/194a947b-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-employment-outlook-2025_5345f034/194a947b-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/oecd-employment-outlook-2025_5345f034/194a947b-en.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Employment Outlook 2025The 2025 edition of the OECD Employment Outlook examines the challenges that population ageing poses to curre...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: oecd.org  
    Title: the impact of ai on the labour market 69793977  
-   Link: [https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html](https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html)  
+   Link: <a href="https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/artificial-intelligence-and-the-labour-market-in-korea_68ab1a5a-en/full-report/the-impact-of-ai-on-the-labour-market_69793977.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Artificial Intelligence and the Labour Market in Korea27 Oct 2025 — This report analyses the impact of AI on Korea&#x27;s labour market from a...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/en/topics/sub-issues/ai-and-work.html](https://www.oecd.org/en/topics/sub-issues/ai-and-work.html)  
+   Link: <a href="https://www.oecd.org/en/topics/sub-issues/ai-and-work.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/sub-issues/ai-and-work.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI and workThe OECD&#x27;s research on the impact of AI on the labour market show the urgent need to act now, with policies that allow countri...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: anthropic.com  
    Title: economic index primitives  
-   Link: [https://www.anthropic.com/research/economic-index-primitives](https://www.anthropic.com/research/economic-index-primitives)  
+   Link: <a href="https://www.anthropic.com/research/economic-index-primitives" target="_blank" rel="noopener noreferrer nofollow">https://www.anthropic.com/research/economic-index-primitives</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New building blocks for understanding AI use15 Jan 2026 — Anthropic is an AI safety and research company that&#x27;s working to build reliable...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/incidents/2025-02-09-6226](https://oecd.ai/en/incidents/2025-02-09-6226)  
+   Link: <a href="https://oecd.ai/en/incidents/2025-02-09-6226" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2025-02-09-6226</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI-driven automation fuels spike in IT unemploymentAI-powered automation has driven IT unemployment from 3.9% to 5.7% (98000 to 152000 wo...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/incidents/2025-07-29-10f4](https://oecd.ai/en/incidents/2025-07-29-10f4)  
+   Link: <a href="https://oecd.ai/en/incidents/2025-07-29-10f4" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2025-07-29-10f4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Automation Shrinks Entry-Level Job Market for US...29 Jul 2025 — The article clearly identifies AI as a factor disrupting the labor m...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: oecd.ai  
-   Link: [https://oecd.ai/en/incidents/2026-03-18-5219](https://oecd.ai/en/incidents/2026-03-18-5219)  
+   Link: <a href="https://oecd.ai/en/incidents/2026-03-18-5219" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/incidents/2026-03-18-5219</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Automation Threatens Entry-Level Job Market for Gen Z...The article involves AI systems in the context of their use and impact on the...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: finance.yahoo.com  
-   Link: [https://finance.yahoo.com/news/anthropic-just-mapped-jobs-ai-163800195.html](https://finance.yahoo.com/news/anthropic-just-mapped-jobs-ai-163800195.html)  
+   Link: <a href="https://finance.yahoo.com/news/anthropic-just-mapped-jobs-ai-163800195.html" target="_blank" rel="noopener noreferrer nofollow">https://finance.yahoo.com/news/anthropic-just-mapped-jobs-ai-163800195.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>just mapped out which jobs AI could potentially...7 Mar 2026 — Computer programmers, customer service reps, and data entry keyers are th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: creators.yahoo.com  
-   Link: [https://creators.yahoo.com/lifestyle/story/these-jobs-are-the-most-affected-by-ai-according-to-new-anthropic-report-135528912.html](https://creators.yahoo.com/lifestyle/story/these-jobs-are-the-most-affected-by-ai-according-to-new-anthropic-report-135528912.html)  
+   Link: <a href="https://creators.yahoo.com/lifestyle/story/these-jobs-are-the-most-affected-by-ai-according-to-new-anthropic-report-135528912.html" target="_blank" rel="noopener noreferrer nofollow">https://creators.yahoo.com/lifestyle/story/these-jobs-are-the-most-affected-by-ai-according-to-new-anthropic-report-135528912.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jobs are the most affected by AI, according to new...9 Mar 2026 — A new “AI exposure index” from Anthropic compares real-world AI usage...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: tomshardware.com  
-   Link: [https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai)  
+   Link: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-is-eating-entry-level-coding-and-customer-service-roles-according-to-a-new-stanford-study-junior-job-listings-drop-13-percent-in-three-years-in-fields-vulnerable-to-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Over the past three years, job listings in these AI-susceptible fields have dropped by 13%, especially affecting workers aged 22-25. Cond...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/wfh-bigger-driver-entry-level-job-woes-ai-researchers-say-2026-5](https://www.businessinsider.com/wfh-bigger-driver-entry-level-job-woes-ai-researchers-say-2026-5)  
+   Link: <a href="https://www.businessinsider.com/wfh-bigger-driver-entry-level-job-woes-ai-researchers-say-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/wfh-bigger-driver-entry-level-job-woes-ai-researchers-say-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Researchers Peter John Lambert and Yannick Schindler analyzed extensive résumé and job posting data across the US, UK, Canada, and Austra...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/stanford-lecturer-hot-ai-job-grad-workflows-entry-level-2026-5](https://www.businessinsider.com/stanford-lecturer-hot-ai-job-grad-workflows-entry-level-2026-5)  
+   Link: <a href="https://www.businessinsider.com/stanford-lecturer-hot-ai-job-grad-workflows-entry-level-2026-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/stanford-lecturer-hot-ai-job-grad-workflows-entry-level-2026-5</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Unlike traditional Biz Ops roles, AI workflows positions focus on identifying and automating organizational processes using artificial in...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Anthropic](https://en.wikipedia.org/wiki/Anthropic)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anthropic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anthropic</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AnthropicAnthropic is an American artificial intelligence (AI) company headquartered in San Francisco. It has developed a series of la...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jawadabdulsamad_anthropics-ceo-said-that-50-of-entry-level-activity-7451551398325972992-s949](https://www.linkedin.com/posts/jawadabdulsamad_anthropics-ceo-said-that-50-of-entry-level-activity-7451551398325972992-s949)  
+   Link: <a href="https://www.linkedin.com/posts/jawadabdulsamad_anthropics-ceo-said-that-50-of-entry-level-activity-7451551398325972992-s949" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jawadabdulsamad_anthropics-ceo-said-that-50-of-entry-level-activity-7451551398325972992-s949</a>  
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
    Title: anthropic looked at whether ai is killing jobs 759fbc0563f1  
-   Link: [https://medium.com/illumination/anthropic-looked-at-whether-ai-is-killing-jobs-759fbc0563f1](https://medium.com/illumination/anthropic-looked-at-whether-ai-is-killing-jobs-759fbc0563f1)  
+   Link: <a href="https://medium.com/illumination/anthropic-looked-at-whether-ai-is-killing-jobs-759fbc0563f1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/anthropic-looked-at-whether-ai-is-killing-jobs-759fbc0563f1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Looked at Whether AI Is Killing Jobs.Brynjolfsson et al. (2025), a separate study using payroll data from ADP, found a 6–16% fa...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: ivopbernardo.medium.com  
    Title: anthropics view on ai impact in the job market cc14915e1268  
-   Link: [https://ivopbernardo.medium.com/anthropics-view-on-ai-impact-in-the-job-market-cc14915e1268](https://ivopbernardo.medium.com/anthropics-view-on-ai-impact-in-the-job-market-cc14915e1268)  
+   Link: <a href="https://ivopbernardo.medium.com/anthropics-view-on-ai-impact-in-the-job-market-cc14915e1268" target="_blank" rel="noopener noreferrer nofollow">https://ivopbernardo.medium.com/anthropics-view-on-ai-impact-in-the-job-market-cc14915e1268</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comAnthropics&#x27; View on AI Impact in the Job Market - Ivo BernardoAnthropic&#x27;s report echoes these findings using a different data s...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: hdsr.mitpress.mit.edu  
-   Link: [https://hdsr.mitpress.mit.edu/pub/ppjz2dg9](https://hdsr.mitpress.mit.edu/pub/ppjz2dg9)  
+   Link: <a href="https://hdsr.mitpress.mit.edu/pub/ppjz2dg9" target="_blank" rel="noopener noreferrer nofollow">https://hdsr.mitpress.mit.edu/pub/ppjz2dg9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic CEO: Half of all entry-level white-collar jobs could go away within 5 years. Axios. [https://www.axios.com/2025/05...Read](https://www.axios.com/2025/05...Read) more...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: edtechinnovationhub.com  
-   Link: [https://www.edtechinnovationhub.com/news/anthropic-data-shows-ai-boosts-complex-work-fastest-with-uneven-impact-across-jobs-and-countries](https://www.edtechinnovationhub.com/news/anthropic-data-shows-ai-boosts-complex-work-fastest-with-uneven-impact-across-jobs-and-countries)  
+   Link: <a href="https://www.edtechinnovationhub.com/news/anthropic-data-shows-ai-boosts-complex-work-fastest-with-uneven-impact-across-jobs-and-countries" target="_blank" rel="noopener noreferrer nofollow">https://www.edtechinnovationhub.com/news/anthropic-data-shows-ai-boosts-complex-work-fastest-with-uneven-impact-across-jobs-and-countries</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Economic Index shows AI boosts complex work...19 Jan 2026 — New findings from Anthropic&#x27;s Economic Index suggest AI is acceler...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: m.economictimes.com  
-   Link: [https://m.economictimes.com/nri/work/is-your-job-on-the-ai-firing-line-anthropic-lists-roles-most-under-threat/articleshow/129192049.cms](https://m.economictimes.com/nri/work/is-your-job-on-the-ai-firing-line-anthropic-lists-roles-most-under-threat/articleshow/129192049.cms)  
+   Link: <a href="https://m.economictimes.com/nri/work/is-your-job-on-the-ai-firing-line-anthropic-lists-roles-most-under-threat/articleshow/129192049.cms" target="_blank" rel="noopener noreferrer nofollow">https://m.economictimes.com/nri/work/is-your-job-on-the-ai-firing-line-anthropic-lists-roles-most-under-threat/articleshow/129192049.cms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic lists roles most...7 Mar 2026 — AI job losses: New research introduces &quot;observed exposure&quot; to measure AI&#x27;s impact on jobs, fin...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: businessinsider.com  
    Title: anthropic is tracking the jobs most exposed to ai disruption 2026 3  
-   Link: [https://www.businessinsider.com/anthropic-is-tracking-the-jobs-most-exposed-to-ai-disruption-2026-3](https://www.businessinsider.com/anthropic-is-tracking-the-jobs-most-exposed-to-ai-disruption-2026-3)  
+   Link: <a href="https://www.businessinsider.com/anthropic-is-tracking-the-jobs-most-exposed-to-ai-disruption-2026-3" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/anthropic-is-tracking-the-jobs-most-exposed-to-ai-disruption-2026-3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Is Tracking the Jobs Most Exposed to AI Disruption6 Mar 2026 — Anthropic economists say there&#x27;s not yet evidence to suggest AI...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: zenvanriel.com  
    Title: anthropic economic index ai workforce impact data  
-   Link: [https://zenvanriel.com/ai-engineer-blog/anthropic-economic-index-ai-workforce-impact-data/](https://zenvanriel.com/ai-engineer-blog/anthropic-economic-index-ai-workforce-impact-data/)  
+   Link: <a href="https://zenvanriel.com/ai-engineer-blog/anthropic-economic-index-ai-workforce-impact-data/" target="_blank" rel="noopener noreferrer nofollow">https://zenvanriel.com/ai-engineer-blog/anthropic-economic-index-ai-workforce-impact-data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic Economic Index Reveals How AI Reshapes Work15 Jan 2026 — New Anthropic data from 2 million AI conversations shows complex tasks...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: pooya.blog  
    Title: Will AI Take Your Job?  
-   Link: [https://pooya.blog/blog/anthropic-ai-labor-market-impacts/](https://pooya.blog/blog/anthropic-ai-labor-market-impacts/)  
+   Link: <a href="https://pooya.blog/blog/anthropic-ai-labor-market-impacts/" target="_blank" rel="noopener noreferrer nofollow">https://pooya.blog/blog/anthropic-ai-labor-market-impacts/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Anthropic&#x27;s 2026 Data Says No7 Mar 2026 — (2025) found a 6 to 16% fall in employment for young workers in AI-exposed fields.... The Anth...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: cbsnews.com  
    Title: Anthropic is tracking which jobs are most exposed to AI  
-   Link: [https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/](https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/)  
+   Link: <a href="https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/anthropic-ai-jobs-most-exposed-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Mar 2026 — To determine a job&#x27;s exposure, Anthropic compared AI&#x27;s ability to perform specific tasks with how common those tasks are acr...</p></details>
 
 ### Additional References
 
 38. <a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/360515390_AI_automation_and_the_Future_of_WorkThe_EU_digital_strategy_job_polarisation_and_skill-_biased_technological_change](https://www.researchgate.net/publication/360515390_AI_automation_and_the_Future_of_WorkThe_EU_digital_strategy_job_polarisation_and_skill-_biased_technological_change)  
+   Link: <a href="https://www.researchgate.net/publication/360515390_AI_automation_and_the_Future_of_WorkThe_EU_digital_strategy_job_polarisation_and_skill-_biased_technological_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360515390_AI_automation_and_the_Future_of_WorkThe_EU_digital_strategy_job_polarisation_and_skill-_biased_technological_change</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) AI, automation and the Future of Work:The EU digital...11 May 2022 — According to OECD estimates, 14% of jobs are currently at ris...</p></details>
    Published: May 2022  
 
 39. <a id="endnote-39"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/noamsp_ai-could-eliminate-about-50-of-entry-level-activity-7452340854129815552-1n0H](https://www.linkedin.com/posts/noamsp_ai-could-eliminate-about-50-of-entry-level-activity-7452340854129815552-1n0H)  
+   Link: <a href="https://www.linkedin.com/posts/noamsp_ai-could-eliminate-about-50-of-entry-level-activity-7452340854129815552-1n0H" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/noamsp_ai-could-eliminate-about-50-of-entry-level-activity-7452340854129815552-1n0H</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI to Eliminate 50% of Entry-Level White-Collar Jobs in 1-5...AI could eliminate about 50% of entry-level white-collar jobs within 1-5 y...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/jonkrohn_superdatascience-ai-automation-activity-7387517960908632064-_rVc](https://www.linkedin.com/posts/jonkrohn_superdatascience-ai-automation-activity-7387517960908632064-_rVc)  
+   Link: <a href="https://www.linkedin.com/posts/jonkrohn_superdatascience-ai-automation-activity-7387517960908632064-_rVc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/jonkrohn_superdatascience-ai-automation-activity-7387517960908632064-_rVc</a>  
 
 41. <a id="endnote-41"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/theOECD/posts/which-workers-will-be-most-affected-by-ai-our-report-takes-a-closer-look-at-the-/1200799698759136/](https://www.facebook.com/theOECD/posts/which-workers-will-be-most-affected-by-ai-our-report-takes-a-closer-look-at-the-/1200799698759136/)  
+   Link: <a href="https://www.facebook.com/theOECD/posts/which-workers-will-be-most-affected-by-ai-our-report-takes-a-closer-look-at-the-/1200799698759136/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theOECD/posts/which-workers-will-be-most-affected-by-ai-our-report-takes-a-closer-look-at-the-/1200799698759136/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Which workers will be most affected by #AI? Our report...Globally, 1 in 4 jobs could be disrupted by #GenerativeAI - but the larger risk...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco_oecd-employment-outlook-2025-activity-7348706600485892096-YgpD](https://www.linkedin.com/posts/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco_oecd-employment-outlook-2025-activity-7348706600485892096-YgpD)  
+   Link: <a href="https://www.linkedin.com/posts/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco_oecd-employment-outlook-2025-activity-7348706600485892096-YgpD" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/organisation-eco-cooperation-development-organisation-cooperation-developpement-eco_oecd-employment-outlook-2025-activity-7348706600485892096-YgpD</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Employment Outlook 2025 | OECD - OCDE✓ Key Takeaways Jobs strong, but cooling: OECD unemployment stood at 4.9% in May 2025; the empl...</p></details>
    Published: May 2025  
 
 43. <a id="endnote-43"></a>
    Source: facebook.com  
    Title: ai is rapidly reshaping the job market and the first roles disappearing are entr  
-   Link: [https://www.facebook.com/deutschewellenews/posts/ai-is-rapidly-reshaping-the-job-market-and-the-first-roles-disappearing-are-entr/1381962990625678/](https://www.facebook.com/deutschewellenews/posts/ai-is-rapidly-reshaping-the-job-market-and-the-first-roles-disappearing-are-entr/1381962990625678/)  
+   Link: <a href="https://www.facebook.com/deutschewellenews/posts/ai-is-rapidly-reshaping-the-job-market-and-the-first-roles-disappearing-are-entr/1381962990625678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deutschewellenews/posts/ai-is-rapidly-reshaping-the-job-market-and-the-first-roles-disappearing-are-entr/1381962990625678/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI is rapidly reshaping the job market and the first roles...Entry-level job postings have collapsed by 35% since the start of 2023, and...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iMmo_cZFovE](https://www.youtube.com/watch?v=iMmo_cZFovE)  
+   Link: <a href="https://www.youtube.com/watch?v=iMmo_cZFovE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iMmo_cZFovE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI could take more than 1/4 of jobs warns OECDMore than a quarter of jobs in OECD countries rely on skills that could be easily automated...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: digital-skills-jobs.europa.eu  
    Title: oecd employment outlook 2025 can we get through demographic crunch  
-   Link: [https://digital-skills-jobs.europa.eu/en/latest/news/oecd-employment-outlook-2025-can-we-get-through-demographic-crunch](https://digital-skills-jobs.europa.eu/en/latest/news/oecd-employment-outlook-2025-can-we-get-through-demographic-crunch)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Employment Outlook 2025: can we get through the...26 Sept 2025 — The “OECD Employment Outlook 2025” explores how shifting [demographics](&amp;#123;&amp;#123; &#x27;population-viability/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link: <a href="https://digital-skills-jobs.europa.eu/en/latest/news/oecd-employment-outlook-2025-can-we-get-through-demographic-crunch" target="_blank" rel="noopener noreferrer nofollow">https://digital-skills-jobs.europa.eu/en/latest/news/oecd-employment-outlook-2025-can-we-get-through-demographic-crunch</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Employment Outlook 2025: can we get through the...26 Sept 2025 — The “OECD Employment Outlook 2025” explores how shifting demographics...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/conorgrennan_two-hours-ago-anthropic-released-an-ai-exposure-activity-7435468941248049152-d7eT](https://www.linkedin.com/posts/conorgrennan_two-hours-ago-anthropic-released-an-ai-exposure-activity-7435468941248049152-d7eT)  
+   Link: <a href="https://www.linkedin.com/posts/conorgrennan_two-hours-ago-anthropic-released-an-ai-exposure-activity-7435468941248049152-d7eT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/conorgrennan_two-hours-ago-anthropic-released-an-ai-exposure-activity-7435468941248049152-d7eT</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AI Exposure Index: Jobs Most Vulnerable to AutomationThe clearest early signal: hiring of workers aged 22-25 has slowed in the most AI-ex...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: digitalplanet.tufts.edu  
    Title: ai and the emerging geography of american job risk page  
-   Link: [https://digitalplanet.tufts.edu/ai-and-the-emerging-geography-of-american-job-risk-page/](https://digitalplanet.tufts.edu/ai-and-the-emerging-geography-of-american-job-risk-page/)  
+   Link: <a href="https://digitalplanet.tufts.edu/ai-and-the-emerging-geography-of-american-job-risk-page/" target="_blank" rel="noopener noreferrer nofollow">https://digitalplanet.tufts.edu/ai-and-the-emerging-geography-of-american-job-risk-page/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital PlanetOn one end, Dario Amodei, CEO of Anthropic, predicted in May 2025 that AI could eliminate half of all entry-level white-col...</p></details>
-   Published: May 2025  
+   Published: May 2025

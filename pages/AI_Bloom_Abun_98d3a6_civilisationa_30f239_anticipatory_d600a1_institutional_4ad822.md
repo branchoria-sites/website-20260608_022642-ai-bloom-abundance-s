@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /anticipatory-gov/
 nav_short_title: Institutional Gaps
 title: Why Institutional Fragmentation Blocks Preventive Measures
-title_full: Why Institutional Fragmentation Blocks Preventive Measures | Anticipatory Gov
+title_full: Why Institutional Fragmentation Blocks Preventive Measures
 display_title_short: Institutional Gaps
 display_title: Institutional Gaps
 heading_title: Why Institutional Fragmentation Blocks Preventive Measures
@@ -203,7 +203,8 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Accurate AI Forecasts Still Fail to Prevent Crises | Resilience
+date: '2026-06-08 01:45:08'
+parent_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
 parent_permalink: /anticipatory-gov/
 parent_nav_short_title: Anticipatory Gov
 parent_heading_title: Why Accurate AI Forecasts Still Fail to Prevent Crises
@@ -260,7 +261,6 @@ next_link:
   permalink: /political-incentives/
   short_title: Political Incentives
   heading_title: How Short Term Politics Undermine Early Warning Responses
-date: '2026-06-08 01:45:08 '
 header:
   og_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-1-social.jpg
   preview_image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-1.webp
@@ -271,7 +271,6 @@ image: /assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d60
 
 Forecasting systems have improved dramatically. Governments, international organisations and research networks can now model pandemics, track climate risks, monitor conflict indicators and identify emerging technological threats with far greater precision than in previous decades. Yet accurate warnings often fail to produce preventive action. The problem is frequently not a lack of information but a gap in institutional design.
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-1-dark.svg" | relative_url }}" alt="Institutional Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 When responsibilities are fragmented across agencies, ministries and levels of government, forecasts can circulate without triggering clear decisions. One office produces warnings, another controls budgets, a third has legal authority, and none feels fully accountable for acting. As a result, societies repeatedly experience a pattern of “warning without response”: risks are identified early, but action arrives late, after costs have multiplied. This matters not only for present crises but also for the larger question of whether advanced AI and improved forecasting systems could help humanity govern itself more wisely. Better prediction alone cannot create an AI-enabled future of [resilience]({{ 'resilience/' | relative_url }}), abundance and long-term flourishing if institutions remain unable to convert foresight into coordinated action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cic.nyu.edu">[Center on International Cooperation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cic.nyu.edu</span><span class="citation-popover-snippet">Center on International CooperationWarning Without Response: Why Early Warning Fails, and...13 Aug 2025 — Indeed, early warnings often f...</span></span></span>
 
@@ -281,7 +280,7 @@ A common assumption in technology and policy debates is that better information 
 
 Forecasts enter organisations that already have established chains of command, budget constraints, [political incentives]({{ 'political-incentives/' | relative_url }}) and competing priorities. An [early warning]({{ 'early-warning/' | relative_url }}) system may identify a serious threat, but the institution receiving that warning often lacks either the authority or the incentive to respond. In practice, forecasting and action are frequently separated into different bureaucratic domains.
 
-Many early warning systems were originally designed as information systems rather than decision systems. They excel at collecting data, producing analyses and distributing alerts. They are often much weaker at specifying who must act, under what conditions, with what resources and on what timetable. Research on conflict prevention repeatedly finds that the technical side of warning has improved faster than the political and organisational side of response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stabilityjournal.org">[Stability Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stabilityjournal.org</span><span class="citation-popover-snippet">Stability JournalReflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descripti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">LSEConflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
+Many early warning systems were originally designed as information systems rather than decision systems. They excel at collecting data, producing analyses and distributing alerts. They are often much weaker at specifying who must act, under what conditions, with what resources and on what timetable. Research on conflict prevention repeatedly finds that the technical side of warning has improved faster than the political and organisational side of response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stabilityjournal.org">[Stability Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stabilityjournal.org</span><span class="citation-popover-snippet">Stability JournalReflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descripti...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">Conflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
 
 This creates a recurring institutional paradox: organisations invest heavily in prediction while leaving responsibility for preventive action diffuse and uncertain.
 
@@ -291,9 +290,9 @@ This creates a recurring institutional paradox: organisations invest heavily in 
 
 The most important institutional design failure is the separation between those who identify risks and those who possess the [power]({{ 'power/' | relative_url }}) to respond.
 
-Forecasting units often sit inside specialised agencies, scientific advisory bodies or intelligence organisations. Their outputs may then travel through multiple departments before reaching decision-makers. At each stage information can be delayed, reinterpreted or deprioritised.
+Forecasting units often sit inside specialised agencies, scientific advisory bodies or [intelligence]({{ 'intelligence/' | relative_url }}) organisations. Their outputs may then travel through multiple departments before reaching decision-makers. At each stage information can be delayed, reinterpreted or deprioritised.
 
-The result is a chain in which every actor can plausibly claim that someone else was responsible for acting. Analysts may argue they issued sufficient warnings. Political leaders may argue that the warnings lacked certainty. Operational agencies may argue they lacked authority or funding. Accountability becomes distributed so widely that it effectively disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cic.nyu.edu">[Center on International Cooperation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cic.nyu.edu</span><span class="citation-popover-snippet">Center on International CooperationWarning Without Response: Why Early Warning Fails, and...13 Aug 2025 — Indeed, early warnings often f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">LSEConflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
+The result is a chain in which every actor can plausibly claim that someone else was responsible for acting. Analysts may argue they issued sufficient warnings. Political leaders may argue that the warnings lacked certainty. Operational agencies may argue they lacked authority or funding. Accountability becomes distributed so widely that it effectively disappears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cic.nyu.edu">[Center on International Cooperation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cic.nyu.edu</span><span class="citation-popover-snippet">Center on International CooperationWarning Without Response: Why Early Warning Fails, and...13 Aug 2025 — Indeed, early warnings often f...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">Conflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
 
 ### Overlapping mandates
 
@@ -303,8 +302,7 @@ Pandemics involve health ministries, border agencies, finance ministries, hospit
 
 When multiple institutions share partial responsibility, preventive measures often stall because each organisation waits for another to move first. No single body possesses enough authority to coordinate the whole response.
 
-Studies of conflict early warning systems have repeatedly identified overlapping responsibilities and competitive institutional mandates as major barriers to prevention. Regional organisations, governments and international bodies may possess fragments of authority without possessing a unified mechanism for action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">LSEConflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
-
+Studies of conflict early warning systems have repeatedly identified overlapping responsibilities and competitive institutional mandates as major barriers to prevention. Regional organisations, governments and international bodies may possess fragments of authority without possessing a unified mechanism for action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lse.ac.uk">[LSE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lse.ac.uk</span><span class="citation-popover-title">wp49.2conflict early warning and response mechanisms</span><span class="citation-popover-snippet">Conflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F6Tppali9EY" title="Exploring the HCD-Human Security and State Fragility Nexus in Early Warning Systems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F6Tppali9EY" target="_blank" rel="noopener noreferrer">Exploring the HCD-Human Security and State Fragility Nexus in Early Warning Systems</a></p><p class="youtube-embed-meta">Channel: NYU Center on International Cooperation &middot; Views: 105 &middot; Uploaded: October 2023 &middot; Length: 33 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F6Tppali9EY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F6Tppali9EY">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +312,7 @@ Another common design flaw is the separation of forecasting authority from resou
 
 An agency may identify a serious risk but lack the budget to address it. Meanwhile the organisation controlling resources may not prioritise preventive spending because the crisis has not yet materialised.
 
-This problem is especially severe for low-probability, high-impact risks. Preventive investments often appear expensive before a disaster occurs and obvious only afterwards. Without institutional mechanisms that automatically connect warnings to funding decisions, forecasts remain advisory rather than operational. Research on climate and disaster preparedness increasingly emphasises the need to integrate warning systems with predefined financing mechanisms rather than treating forecasting and funding as separate processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2212096325000038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</span></span></span>
+This problem is especially severe for low-probability, high-impact risks. Preventive investments often appear expensive before a disaster occurs and obvious only afterwards. Without institutional mechanisms that automatically connect warnings to funding decisions, forecasts remain advisory rather than operational. Research on climate and disaster preparedness increasingly emphasises the need to integrate warning systems with predefined financing mechanisms rather than treating forecasting and funding as separate processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2212096325000038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</span></span></span>
 
 ## Early Warning Systems Often Work Technically but Fail Organisationally
 
@@ -324,8 +322,7 @@ The conflict prevention literature has long noted that the challenge is not mere
 
 This distinction matters because advances in AI could dramatically improve forecasting capabilities. Machine learning systems may detect patterns in disease outbreaks, infrastructure stress, cyber threats or geopolitical instability earlier than current systems. But if institutional structures remain fragmented, improved prediction could simply produce larger volumes of ignored warnings.
 
-The challenge therefore becomes organisational as much as technological. [Anticipatory]({{ 'anticipatory-gov/' | relative_url }}) governance requires institutions designed to absorb forecasts and convert them into decisions, not merely institutions capable of generating predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">a5203d0b en</span><span class="citation-popover-snippet">OECDTowards anticipatory governance guidelines for public...20 May 2025 — OECD research indicates that systematic use of strategic fores...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">ose experience illustrates how private sector participation can expand the...Read more...</span></span></span>
-
+The challenge therefore becomes organisational as much as technological. Anticipatory governance requires institutions designed to absorb forecasts and convert them into decisions, not merely institutions capable of generating predictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">a5203d0b en</span><span class="citation-popover-snippet">Towards anticipatory governance guidelines for public...20 May 2025 — OECD research indicates that systematic use of strategic fores...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">ose experience illustrates how private sector participation can expand the...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-2-dark.svg" | relative_url }}" alt="Institutional Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pandemic Preparedness: A Case Study in Diffused Responsibility
@@ -336,7 +333,7 @@ Numerous reviews concluded that warnings about pandemic risk existed long before
 
 Part of the problem was institutional fragmentation.
 
-Responsibility for preparedness was distributed across national governments, public health agencies, international organisations, healthcare systems and political leaders. Many institutions possessed partial authority but lacked the power to compel broader action. The World Health Organization could issue warnings but not enforce compliance. National public health experts could recommend preparedness measures but often lacked direct control over budgets and political priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindependentpanel.org">[Pandemic Preparedness Panel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindependentpanel.org</span><span class="citation-popover-title">Pandemic Preparedness Panel COVID-19: Make it the Last Pandemic</span><span class="citation-popover-snippet">Pandemic Preparedness PanelCOVID-19: Make it the Last PandemicMay 18, 2021 — 2 May 2021 — It is clear to the Panel that the world was not...</span><span class="citation-popover-meta">Published: May 18, 2021</span></span></span>
+Responsibility for preparedness was distributed across national governments, public health agencies, international organisations, healthcare systems and political leaders. Many institutions possessed partial authority but lacked the power to compel broader action. The World Health Organization could issue warnings but not enforce compliance. National public health experts could recommend preparedness measures but often lacked direct [control]({{ 'control/' | relative_url }}) over budgets and political priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theindependentpanel.org">[Pandemic Preparedness Panel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theindependentpanel.org</span><span class="citation-popover-title">Pandemic Preparedness Panel COVID-19: Make it the Last Pandemic</span><span class="citation-popover-snippet">Pandemic Preparedness PanelCOVID-19: Make it the Last PandemicMay 18, 2021 — 2 May 2021 — It is clear to the Panel that the world was not...</span><span class="citation-popover-meta">Published: May 18, 2021</span></span></span>
 
 The pandemic exposed how a system can contain extensive expertise and warning capacity while still lacking a coherent structure for collective action. Information flowed, but responsibility remained fragmented.
 
@@ -350,8 +347,7 @@ Yet forecasts frequently fail to produce timely intervention. Analysts studying 
 
 In some cases multiple organisations monitor the same risks while assuming others will take responsibility for responding. In others, institutions possess warning capabilities but lack operational tools. The result is not necessarily ignorance but organisational paralysis.
 
-This experience is particularly relevant to future AI-enabled governance systems. Better [predictive]({{ 'failure-warnings/' | relative_url }}) models will not automatically solve coordination failures if institutions still lack mechanisms that assign responsibility for action.
-
+This experience is particularly relevant to future AI-enabled governance systems. Better predictive models will not automatically solve coordination failures if institutions still lack mechanisms that assign responsibility for action.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gMFuq-GiQm0" title="#UR24 | Forecasting Messiness: Probabilities and Anticipatory Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gMFuq-GiQm0" target="_blank" rel="noopener noreferrer">#UR24 | Forecasting Messiness: Probabilities and Anticipatory Action</a></p><p class="youtube-embed-meta">Channel: GFDRR &middot; Views: 11 &middot; Uploaded: August 2024 &middot; Length: 1 hour 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gMFuq-GiQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gMFuq-GiQm0">Open on YouTube</a></p></div></div></div>
 
@@ -371,19 +367,18 @@ Forecasts become more influential when connected directly to budgeting, strategi
 
 Finland's experiments with anticipatory innovation governance, for example, have focused on embedding foresight into broader governance structures rather than treating it as a standalone exercise. OECD work on anticipatory governance similarly emphasises connecting foresight outputs to planning and implementation processes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reforms-investments.ec.europa.eu/system/files/2022-11/Anticipatory%20Innovation%20Governance%20Model%20in%20Finland.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reforms-investments.ec.europa.eu">[Reforms and Investments]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reforms-investments.ec.europa.eu</span><span class="citation-popover-title">Reforms and Investments Anticipatory Innovation Governance Model in Finland</span><span class="citation-popover-snippet">Finland and the European Commission to examine how the Finland&#x27;s governance processes and mechanisms need to...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-3-dark.svg" | relative_url }}" alt="Institutional Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI_Bloom_Abun_98d3a6_civilisationa_30f239_anticipatory_d600a1_institutional_4ad822-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Pre-agreed triggers
 
 Many disaster and climate-response systems increasingly use predefined triggers that automatically activate funding or response measures when indicators cross specified thresholds.
 
-Such mechanisms reduce the need for ad hoc political bargaining during emerging crises. Instead of debating whether a warning deserves attention, institutions can move through previously agreed procedures. Research on integrated warning-action-finance frameworks argues that these links are critical for turning forecasts into anticipatory action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2212096325000038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectA framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</span></span></span>
+Such mechanisms reduce the need for ad hoc political bargaining during emerging crises. Instead of debating whether a warning deserves attention, institutions can move through previously agreed procedures. Research on integrated warning-action-finance frameworks argues that these links are critical for turning forecasts into anticipatory action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2212096325000038" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</span></span></span>
 
 ### Cross-agency coordination structures
 
 Risks that span multiple domains require structures that span multiple institutions.
 
-Several OECD studies on anticipatory governance note that foresight capabilities remain fragmented in many governments and that effective systems require mechanisms for coordination across departments, sectors and levels of government. Without these links, insights remain trapped within organisational silos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">d7eb0bb6 en</span><span class="citation-popover-snippet">Building Anticipatory Capacity with Strategic Foresight in...5 May 2025 — This report examines factors influencing anticipatory governan...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">overview 6d1e680a</span><span class="citation-popover-snippet">OECDBuilding Anticipatory Capacity with Strategic Foresight in...9 May 2025 — At the initiation of the project, anticipatory innovation...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Several OECD studies on anticipatory governance note that foresight capabilities remain fragmented in many governments and that effective systems require mechanisms for coordination across departments, sectors and levels of government. Without these links, insights remain trapped within organisational silos. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">d7eb0bb6 en</span><span class="citation-popover-snippet">Building Anticipatory Capacity with Strategic Foresight in...5 May 2025 — This report examines factors influencing anticipatory governan...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[OECD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">overview 6d1e680a</span><span class="citation-popover-snippet">Building Anticipatory Capacity with Strategic Foresight in...9 May 2025 — At the initiation of the project, anticipatory innovation...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## Why This Matters for an AI-Enabled Future
 
@@ -397,9 +392,7 @@ For advocates of an AI-enabled future of abundance and civilisational flourishin
 
 The long-term promise of AI therefore depends not only on better models, simulations and forecasting systems, but also on organisational structures capable of turning foresight into prevention. The history of pandemics, conflict prevention and disaster preparedness suggests that one of the most difficult challenges is not seeing the future more clearly. It is deciding who is responsible for acting when the future becomes visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cic.nyu.edu">[Center on International Cooperation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cic.nyu.edu</span><span class="citation-popover-snippet">Center on International CooperationWarning Without Response: Why Early Warning Fails, and...13 Aug 2025 — Indeed, early warnings often f...</span></span></span> [3OECD 3OECD]
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c7oDY1_etFA" title="Early warning to early action: systems for shock-responsive social protection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c7oDY1_etFA" target="_blank" rel="noopener noreferrer">Early warning to early action: systems for shock-responsive social protection</a></p><p class="youtube-embed-meta">Channel: Digital Convergence Initiative &middot; Views: 116 &middot; Uploaded: January 2026 &middot; Length: 1 hour 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c7oDY1_etFA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c7oDY1_etFA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -413,40 +406,6 @@ The long-term promise of AI therefore depends not only on better models, simulat
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking in Systems on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CpbLAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking in Systems" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking in Systems">Thinking in Systems</a>
-        </h4>
-        <p class="fr-book-author">By Donella Meadows</p>
-        
-        <p class="fr-book-desc">Explains coordination failures and institutional complexity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking+in+Systems+by+Donella+Meadows&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Fifth+Risk+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Fifth Risk on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uRZkDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Fifth Risk" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Risk+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fifth Risk">The Fifth Risk</a>
-        </h4>
-        <p class="fr-book-author">By Michael Lewis</p>
-        
-        <p class="fr-book-desc">Shows consequences when institutions fail to act on warnings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Fifth+Risk+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Rw-PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -454,7 +413,7 @@ The long-term promise of AI therefore depends not only on better models, simulat
         </h4>
         <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        <p class="fr-book-desc">Links prediction quality with decision processes.</p>
+        <p class="fr-book-desc">Directly addresses how better prediction can improve decisions and institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -464,16 +423,50 @@ The long-term promise of AI therefore depends not only on better models, simulat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ckOQEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Black Swan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mcgtAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Black Swan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Swan">The Black Swan</a>
         </h4>
-        <p class="fr-book-author">By Nate Silver</p>
-        
-        <p class="fr-book-desc">Useful background for interpreting early-warning signals.</p>
+        <p class="fr-book-author">By Nassim Nicholas Taleb</p>
+        <p class="fr-book-popularity">Rating: 4.0/5 from 25 Google Books ratings</p>
+        <p class="fr-book-desc">Explains why institutions often fail to respond effectively to risks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Black+Swan+by+Nassim+Nicholas+Taleb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
+        
+        <p class="fr-book-desc">Shows how cognitive and institutional biases obstruct preventive action.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signals Are Talking on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gd1VDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Signals Are Talking" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signals Are Talking">The Signals Are Talking</a>
+        </h4>
+        <p class="fr-book-author">By Amy Webb</p>
+        
+        <p class="fr-book-desc">Focuses on identifying weak signals before crises emerge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signals+Are+Talking+by+Amy+Webb&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -481,7 +474,7 @@ The long-term promise of AI therefore depends not only on better models, simulat
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking+in+Systems&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking in Systems</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Fifth+Risk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Fifth Risk</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Superforecasting&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Superforecasting</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Black+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Black Swan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -518,15 +511,15 @@ The long-term promise of AI therefore depends not only on better models, simulat
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SIGN Fire Marshall List For Building Emergency Managers Wardens Controls FI184A"><img src="{{ '/assets/images/marketplace-covers/43f8615eecfb5178ec53.jpg' | relative_url }}" alt="Listing image for SIGN Fire Marshall List For Building Emergency Managers Wardens Controls FI184A" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LARGE MAP OF THE WORLD POSTER - ATLAS WALL CHART EDUCATIONAL (A1, A2, A3, A4)"><img src="https://i.ebayimg.com/images/g/sMoAAeSwVE9ppWuS/s-l225.jpg" alt="Listing image for LARGE MAP OF THE WORLD POSTER - ATLAS WALL CHART EDUCATIONAL (A1, A2, A3, A4)" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer">SIGN Fire Marshall List For Building Emergency Managers Wardens Controls FI184A</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">LARGE MAP OF THE WORLD POSTER - ATLAS WALL CHART EDUCATIONAL (A1, A2, A3, A4)</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency management sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency management sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -534,15 +527,15 @@ The long-term promise of AI therefore depends not only on better models, simulat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Public Safety Communications &amp; Emergency Management Arlington Virginia Pin"><img src="{{ '/assets/images/marketplace-covers/e67fd30b41a44cfbf950.jpg' | relative_url }}" alt="Listing image for Public Safety Communications &amp; Emergency Management Arlington Virginia Pin" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A1 World Map Poster Atlas Style Wall Art Geography Educational Print"><img src="https://i.ebayimg.com/images/g/NKUAAeSwhLBqJz6d/s-l225.jpg" alt="Listing image for A1 World Map Poster Atlas Style Wall Art Geography Educational Print" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer">Public Safety Communications &amp; Emergency Management Arlington Virginia Pin</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">A1 World Map Poster Atlas Style Wall Art Geography Educational Print</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency management sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency management sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -550,15 +543,31 @@ The long-term promise of AI therefore depends not only on better models, simulat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Emergency Medic Bleed Control First Aid Kit with Airway Management &amp; Vital Signs"><img src="{{ '/assets/images/marketplace-covers/a49cba4589cf310bd84c.jpg' | relative_url }}" alt="Listing image for Emergency Medic Bleed Control First Aid Kit with Airway Management &amp; Vital Signs" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Poster - Large Wall Map of the World – World Map Wall Art Atlas - Perf"><img src="https://i.ebayimg.com/images/g/QCUAAeSwgWRpZ566/s-l225.jpg" alt="Listing image for World Map Poster - Large Wall Map of the World – World Map Wall Art Atlas - Perf" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer">Emergency Medic Bleed Control First Aid Kit with Airway Management &amp; Vital Signs</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Poster - Large Wall Map of the World – World Map Wall Art Atlas - Perf</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for emergency management sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: emergency management sign</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More"><img src="https://i.ebayimg.com/images/g/0~8AAOSwvdpoUuCh/s-l225.jpg" alt="Listing image for World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">World Map Atlas Detailed Large Poster Art Print Gift - A0 A1 A2 A3 A4 A5 + More</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for world map poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: world map poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -566,7 +575,7 @@ The long-term promise of AI therefore depends not only on better models, simulat
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=emergency+management+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="emergency management sign" data-ebay-reference="institutional-gaps-why-institutional-fragmentation-blocks-preventive-measures-ai-bloom-abundance-emergency-management-si" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=world+map+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-institutional-fragmentation-blocks-preventive-measures-world-map-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster" data-ebay-reference="why-institutional-fragmentation-blocks-preventive-measures-world-map-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -782,147 +791,147 @@ The long-term promise of AI therefore depends not only on better models, simulat
 1. <a id="endnote-1"></a>
    Source: oecd.org  
    Title: a5203d0b en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDTowards anticipatory governance guidelines for public...20 May 2025 — OECD research indicates that systematic use of strategic fores...</p></details>
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/towards-anticipatory-governance-guidelines-for-public-sector-organisations_c1a40090/a5203d0b-en.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Towards anticipatory governance guidelines for public...20 May 2025 — OECD research indicates that systematic use of strategic fores...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: lse.ac.uk  
    Title: wp49.2conflict early warning and response mechanisms  
-   Link: [https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf](https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LSEConflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</p></details>
+   Link: <a href="https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lse.ac.uk/international-development/Assets/Documents/PDFs/csrc-working-papers-phase-two/wp49.2conflict-early-warning-and-response-mechanisms.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conflict Early Warning and Response Mechanismsby E AU · 2009 · Cited by 152 — Regional organisations often fail to respond in time to...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: [https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf](https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf)  
+   Link: <a href="https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/57a08965ed915d622c0001cb/hdq1195.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>early warning and early responseby B Rohwerder · 2015 · Cited by 17 — Early warning systems should monitor human security indicators that...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2212096325000038](https://www.sciencedirect.com/science/article/pii/S2212096325000038)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectA framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2212096325000038" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2212096325000038</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A framework for addressing the interconnectedness of...by EM Attoh · 2025 · Cited by 15 — This paper introduces a digitally...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/11/disaster-early-warning-systems-and-private-sector-participation-in-asean_4a161409/bc282563-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ose experience illustrates how private sector participation can expand the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: oecd.org  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/12/anticipatory-innovation-governance_d1aded4e/cce14d80-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ging practice around anticipatory innovation governance as a broad-based capacity...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: apps.who.int  
-   Link: [https://apps.who.int/gb/inb/pdf_files/INB9-written-statements/Independent-Panel-PPR.pdf](https://apps.who.int/gb/inb/pdf_files/INB9-written-statements/Independent-Panel-PPR.pdf)  
+   Link: <a href="https://apps.who.int/gb/inb/pdf_files/INB9-written-statements/Independent-Panel-PPR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apps.who.int/gb/inb/pdf_files/INB9-written-statements/Independent-Panel-PPR.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO AppsWritten statement, RH Helen Clark, Chair of The...The objective must be to prevent, prepare for, and respond to pandemics, in or...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: oecd.org  
    Title: d7eb0bb6 en  
-   Link: [https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf](https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf)  
+   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/05/building-anticipatory-capacity-with-strategic-foresight-in-government_ed581d05/d7eb0bb6-en.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Anticipatory Capacity with Strategic Foresight in...5 May 2025 — This report examines factors influencing anticipatory governan...</p></details>
    Published: May 2025  
 
 9. <a id="endnote-9"></a>
    Source: oecd.org  
    Title: overview 6d1e680a  
-   Link: [https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html](https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OECDBuilding Anticipatory Capacity with Strategic Foresight in...9 May 2025 — At the initiation of the project, anticipatory innovation...</p></details>
+   Link: <a href="https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/building-anticipatory-capacity-with-strategic-foresight-in-government_d7eb0bb6-en/full-report/overview_6d1e680a.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Building Anticipatory Capacity with Strategic Foresight in...9 May 2025 — At the initiation of the project, anticipatory innovation...</p></details>
    Published: May 2025  
 
 10. <a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0016328725001697](https://www.sciencedirect.com/science/article/pii/S0016328725001697)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0016328725001697" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0016328725001697</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The traps and pitfalls of anticipatory governanceby K Heo · 2025 · Cited by 6 — This article examines anticipatory governance (AG) in Sou...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cic.nyu.edu  
-   Link: [https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/](https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/)  
+   Link: <a href="https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/" target="_blank" rel="noopener noreferrer nofollow">https://cic.nyu.edu/resources/warning-without-response-why-early-warning-fails-and-how-to-turn-foresight-into-prevention/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center on International CooperationWarning Without Response: Why Early Warning Fails, and...13 Aug 2025 — Indeed, [early warnings](&amp;#123;&amp;#123; &#x27;early-warning/&#x27; | relative_url &amp;#125;&amp;#125;) often f...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: stabilityjournal.org  
-   Link: [https://stabilityjournal.org/articles/10.5334/sta.857](https://stabilityjournal.org/articles/10.5334/sta.857)  
+   Link: <a href="https://stabilityjournal.org/articles/10.5334/sta.857" target="_blank" rel="noopener noreferrer nofollow">https://stabilityjournal.org/articles/10.5334/sta.857</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stability JournalReflections on the Evolution of Conflict Early Warningby R Muggah · 2022 · Cited by 33 — This article offers a descripti...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: theindependentpanel.org  
    Title: Pandemic Preparedness Panel COVID-19: Make it the Last Pandemic  
-   Link: [https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf](https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf)  
+   Link: <a href="https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theindependentpanel.org/wp-content/uploads/2021/05/COVID-19-Make-it-the-Last-Pandemic_final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Preparedness PanelCOVID-19: Make it the Last PandemicMay 18, 2021 — 2 May 2021 — It is clear to the Panel that the world was not...</p></details>
    Published: May 18, 2021  
 
 14. <a id="endnote-14"></a>
    Source: theindependentpanel.org  
    Title: Independent Panel Second Report on Progress Final 15 Jan 2021  
-   Link: [https://theindependentpanel.org/wp-content/uploads/2021/01/Independent-Panel_Second-Report-on-Progress_Final-15-Jan-2021.pdf](https://theindependentpanel.org/wp-content/uploads/2021/01/Independent-Panel_Second-Report-on-Progress_Final-15-Jan-2021.pdf)  
+   Link: <a href="https://theindependentpanel.org/wp-content/uploads/2021/01/Independent-Panel_Second-Report-on-Progress_Final-15-Jan-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theindependentpanel.org/wp-content/uploads/2021/01/Independent-Panel_Second-Report-on-Progress_Final-15-Jan-2021.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic Preparedness PanelSecond Report on Progress30 Jan 2021 — The Independent Panel for Pandemic Preparedness and Response is tasked...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reforms-investments.ec.europa.eu  
    Title: Reforms and Investments Anticipatory Innovation Governance Model in Finland  
-   Link: [https://reforms-investments.ec.europa.eu/system/files/2022-11/Anticipatory%20Innovation%20Governance%20Model%20in%20Finland.pdf](https://reforms-investments.ec.europa.eu/system/files/2022-11/Anticipatory%20Innovation%20Governance%20Model%20in%20Finland.pdf)  
+   Link: <a href="https://reforms-investments.ec.europa.eu/system/files/2022-11/Anticipatory%20Innovation%20Governance%20Model%20in%20Finland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://reforms-investments.ec.europa.eu/system/files/2022-11/Anticipatory%20Innovation%20Governance%20Model%20in%20Finland.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Finland and the European Commission to examine how the Finland&#x27;s governance processes and mechanisms need to...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: preventionweb.net  
    Title: pandemic preparedness panel slams collective failure heed warnings  
-   Link: [https://www.preventionweb.net/news/pandemic-preparedness-panel-slams-collective-failure-heed-warnings](https://www.preventionweb.net/news/pandemic-preparedness-panel-slams-collective-failure-heed-warnings)  
+   Link: <a href="https://www.preventionweb.net/news/pandemic-preparedness-panel-slams-collective-failure-heed-warnings" target="_blank" rel="noopener noreferrer nofollow">https://www.preventionweb.net/news/pandemic-preparedness-panel-slams-collective-failure-heed-warnings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pandemic preparedness panel slams collective failure to...14 Sept 2020 — A collective failure by political leaders to heed warnings and...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: oecd-opsi.org  
-   Link: [https://oecd-opsi.org/wp-content/uploads/2020/11/AnticipatoryInnovationGovernance-Note-Nov2020.pdf](https://oecd-opsi.org/wp-content/uploads/2020/11/AnticipatoryInnovationGovernance-Note-Nov2020.pdf)  
+   Link: <a href="https://oecd-opsi.org/wp-content/uploads/2020/11/AnticipatoryInnovationGovernance-Note-Nov2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/wp-content/uploads/2020/11/AnticipatoryInnovationGovernance-Note-Nov2020.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observatory of Public Sector InnovationAnticipatory Innovation GovernanceThis sandbox builds on anticipatory governance mechanisms for al...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/robert-muggah-00965285_warning-without-response-why-early-warning-activity-7363170313754292224-NZ-R](https://www.linkedin.com/posts/robert-muggah-00965285_warning-without-response-why-early-warning-activity-7363170313754292224-NZ-R)  
+   Link: <a href="https://www.linkedin.com/posts/robert-muggah-00965285_warning-without-response-why-early-warning-activity-7363170313754292224-NZ-R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/robert-muggah-00965285_warning-without-response-why-early-warning-activity-7363170313754292224-NZ-R</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why early warning systems fail to prevent conflictsObviously there are major obstacles to learning the lessons and applying them - flaws...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=F6Tppali9EY](https://www.youtube.com/watch?v=F6Tppali9EY)  
+   Link: <a href="https://www.youtube.com/watch?v=F6Tppali9EY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F6Tppali9EY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Early warning&quot; &quot;early action&quot; institutional gaps Africa Multi-Hazard Early Warning and Early Action System Situation Room CIMA Research...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Independent Panel Pandemic Report  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8413263/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8413263/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8413263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8413263/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Independent Panel Pandemic Report - PMC - NIHby EY Adashi · 2021 · Cited by 1 — The IPPPR report singles out inadequate preparedness and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/anticipatory-governance-guidelines-how-get-started-your-t%C3%B5nurist-kz6gf](https://www.linkedin.com/pulse/anticipatory-governance-guidelines-how-get-started-your-t%C3%B5nurist-kz6gf)  
+   Link: <a href="https://www.linkedin.com/pulse/anticipatory-governance-guidelines-how-get-started-your-t%C3%B5nurist-kz6gf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/anticipatory-governance-guidelines-how-get-started-your-t%C3%B5nurist-kz6gf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>foresight, experimentation, and innovation into the core of policymaking.Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: ycsg.yale.edu  
    Title: independent panel pandemic preparedness and response  
-   Link: [https://ycsg.yale.edu/independent-panel-pandemic-preparedness-and-response](https://ycsg.yale.edu/independent-panel-pandemic-preparedness-and-response)  
+   Link: <a href="https://ycsg.yale.edu/independent-panel-pandemic-preparedness-and-response" target="_blank" rel="noopener noreferrer nofollow">https://ycsg.yale.edu/independent-panel-pandemic-preparedness-and-response</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Panel for Pandemic Preparedness and ResponseThe Independent Panel for Pandemic Preparedness and Response (IPPPR) presented its findings a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: gppac.net  
-   Link: [https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf](https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf)  
+   Link: <a href="https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf" target="_blank" rel="noopener noreferrer nofollow">https://gppac.net/files/2018-12/Early%20Warning%20and%20Early%20Response.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Early Warning and Early Response: Conceptual and...by A Matveeva · Cited by 80 — The US-led military operation in Iraq is a glaring exam...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hcss.nl  
    Title: Conflict Early Warning Systems HCSS 2022  
-   Link: [https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf](https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf)  
+   Link: <a href="https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hcss.nl/wp-content/uploads/2022/02/Conflict-Early-Warning-Systems-HCSS-2022.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Practices, Principles and Promises of Conflict Early...by T Sweijs · 2022 · Cited by 9 — This report examines practices, principles and...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/nationalheraldindia/posts/the-scale-of-the-coronavirus-pandemic-could-have-been-prevented-an-independent-g/1200472593728763/](https://www.facebook.com/nationalheraldindia/posts/the-scale-of-the-coronavirus-pandemic-could-have-been-prevented-an-independent-g/1200472593728763/)  
+   Link: <a href="https://www.facebook.com/nationalheraldindia/posts/the-scale-of-the-coronavirus-pandemic-could-have-been-prevented-an-independent-g/1200472593728763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nationalheraldindia/posts/the-scale-of-the-coronavirus-pandemic-could-have-been-prevented-an-independent-g/1200472593728763/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ent global panel has said. A &quot;toxic cocktail&quot; of waiting and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: saferworld-global.org  
    Title: early warning and response to violent conflict eng  
-   Link: [https://www.saferworld-global.org/downloads/pubdocs/early-warning-and-response-to-violent-conflict---eng.pdf](https://www.saferworld-global.org/downloads/pubdocs/early-warning-and-response-to-violent-conflict---eng.pdf)  
+   Link: <a href="https://www.saferworld-global.org/downloads/pubdocs/early-warning-and-response-to-violent-conflict---eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.saferworld-global.org/downloads/pubdocs/early-warning-and-response-to-violent-conflict---eng.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It functions to predict conflict trends, alert communities of risk, inform decision- making...Read more...</p></details>
